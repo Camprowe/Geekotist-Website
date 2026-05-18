@@ -1,0 +1,91 @@
+---
+import MovieCard from './MovieCard.astro';
+import { slugify } from '../utils/slugify.js';
+
+interface Props {
+	title: string;
+	movies: Array<{
+		title: string;
+		imageUrl: string;
+		year: string;
+		rating: string;
+	}>;
+	categoryLink?: string;
+}
+
+const { title, movies, categoryLink } = Astro.props;
+---
+
+<section class="movie-grid-container">
+	<div class="header">
+		<h2>{title}</h2>
+		{categoryLink && <a href={categoryLink} class="view-all">View All</a>}
+	</div>
+	
+	<div class="grid">
+		{movies.map(movie => (
+			<MovieCard 
+				title={movie.title}
+				imageUrl={movie.imageUrl}
+				year={movie.year}
+				rating={movie.rating}
+			/>
+		))}
+	</div>
+</section>
+
+<style>
+	.movie-grid-container {
+		padding: 2rem 5% 5rem 5%;
+	}
+
+	.header {
+		display: flex;
+		justify-content: space-between;
+		align-items: flex-end;
+		margin-bottom: 2rem;
+	}
+
+	h2 {
+		font-size: 1.8rem;
+		font-weight: 600;
+		margin: 0;
+		letter-spacing: -0.5px;
+		position: relative;
+		display: inline-block;
+	}
+
+	h2::after {
+		content: '';
+		position: absolute;
+		bottom: -8px;
+		left: 0;
+		width: 40px;
+		height: 3px;
+		background-color: var(--accent-color);
+		border-radius: 2px;
+	}
+
+	.view-all {
+		font-size: 0.9rem;
+		color: var(--text-muted);
+		transition: color 0.3s ease;
+	}
+
+	.view-all:hover {
+		color: var(--text-color);
+	}
+
+	.grid {
+		display: grid;
+		grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+		gap: 2rem;
+	}
+
+	@media (max-width: 768px) {
+		.grid {
+			grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+			gap: 1rem;
+		}
+	}
+</style>

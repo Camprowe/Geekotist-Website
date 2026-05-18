@@ -1,0 +1,255 @@
+---
+import { slugify } from "../utils/slugify.js";
+import movies from "../data/movies.json";
+
+// Get unique categories for quick links
+const categories = [...new Set(movies.map((m) => m.category))].slice(0, 4);
+---
+
+<footer class="footer">
+	<div class="footer-content">
+		<div class="footer-brand">
+			<div class="logo">
+				<a href="/"><h1>SR<span> Studio</span></h1></a>
+			</div>
+			<p class="brand-desc">
+				Your ultimate destination for the finest cinematic masterpieces.
+				Browse, search, and discover timeless classics.
+			</p>
+			<div class="footer-socials">
+				<a href="#" class="social-btn" aria-label="Facebook">
+					<svg
+						width="18"
+						height="18"
+						viewBox="0 0 24 24"
+						fill="none"
+						stroke="currentColor"
+						stroke-width="2"
+						stroke-linecap="round"
+						stroke-linejoin="round"
+					>
+						<path
+							d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"
+						></path>
+					</svg>
+				</a>
+				<a
+					href="#"
+					class="social-btn"
+					aria-label="X (formerly Twitter)"
+				>
+					<svg
+						width="16"
+						height="16"
+						viewBox="0 0 24 24"
+						fill="currentColor"
+					>
+						<path
+							d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"
+						></path>
+					</svg>
+				</a>
+				<a href="#" class="social-btn" aria-label="YouTube">
+					<svg
+						width="18"
+						height="18"
+						viewBox="0 0 24 24"
+						fill="none"
+						stroke="currentColor"
+						stroke-width="2"
+						stroke-linecap="round"
+						stroke-linejoin="round"
+					>
+						<path
+							d="M22.54 6.42a2.78 2.78 0 0 0-1.94-2C18.88 4 12 4 12 4s-6.88 0-8.6.46a2.78 2.78 0 0 0-1.94 2A29 29 0 0 0 1 11.75a29 29 0 0 0 .46 5.33A2.78 2.78 0 0 0 3.4 19c1.72.46 8.6.46 8.6.46s6.88 0 8.6-.46a2.78 2.78 0 0 0 1.94-2 29 29 0 0 0 .46-5.25 29 29 0 0 0-.46-5.33z"
+						></path>
+						<polygon
+							points="9.75 15.02 15.5 11.75 9.75 8.48 9.75 15.02"
+						></polygon>
+					</svg>
+				</a>
+			</div>
+		</div>
+
+		<div class="footer-links-group">
+			<div class="footer-links">
+				<h3>Navigation</h3>
+				<ul>
+					<li><a href="/">Home</a></li>
+					<li><a href="/#directory">Browse Directory</a></li>
+				</ul>
+			</div>
+
+			<div class="footer-links">
+				<h3>Top Genres</h3>
+				<ul>
+					{
+						categories.map((cat) => (
+							<li>
+								<a href={`/category/${slugify(cat)}`}>{cat}</a>
+							</li>
+						))
+					}
+				</ul>
+			</div>
+
+			<div class="footer-links">
+				<h3>Company</h3>
+				<ul>
+					<li><a href="/about">About Us</a></li>
+					<li><a href="/contact">Contact Us</a></li>
+					<li><a href="/policy">Privacy Policy</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+
+	<div class="footer-bottom">
+		<p>
+			&copy; {new Date().getFullYear()} AGMovies. Designed for ultimate cinema
+			lovers.
+		</p>
+	</div>
+</footer>
+
+<style>
+	.footer {
+		background-color: #000000;
+		border-top: 1px solid rgba(255, 255, 255, 0.1);
+		padding: 4rem 5% 2rem 5%;
+		color: #ffffff;
+		font-family: "Inter", sans-serif;
+		text-shadow: 2px 2px 4px #000000;
+	}
+
+	.footer-content {
+		max-width: 1200px;
+		margin: 0 auto;
+		display: flex;
+		justify-content: space-between;
+		gap: 4rem;
+		flex-wrap: wrap;
+		margin-bottom: 3rem;
+	}
+
+	.footer-brand {
+		flex: 1 1 300px;
+	}
+
+	.logo h2 {
+		font-size: 1.5rem;
+		font-weight: 800;
+		margin: 0 0 1rem 0;
+		letter-spacing: -0.5px;
+	}
+
+	.logo span {
+		color: var(--accent-color);
+	}
+
+	.logo a {
+		text-decoration: none;
+		color: inherit;
+	}
+
+	.brand-desc {
+		color: #cccccc;
+		font-size: 0.95rem;
+		line-height: 1.6;
+		margin: 0;
+	}
+
+	.footer-socials {
+		display: flex;
+		gap: 0.8rem;
+		margin-top: 1.5rem;
+	}
+
+	.social-btn {
+		width: 38px;
+		height: 38px;
+		border-radius: 50%;
+		background: rgba(255, 255, 255, 0.03);
+		border: 1px solid rgba(255, 255, 255, 0.05);
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		color: #888888;
+		transition: all 0.3s cubic-bezier(0.165, 0.84, 0.44, 1);
+	}
+
+	.social-btn:hover {
+		color: #ffffff;
+		background-color: var(--accent-color);
+		border-color: var(--accent-color);
+		transform: translateY(-2px);
+		box-shadow: 0 4px 10px rgba(229, 9, 20, 0.3);
+	}
+
+	.footer-links-group {
+		display: flex;
+		gap: 4rem;
+		flex-wrap: wrap;
+	}
+
+	.footer-links {
+		min-width: 150px;
+	}
+
+	.footer-links h3 {
+		font-size: 1rem;
+		font-weight: 600;
+		margin: 0 0 1.2rem 0;
+		text-transform: uppercase;
+		letter-spacing: 1px;
+		color: var(--accent-color);
+	}
+
+	.footer-links ul {
+		list-style: none;
+		padding: 0;
+		margin: 0;
+	}
+
+	.footer-links li {
+		margin-bottom: 0.8rem;
+	}
+
+	.footer-links a {
+		color: #888888;
+		text-decoration: none;
+		font-size: 0.95rem;
+		transition: color 0.3s ease;
+	}
+
+	.footer-links a:hover {
+		color: #ffffff;
+	}
+
+	.footer-bottom {
+		max-width: 1200px;
+		margin: 0 auto;
+		border-top: 1px solid rgba(255, 255, 255, 0.05);
+		padding-top: 2rem;
+		text-align: center;
+	}
+
+	.footer-bottom p {
+		color: #666666;
+		font-size: 0.85rem;
+		margin: 0;
+	}
+
+	@media (max-width: 768px) {
+		.footer-content {
+			flex-direction: column;
+			gap: 2rem;
+		}
+
+		.footer-links-group {
+			gap: 2rem;
+			justify-content: space-between;
+			width: 100%;
+		}
+	}
+</style>

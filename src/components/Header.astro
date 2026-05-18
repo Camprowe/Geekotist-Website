@@ -1,0 +1,432 @@
+---
+import movies from "../data/movies.json";
+import { slugify } from "../utils/slugify.js";
+
+const searchData = movies.map((m) => ({
+	title: m.title,
+	year: m.year,
+	imageUrl: m.imageUrl,
+	slug: slugify(m.title),
+}));
+---
+
+<header class="header">
+	<div class="logo">
+		<a href="/"><h1>SR<span> Studio</span></h1></a>
+	</div>
+
+	<div class="search-container">
+		<div class="search-input-wrapper">
+			<svg
+				class="search-icon"
+				width="20"
+				height="20"
+				viewBox="0 0 24 24"
+				fill="none"
+				xmlns="http://www.w3.org/2000/svg"
+			>
+				<path
+					d="M11 19C15.4183 19 19 15.4183 19 11C19 6.58172 15.4183 3 11 3C6.58172 3 3 6.58172 3 11C3 15.4183 6.58172 19 11 19Z"
+					stroke="currentColor"
+					stroke-width="2"
+					stroke-linecap="round"
+					stroke-linejoin="round"></path>
+				<path
+					d="M21 21L16.65 16.65"
+					stroke="currentColor"
+					stroke-width="2"
+					stroke-linecap="round"
+					stroke-linejoin="round"></path>
+			</svg>
+			<input
+				type="text"
+				id="search-input"
+				placeholder="Search movies..."
+				autocomplete="off"
+			/>
+		</div>
+		<div id="search-results" class="search-results hidden">
+			<!-- Results injected by JS -->
+		</div>
+	</div>
+
+	<nav class="nav-links" id="nav-links">
+		<a href="/" class="active">Home</a>
+		<a href="#">Trending</a>
+		<a href="#">Top Rated</a>
+	</nav>
+
+	<button
+		class="menu-toggle"
+		id="menu-toggle"
+		aria-label="Toggle navigation menu"
+		aria-expanded="false"
+	>
+		<svg
+			width="24"
+			height="24"
+			viewBox="0 0 24 24"
+			fill="none"
+			xmlns="http://www.w3.org/2000/svg"
+		>
+			<path
+				class="line line-1"
+				d="M3 6H21"
+				stroke="currentColor"
+				stroke-width="2"
+				stroke-linecap="round"></path>
+			<path
+				class="line line-2"
+				d="M3 12H21"
+				stroke="currentColor"
+				stroke-width="2"
+				stroke-linecap="round"></path>
+			<path
+				class="line line-3"
+				d="M3 18H21"
+				stroke="currentColor"
+				stroke-width="2"
+				stroke-linecap="round"></path>
+		</svg>
+	</button>
+</header>
+
+<script define:vars={{ searchData }}>
+	const searchInput = document.getElementById("search-input");
+	const searchResults = document.getElementById("search-results");
+
+	searchInput.addEventListener("input", (e) => {
+		const query = e.target.value.toLowerCase().trim();
+
+		if (query.length < 2) {
+			searchResults.classList.add("hidden");
+			searchResults.innerHTML = "";
+			return;
+		}
+
+		const filtered = searchData
+			.filter((movie) => movie.title.toLowerCase().includes(query))
+			.slice(0, 5); // Limit to top 5 results
+
+		if (filtered.length === 0) {
+			searchResults.innerHTML =
+				'<div class="no-results">No movies found.</div>';
+			searchResults.classList.remove("hidden");
+			return;
+		}
+
+		const resultsHTML = filtered
+			.map(
+				(movie) => `
+			<a href="/movie/${movie.slug}" class="search-result-item">
+				<img src="${movie.imageUrl}" alt="${movie.title}" />
+				<div class="search-result-info">
+					<h4>${movie.title}</h4>
+					<span>${movie.year}</span>
+				</div>
+			</a>
+		`
+			)
+			.join("");
+
+		searchResults.innerHTML = resultsHTML;
+		searchResults.classList.remove("hidden");
+	});
+
+	// Close dropdown when clicking outside
+	document.addEventListener("click", (e) => {
+		if (
+			!searchInput.contains(e.target) &&
+			!searchResults.contains(e.target)
+		) {
+			searchResults.classList.add("hidden");
+		}
+	});
+</script>
+
+<script is:inline>
+	(function () {
+		const menuToggle = document.getElementById("menu-toggle");
+		const navLinks = document.getElementById("nav-links");
+
+		if (menuToggle && navLinks) {
+			menuToggle.addEventListener("click", (e) => {
+				e.stopPropagation();
+				const active = navLinks.classList.toggle("active");
+				menuToggle.classList.toggle("active");
+				menuToggle.setAttribute(
+					"aria-expanded",
+					active ? "true" : "false"
+				);
+			});
+
+			// Close menu if a link is clicked
+			navLinks.querySelectorAll("a").forEach((link) => {
+				link.addEventListener("click", () => {
+					navLinks.classList.remove("active");
+					menuToggle.classList.remove("active");
+					menuToggle.setAttribute("aria-expanded", "false");
+				});
+			});
+
+			// Close if click outside
+			document.addEventListener("click", (e) => {
+				if (
+					!navLinks.contains(e.target) &&
+					!menuToggle.contains(e.target)
+				) {
+					navLinks.classList.remove("active");
+					menuToggle.classList.remove("active");
+					menuToggle.setAttribute("aria-expanded", "false");
+				}
+			});
+		}
+	})();
+</script>
+
+<style>
+	.header {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		padding: 2rem 5%;
+		position: absolute;
+		top: 0;
+		left: 0;
+		right: 0;
+		z-index: 100;
+		background: linear-gradient(
+			to bottom,
+			rgba(0, 0, 0, 0.9) 0%,
+			transparent 100%
+		);
+	}
+
+	.logo {
+		flex-shrink: 0;
+	}
+
+	.logo a {
+		text-decoration: none;
+		color: inherit;
+	}
+
+	.logo h1 {
+		font-size: 1.5rem;
+		font-weight: 800;
+		margin: 0;
+		letter-spacing: -0.5px;
+	}
+
+	.logo span {
+		color: var(--accent-color);
+	}
+
+	/* Search Styles */
+	.search-container {
+		position: relative;
+		flex: 1;
+		max-width: 400px;
+		margin: 0 2rem;
+	}
+
+	.search-input-wrapper {
+		position: relative;
+		width: 100%;
+		display: flex;
+		align-items: center;
+	}
+
+	.search-icon {
+		position: absolute;
+		left: 12px;
+		color: #888;
+		pointer-events: none;
+	}
+
+	#search-input {
+		width: 100%;
+		padding: 0.8rem 1rem 0.8rem 2.5rem;
+		border-radius: 20px;
+		border: 1px solid rgba(255, 255, 255, 0.2);
+		background-color: #111111;
+		color: white;
+		font-family: "Inter", sans-serif;
+		font-size: 0.95rem;
+		outline: none;
+		-webkit-appearance: none;
+		appearance: none;
+		transition: all 0.3s ease;
+		text-shadow: none; /* override global */
+	}
+
+	#search-input:focus {
+		border-color: var(--accent-color);
+		background-color: #000000;
+		box-shadow: 0 0 0 2px rgba(229, 9, 20, 0.2);
+	}
+
+	#search-input::placeholder {
+		color: #888;
+		text-shadow: none;
+	}
+
+	.search-results {
+		position: absolute;
+		top: calc(100% + 10px);
+		left: 0;
+		width: 100%;
+		background-color: #111111;
+		border: 1px solid rgba(255, 255, 255, 0.1);
+		border-radius: 8px;
+		box-shadow: 0 10px 30px rgba(0, 0, 0, 0.8);
+		overflow: hidden;
+		z-index: 1000;
+	}
+
+	.search-results.hidden {
+		display: none;
+	}
+
+	.nav-links {
+		display: flex;
+		gap: 2rem;
+		flex-shrink: 0;
+	}
+
+	.nav-links a {
+		font-size: 0.9rem;
+		font-weight: 600;
+		color: var(--text-muted);
+		transition: color 0.3s ease;
+		text-transform: uppercase;
+		letter-spacing: 1px;
+	}
+
+	.nav-links a:hover,
+	.nav-links a.active {
+		color: var(--text-color);
+	}
+
+	/* Mobile Toggle styles */
+	.menu-toggle {
+		display: none;
+		background: none;
+		border: none;
+		color: white;
+		cursor: pointer;
+		padding: 0.5rem;
+		z-index: 110;
+		align-items: center;
+		justify-content: center;
+		outline: none;
+		flex-shrink: 0;
+		width: 44px;
+		height: 44px;
+		border-radius: 50%;
+		transition: background-color 0.3s ease;
+	}
+
+	.menu-toggle:hover,
+	.menu-toggle:focus {
+		background-color: rgba(255, 255, 255, 0.1);
+	}
+
+	.menu-toggle .line {
+		transition: transform 0.3s ease, opacity 0.3s ease;
+		transform-box: fill-box;
+		transform-origin: center;
+	}
+
+	.menu-toggle.active .line-1 {
+		transform: translateY(6px) rotate(45deg);
+	}
+
+	.menu-toggle.active .line-2 {
+		opacity: 0;
+	}
+
+	.menu-toggle.active .line-3 {
+		transform: translateY(-6px) rotate(-45deg);
+	}
+
+	@media (max-width: 768px) {
+		.menu-toggle {
+			display: flex;
+		}
+
+		.nav-links {
+			position: fixed;
+			top: 0;
+			right: -100%;
+			width: 75%;
+			max-width: 280px;
+			height: 100vh;
+			background-color: #0a0a0a;
+			border-left: 1px solid rgba(255, 255, 255, 0.1);
+			flex-direction: column;
+			padding: 7rem 2rem 2rem 2rem;
+			gap: 1.5rem;
+			z-index: 105;
+			transition: right 0.3s ease;
+			box-shadow: -10px 0 30px rgba(0, 0, 0, 0.9);
+		}
+
+		.nav-links.active {
+			right: 0;
+		}
+
+		.search-container {
+			max-width: 180px;
+			margin: 0 1rem 0 0;
+		}
+	}
+</style>
+
+<style is:global>
+	.search-result-item {
+		display: flex;
+		align-items: center;
+		gap: 1rem;
+		padding: 0.8rem;
+		text-decoration: none;
+		color: white;
+		transition: background 0.2s ease;
+		border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+	}
+
+	.search-result-item:last-child {
+		border-bottom: none;
+	}
+
+	.search-result-item:hover {
+		background: rgba(255, 255, 255, 0.1);
+	}
+
+	.search-result-item img {
+		width: 40px !important;
+		height: 60px !important;
+		object-fit: cover !important;
+		border-radius: 4px;
+	}
+
+	.search-result-info h4 {
+		margin: 0 0 0.2rem 0;
+		font-size: 0.9rem;
+		font-weight: 600;
+		text-shadow: none;
+	}
+
+	.search-result-info span {
+		font-size: 0.8rem;
+		color: #888;
+		text-shadow: none;
+	}
+
+	.no-results {
+		padding: 1rem;
+		text-align: center;
+		color: #888;
+		font-size: 0.9rem;
+	}
+</style>

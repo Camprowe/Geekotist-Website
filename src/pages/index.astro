@@ -1,0 +1,36 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Header from '../components/Header.astro';
+import Hero from '../components/Hero.astro';
+import DirectoryAccordion from '../components/DirectoryAccordion.astro';
+import MovieGrid from '../components/MovieGrid.astro';
+import Footer from '../components/Footer.astro';
+import movies from '../data/movies.json';
+import { slugify } from '../utils/slugify.js';
+
+// Get unique categories
+const categories = [...new Set(movies.map(m => m.category))];
+---
+
+<Layout 
+	title="SR Studio Antigravity Movies - Stream & Discover Masterpieces" 
+	description="Explore the absolute finest cinematic masterworks. Browse complete movie collections, search dynamic directory categories, and enjoy curated classic titles."
+>
+	<Header />
+	<main>
+		<Hero />
+		<DirectoryAccordion />
+		{categories.map(category => {
+			const categoryMovies = movies.filter(m => m.category === category).slice(0, 4); // Show top 4
+			const categorySlug = slugify(category);
+			return (
+				<MovieGrid 
+					title={`${category} Movies`} 
+					movies={categoryMovies} 
+					categoryLink={`/category/${categorySlug}`} 
+				/>
+			);
+		})}
+	</main>
+	<Footer />
+</Layout>

@@ -1,0 +1,297 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+---
+
+<Layout 
+	title="About Us - SR Studio Antigravity Movies" 
+	description="Learn about the story of SR Studio and Antigravity Movies. Discover our team, our values, and our mission to curate the absolute best film list."
+>
+	<Header />
+	
+	<main class="about-container">
+		<!-- Hero Section -->
+		<section class="about-hero">
+			<div class="hero-glow"></div>
+			<div class="hero-content">
+				<span class="hero-subtitle">The AGMovies Story</span>
+				<h1 class="hero-title">We Live & Breathe <span>Cinema</span></h1>
+				<p class="hero-lead">
+					An independent sanctuary for film lovers. We bypass the algorithms to bring you a hand-curated library of timeless cinematic masterpieces.
+				</p>
+			</div>
+		</section>
+
+		<!-- Content Grid -->
+		<section class="about-grid">
+			<div class="card glassmorphic">
+				<div class="card-icon">
+					<svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+						<path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/>
+					</svg>
+				</div>
+				<h3>Our Curation Philosophy</h3>
+				<p>
+					In an era of endless scroll and algorithmic feeds, we choose human touch. Every movie in our index is selected for its artistic merit, narrative depth, cultural impact, or technical brilliance. We believe that true cinema is an art form that deserves reflection, not just passive consumption.
+				</p>
+			</div>
+
+			<div class="card glassmorphic">
+				<div class="card-icon">
+					<svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+						<circle cx="12" cy="12" r="10"/>
+						<polygon points="10 8 16 12 10 16 10 8"/>
+					</svg>
+				</div>
+				<h3>The Cinephile's Sanctuary</h3>
+				<p>
+					AGMovies was created by a global collective of screenwriters, directors, and film critics who grew tired of standard streaming systems burying cinematic gems. Our mission is to preserve the legacy of independent, foreign, and classic films, making them accessible to next-generation cinephiles.
+				</p>
+			</div>
+		</section>
+
+		<!-- Stats Section -->
+		<section class="about-stats">
+			<div class="stat-card glassmorphic">
+				<span class="stat-number">10k+</span>
+				<span class="stat-label">Classic Titles</span>
+			</div>
+			<div class="stat-card glassmorphic">
+				<span class="stat-number">24 FPS</span>
+				<span class="stat-label">Pure Passion</span>
+			</div>
+			<div class="stat-card glassmorphic">
+				<span class="stat-number">100%</span>
+				<span class="stat-label">Human Curated</span>
+			</div>
+			<div class="stat-card glassmorphic">
+				<span class="stat-number">50+</span>
+				<span class="stat-label">Countries Represented</span>
+			</div>
+		</section>
+
+		<!-- Call to Action -->
+		<section class="about-cta glassmorphic">
+			<h2>Ready to experience pure cinema?</h2>
+			<p>Explore our highly curated genres, discover hidden masterworks, and lose yourself in storytelling.</p>
+			<a href="/" class="btn-primary">Browse the Directory</a>
+		</section>
+	</main>
+
+	<Footer />
+</Layout>
+
+<style>
+	.about-container {
+		max-width: 1200px;
+		margin: 0 auto;
+		padding: 8rem 5% 6rem 5%;
+		font-family: 'Inter', sans-serif;
+	}
+
+	/* Hero Section */
+	.about-hero {
+		position: relative;
+		text-align: center;
+		padding: 4rem 0 6rem 0;
+		overflow: hidden;
+	}
+
+	.hero-glow {
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%, -50%);
+		width: 400px;
+		height: 400px;
+		background: radial-gradient(circle, rgba(229, 9, 20, 0.15) 0%, rgba(0,0,0,0) 70%);
+		z-index: 1;
+		pointer-events: none;
+	}
+
+	.hero-content {
+		position: relative;
+		z-index: 2;
+		max-width: 800px;
+		margin: 0 auto;
+	}
+
+	.hero-subtitle {
+		color: var(--accent-color);
+		font-weight: 800;
+		text-transform: uppercase;
+		font-size: 0.85rem;
+		letter-spacing: 2px;
+		margin-bottom: 1rem;
+		display: inline-block;
+	}
+
+	.hero-title {
+		font-size: 3.5rem;
+		font-weight: 800;
+		line-height: 1.1;
+		margin: 0 0 1.5rem 0;
+		letter-spacing: -1px;
+	}
+
+	.hero-title span {
+		color: var(--accent-color);
+	}
+
+	.hero-lead {
+		font-size: 1.25rem;
+		line-height: 1.6;
+		color: #cccccc;
+		margin: 0;
+	}
+
+	/* Cards and Grid */
+	.about-grid {
+		display: grid;
+		grid-template-columns: repeat(auto-fit, minmax(300px, 1-fraction));
+		gap: 2.5rem;
+		margin-bottom: 5rem;
+	}
+
+	@media (min-width: 768px) {
+		.about-grid {
+			grid-template-columns: repeat(2, 1fr);
+		}
+	}
+
+	.glassmorphic {
+		background: rgba(255, 255, 255, 0.02);
+		border: 1px solid rgba(255, 255, 255, 0.05);
+		border-radius: 12px;
+		backdrop-filter: blur(12px);
+		-webkit-backdrop-filter: blur(12px);
+		transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
+	}
+
+	.glassmorphic:hover {
+		transform: translateY(-5px);
+		border-color: rgba(229, 9, 20, 0.3);
+		box-shadow: 0 10px 30px rgba(229, 9, 20, 0.08);
+		background: rgba(255, 255, 255, 0.04);
+	}
+
+	.card {
+		padding: 3rem 2.5rem;
+	}
+
+	.card-icon {
+		color: var(--accent-color);
+		margin-bottom: 1.5rem;
+		background: rgba(229, 9, 20, 0.1);
+		width: 48px;
+		height: 48px;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		border-radius: 8px;
+		border: 1px solid rgba(229, 9, 20, 0.2);
+	}
+
+	.card h3 {
+		font-size: 1.5rem;
+		font-weight: 600;
+		margin: 0 0 1rem 0;
+	}
+
+	.card p {
+		color: #aaaaaa;
+		line-height: 1.7;
+		margin: 0;
+		font-size: 0.98rem;
+	}
+
+	/* Stats Section */
+	.about-stats {
+		display: grid;
+		grid-template-columns: repeat(2, 1fr);
+		gap: 1.5rem;
+		margin-bottom: 5rem;
+	}
+
+	@media (min-width: 992px) {
+		.about-stats {
+			grid-template-columns: repeat(4, 1fr);
+		}
+	}
+
+	.stat-card {
+		padding: 2rem;
+		text-align: center;
+	}
+
+	.stat-number {
+		display: block;
+		font-size: 2.5rem;
+		font-weight: 800;
+		color: var(--accent-color);
+		margin-bottom: 0.5rem;
+		letter-spacing: -1px;
+	}
+
+	.stat-label {
+		font-size: 0.85rem;
+		color: #888888;
+		text-transform: uppercase;
+		letter-spacing: 1px;
+		font-weight: 600;
+	}
+
+	/* Call to Action */
+	.about-cta {
+		padding: 4rem 3rem;
+		text-align: center;
+		max-width: 800px;
+		margin: 0 auto;
+		border-color: rgba(255, 255, 255, 0.08);
+	}
+
+	.about-cta h2 {
+		font-size: 2rem;
+		font-weight: 800;
+		margin: 0 0 1rem 0;
+	}
+
+	.about-cta p {
+		color: #aaaaaa;
+		font-size: 1.1rem;
+		margin: 0 0 2rem 0;
+		line-height: 1.6;
+	}
+
+	.btn-primary {
+		display: inline-block;
+		background-color: var(--accent-color);
+		color: white;
+		padding: 0.9rem 2rem;
+		border-radius: 4px;
+		font-weight: 600;
+		transition: all 0.3s ease;
+		text-shadow: none;
+	}
+
+	.btn-primary:hover {
+		background-color: #ff1c27;
+		transform: scale(1.03);
+		box-shadow: 0 5px 15px rgba(229, 9, 20, 0.4);
+	}
+
+	@media (max-width: 768px) {
+		.about-container {
+			padding: 7rem 5% 4rem 5%;
+		}
+		
+		.hero-title {
+			font-size: 2.5rem;
+		}
+
+		.card {
+			padding: 2rem 1.5rem;
+		}
+	}
+</style>

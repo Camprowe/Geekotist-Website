@@ -5,4 +5,5 @@ import { defineConfig } from 'astro/config';
 export default defineConfig({
   site: 'https://geekotist.com',
   outDir: "./docs",
+  build: {  assets: 'assets' }
 });

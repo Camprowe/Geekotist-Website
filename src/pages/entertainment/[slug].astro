@@ -81,7 +81,7 @@ if (relatedMovies.length < 4) {
 
 		{relatedMovies.length > 0 && (
 			<div class="related-section">
-				<MovieGrid title="Related Movies" movies={relatedMovies} />
+				<MovieGrid title={"More " + movie.category + "s"} movies={relatedMovies} />
 			</div>
 		)}
 
@@ -176,7 +176,7 @@ if (relatedMovies.length < 4) {
 	.main-poster {
 		width: 100%;
 		height: 100%;
-		object-fit: cover;
+		object-fit: contain;
 		border-radius: 12px;
 		opacity: 0;
 		transition: opacity 0.5s ease-in-out;

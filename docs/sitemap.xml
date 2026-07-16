@@ -26,7 +26,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://movies.srstudio-bd.com/category/game</loc>
+    <loc>https://movies.srstudio-bd.com/category/video-game</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -44,31 +44,91 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://movies.srstudio-bd.com/movie/deadpool-and-wolverine</loc>
+    <loc>https://movies.srstudio-bd.com/movie/halo-3</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://movies.srstudio-bd.com/movie/dune-part-two</loc>
+    <loc>https://movies.srstudio-bd.com/movie/assassins-creed-ii</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://movies.srstudio-bd.com/movie/oppenheimer</loc>
+    <loc>https://movies.srstudio-bd.com/movie/world-of-warcraft</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://movies.srstudio-bd.com/movie/interstellar</loc>
+    <loc>https://movies.srstudio-bd.com/movie/destiny</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://movies.srstudio-bd.com/movie/fallout-3</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://movies.srstudio-bd.com/movie/the-avengers</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://movies.srstudio-bd.com/movie/the-dark-knight</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://movies.srstudio-bd.com/movie/the-super-mario-bros-movie</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://movies.srstudio-bd.com/movie/spider-man-into-the-spider-verse</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://movies.srstudio-bd.com/movie/pirates-of-the-caribbean-dead-mans-chest</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://movies.srstudio-bd.com/movie/arcane</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://movies.srstudio-bd.com/movie/avatar-the-last-airbender</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://movies.srstudio-bd.com/movie/my-hero-academia</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://movies.srstudio-bd.com/movie/adventure-time</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://movies.srstudio-bd.com/movie/fallout</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>

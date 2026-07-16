@@ -92,7 +92,7 @@ The entire site is data-driven. To add, edit, or remove movies, simply open [mov
 
 ### 3. Modifying Style Tokens & Color Accents
 The premium aesthetic is driven by a deep dark color palette and bright accents. Standard colors are defined globally or at the top of components:
-- **Accent Color (`--accent-color`)**: `#e50914` (Neon Red).
+- **Accent Color (`--accent-color`)**: `#FFA500` (Neon Red).
 - **Backgrounds**: Cinematic Deep Black (`#000000`) and Obsidian (`#111111`) are used to create layers.
 - To change the accent glow, simply update the CSS variable or change the color hex value inside your layout and component style tags.
 

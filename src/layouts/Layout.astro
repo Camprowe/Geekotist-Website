@@ -16,8 +16,8 @@ interface Props {
 }
 
 const {
-	title = "SR Studio Antigravity Movies - Discover Finest Cinematic Masterpieces",
-	description = "Your ultimate destination for the finest cinematic masterpieces. Browse, search, and discover timeless classics across multiple genres.",
+	title = "Geekotist by Camprowe - Everything you need to know about your favourite Games, Movies and TV Shows",
+	description = "Geekotist is a Camprowe Production about the worlds you can't stop thinking about, the who, what, where, and when behind your favourite games, film, and TV.",
 	image = "https://image.tmdb.org/t/p/original/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg", // Default featured movie backdrop
 	canonicalURL = Astro.url.href,
 	type = "website",
@@ -28,31 +28,31 @@ const {
 const baseSchema = {
 	"@context": "https://schema.org",
 	"@type": "WebSite",
-	"name": "SR Studio Antigravity Movies",
-	"url": "https://antigravity-movies.com",
+	"name": "Geekotist by Camprowe",
+	"url": "https://geekotist.com",
 	"potentialAction": {
 		"@type": "SearchAction",
-		"target": "https://antigravity-movies.com/?search={search_term_string}",
+		"target": "https://geekotist.com/?search={search_term_string}",
 		"query-input": "required name=search_term_string"
 	}
 };
 
-const movieSchema = movieData ? {
-	"@context": "https://schema.org",
-	"@type": "Movie",
-	"name": movieData.title,
-	"description": movieData.description,
-	"image": movieData.imageUrl,
-	"dateCreated": movieData.year,
-	"aggregateRating": {
-		"@type": "AggregateRating",
-		"ratingValue": movieData.rating,
-		"bestRating": "10",
-		"worstRating": "1",
-		"ratingCount": "100"
-	},
-	"genre": movieData.category
-} : null;
+// const movieSchema = movieData ? {
+// 	"@context": "https://schema.org",
+// 	"@type": "Movie",
+// 	"name": movieData.title,
+// 	"description": movieData.description,
+// 	"image": movieData.imageUrl,
+// 	"dateCreated": movieData.year,
+// 	"aggregateRating": {
+// 		"@type": "AggregateRating",
+// 		"ratingValue": movieData.rating,
+// 		"bestRating": "10",
+// 		"worstRating": "1",
+// 		"ratingCount": "100"
+// 	},
+// 	"genre": movieData.category
+// } : null;
 ---
 
 <!doctype html>
@@ -76,7 +76,7 @@ const movieSchema = movieData ? {
 		<meta property="og:title" content={title} />
 		<meta property="og:description" content={description} />
 		<meta property="og:image" content={image} />
-		<meta property="og:site_name" content="SR Studio Antigravity Movies" />
+		<meta property="og:site_name" content="Geekotist by Camprowe" />
 
 		<!-- Twitter -->
 		<meta property="twitter:card" content="summary_large_image" />
@@ -92,9 +92,9 @@ const movieSchema = movieData ? {
 
 		<!-- JSON-LD Structured Data -->
 		<script type="application/ld+json" set:html={JSON.stringify(baseSchema)} />
-		{movieSchema && (
+		<!-- {movieSchema && (
 			<script type="application/ld+json" set:html={JSON.stringify(movieSchema)} />
-		)}
+		)} -->
 	</head>
 	<body>
 		<slot />
@@ -106,7 +106,7 @@ const movieSchema = movieData ? {
 		--bg-color: #000000;
 		--text-color: #ffffff;
 		--text-muted: #ffffff;
-		--accent-color: #e50914; /* Cinematic red */
+		--accent-color: #FFA500; /* Cinematic red */
 	}
 
 	*, *::before, *::after {

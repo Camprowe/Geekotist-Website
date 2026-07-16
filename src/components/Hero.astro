@@ -1,192 +1,83 @@
 ---
-import movies from '../data/movies.json';
 import { slugify } from '../utils/slugify.js';
 
-const featuredMovie = movies.find(m => m.isFeatured) || movies[0];
 ---
 
-<section class="hero">
-	<div class="hero-bg">
-		<img 
-			src={featuredMovie.imageUrl} 
-			alt={`${featuredMovie.title} Background`} 
-			fetchpriority="high" 
-			loading="eager" 
-			onload="this.classList.add('loaded'); this.parentElement.classList.add('loaded');"
-		/>
-		<div class="overlay"></div>
-	</div>
+<section class="about-hero">
+	<div class="hero-glow"></div>
 	<div class="hero-content">
-		<span class="badge">Trending Now</span>
-		<h2 class="title">{featuredMovie.title}</h2>
-		<p class="description">
-			{featuredMovie.description}
+		<span class="hero-subtitle">Geekotist by Camprowe</span>
+		<h1 class="hero-title">Exploring the worlds we <span>Love</span></h1>
+		<p class="hero-lead">
+			Every world worth getting lost in is built from thousands of small decisions, lore that ties back further than you'd expect, details placed on purpose, stories hiding in plain sight. Geekotist exists to surface those pieces and share them properly: not as trivia, but as the reason these worlds get under your skin in the first place. At its core, this is a celebration. Of the writers, designers, and artists who put in the work. Of the worlds they built. And of the audience who noticed enough to go looking for more.
 		</p>
-		<div class="actions">
-			<a href={`/movie/${slugify(featuredMovie.title)}`} class="btn btn-primary">
-				<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-					<path d="M8 5V19L19 12L8 5Z" fill="currentColor"/>
-				</svg>
-				Play Trailer
-			</a>
-			<a href={`/entertainment/${slugify(featuredMovie.title)}`} class="btn btn-secondary">More Info</a>
-		</div>
 	</div>
 </section>
 
-<style>
-	.hero {
+<style>	
+
+	/* Hero Section */
+	.about-hero {
+		margin: 0 auto;
+		position: relative;
+		text-align: center;
+		overflow: hidden;
 		position: relative;
 		height: 80vh;
 		min-height: 600px;
 		max-height: 720px;
 		display: flex;
 		align-items: center;
-		padding: 0 5%;
-		margin-bottom: 3rem;
 	}
 
-	.hero-bg {
+	.hero-glow {
 		position: absolute;
-		top: 0;
-		left: 0;
-		width: 100%;
-		height: 100%;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%, -50%);
+		width: 400px;
+		height: 400px;
+		background: radial-gradient(circle, rgba(229, 9, 20, 0.15) 0%, rgba(0,0,0,0) 70%);
 		z-index: 1;
-		background-color: #0c0c0c;
-		background-image: linear-gradient(
-			90deg,
-			rgba(255, 255, 255, 0.01) 25%,
-			rgba(255, 255, 255, 0.04) 50%,
-			rgba(255, 255, 255, 0.01) 75%
-		);
-		background-size: 200% 100%;
-		animation: loading-pulse 2s infinite;
-	}
-
-	.hero-bg.loaded {
-		animation: none;
-		background: none;
-	}
-
-	.hero-bg img {
-		width: 100%;
-		height: 100%;
-		object-fit: cover;
-		object-position: center 20%;
-		opacity: 0;
-		transition: opacity 0.6s ease-in-out;
-	}
-
-	.hero-bg img.loaded {
-		opacity: 1;
-	}
-
-	@keyframes loading-pulse {
-		0% {
-			background-position: 200% 0;
-		}
-		100% {
-			background-position: -200% 0;
-		}
-	}
-
-	.overlay {
-		position: absolute;
-		top: 0;
-		left: 0;
-		width: 100%;
-		height: 100%;
-		background: linear-gradient(to right, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.4) 50%, rgba(0,0,0,0) 100%),
-					linear-gradient(to top, rgba(0,0,0,1) 0%, transparent 20%);
+		pointer-events: none;
 	}
 
 	.hero-content {
-		max-width: 600px;
-		z-index: 10;
-		margin-top: 5rem;
+		position: relative;
+		z-index: 2;
+		max-width: 1200px;
+		margin: 0 auto;
 	}
 
-	.badge {
-		background-color: rgba(229, 9, 20, 0.2);
+	.hero-subtitle {
 		color: var(--accent-color);
-		padding: 0.3rem 0.8rem;
-		border-radius: 4px;
-		font-size: 0.8rem;
 		font-weight: 800;
 		text-transform: uppercase;
-		letter-spacing: 1px;
-		display: inline-block;
+		font-size: 0.85rem;
+		letter-spacing: 2px;
 		margin-bottom: 1rem;
-		border: 1px solid rgba(229, 9, 20, 0.4);
+		display: inline-block;
 	}
 
-	.title {
-		font-size: 4rem;
+	.hero-title {
+		font-size: 3.5rem;
 		font-weight: 800;
-		margin: 0 0 1rem 0;
 		line-height: 1.1;
+		margin: 0 0 1.5rem 0;
 		letter-spacing: -1px;
 	}
 
-	.description {
-		font-size: 1.1rem;
+	.hero-title span {
+		color: var(--accent-color);
+	}
+
+	.hero-lead {
+		font-size: 1.25rem;
 		line-height: 1.6;
-		color: #ffffff;
-		margin-bottom: 2rem;
-		display: -webkit-box;
-		-webkit-line-clamp: 3;
-		-webkit-box-orient: vertical;
-		overflow: hidden;
-	}
-
-	.actions {
-		display: flex;
-		gap: 1rem;
-	}
-
-	.btn {
-		display: flex;
-		align-items: center;
-		gap: 0.5rem;
-		padding: 0.8rem 1.5rem;
-		border: none;
-		border-radius: 4px;
-		font-size: 1rem;
-		font-weight: 600;
-		cursor: pointer;
-		transition: all 0.3s ease;
-		text-decoration: none;
-		text-shadow: none;
-		box-shadow: none;
-	}
-
-	.btn-primary {
-		background-color: var(--text-color);
-		color: var(--bg-color);
-	}
-
-	.btn-primary:hover {
-		background-color: rgba(255, 255, 255, 0.8);
-		transform: scale(1.05);
-	}
-
-	.btn-secondary {
-		background-color: rgba(255, 255, 255, 0.2);
-		color: var(--text-color);
-		backdrop-filter: blur(5px);
-	}
-
-	.btn-secondary:hover {
-		background-color: rgba(255, 255, 255, 0.3);
-	}
-
-	@media (max-width: 768px) {
-		.title {
-			font-size: 2.5rem;
-		}
-		.hero-content {
-			margin-top: 2rem;
-		}
+		color: #cccccc;
+		margin: 0;
+		padding: 1rem;
 	}
 </style>
+
+

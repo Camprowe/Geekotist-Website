@@ -3,7 +3,6 @@ import Layout from '../../layouts/Layout.astro';
 import Header from '../../components/Header.astro';
 import Footer from '../../components/Footer.astro';
 import MovieGrid from '../../components/MovieGrid.astro';
-import DirectoryAccordion from '../../components/DirectoryAccordion.astro';
 import movies from '../../data/movies.json';
 import { slugify } from '../../utils/slugify.js';
 
@@ -86,7 +85,6 @@ if (relatedMovies.length < 4) {
 			</div>
 		)}
 
-		<DirectoryAccordion />
 	</main>
 	<Footer />
 </Layout>

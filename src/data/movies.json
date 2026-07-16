@@ -4,7 +4,7 @@
     "imageUrl": "https://image.tmdb.org/t/p/original/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
     "year": "2024",
     "rating": "8.0",
-    "category": "Action",
+    "category": "Game",
     "description": "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
     "isFeatured": true
   },
@@ -13,7 +13,7 @@
     "imageUrl": "https://image.tmdb.org/t/p/original/lDrlJzuLdg2bKcvek4ZpmN3Lo47.jpg",
     "year": "2024",
     "rating": "8.8",
-    "category": "Sci-Fi",
+    "category": "Movie",
     "description": "Paul Atreides unites with Chani and the Fremen while on a warpath of revenge against the conspirators who destroyed his family.",
     "isFeatured": true
   },
@@ -22,7 +22,7 @@
     "imageUrl": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
     "year": "2023",
     "rating": "8.4",
-    "category": "Biography",
+    "category": "TV Show",
     "description": "The story of American scientist J. Robert Oppenheimer and his role in the development of the atomic bomb.",
     "isFeatured": false
   },
@@ -31,7 +31,7 @@
     "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_face/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
     "year": "2014",
     "rating": "8.7",
-    "category": "Sci-Fi",
+    "category": "Movie",
     "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
     "isFeatured": false
   },
@@ -40,197 +40,8 @@
     "imageUrl": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
     "year": "2008",
     "rating": "9.0",
-    "category": "Action",
+    "category": "Movie",
     "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
-    "isFeatured": false
-  },
-  {
-    "title": "Inception",
-    "imageUrl": "https://image.tmdb.org/t/p/w500/oYuLEt3zVCKq57qu2F8dT7NIa6f.jpg",
-    "year": "2010",
-    "rating": "8.8",
-    "category": "Sci-Fi",
-    "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
-    "isFeatured": false
-  },
-  {
-    "title": "The Matrix",
-    "imageUrl": "https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
-    "year": "1999",
-    "rating": "8.7",
-    "category": "Sci-Fi",
-    "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
-    "isFeatured": false
-  },
-  {
-    "title": "Gladiator",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_face/c18KyaStjDl2Z7kqg5sDN8DnCsE.jpg",
-    "year": "2000",
-    "rating": "8.5",
-    "category": "Action",
-    "description": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
-    "isFeatured": false
-  },
-  {
-    "title": "The Lord of the Rings: The Return of the King",
-    "imageUrl": "https://image.tmdb.org/t/p/w500/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
-    "year": "2003",
-    "rating": "9.0",
-    "category": "Fantasy",
-    "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
-    "isFeatured": false
-  },
-  {
-    "title": "The Godfather",
-    "imageUrl": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
-    "year": "1972",
-    "rating": "9.2",
-    "category": "Crime",
-    "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
-    "isFeatured": false
-  },
-  {
-    "title": "Pulp Fiction",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_face/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
-    "year": "1994",
-    "rating": "8.9",
-    "category": "Crime",
-    "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
-    "isFeatured": false
-  },
-  {
-    "title": "Forrest Gump",
-    "imageUrl": "https://image.tmdb.org/t/p/w500/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg",
-    "year": "1994",
-    "rating": "8.8",
-    "category": "Drama",
-    "description": "The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate and other historical events unfold from the perspective of an Alabama man with an IQ of 75.",
-    "isFeatured": false
-  },
-  {
-    "title": "Fight Club",
-    "imageUrl": "https://image.tmdb.org/t/p/w500/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg",
-    "year": "1999",
-    "rating": "8.8",
-    "category": "Drama",
-    "description": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
-    "isFeatured": false
-  },
-  {
-    "title": "Goodfellas",
-    "imageUrl": "https://image.tmdb.org/t/p/w500/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg",
-    "year": "1990",
-    "rating": "8.7",
-    "category": "Crime",
-    "description": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito.",
-    "isFeatured": false
-  },
-  {
-    "title": "The Silence of the Lambs",
-    "imageUrl": "https://image.tmdb.org/t/p/w500/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg",
-    "year": "1991",
-    "rating": "8.6",
-    "category": "Thriller",
-    "description": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer.",
-    "isFeatured": false
-  },
-  {
-    "title": "Se7en",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_face/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg",
-    "year": "1995",
-    "rating": "8.6",
-    "category": "Thriller",
-    "description": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",
-    "isFeatured": false
-  },
-  {
-    "title": "The Shawshank Redemption",
-    "imageUrl": "https://image.tmdb.org/t/p/w500/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
-    "year": "1994",
-    "rating": "9.3",
-    "category": "Drama",
-    "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
-    "isFeatured": false
-  },
-  {
-    "title": "The Green Mile",
-    "imageUrl": "https://image.tmdb.org/t/p/w500/velWPhVMQeQKcxggNEU8YmIo52R.jpg",
-    "year": "1999",
-    "rating": "8.6",
-    "category": "Drama",
-    "description": "The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.",
-    "isFeatured": false
-  },
-  {
-    "title": "Saving Private Ryan",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_face/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg",
-    "year": "1998",
-    "rating": "8.6",
-    "category": "War",
-    "description": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",
-    "isFeatured": false
-  },
-  {
-    "title": "Schindler's List",
-    "imageUrl": "https://image.tmdb.org/t/p/w500/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
-    "year": "1993",
-    "rating": "9.0",
-    "category": "Biography",
-    "description": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
-    "isFeatured": false
-  },
-  {
-    "title": "Parasite",
-    "imageUrl": "https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
-    "year": "2019",
-    "rating": "8.5",
-    "category": "Thriller",
-    "description": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
-    "isFeatured": false
-  },
-  {
-    "title": "Spirited Away",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_face/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
-    "year": "2001",
-    "rating": "8.6",
-    "category": "Animation",
-    "description": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits.",
-    "isFeatured": false
-  },
-  {
-    "title": "The Departed",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_face/nT97ifVT2J1yMQmeq20Qblg61T.jpg",
-    "year": "2006",
-    "rating": "8.5",
-    "category": "Crime",
-    "description": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",
-    "isFeatured": false
-  },
-  {
-    "title": "Whiplash",
-    "imageUrl": "https://image.tmdb.org/t/p/w500/7fn624j5lj3xTme2SgiLCeuedmO.jpg",
-    "year": "2014",
-    "rating": "8.5",
-    "category": "Drama",
-    "description": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.",
-    "isFeatured": false
-  },
-  {
-    "title": "The Prestige",
-    "imageUrl": "https://image.tmdb.org/t/p/w500/tRNlZbgNCNOpLpbPEz5O8b8AoPI.jpg",
-    "year": "2006",
-    "rating": "8.5",
-    "category": "Drama",
-    "description": "After a tragic accident, two stage magicians in 1890s London engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other.",
-    "isFeatured": false
-  },
-  {
-    "title": "Memento",
-    "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_face/fKTPH2WvH8nHTXeBYBVhawtRqtR.jpg",
-    "year": "2000",
-    "rating": "8.4",
-    "category": "Thriller",
-    "description": "A man with short-term memory loss attempts to track down his wife's murderer.",
     "isFeatured": false
   }
 ]

@@ -12,7 +12,7 @@ const categories = [...new Set(movies.map(m => m.category))];
 ---
 
 <Layout 
-	title="SR Studio Antigravity Movies - Stream & Discover Masterpieces" 
+	title="Geekotist by Camprowe - Everything you need to know about your favourite Games, Movies and TV Shows" 
 	description="Explore the absolute finest cinematic masterworks. Browse complete movie collections, search dynamic directory categories, and enjoy curated classic titles."
 >
 	<Header />
@@ -23,7 +23,7 @@ const categories = [...new Set(movies.map(m => m.category))];
 			const categorySlug = slugify(category);
 			return (
 				<MovieGrid 
-					title={`${category} Movies`} 
+					title={`${category}s`} 
 					movies={categoryMovies} 
 					categoryLink={`/category/${categorySlug}`} 
 				/>

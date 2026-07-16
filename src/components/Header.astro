@@ -41,7 +41,7 @@ const searchData = movies.map((m) => ({
 			<input
 				type="text"
 				id="search-input"
-				placeholder="Search movies..."
+				placeholder="Search entertainment..."
 				autocomplete="off"
 			/>
 		</div>
@@ -52,8 +52,8 @@ const searchData = movies.map((m) => ({
 
 	<nav class="nav-links" id="nav-links">
 		<a href="/" class="active">Home</a>
-		<a href="#">Trending</a>
-		<a href="#">Top Rated</a>
+		<a href="https://camprowe.com/productions/geekotist">About</a>
+		<a href="https://link.camprowe.com/geekotist">Watch Latest</a>
 	</nav>
 
 	<button
@@ -110,7 +110,7 @@ const searchData = movies.map((m) => ({
 
 		if (filtered.length === 0) {
 			searchResults.innerHTML =
-				'<div class="no-results">No movies found.</div>';
+				'<div class="no-results">No entertainment found.</div>';
 			searchResults.classList.remove("hidden");
 			return;
 		}

@@ -3,6 +3,6 @@ import { defineConfig } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://camprowe.github.io/Geekotist-Website/',
+  site: 'https://geekotist.com',
   outDir: "./docs",
 });

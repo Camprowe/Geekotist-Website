@@ -111,19 +111,18 @@ const categories = [...new Set(movies.map((m) => m.category))].slice(0, 4);
 	<div class="footer-bottom">
 		<p>
 			&copy; {new Date().getFullYear()} Geekotist by <a href="https://camprowe.com">Camprowe</a>
-			lovers.
 		</p>
 	</div>
 </footer>
 
 <style>
 	.footer {
-		background-color: #1c1c1c;
+		background-color: #ffffff;
 		border-top: 1px solid rgba(255, 255, 255, 0.1);
 		padding: 4rem 5% 2rem 5%;
-		color: #ffffff;
+		color: #1c1c1c;
 		font-family: "Inter", sans-serif;
-		text-shadow: 2px 2px 4px #000000;
+		/* text-shadow: 2px 2px 4px #1c1c1c; */
 	}
 
 	.footer-content {
@@ -158,7 +157,7 @@ const categories = [...new Set(movies.map((m) => m.category))].slice(0, 4);
 	}
 
 	.brand-desc {
-		color: #cccccc;
+		color: #1c1c1c;
 		font-size: 0.95rem;
 		line-height: 1.6;
 		margin: 0;
@@ -174,17 +173,17 @@ const categories = [...new Set(movies.map((m) => m.category))].slice(0, 4);
 		width: 38px;
 		height: 38px;
 		border-radius: 50%;
-		background: rgba(255, 255, 255, 0.03);
+		background: #1c1c1c;
 		border: 1px solid rgba(255, 255, 255, 0.05);
 		display: flex;
 		align-items: center;
 		justify-content: center;
-		color: #888888;
+		color: #ffffff;
 		transition: all 0.3s cubic-bezier(0.165, 0.84, 0.44, 1);
 	}
 
 	.social-btn:hover {
-		color: #ffffff;
+		color: #1c1c1c;
 		background-color: var(--accent-color);
 		border-color: var(--accent-color);
 		transform: translateY(-2px);
@@ -221,26 +220,26 @@ const categories = [...new Set(movies.map((m) => m.category))].slice(0, 4);
 	}
 
 	.footer-links a {
-		color: #888888;
+		color: #1c1c1c;
 		text-decoration: none;
 		font-size: 0.95rem;
 		transition: color 0.3s ease;
 	}
 
 	.footer-links a:hover {
-		color: #ffffff;
+		color: #1c1c1c;
 	}
 
 	.footer-bottom {
 		max-width: 1200px;
 		margin: 0 auto;
-		border-top: 1px solid rgba(255, 255, 255, 0.05);
+		border-top: 1px solid #1c1c1c;
 		padding-top: 2rem;
 		text-align: center;
 	}
 
 	.footer-bottom p {
-		color: #666666;
+		color: #1c1c1c;
 		font-size: 0.85rem;
 		margin: 0;
 	}

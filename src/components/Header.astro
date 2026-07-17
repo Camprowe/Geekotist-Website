@@ -51,7 +51,6 @@ const searchData = movies.map((m) => ({
 	</div>
 
 	<nav class="nav-links" id="nav-links">
-		<a href="/" class="active">Home</a>
 		<a href="https://camprowe.com/productions/geekotist">About</a>
 		<a href="https://link.camprowe.com/geekotist">Watch Latest</a>
 	</nav>
@@ -118,7 +117,7 @@ const searchData = movies.map((m) => ({
 		const resultsHTML = filtered
 			.map(
 				(movie) => `
-			<a href="/movie/${movie.slug}" class="search-result-item">
+			<a href="/entertainment/${movie.slug}" class="search-result-item">
 				<img src="${movie.imageUrl}" alt="${movie.title}" />
 				<div class="search-result-info">
 					<h4>${movie.title}</h4>

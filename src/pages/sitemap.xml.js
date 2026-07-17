@@ -1,14 +1,11 @@
 import movies from '../data/movies.json';
 import { slugify } from '../utils/slugify.js';
 
-const siteUrl = 'https://movies.srstudio-bd.com';
+const siteUrl = 'https://geekotist.com';
 
 export async function GET() {
   const staticPages = [
-    '',
-    '/about',
-    '/contact',
-    '/policy',
+    ''
   ];
 
   // Get dynamic categories
@@ -16,7 +13,7 @@ export async function GET() {
   const categoryUrls = categories.map(cat => `/category/${slugify(cat)}`);
 
   // Get dynamic movie pages
-  const movieUrls = movies.map(movie => `/movie/${slugify(movie.title)}`);
+  const movieUrls = movies.map(movie => `/entertainement/${slugify(movie.title)}`);
 
   const allUrls = [...staticPages, ...categoryUrls, ...movieUrls];
 
@@ -30,7 +27,7 @@ export async function GET() {
     <lastmod>${new Date().toISOString().split('T')[0]}</lastmod>
     <changefreq>${url === '' ? 'daily' : 'weekly'}</changefreq>
     <priority>${
-      url === '' ? '1.0' : url.startsWith('/movie') ? '0.8' : '0.6'
+      url === '' ? '1.0' : url.startsWith('/entertainment') ? '0.8' : '0.6'
     }</priority>
   </url>`
     )

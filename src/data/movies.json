@@ -1,5 +1,23 @@
 [
   {
+    "title": "Grand Theft Auto V",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BOGI2Yjk1ZTEtZTA2Yy00ZjQ3LTk4MTgtYTgyMGQ1Zjk3YjgzXkEyXkFqcGc@._V1_FMjpg_UX1200_.jpg",
+    "year": "2013",
+    "rating": "4.9",
+    "category": "Video Game",
+    "producer": "Rockstar",
+    "description": "Los Santos, San Andreas: a sprawling sun-soaked metropolis full of self-help gurus, starlets, and fading celebrities, once the envy of the Western world, now struggling to stay afloat in an era of economic uncertainty and cheap reality TV. Amidst the turmoil, three very different criminals plot their own chances of survival and success: Franklin Clinton, a former street gangster, now looking for real opportunities and serious money; Michael De Santa, a professional ex-con whose retirement is a lot less rosy than he hoped it would be; and Trevor Philips, a violent maniac driven by the chance of a cheap high and the next big score. Running out of options, the crew risks everything in a series of daring and dangerous heists that could set them up for life."
+  },
+  {
+    "title": "The Elder Scrolls V: Skyrim",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BYjk5YzVjMDYtZWIyMS00YTZkLTllOTktYzg2NDY0Njc1YWM2XkEyXkFqcGc@._V1_FMjpg_UX600_.jpg",
+    "year": "2011",
+    "rating": "4.0",
+    "category": "Video Game",
+    "producer": "Bethesda",
+    "description": "The Empire of Tamriel is on the edge. The High King of Skyrim has been murdered. Alliances form as claims to the throne are made. In the midst of this conflict, a far more dangerous, ancient evil is awakened. Dragons, long lost to the passages of the Elder Scrolls, have returned to Tamriel. The future of Skyrim, even the Empire itself, hangs in the balance as they wait for the prophesized Dragonborn to come; a hero born with the power of The Voice, and the only one who can stand amongst the dragons."
+  },
+  {
     "title": "Halo 3",
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BZmQyNTVkOGMtMzZhNi00ZDRjLWJkNzctZTYxMTMxYTYzZjVmXkEyXkFqcGc@._V1_FMjpg_UX600_.jpg",
     "year": "2007",

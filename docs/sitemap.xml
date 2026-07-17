@@ -26,6 +26,18 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://geekotist.com/entertainement/grand-theft-auto-v</loc>
+    <lastmod>2026-07-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://geekotist.com/entertainement/the-elder-scrolls-v-skyrim</loc>
+    <lastmod>2026-07-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://geekotist.com/entertainement/halo-3</loc>
     <lastmod>2026-07-17</lastmod>
     <changefreq>weekly</changefreq>

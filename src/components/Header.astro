@@ -12,7 +12,7 @@ const searchData = movies.map((m) => ({
 
 <header class="header">
 	<div class="logo">
-		<a href="/"><h1>Geek<span>otist</span></h1></a>
+		<span class="symbol"><a href="https://camprowe.com"><img src="../logo.png" alt="" /></a></span> | <a href="/">Geek<span>otist</span></a>
 	</div>
 
 	<div class="search-container">
@@ -203,11 +203,24 @@ const searchData = movies.map((m) => ({
 
 	.logo {
 		flex-shrink: 0;
+		border-bottom: 0;
+		color: inherit;
+		font-weight: 900;
+		letter-spacing: 0.15em;
+		text-decoration: none;
+		text-transform: uppercase;
+		display: inline-block;
+	}
+
+	.logo > * {
+		display: inline-block;
+		vertical-align: middle;
 	}
 
 	.logo a {
 		text-decoration: none;
 		color: inherit;
+			
 	}
 
 	.logo h1 {
@@ -219,6 +232,16 @@ const searchData = movies.map((m) => ({
 
 	.logo span {
 		color: var(--accent-color);
+	}
+
+	.symbol {
+		margin-right: 0.65em;
+	}
+
+	.symbol img {
+		display: block;
+		width: 2em;
+		height: 2em;
 	}
 
 	/* Search Styles */
@@ -427,5 +450,5 @@ const searchData = movies.map((m) => ({
 		text-align: center;
 		color: #888;
 		font-size: 0.9rem;
-	}
+	}	
 </style>

@@ -5,10 +5,10 @@ interface Props {
 	title: string;
 	imageUrl: string;
 	year: string;
-	rating: string;
+	producer: string;
 }
 
-const { title, imageUrl, year, rating } = Astro.props;
+const { title, imageUrl, year, producer } = Astro.props;
 const slug = slugify(title);
 ---
 
@@ -26,11 +26,8 @@ const slug = slugify(title);
 		<h3 class="title" title={title}>{title}</h3>
 		<div class="meta">
 			<span class="year">{year}</span>
-			<span class="rating">
-				<svg width="12" height="12" viewBox="0 0 24 24" fill="#f5c518" xmlns="http://www.w3.org/2000/svg">
-					<path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z" />
-				</svg>
-				{rating}
+			<span class="rating">				
+				{producer}
 			</span>
 		</div>
 	</div>

@@ -3,136 +3,136 @@
     "title": "Halo 3",
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BZmQyNTVkOGMtMzZhNi00ZDRjLWJkNzctZTYxMTMxYTYzZjVmXkEyXkFqcGc@._V1_FMjpg_UX600_.jpg",
     "year": "2007",
-    "rating": "8.0",
+    "rating": "4.8",
     "category": "Video Game",
-    "description": "Witness the Master Chief’s return to finish the fight between the Covenant, the Flood, and the entire Human race in this dramatic, pulse-pounding conclusion of the original Halo trilogy. With the fate of the galaxy hanging in the balance, the Master Chief returns to uncover an ancient secret hidden beneath the sands of Africa, which could hold the key to humanity’s salvation or destruction – an object that could change the tide of the Human-Covenant conflict.",
-    "isFeatured": true
+    "producer": "Bungie",
+    "description": "Witness the Master Chief’s return to finish the fight between the Covenant, the Flood, and the entire Human race in this dramatic, pulse-pounding conclusion of the original Halo trilogy. With the fate of the galaxy hanging in the balance, the Master Chief returns to uncover an ancient secret hidden beneath the sands of Africa, which could hold the key to humanity’s salvation or destruction – an object that could change the tide of the Human-Covenant conflict."
   },
   {
     "title": "Assassin's Creed II",
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BYzcwYjkwOTYtNTQyYi00NzYxLTg4MGUtZjg5YTdiOGE5NjUzXkEyXkFqcGc@._V1_FMjpg_UX600_.jpg",
     "year": "2009",
-    "rating": "8.0",
+    "rating": "4.5",
     "category": "Video Game",
-    "description": "Assassin’s Creed 2 is an epic story of family, vengeance and conspiracy set in the pristine, yet brutal, backdrop of a Renaissance Italy. Ezio befriends Leonardo da Vinci, takes on Florence’s most powerful families and ventures throughout the canals of Venice where he learns to become a master assassin.",
-    "isFeatured": true
+    "producer": "Ubisoft",
+    "description": "Assassin’s Creed 2 is an epic story of family, vengeance and conspiracy set in the pristine, yet brutal, backdrop of a Renaissance Italy. Ezio befriends Leonardo da Vinci, takes on Florence’s most powerful families and ventures throughout the canals of Venice where he learns to become a master assassin."
   },
   {
     "title": "World of Warcraft",
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BOTViZDllZTAtMjZmNC00MzA3LWFkODktNzgxYmY1NWQzM2Q3XkEyXkFqcGc@._V1_FMjpg_UX1200_.jpg",
     "year": "2004",
-    "rating": "8.0",
+    "rating": "4.0",
     "category": "Video Game",
-    "description": "Four years have passed since the races banded together to protect the Well of Eternity from the power of the Burning Legion. The tenuous peace that once held all the hatred of the races at bay, has shattered. The lands of the world of Azeroth have once again become host to a World of Warcraft. With eight races, all vying for control of Azeroth.",
-    "isFeatured": true
+    "producer": "Blizzard",
+    "description": "Four years have passed since the races banded together to protect the Well of Eternity from the power of the Burning Legion. The tenuous peace that once held all the hatred of the races at bay, has shattered. The lands of the world of Azeroth have once again become host to a World of Warcraft. With eight races, all vying for control of Azeroth."
   },
   {
     "title": "Destiny",
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BYTkzYTVhZDQtNTg3Yy00N2FkLTg4MDItZDMyMmMxYWY0MmM0XkEyXkFqcGc@._V1_FMjpg_UY1896_.jpg",
     "year": "2014",
-    "rating": "8.0",
+    "rating": "3.5",
     "category": "Video Game",
-    "description": "Humanity is on the brink of extinction in the future. An object called The Traveler that possess great knowledge and technology came shortly after the present day and humanity was in their golden age expanding throughout the solar system. The golden age lasted for hundreds of years. Until The Traveler's greatest enemy called The Darkness came to the solar system and wiped out most of humanity. The Traveller has been silent ever since. They built a city under the The Traveler as a last ditch resort to save the human race. The ones who guard the city are called Guardians who possess powers gifted from The Traveler. Many Alien races have come as 'minions' of the darkness .and they will stop at nothing. If you fail, humanity will be destroyed.",
-    "isFeatured": true
+    "producer": "Bungie",
+    "description": "Humanity is on the brink of extinction in the future. An object called The Traveler that possess great knowledge and technology came shortly after the present day and humanity was in their golden age expanding throughout the solar system. The golden age lasted for hundreds of years. Until The Traveler's greatest enemy called The Darkness came to the solar system and wiped out most of humanity. The Traveller has been silent ever since. They built a city under the The Traveler as a last ditch resort to save the human race. The ones who guard the city are called Guardians who possess powers gifted from The Traveler. Many Alien races have come as 'minions' of the darkness .and they will stop at nothing. If you fail, humanity will be destroyed."
   },
   {
     "title": "Fallout 3",
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BYTExMGE3MDktODk1OS00NTAwLWE3MDgtMzcyZmFhY2E4NWFjXkEyXkFqcGc@._V1_FMjpg_UX600_.jpg",
     "year": "2008",
-    "rating": "8.0",
+    "rating": "4.7",
     "category": "Video Game",
-    "description": "In the far future where Earth has become a devastated wasteland, you're the child of the noted scientist James in the underground Vault 101 that's in the Washington DC area. Upon reaching adulthood, your father has mysteriously disappeared into the outside for some unknown purpose. Soon, you're forced to flee outside yourself from the murderous tyranny of the Vault Overseer who'll not tolerate such dissent. Now, you'll begin the search for your father as your adventures begin that'll either bring hope to that dismal world or destroy it.",
-    "isFeatured": true
+    "producer": "Bethesda",
+    "description": "In the far future where Earth has become a devastated wasteland, you're the child of the noted scientist James in the underground Vault 101 that's in the Washington DC area. Upon reaching adulthood, your father has mysteriously disappeared into the outside for some unknown purpose. Soon, you're forced to flee outside yourself from the murderous tyranny of the Vault Overseer who'll not tolerate such dissent. Now, you'll begin the search for your father as your adventures begin that'll either bring hope to that dismal world or destroy it."
   },
   {
     "title": "The Avengers",
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BNGE0YTVjNzUtNzJjOS00NGNlLTgxMzctZTY4YTE1Y2Y1ZTU4XkEyXkFqcGc@._V1_FMjpg_UX800_.jpg",
     "year": "2012",
-    "rating": "8.7",
+    "rating": "4.0",
     "category": "Movie",
-    "description": "Loki, the adopted brother of Thor, teams-up with the Chitauri Army and uses the Tesseract's power to travel from Asgard to Midgard to plot the invasion of Earth and become a king. The director of the agency S.H.I.E.L.D., Nick Fury, sets in motion project Avengers, joining Tony Stark a.k.a. the Iron Man; Steve Rogers, a.k.a. Captain America; Bruce Banner, a.k.a. The Hulk; Thor; Natasha Romanoff, a.k.a. Black Widow; and Clint Barton, a.k.a. Hawkeye, to save the world from the powerful Loki and the alien invasion.",
-    "isFeatured": false
+    "producer": "Disney",
+    "description": "Loki, the adopted brother of Thor, teams-up with the Chitauri Army and uses the Tesseract's power to travel from Asgard to Midgard to plot the invasion of Earth and become a king. The director of the agency S.H.I.E.L.D., Nick Fury, sets in motion project Avengers, joining Tony Stark a.k.a. the Iron Man; Steve Rogers, a.k.a. Captain America; Bruce Banner, a.k.a. The Hulk; Thor; Natasha Romanoff, a.k.a. Black Widow; and Clint Barton, a.k.a. Hawkeye, to save the world from the powerful Loki and the alien invasion."
   },
   {
     "title": "The Dark Knight",
     "imageUrl": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
     "year": "2008",
-    "rating": "9.0",
+    "rating": "5.0",
     "category": "Movie",
-    "description": "Set within a year after the events of Batman Begins (2005), Batman, Lieutenant James Gordon, and new District Attorney Harvey Dent successfully begin to round up the criminals that plague Gotham City, until a mysterious and sadistic criminal mastermind known only as 'The Joker' appears in Gotham, creating a new wave of chaos. Batman's struggle against The Joker becomes deeply personal, forcing him to 'confront everything he believes' and improve his technology to stop him. A love triangle develops between Bruce Wayne, Dent, and Rachel Dawes.",
-    "isFeatured": false
+    "producer": "Warner Bros",
+    "description": "Set within a year after the events of Batman Begins (2005), Batman, Lieutenant James Gordon, and new District Attorney Harvey Dent successfully begin to round up the criminals that plague Gotham City, until a mysterious and sadistic criminal mastermind known only as 'The Joker' appears in Gotham, creating a new wave of chaos. Batman's struggle against The Joker becomes deeply personal, forcing him to 'confront everything he believes' and improve his technology to stop him. A love triangle develops between Bruce Wayne, Dent, and Rachel Dawes."
   },
   {
     "title": "The Super Mario Bros. Movie",
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BOGZlN2EzOTYtMzUzOS00NTM3LTg0MTQtZDVjZGM4YmJlNWNhXkEyXkFqcGc@._V1_FMjpg_UX700_.jpg",
     "year": "2023",
-    "rating": "8.8",
+    "rating": "3.2",
     "category": "Movie",
-    "description": "A Brooklyn plumber named Mario travels through the Mushroom Kingdom with a princess named Peach and an anthropomorphic mushroom named Toad to find Mario's brother, Luigi, and to save the world from a ruthless fire-breathing Koopa named Bowser.",
-    "isFeatured": true
+    "producer": "Universal",
+    "description": "A Brooklyn plumber named Mario travels through the Mushroom Kingdom with a princess named Peach and an anthropomorphic mushroom named Toad to find Mario's brother, Luigi, and to save the world from a ruthless fire-breathing Koopa named Bowser."
   },
   {
     "title": "Spider-Man: Into the Spider-Verse",
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_FMjpg_UY2048_.jpg",
     "year": "2024",
-    "rating": "8.8",
+    "rating": "4.5",
     "category": "Movie",
-    "description": "Teen Miles Morales becomes the Spider-Man of his universe and must join with five spider-powered individuals from other dimensions to stop a threat for all realities.",
-    "isFeatured": true
+    "producer": "Sony",
+    "description": "Teen Miles Morales becomes the Spider-Man of his universe and must join with five spider-powered individuals from other dimensions to stop a threat for all realities."
   },
   {
     "title": "Pirates of the Caribbean: Dead Man's Chest",
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTcwODc1MTMxM15BMl5BanBnXkFtZTYwMDg1NzY3._V1_FMjpg_UX450_.jpg",
     "year": "2024",
-    "rating": "8.8",
+    "rating": "4.0",
     "category": "Movie",
-    "description": "Once again we're plunged into the world of sword fights and 'savvy' pirates. Captain Jack Sparrow is reminded he owes a debt to Davy Jones, who captains the flying Dutchman, a ghostly ship, with a crew from hell. Facing the 'locker' Jack must find the heart of Davy Jones but to save himself he must get the help of quick-witted Will Turner and Elizabeth Swann. If that's not complicated enough, Will and Elizabeth are sentenced to hang, unless Will can get Lord Cutler Beckett Jack's compass. Will is forced to join another crazy adventure with Jack.",
-    "isFeatured": true
+    "producer": "Disney",
+    "description": "Once again we're plunged into the world of sword fights and 'savvy' pirates. Captain Jack Sparrow is reminded he owes a debt to Davy Jones, who captains the flying Dutchman, a ghostly ship, with a crew from hell. Facing the 'locker' Jack must find the heart of Davy Jones but to save himself he must get the help of quick-witted Will Turner and Elizabeth Swann. If that's not complicated enough, Will and Elizabeth are sentenced to hang, unless Will can get Lord Cutler Beckett Jack's compass. Will is forced to join another crazy adventure with Jack."
   },
   {
     "title": "Arcane",
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BYjA2NzhlMDItNWRmZC00MzRjLWE3ZjAtZjBlZDAwOWY2ODdjXkEyXkFqcGc@._V1_FMjpg_UX675_.jpg",
     "year": "2021",
-    "rating": "8.4",
+    "rating": "4.9",
     "category": "TV Show",
-    "description": "The delicate balance between the rich city of Piltover and the seedy underbelly of Zaun. Tensions between these city-states boil over with the creation of 'hextech', a way for any person to control magical energy in Piltover, and in Zaun, a new drug called 'shimmer' transforms humans into monsters. The rivalry between the cities splits families and friends as Arcane brings life to the relationships that shape some of League of Legends' famous champions including Vi, Jinx, Caitlyn, Jayce, Viktor, and Ekko.",
-    "isFeatured": false
+    "producer": "Netflix",
+    "description": "The delicate balance between the rich city of Piltover and the seedy underbelly of Zaun. Tensions between these city-states boil over with the creation of 'hextech', a way for any person to control magical energy in Piltover, and in Zaun, a new drug called 'shimmer' transforms humans into monsters. The rivalry between the cities splits families and friends as Arcane brings life to the relationships that shape some of League of Legends' famous champions including Vi, Jinx, Caitlyn, Jayce, Viktor, and Ekko."
   },
   {
     "title": "Avatar: The Last Airbender",
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BMDMwMThjYWYtY2Q2OS00OGM2LTlkODQtNDJlZTZmMjAyYmFhXkEyXkFqcGc@._V1_FMjpg_UX679_.jpg",
     "year": "2005",
-    "rating": "8.4",
+    "rating": "4.9",
     "category": "TV Show",
-    "description": "The world is divided into four elemental nations: The Northern and Southern Water Tribes, the Earth Kingdom, the Fire Nation, and the Air Nomads. The Avatar upholds the balance between the nations, but everything changed when the Fire Nation invaded. Only the Avatar, master of all four elements, can stop them. But when the world needs him most, he vanishes. A hundred years later Katara and Sokka discover the new Avatar, an airbender named Aang. Together they must help Aang master the elements and save the world.",
-    "isFeatured": false
+    "producer": "Paramount",
+    "description": "The world is divided into four elemental nations: The Northern and Southern Water Tribes, the Earth Kingdom, the Fire Nation, and the Air Nomads. The Avatar upholds the balance between the nations, but everything changed when the Fire Nation invaded. Only the Avatar, master of all four elements, can stop them. But when the world needs him most, he vanishes. A hundred years later Katara and Sokka discover the new Avatar, an airbender named Aang. Together they must help Aang master the elements and save the world."
   },
   {
     "title": "My Hero Academia",
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UY3000_.jpg",
     "year": "2016",
-    "rating": "8.4",
+    "rating": "4.0",
     "category": "TV Show",
-    "description": "In a world populated with superhumans, the superhero-loving Izuku Midoriya is without power. However, after the Quirkless dreamer Izuku inherits the powers of the world's best superhero, All Might, his hopes of becoming the top hero are now possible. Once enrolled in the high school for heroes, U.A., Izuku soon discovers being a hero is much more complicated than it appears.",
-    "isFeatured": false
+    "producer": "Bones",
+    "description": "In a world populated with superhumans, the superhero-loving Izuku Midoriya is without power. However, after the Quirkless dreamer Izuku inherits the powers of the world's best superhero, All Might, his hopes of becoming the top hero are now possible. Once enrolled in the high school for heroes, U.A., Izuku soon discovers being a hero is much more complicated than it appears."
   },
   {
     "title": "Adventure Time",
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjkxMzIwNmQtMzM5Ni00YWJiLTg4YjQtNjBiN2IxMjZhMGQ2XkEyXkFqcGc@._V1_FMjpg_UX482_.jpg",
     "year": "2010",
-    "rating": "8.4",
+    "rating": "3.5",
     "category": "TV Show",
-    "description": "Adventure Time is set in the post-apocalyptic Land of Ooo, which was ravaged by a cataclysmic event known as the 'Mushroom War'; a nuclear war that destroyed civilization a thousand years before the series' events. It follows the story of Finn Mertens; a young heroic boy, and his best friend and adoptive older brother Jake; a talking yellow dog that has the ability to stretch into any shape he desires. Together, they go on many adventures together; slaying evil creatures and hanging out with friends, such as Princess Bubblegum (who is the ruler of a kingdom she created from scratch known as The Candy Kingdom) and Marceline, The Vampire Queen.",
-    "isFeatured": false
+    "producer": "Warner Bros",
+    "description": "Adventure Time is set in the post-apocalyptic Land of Ooo, which was ravaged by a cataclysmic event known as the 'Mushroom War'; a nuclear war that destroyed civilization a thousand years before the series' events. It follows the story of Finn Mertens; a young heroic boy, and his best friend and adoptive older brother Jake; a talking yellow dog that has the ability to stretch into any shape he desires. Together, they go on many adventures together; slaying evil creatures and hanging out with friends, such as Princess Bubblegum (who is the ruler of a kingdom she created from scratch known as The Candy Kingdom) and Marceline, The Vampire Queen."
   },
   {
     "title": "Fallout",
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BYTAyZjgyYTYtYzY2MS00MWQxLThmMjctOTM4OTcwMDFlMWZmXkEyXkFqcGc@._V1_FMjpg_UY2880_.jpg",
     "year": "2024",
-    "rating": "8.4",
+    "rating": "3.5",
     "category": "TV Show",
-    "description": "Years after a nuclear apocalypse devastates America, a violent raid by bandits on an underground fallout shelter forces one of its residents to set out into a barren wasteland filled with radiation, mutated monsters, and a lawless society of those who remained on the surface.",
-    "isFeatured": false
+    "producer": "Amazon",
+    "description": "Years after a nuclear apocalypse devastates America, a violent raid by bandits on an underground fallout shelter forces one of its residents to set out into a barren wasteland filled with radiation, mutated monsters, and a lawless society of those who remained on the surface."
   }
   
 ]

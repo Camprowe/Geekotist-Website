@@ -1,0 +1,116 @@
+---
+interface Props {
+	description: string;
+}
+
+const { description } = Astro.props;
+---
+
+<article>							
+	<div class="window" tabindex="0">
+		<div class="window__title-bar">
+			<div class="window__title">
+			Did you know?
+			</div>
+			<div class="buttons">
+				<span class="window__btn">
+					&#150;
+				</span>
+				<span class="window__btn">
+					&#9744;
+				</span>
+				<span class="window__btn">
+					&#88;
+				</span>
+			</div>
+		</div>
+
+		<div class="window__body">
+			<img src="https://wpassets.halowaypoint.com/wp-content/2025/06/AST_Playlist_H3Legacy_1920x1080_Clean.jpg" />
+			<p>{description}</p>
+		</div>
+	</div>
+</article>
+
+<style>
+.window {
+  display: flex;
+  flex-direction: column;
+  min-width: 400px;
+  min-height: 350px;
+  border: 5px solid #1c1c1c;
+  box-shadow: 10px 10px 0 #FFA500;
+  max-width: 980px;
+  max-height: 600px;
+  background-color: #FFC14D;
+  border-radius: 2px;  
+}
+
+.window__title-bar {
+  background-color: #FFC14D;
+  color: #1c1c1c;
+  border-bottom: 5px solid #1c1c1c;
+  padding: 5px, 10px;
+  display: flex;
+  align-items: center;  
+  justify-content: space-between;
+  user-select: none;
+  z-index: 1;
+  box-shadow: 0px 5px 6px -2px #bb99ff5e;
+  
+}
+
+.window .buttons {
+	display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 10px;
+}
+
+.window__body {
+  flex-grow: 1;
+  background-color: white;
+  color: #1c1c1c;
+  padding: 10px;
+  overflow-y: auto;
+  scrollbar-width: thin;
+
+  &::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+    background-color: #dfd4fd;
+  }
+}
+
+.window__body img {
+	width: 100%; 
+}
+
+.window__btn {
+  background-color: #1c1c1c;
+  width: 40px;
+  height: 20px;
+  border: none;
+  border-radius: 0px;
+  font-size: 1rem;
+  display: flex;
+  place-content: center;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  color: #ffffff !important;  
+}
+
+.window__btn + .window__btn {
+  margin-left: 6px;
+}
+
+.window__title {
+	line-height: 1.5;
+	text-transform: uppercase;
+	letter-spacing: 0.2em;
+  	font-weight: 900;
+  	font-size: 1em;
+	padding: 0 10px;
+}
+</style>

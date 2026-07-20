@@ -18,20 +18,14 @@ export function getStaticPaths() {
 const { movie } = Astro.props;
 
 // Filter related movies by category/genre
-let relatedMovies = movies.filter(m => m.category === movie.category && m.title !== movie.title);
+let unshuffledEntertainment = movies.filter(m => m.category === movie.category && m.title !== movie.title);
 
-let relatedKnowledge = knowledge.filter(k => k.entertainment.includes(movie.title)).slice(0, 4); // Show top 4
+let relatedEntertainment = [...unshuffledEntertainment].sort(() => Math.random() - 0.5).slice(0,4);
 
-// Fallback logic to make sure we always have 4 movies
-if (relatedMovies.length < 4) {
-	const otherMovies = movies
-		.filter(m => m.title !== movie.title && !relatedMovies.some(r => r.title === m.title))
-		.sort((a, b) => parseFloat(b.rating) - parseFloat(a.rating));
-	
-	relatedMovies = [...relatedMovies, ...otherMovies].slice(0, 4);
-} else {
-	relatedMovies = relatedMovies.slice(0, 4);
-}
+let unshuffledKnowledge = knowledge.filter(k => k.entertainment.includes(movie.title));
+
+let relatedKnowledge = [...unshuffledKnowledge].sort(() => Math.random() - 0.5).slice(0,4);
+
 ---
 
 <Layout 
@@ -81,13 +75,13 @@ if (relatedMovies.length < 4) {
 
 		{relatedKnowledge.length > 0 && (
 			<div class="related-section">
-				<KnowledgeGrid title={"Details from " + movie.title} knowledge={relatedKnowledge} knowledgeLink={`/entertainment/${slugify(movie.title)}/knowledge`}  />
+				<KnowledgeGrid title={"Knowledge from " + movie.title} knowledge={relatedKnowledge} knowledgeLink={`/entertainment/${slugify(movie.title)}/knowledge`}  />
 			</div>
 		)}
 
-		{relatedMovies.length > 0 && (
+		{relatedEntertainment.length > 0 && (
 			<div class="related-section">
-				<MovieGrid title={"More " + movie.category + "s"} movies={relatedMovies} />
+				<MovieGrid title={"More " + movie.category + "s"} movies={relatedEntertainment} />
 			</div>
 		)}
 

@@ -19,12 +19,13 @@ const categories = [...new Set(movies.map(m => m.category))];
 	<main>
 		<Hero />
 		{categories.map(category => {
-			const categoryMovies = movies.filter(m => m.category === category).slice(0, 4); // Show top 4
+			const unshuffledEntertainment = movies.filter(m => m.category === category)
+			const shuffledEntertainment = [...unshuffledEntertainment].sort(() => Math.random() - 0.5).slice(0,4);
 			const categorySlug = slugify(category);
 			return (
 				<MovieGrid 
 					title={`${category}s`} 
-					movies={categoryMovies} 
+					movies={shuffledEntertainment} 
 					categoryLink={`/category/${categorySlug}`} 
 				/>
 			);

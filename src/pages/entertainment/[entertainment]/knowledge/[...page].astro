@@ -24,7 +24,10 @@ export function getStaticPaths({ paginate }: GetStaticPathsOptions) {
 const { page, entertainmentName } = Astro.props;
 ---
 
-<Layout>
+<Layout
+	title={`${entertainmentName}s - Knowledge Page ${page.currentPage} of ${page.lastPage} - Geekotist by Camprowe`} 
+	description={`Explore the knowledge and facts about ${entertainmentName}s that Camprowe has documented here on the Geekotist site.`}
+>
 	<Header />
 	<main class="category-page">
 		<div class="category-header">

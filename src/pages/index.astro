@@ -19,7 +19,7 @@ const categories = [...new Set(movies.map(m => m.category))];
 	<main>
 		<Hero />
 		{categories.map(category => {
-			const categoryMovies = movies.filter(m => m.category === category).slice(0, 5); // Show top 4
+			const categoryMovies = movies.filter(m => m.category === category).slice(0, 4); // Show top 4
 			const categorySlug = slugify(category);
 			return (
 				<MovieGrid 

@@ -6,14 +6,16 @@ interface Props {
 	knowledge: Array<{
 		description: string;
 	}>;
+	knowledgeLink?: string;
 }
 
-const { title, knowledge } = Astro.props;
+const { title, knowledge, knowledgeLink } = Astro.props;
 ---
 
 <section class="movie-grid-container">
 	<div class="header">
 		<h2>{title}</h2>
+		{knowledgeLink && <a href={knowledgeLink} class="view-all">View All</a>}
 	</div>
 	
 	<div class="grid">

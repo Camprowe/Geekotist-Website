@@ -20,7 +20,7 @@ const { movie } = Astro.props;
 // Filter related movies by category/genre
 let relatedMovies = movies.filter(m => m.category === movie.category && m.title !== movie.title);
 
-let relatedFacts = knowledge.filter(k => k.entertainment.includes(movie.title));
+let relatedKnowledge = knowledge.filter(k => k.entertainment.includes(movie.title)).slice(0, 4); // Show top 4
 
 // Fallback logic to make sure we always have 4 movies
 if (relatedMovies.length < 4) {
@@ -79,9 +79,9 @@ if (relatedMovies.length < 4) {
 			</div>
 		</div>
 
-		{relatedFacts.length > 0 && (
+		{relatedKnowledge.length > 0 && (
 			<div class="related-section">
-				<KnowledgeGrid title={"Details from " + movie.title} knowledge={relatedFacts} />
+				<KnowledgeGrid title={"Details from " + movie.title} knowledge={relatedKnowledge} knowledgeLink={`/entertainment/${slugify(movie.title)}/knowledge`}  />
 			</div>
 		)}
 

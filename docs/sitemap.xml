@@ -3,128 +3,230 @@
   
   <url>
     <loc>https://geekotist.com</loc>
-    <lastmod>2026-07-17</lastmod>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://geekotist.com/category/video-game</loc>
-    <lastmod>2026-07-17</lastmod>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://geekotist.com/category/movie</loc>
-    <lastmod>2026-07-17</lastmod>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://geekotist.com/category/tv-show</loc>
-    <lastmod>2026-07-17</lastmod>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://geekotist.com/entertainement/grand-theft-auto-v</loc>
-    <lastmod>2026-07-17</lastmod>
+    <loc>https://geekotist.com/entertainment/grand-theft-auto-v</loc>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geekotist.com/entertainement/the-elder-scrolls-v-skyrim</loc>
-    <lastmod>2026-07-17</lastmod>
+    <loc>https://geekotist.com/entertainment/the-elder-scrolls-v-skyrim</loc>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geekotist.com/entertainement/halo-3</loc>
-    <lastmod>2026-07-17</lastmod>
+    <loc>https://geekotist.com/entertainment/halo-3</loc>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geekotist.com/entertainement/assassins-creed-ii</loc>
-    <lastmod>2026-07-17</lastmod>
+    <loc>https://geekotist.com/entertainment/assassins-creed-ii</loc>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geekotist.com/entertainement/world-of-warcraft</loc>
-    <lastmod>2026-07-17</lastmod>
+    <loc>https://geekotist.com/entertainment/world-of-warcraft</loc>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geekotist.com/entertainement/destiny</loc>
-    <lastmod>2026-07-17</lastmod>
+    <loc>https://geekotist.com/entertainment/destiny</loc>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geekotist.com/entertainement/fallout-3</loc>
-    <lastmod>2026-07-17</lastmod>
+    <loc>https://geekotist.com/entertainment/fallout-3</loc>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geekotist.com/entertainement/the-avengers</loc>
-    <lastmod>2026-07-17</lastmod>
+    <loc>https://geekotist.com/entertainment/the-avengers</loc>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geekotist.com/entertainement/the-dark-knight</loc>
-    <lastmod>2026-07-17</lastmod>
+    <loc>https://geekotist.com/entertainment/the-dark-knight</loc>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geekotist.com/entertainement/the-super-mario-bros-movie</loc>
-    <lastmod>2026-07-17</lastmod>
+    <loc>https://geekotist.com/entertainment/the-super-mario-bros-movie</loc>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geekotist.com/entertainement/spider-man-into-the-spider-verse</loc>
-    <lastmod>2026-07-17</lastmod>
+    <loc>https://geekotist.com/entertainment/spider-man-into-the-spider-verse</loc>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geekotist.com/entertainement/pirates-of-the-caribbean-dead-mans-chest</loc>
-    <lastmod>2026-07-17</lastmod>
+    <loc>https://geekotist.com/entertainment/pirates-of-the-caribbean-dead-mans-chest</loc>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geekotist.com/entertainement/arcane</loc>
-    <lastmod>2026-07-17</lastmod>
+    <loc>https://geekotist.com/entertainment/arcane</loc>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geekotist.com/entertainement/avatar-the-last-airbender</loc>
-    <lastmod>2026-07-17</lastmod>
+    <loc>https://geekotist.com/entertainment/avatar-the-last-airbender</loc>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geekotist.com/entertainement/my-hero-academia</loc>
-    <lastmod>2026-07-17</lastmod>
+    <loc>https://geekotist.com/entertainment/my-hero-academia</loc>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geekotist.com/entertainement/adventure-time</loc>
-    <lastmod>2026-07-17</lastmod>
+    <loc>https://geekotist.com/entertainment/adventure-time</loc>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geekotist.com/entertainement/fallout</loc>
-    <lastmod>2026-07-17</lastmod>
+    <loc>https://geekotist.com/entertainment/fallout</loc>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://geekotist.com/entertainment/grand-theft-auto-v/knowledge</loc>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://geekotist.com/entertainment/the-elder-scrolls-v-skyrim/knowledge</loc>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://geekotist.com/entertainment/halo-3/knowledge</loc>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://geekotist.com/entertainment/assassins-creed-ii/knowledge</loc>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://geekotist.com/entertainment/world-of-warcraft/knowledge</loc>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://geekotist.com/entertainment/destiny/knowledge</loc>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://geekotist.com/entertainment/fallout-3/knowledge</loc>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://geekotist.com/entertainment/the-avengers/knowledge</loc>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://geekotist.com/entertainment/the-dark-knight/knowledge</loc>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://geekotist.com/entertainment/the-super-mario-bros-movie/knowledge</loc>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://geekotist.com/entertainment/spider-man-into-the-spider-verse/knowledge</loc>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://geekotist.com/entertainment/pirates-of-the-caribbean-dead-mans-chest/knowledge</loc>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://geekotist.com/entertainment/arcane/knowledge</loc>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://geekotist.com/entertainment/avatar-the-last-airbender/knowledge</loc>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://geekotist.com/entertainment/my-hero-academia/knowledge</loc>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://geekotist.com/entertainment/adventure-time/knowledge</loc>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://geekotist.com/entertainment/fallout/knowledge</loc>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
 </urlset>

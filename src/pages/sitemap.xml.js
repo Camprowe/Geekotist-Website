@@ -13,9 +13,12 @@ export async function GET() {
   const categoryUrls = categories.map(cat => `/category/${slugify(cat)}`);
 
   // Get dynamic movie pages
-  const movieUrls = movies.map(movie => `/entertainement/${slugify(movie.title)}`);
+  const movieUrls = movies.map(movie => `/entertainment/${slugify(movie.title)}`);
 
-  const allUrls = [...staticPages, ...categoryUrls, ...movieUrls];
+  //Get knowledge pages
+  const knowledgeUrls = movies.map(movie => `/entertainment/${slugify(movie.title)}/knowledge`)
+
+  const allUrls = [...staticPages, ...categoryUrls, ...movieUrls, ...knowledgeUrls];
 
   const xml = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">

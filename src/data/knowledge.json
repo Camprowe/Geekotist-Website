@@ -12,5 +12,40 @@
     "entertainment": ["Halo 3"],
     "description": "Whilst your on the loading screen on December 25th (Christmas Day), if you press down on both thumbsticks a wider view of teh Halo Ring will display and if you look closely you can make out 'Happy Birthday, Lauren!' displayed on the rings surface.",
     "source": "https://www.youtube.com/watch?v=LuKaWd6_Stg"
+  },
+  { 
+    "title" : "Futuristic Aang",
+    "image" : "https://miro.medium.com/v2/resize:fit:1100/format:webp/0*3xTjr7rYOjGYjKqi.jpg",
+    "entertainment": ["Avatar: The Last Airbender"],
+    "description": "An original concept for Aang had him coming from a Futuristic Sci-Fi world, with Aang being the last suvivor taking him 1000 years into the future as the world reverts back to a more ancient time. Momo would also be a robot cyclops monkey which sounds pretty cool (not that we'd ever want to change him).",
+    "source": "https://www.youtube.com/watch?v=ft5YcUtHr4k&t=183s"
+  }  ,
+  { 
+    "title" : "Kuroks Short Life",
+    "image" : "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/02/avatar-the-last-airbender-avatar-kuruk.png",
+    "entertainment": ["Avatar: The Last Airbender", "The Legend of Korra"],
+    "description": "Avatar Kurok is the shortest living Avatar, he died at the age of 33. This was caused by Avatar Yangchen, who neglected the spirits, because of this every time Angry Spirits invaded the world. When Kurok defeated them some of his life energy would be drained eventually killing him.",
+    "source": "https://www.goodreads.com/book/show/50158990-the-shadow-of-kyoshi"
+  },
+  { 
+    "title" : "Why Skyrim?",
+    "image" : "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/12107975/skyrim_remastered.0.0.0.jpg",
+    "entertainment": ["The Elder Scrolls V: Skyrim"],
+    "description": "Skyrim was chosen as the next game in The Elder Scrolls series after Oblivion, was because the most was known about the province of Skyrim.It gave Bethesda more to start with as they developed the game. Along with the fact that Skyrim was considered cool",
+    "source": "https://youtu.be/Nf55GOfp984?si=Dmw2phQ6DEIByli9&t=74"
+  },
+  { 
+    "title" : "A Positive Attitude",
+    "image" : "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/25384858/vault_boy.jpg",
+    "entertainment": ["Fallout 3", "Fallout"],
+    "description": "Brian Fargo the co-creator of the Fallout series, went on record to confirm that the Vault Boy Thumbs-up depiction wasn't to see how close you are to atomic bomb blast (if it's bigger than your thumb you're in the radiation zone). Vault Boy simply has a 'Positive Attitude'",
+    "source": "https://x.com/BrianFargo/status/400277541295886337"
+  },
+  { 
+    "title" : "Experienced Thief",
+    "image" : "https://i.ytimg.com/vi/2Zabl75eobE/maxresdefault.jpg",
+    "entertainment": ["The Elder Scrolls V: Skyrim", "Thief"],
+    "description": "Stephen Russell the voice actor behind the leader of the Thieves Guild Mercer Frey in Skyrim, is also the voice actor for Garrett from the Thief Series, clearly Stephen is the ultimate Thief.",
+    "source": "https://www.imdb.com/name/nm1592197/"
   }
 ]

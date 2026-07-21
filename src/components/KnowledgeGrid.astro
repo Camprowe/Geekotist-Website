@@ -4,7 +4,10 @@ import KnowledgeCard from './KnowledgeCard.astro';
 interface Props {
 	title: string;
 	knowledge: Array<{
+		title: string;
 		description: string;
+		image: string;
+		source: string;
 	}>;
 	knowledgeLink?: string;
 }
@@ -21,7 +24,10 @@ const { title, knowledge, knowledgeLink } = Astro.props;
 	<div class="grid">
 		{knowledge.map(k => (
 			<KnowledgeCard
+				title={k.title}
 				description={k.description}
+				image={k.image}
+				source={k.source}
 			/>
 		))}
 	</div>
@@ -71,14 +77,13 @@ const { title, knowledge, knowledgeLink } = Astro.props;
 
 	.grid {
 		display: grid;
-		grid-template-columns: 1fr 1fr;
-		gap: 2rem;
+		grid-template-columns: 48% 48%;
+		gap: 4%;
 	}
 
 	@media (max-width: 980px) {
 		.grid {
-			grid-template-columns: 1fr;
-			gap: 1rem;
+			grid-template-columns: 100%;
 		}
 	}
 </style>

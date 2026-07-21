@@ -1,16 +1,19 @@
 ---
 interface Props {
+  title: string;
 	description: string;
+  image: string;
+  source: string
 }
 
-const { description } = Astro.props;
+const { title, description, image, source } = Astro.props;
 ---
 
 <article>							
 	<div class="window" tabindex="0">
 		<div class="window__title-bar">
 			<div class="window__title">
-			Did you know?
+			{title}
 			</div>
 			<div class="buttons">
 				<span class="window__btn">
@@ -26,8 +29,8 @@ const { description } = Astro.props;
 		</div>
 
 		<div class="window__body">
-			<img src="https://wpassets.halowaypoint.com/wp-content/2025/06/AST_Playlist_H3Legacy_1920x1080_Clean.jpg" />
-			<p>{description}</p>
+			<img src={image} />
+			<p>{description} (<a href={source}>Source</a>)</p>
 		</div>
 	</div>
 </article>
@@ -36,12 +39,9 @@ const { description } = Astro.props;
 .window {
   display: flex;
   flex-direction: column;
-  min-width: 400px;
-  min-height: 350px;
   border: 5px solid #1c1c1c;
   box-shadow: 10px 10px 0 #FFA500;
-  max-width: 980px;
-  max-height: 600px;
+  height: 100%;
   background-color: #FFC14D;
   border-radius: 2px;  
 }
@@ -82,8 +82,13 @@ const { description } = Astro.props;
   }
 }
 
+.window__body a {
+  font-weight: 900;
+}
+
 .window__body img {
-	width: 100%; 
+	width: 100%;
+
 }
 
 .window__btn {

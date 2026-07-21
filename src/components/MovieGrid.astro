@@ -78,21 +78,20 @@ const { title, movies, categoryLink } = Astro.props;
 
 	.grid {
 		display: grid;
-		grid-template-columns: 1fr 1fr 1fr 1fr;
-		gap: 2rem;
+		grid-template-columns: 22% 22% 22% 22%;
+		gap: 4%;
 	}
 
 	@media (max-width: 1250px) {
 		.grid {
-			grid-template-columns: 1fr 1fr;
-			gap: 1rem;
+			grid-template-columns: 48% 48%;
+			gap: 4%;
 		}
 	}
 
 	@media (max-width: 600px) {
 		.grid {
-			grid-template-columns: 1fr;
-			gap: 0.5rem;
+			grid-template-columns: 100%;
 		}
 	}
 </style>

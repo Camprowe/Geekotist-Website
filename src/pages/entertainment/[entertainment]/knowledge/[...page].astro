@@ -1,0 +1,117 @@
+---
+import type { GetStaticPathsOptions } from 'astro';
+import Layout from '../../../../layouts/Layout.astro';
+import Header from '../../../../components/Header.astro';
+import KnowledgeGrid from '../../../../components/KnowledgeGrid.astro';
+import Footer from '../../../../components/Footer.astro';
+import knowledge from '../../../../data/knowledge.json';
+import movies from '../../../../data/movies.json'
+import { slugify } from '../../../../utils/slugify.js';
+import { propsToFilename } from 'astro/assets';
+
+export function getStaticPaths({ paginate }: GetStaticPathsOptions) {	
+	
+	return movies.flatMap(movie => {
+		const knowledgeCondensed = knowledge.filter(k => k.entertainment.includes(movie.title));
+		return paginate(knowledgeCondensed, {
+			params: { entertainment: slugify(movie.title) },
+			props: { entertainmentName: movie.title },
+			pageSize: 8 // Show 8 movies per page
+		});
+	});
+}
+
+const { page, entertainmentName } = Astro.props;
+---
+
+<Layout
+	title={`${entertainmentName}s - Knowledge Page ${page.currentPage} of ${page.lastPage} - Geekotist by Camprowe`} 
+	description={`Explore the knowledge and facts about ${entertainmentName}s that Camprowe has documented here on the Geekotist site.`}
+>
+	<Header />
+	<main class="category-page">
+		<div class="category-header">
+			<h1>{entertainmentName} Knowledge</h1>
+			<p>Page {page.currentPage} of {page.lastPage}</p>
+		</div>
+
+		<KnowledgeGrid title="" knowledge={page.data} />
+
+		<div class="pagination">
+			{page.url.prev ? (
+				<a href={page.url.prev} class="page-link">Previous</a>
+			) : (
+				<span class="page-link disabled">Previous</span>
+			)}
+			
+			<div class="page-numbers">
+				{page.currentPage} / {page.lastPage}
+			</div>
+
+			{page.url.next ? (
+				<a href={page.url.next} class="page-link">Next</a>
+			) : (
+				<span class="page-link disabled">Next</span>
+			)}
+		</div>
+	</main>
+	<Footer />
+</Layout>
+
+<style>
+	.category-page {
+		max-width: 1200px;
+		margin: 0 auto;
+		padding-top: 8rem;
+		min-height: 100vh;
+	}
+
+	.category-header {
+		text-align: center;
+		margin-bottom: 2rem;
+		padding: 0 5%;
+	}
+
+	.category-header h1 {
+		font-size: 3rem;
+		font-weight: 800;
+		margin: 0 0 0.5rem 0;
+		letter-spacing: -1px;
+	}
+
+	.category-header p {
+		color: var(--text-muted);
+		font-size: 1.1rem;
+		margin: 0;
+	}
+
+	.pagination {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		gap: 2rem;
+		padding: 2rem 5% 5rem 5%;
+	}
+
+	.page-link {
+		padding: 0.8rem 1.5rem;
+		background-color: rgba(255, 255, 255, 0.1);
+		border-radius: 4px;
+		font-weight: 600;
+		transition: background-color 0.3s ease;
+	}
+
+	a.page-link:hover {
+		background-color: rgba(255, 255, 255, 0.2);
+	}
+
+	.page-link.disabled {
+		opacity: 0.5;
+		cursor: not-allowed;
+	}
+
+	.page-numbers {
+		font-weight: 600;
+		font-size: 1.1rem;
+	}
+</style>

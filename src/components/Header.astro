@@ -194,10 +194,7 @@ const searchData = movies.map((m) => ({
 		left: 0;
 		right: 0;
 		z-index: 100;
-		background: linear-gradient(
-			to bottom,
-			rgba(0, 0, 0, 0.9) 0%,
-			transparent 100%
+		background-color: #ffffff;
 		);
 	}
 
@@ -248,8 +245,14 @@ const searchData = movies.map((m) => ({
 	.search-container {
 		position: relative;
 		flex: 1;
-		max-width: 400px;
+		min-width: 50%;
 		margin: 0 2rem;
+	}
+
+	@media (max-width: 720px) {
+		.search-container {
+			min-width: 30%;
+		}
 	}
 
 	.search-input-wrapper {
@@ -319,7 +322,7 @@ const searchData = movies.map((m) => ({
 	.nav-links a {
 		font-size: 0.9rem;
 		font-weight: 600;
-		color: var(--text-muted);
+		color: var(--bg-color);
 		transition: color 0.3s ease;
 		text-transform: uppercase;
 		letter-spacing: 1px;
@@ -327,7 +330,7 @@ const searchData = movies.map((m) => ({
 
 	.nav-links a:hover,
 	.nav-links a.active {
-		color: var(--text-color);
+		color: var(--accent-color);
 	}
 
 	/* Mobile Toggle styles */
@@ -335,7 +338,7 @@ const searchData = movies.map((m) => ({
 		display: none;
 		background: none;
 		border: none;
-		color: white;
+		color: #1c1c1c;
 		cursor: pointer;
 		padding: 0.5rem;
 		z-index: 110;
@@ -347,11 +350,7 @@ const searchData = movies.map((m) => ({
 		height: 44px;
 		border-radius: 50%;
 		transition: background-color 0.3s ease;
-	}
-
-	.menu-toggle:hover,
-	.menu-toggle:focus {
-		background-color: rgba(255, 255, 255, 0.1);
+		background-color: #ffffff;
 	}
 
 	.menu-toggle .line {
@@ -372,37 +371,36 @@ const searchData = movies.map((m) => ({
 		transform: translateY(-6px) rotate(-45deg);
 	}
 
-	@media (max-width: 768px) {
-		.menu-toggle {
-			display: flex;
-		}
-
-		.nav-links {
-			position: fixed;
-			top: 0;
-			right: -100%;
-			width: 75%;
-			max-width: 280px;
-			height: 100vh;
-			background-color: #0a0a0a;
-			border-left: 1px solid rgba(255, 255, 255, 0.1);
-			flex-direction: column;
-			padding: 7rem 2rem 2rem 2rem;
-			gap: 1.5rem;
-			z-index: 105;
-			transition: right 0.3s ease;
-			box-shadow: -10px 0 30px rgba(0, 0, 0, 0.9);
-		}
-
-		.nav-links.active {
-			right: 0;
-		}
-
-		.search-container {
-			max-width: 180px;
-			margin: 0 1rem 0 0;
-		}
+	.menu-toggle {
+		display: flex;
 	}
+
+	.nav-links {
+		position: fixed;
+		top: 0;
+		right: -100%;
+		width: 75%;
+		max-width: 280px;
+		height: 100vh;
+		background-color: #0a0a0a;
+		border-left: 1px solid rgba(255, 255, 255, 0.1);
+		flex-direction: column;
+		padding: 7rem 2rem 2rem 2rem;
+		gap: 1.5rem;
+		z-index: 105;
+		transition: right 0.3s ease;
+		box-shadow: -10px 0 30px rgba(0, 0, 0, 0.9);
+	}
+
+	.nav-links.active {
+		right: 0;
+	}
+
+	.search-container {
+		max-width: 180px;
+		margin: 0 1rem 0 0;
+	}
+	
 </style>
 
 <style is:global>

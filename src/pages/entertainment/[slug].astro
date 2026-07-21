@@ -3,8 +3,9 @@ import Layout from '../../layouts/Layout.astro';
 import Header from '../../components/Header.astro';
 import Footer from '../../components/Footer.astro';
 import MovieGrid from '../../components/MovieGrid.astro';
+import KnowledgeGrid from '../../components/KnowledgeGrid.astro';
 import movies from '../../data/movies.json';
-import facts from '../../data/facts.json';
+import knowledge from '../../data/knowledge.json';
 import { slugify } from '../../utils/slugify.js';
 
 export function getStaticPaths() {
@@ -17,20 +18,14 @@ export function getStaticPaths() {
 const { movie } = Astro.props;
 
 // Filter related movies by category/genre
-let relatedMovies = movies.filter(m => m.category === movie.category && m.title !== movie.title);
+let unshuffledEntertainment = movies.filter(m => m.category === movie.category && m.title !== movie.title);
 
-let relatedFacts = facts.filter(f => f.entertainment.includes(movie.title));
+let relatedEntertainment = [...unshuffledEntertainment].sort(() => Math.random() - 0.5).slice(0,4);
 
-// Fallback logic to make sure we always have 4 movies
-if (relatedMovies.length < 4) {
-	const otherMovies = movies
-		.filter(m => m.title !== movie.title && !relatedMovies.some(r => r.title === m.title))
-		.sort((a, b) => parseFloat(b.rating) - parseFloat(a.rating));
-	
-	relatedMovies = [...relatedMovies, ...otherMovies].slice(0, 4);
-} else {
-	relatedMovies = relatedMovies.slice(0, 4);
-}
+let unshuffledKnowledge = knowledge.filter(k => k.entertainment.includes(movie.title));
+
+let relatedKnowledge = [...unshuffledKnowledge].sort(() => Math.random() - 0.5).slice(0,4);
+
 ---
 
 <Layout 
@@ -78,13 +73,15 @@ if (relatedMovies.length < 4) {
 			</div>
 		</div>
 
-		{relatedFacts.length > 0 && (
-			<h3>{relatedFacts[0].description}</h3>
+		{relatedKnowledge.length > 0 && (
+			<div class="related-section">
+				<KnowledgeGrid title={"Knowledge from " + movie.title} knowledge={relatedKnowledge} knowledgeLink={`/entertainment/${slugify(movie.title)}/knowledge`}  />
+			</div>
 		)}
 
-		{relatedMovies.length > 0 && (
+		{relatedEntertainment.length > 0 && (
 			<div class="related-section">
-				<MovieGrid title={"More " + movie.category + "s"} movies={relatedMovies} />
+				<MovieGrid title={"More " + movie.category + "s"} movies={relatedEntertainment} />
 			</div>
 		)}
 
@@ -226,14 +223,14 @@ if (relatedMovies.length < 4) {
 	}
 
 	.dot {
-		color: #555;
+		color: #000000;
 	}
 
 	.rating {
 		display: flex;
 		align-items: center;
 		gap: 0.5rem;
-		color: #ffffff;
+		color: #1c1c1c;
 		font-weight: 600;
 	}
 
@@ -291,6 +288,6 @@ if (relatedMovies.length < 4) {
 		max-width: 1200px;
 		margin: 0 auto;
 		padding: 3rem 5% 5rem 5%;
-		border-top: 1px solid rgba(255, 255, 255, 0.1);
+		border-top: 1px solid #1c1c1c;
 	}
 </style>

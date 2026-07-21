@@ -1,22 +1,14 @@
 [
-  {    
-    "entertainment": ["Halo 3", ""],
-    "description": "5Witness the Master Chief’s return to finish the fight between the Covenant, the Flood, and the entire Human race in this dramatic, pulse-pounding conclusion of the original Halo trilogy. With the fate of the galaxy hanging in the balance, the Master Chief returns to uncover an ancient secret hidden beneath the sands of Africa."
+  { 
+    "title" : "Hidden Face of a Spartan?",
+    "entertainment": ["Halo 3"],
+    "description": "In the beta release of Halo 3 multiplayer mode, if you angle the camera just right while on a mongoose, you can clip through the Spartan's helmet and it'll show a face underneath. Which is the image of Marcus Lehto, Bungie's creative director from 1997 to 2012.",
+    "source": "https://www.youtube.com/watch?v=wj-Grd-JEFk"
   },
-  {    
-    "entertainment": ["Halo 3", ""],
-    "description": "4Witness the Master Chief’s return to finish the fight between the Covenant, the Flood, and the entire Human race in this dramatic, pulse-pounding conclusion of the original Halo trilogy. With the fate of the galaxy hanging in the balance, the Master Chief returns to uncover an ancient secret hidden beneath the sands of Africa."
-  },
-  {    
-    "entertainment": ["Halo 3", ""],
-    "description": "3Witness the Master Chief’s return to finish the fight between the Covenant, the Flood, and the entire Human race in this dramatic, pulse-pounding conclusion of the original Halo trilogy. With the fate of the galaxy hanging in the balance, the Master Chief returns to uncover an ancient secret hidden beneath the sands of Africa."
-  },
-  {    
-    "entertainment": ["Halo 3", ""],
-    "description": "2Witness the Master Chief’s return to finish the fight between the Covenant, the Flood, and the entire Human race in this dramatic, pulse-pounding conclusion of the original Halo trilogy. With the fate of the galaxy hanging in the balance, the Master Chief returns to uncover an ancient secret hidden beneath the sands of Africa."
-  },
-  {    
-    "entertainment": ["Halo 3", ""],
-    "description": "1Witness the Master Chief’s return to finish the fight between the Covenant, the Flood, and the entire Human race in this dramatic, pulse-pounding conclusion of the original Halo trilogy. With the fate of the galaxy hanging in the balance, the Master Chief returns to uncover an ancient secret hidden beneath the sands of Africa."
+  { 
+    "title" : "Loading Screen Happy Birthday",
+    "entertainment": ["Halo 3"],
+    "description": "Whilst your on the loading screen on December 25th (Christmas Day), if you press down on both thumbsticks a wider view of teh Halo Ring will display and if you look closely you can make out 'Happy Birthday, Lauren!' displayed on the rings surface.",
+    "source": "https://www.youtube.com/watch?v=LuKaWd6_Stg"
   }
 ]

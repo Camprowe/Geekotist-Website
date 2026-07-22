@@ -15,7 +15,7 @@ export function getStaticPaths({ paginate }: GetStaticPathsOptions) {
 		return paginate(categoryMovies, {
 			params: { category: slugify(category) },
 			props: { categoryName: category },
-			pageSize: 8 // Show 8 movies per page
+			pageSize: 12 // Show 8 movies per page
 		});
 	});
 }

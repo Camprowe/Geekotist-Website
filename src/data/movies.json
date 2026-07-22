@@ -1,7 +1,7 @@
 [
   {
     "title": "Grand Theft Auto V",
-    "imageUrl": "https://m.media-amazon.com/images/M/MV5BOGI2Yjk1ZTEtZTA2Yy00ZjQ3LTk4MTgtYTgyMGQ1Zjk3YjgzXkEyXkFqcGc@._V1_FMjpg_UX1200_.jpg",
+    "imageUrl": "https://www.igrandtheftauto.com/content/images/lg/gta5-logo-square.png",
     "year": "2013",
     "rating": "4.9",
     "category": "Video Game",
@@ -10,7 +10,7 @@
   },
   {
     "title": "The Elder Scrolls V: Skyrim",
-    "imageUrl": "https://m.media-amazon.com/images/M/MV5BYjk5YzVjMDYtZWIyMS00YTZkLTllOTktYzg2NDY0Njc1YWM2XkEyXkFqcGc@._V1_FMjpg_UX600_.jpg",
+    "imageUrl": "https://4kwallpapers.com/images/wallpapers/the-elder-scrolls-v-2560x2560-14935.jpg",
     "year": "2011",
     "rating": "4.0",
     "category": "Video Game",
@@ -19,7 +19,7 @@
   },
   {
     "title": "Halo 3",
-    "imageUrl": "https://m.media-amazon.com/images/M/MV5BZmQyNTVkOGMtMzZhNi00ZDRjLWJkNzctZTYxMTMxYTYzZjVmXkEyXkFqcGc@._V1_FMjpg_UX600_.jpg",
+    "imageUrl": "https://assetsio.gnwcdn.com/xbox-360-at-10-chasing-1000g-in-halo-3-1448540139573.jpg",
     "year": "2007",
     "rating": "4.8",
     "category": "Video Game",
@@ -28,7 +28,7 @@
   },
   {
     "title": "Assassin's Creed II",
-    "imageUrl": "https://m.media-amazon.com/images/M/MV5BYzcwYjkwOTYtNTQyYi00NzYxLTg4MGUtZjg5YTdiOGE5NjUzXkEyXkFqcGc@._V1_FMjpg_UX600_.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/51bcjsS1bIL._UF894,1000_QL80_.jpg",
     "year": "2009",
     "rating": "4.5",
     "category": "Video Game",
@@ -37,7 +37,7 @@
   },
   {
     "title": "World of Warcraft",
-    "imageUrl": "https://m.media-amazon.com/images/M/MV5BOTViZDllZTAtMjZmNC00MzA3LWFkODktNzgxYmY1NWQzM2Q3XkEyXkFqcGc@._V1_FMjpg_UX1200_.jpg",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/v2/t:0,l:420,cw:1080,ch:1080,q:80,w:1080/P2oA8Z8DbKFasgtLaR4kCN.jpg",
     "year": "2004",
     "rating": "4.0",
     "category": "Video Game",
@@ -46,7 +46,7 @@
   },
   {
     "title": "Destiny",
-    "imageUrl": "https://m.media-amazon.com/images/M/MV5BYTkzYTVhZDQtNTg3Yy00N2FkLTg4MDItZDMyMmMxYWY0MmM0XkEyXkFqcGc@._V1_FMjpg_UY1896_.jpg",
+    "imageUrl": "https://sm.ign.com/t/ign_nordic/cover/d/destiny/destiny_1hn3.600.jpg",
     "year": "2014",
     "rating": "3.5",
     "category": "Video Game",
@@ -55,7 +55,7 @@
   },
   {
     "title": "Fallout 3",
-    "imageUrl": "https://m.media-amazon.com/images/M/MV5BYTExMGE3MDktODk1OS00NTAwLWE3MDgtMzcyZmFhY2E4NWFjXkEyXkFqcGc@._V1_FMjpg_UX600_.jpg",
+    "imageUrl": "https://assets-prd.ignimgs.com/2021/12/07/fallout-3-1638917629067.jpg?crop=1%3A1%2Csmart&format=jpg",
     "year": "2008",
     "rating": "4.7",
     "category": "Video Game",
@@ -64,7 +64,7 @@
   },
   {
     "title": "The Avengers",
-    "imageUrl": "https://m.media-amazon.com/images/M/MV5BNGE0YTVjNzUtNzJjOS00NGNlLTgxMzctZTY4YTE1Y2Y1ZTU4XkEyXkFqcGc@._V1_FMjpg_UX800_.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMDRhMGZlMDEtM2MzYi00MDZhLTgxZGMtN2FlMDg3ZTViOTU2XkEyXkFqcGc@._V1_.jpg",
     "year": "2012",
     "rating": "4.0",
     "category": "Movie",
@@ -73,7 +73,7 @@
   },
   {
     "title": "The Dark Knight",
-    "imageUrl": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "imageUrl": "https://i0.wp.com/letsoverthinkthat.com/wp-content/uploads/2018/10/the-dark-knight-batman.jpg",
     "year": "2008",
     "rating": "5.0",
     "category": "Movie",
@@ -82,7 +82,7 @@
   },
   {
     "title": "The Super Mario Bros. Movie",
-    "imageUrl": "https://m.media-amazon.com/images/M/MV5BOGZlN2EzOTYtMzUzOS00NTM3LTg0MTQtZDVjZGM4YmJlNWNhXkEyXkFqcGc@._V1_FMjpg_UX700_.jpg",
+    "imageUrl": "https://assets-prd.ignimgs.com/2023/03/01/smbmovie-1677696266793.jpg",
     "year": "2023",
     "rating": "3.2",
     "category": "Movie",
@@ -91,7 +91,7 @@
   },
   {
     "title": "Spider-Man: Into the Spider-Verse",
-    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_FMjpg_UY2048_.jpg",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/52c9d908e4b0e87887310693/1570977177233-3MLE72XBCVKG0S2Y8DS5/spiderman-into-spider-verse-5k-7b-2048x2048-1020x1020.jpg",
     "year": "2024",
     "rating": "4.5",
     "category": "Movie",
@@ -100,7 +100,7 @@
   },
   {
     "title": "Pirates of the Caribbean: Dead Man's Chest",
-    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTcwODc1MTMxM15BMl5BanBnXkFtZTYwMDg1NzY3._V1_FMjpg_UX450_.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/51ttUvD6HIL._SL500_.jpg",
     "year": "2024",
     "rating": "4.0",
     "category": "Movie",
@@ -109,7 +109,7 @@
   },
   {
     "title": "Arcane",
-    "imageUrl": "https://m.media-amazon.com/images/M/MV5BYjA2NzhlMDItNWRmZC00MzRjLWE3ZjAtZjBlZDAwOWY2ODdjXkEyXkFqcGc@._V1_FMjpg_UX675_.jpg",
+    "imageUrl": "https://sm.ign.com/ign_za/cover/l/league-of-/league-of-legends-arcane_pnjf.jpg",
     "year": "2021",
     "rating": "4.9",
     "category": "TV Show",
@@ -118,7 +118,7 @@
   },
   {
     "title": "Avatar: The Last Airbender",
-    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMDMwMThjYWYtY2Q2OS00OGM2LTlkODQtNDJlZTZmMjAyYmFhXkEyXkFqcGc@._V1_FMjpg_UX679_.jpg",
+    "imageUrl": "https://sm.ign.com/ign_me/cover/a/avatar-the/avatar-the-last-airbender-2025_yysv.jpg",
     "year": "2005",
     "rating": "4.9",
     "category": "TV Show",
@@ -127,7 +127,7 @@
   },
   {
     "title": "My Hero Academia",
-    "imageUrl": "https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_FMjpg_UY3000_.jpg",
+    "imageUrl": "https://images.augustman.com/wp-content/uploads/sites/5/2024/05/09175526/my-hero-academia-s8.jpeg",
     "year": "2016",
     "rating": "4.0",
     "category": "TV Show",
@@ -136,7 +136,7 @@
   },
   {
     "title": "Adventure Time",
-    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjkxMzIwNmQtMzM5Ni00YWJiLTg4YjQtNjBiN2IxMjZhMGQ2XkEyXkFqcGc@._V1_FMjpg_UX482_.jpg",
+    "imageUrl": "https://www.studiosity.com/hs-fs/hubfs/DTC/09.blog/AdventureTime_characters.jpg?width=1280&height=460&name=AdventureTime_characters.jpg",
     "year": "2010",
     "rating": "3.5",
     "category": "TV Show",
@@ -145,7 +145,7 @@
   },
   {
     "title": "Fallout",
-    "imageUrl": "https://m.media-amazon.com/images/M/MV5BYTAyZjgyYTYtYzY2MS00MWQxLThmMjctOTM4OTcwMDFlMWZmXkEyXkFqcGc@._V1_FMjpg_UY2880_.jpg",
+    "imageUrl": "https://assets-prd.ignimgs.com/2024/03/07/fallout-tv-button-1709823861381.jpg",
     "year": "2024",
     "rating": "3.5",
     "category": "TV Show",

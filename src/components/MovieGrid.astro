@@ -9,6 +9,7 @@ interface Props {
 		imageUrl: string;
 		year: string;
 		producer: string;
+		category: string;
 	}>;
 	categoryLink?: string;
 }
@@ -29,6 +30,7 @@ const { title, movies, categoryLink } = Astro.props;
 				imageUrl={movie.imageUrl}
 				year={movie.year}
 				producer={movie.producer}
+				category={movie.category}
 			/>
 		))}
 	</div>

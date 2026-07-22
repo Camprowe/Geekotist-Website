@@ -4,131 +4,160 @@ import { slugify } from '../utils/slugify.js';
 interface Props {
 	title: string;
 	imageUrl: string;
+	category: string;
 	year: string;
 	producer: string;
 }
 
-const { title, imageUrl, year, producer } = Astro.props;
+const { title, imageUrl, year, producer, category } = Astro.props;
 const slug = slugify(title);
 ---
 
-<a href={`/entertainment/${slug}`} class="movie-card">
-	<div class="poster-container">
-		<img 
-			src={imageUrl} 
-			alt={title} 
-			class="poster" 
-			loading="lazy" 
-			onload="this.classList.add('loaded'); this.parentElement.classList.add('loaded');"
-		/>
-	</div>
-	<div class="info">
-		<h3 class="title" title={title}>{title}</h3>
-		<div class="meta">
-			<span class="year">{year}</span>
-			<span class="rating">				
-				{producer}
-			</span>
-		</div>
-	</div>
-</a>
+<section class="card">
+  <a class="game-card" href={`/entertainment/${slug}`} aria-label="View game page: TimeSplitters 2">
+    <div class="poster">
+      <div class="link-arrow">
+        <svg viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M3 9L9 3M9 3H4.5M9 3V7.5" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </div>
+    </div>
+ 
+    <div class="info">
+      <h3 class="title">{title}</h3>
+      <div class="meta">
+        <div class="meta-row">
+          <span class="meta-label">STUDIO</span>
+          <span class="meta-value">{producer}</span>
+        </div>
+        <div class="meta-row">
+          <span class="meta-label">RELEASED</span>
+          <span class="meta-value">{year}</span>
+        </div>
+      </div>
+    </div>
+  </a>
+</section>
 
-<style>
-	.movie-card {
-		display: flex;
-		flex-direction: column;
-		gap: 0.8rem;
-		cursor: pointer;
-		text-decoration: none;
-		color: inherit;
-	}
+<style define:vars={{image: `url("${imageUrl}")`}}>
 
-	.poster-container {
-		position: relative;
-		border-radius: 8px;
-		overflow: hidden;
-		aspect-ratio: 2 / 3;
-		box-shadow: 0 10px 20px rgba(0,0,0,0.5);
-		background-color: #111111;
-		background-image: linear-gradient(
-			90deg,
-			rgba(255, 255, 255, 0.02) 25%,
-			rgba(255, 255, 255, 0.08) 50%,
-			rgba(255, 255, 255, 0.02) 75%
-		);
-		background-size: 200% 100%;
-		animation: loading-pulse 1.5s infinite;
-	}
+	:root{
+    --ink: #17181A;
+    --ink-raised: #1D1F21;
+    --paper: #EDE6D8;
+    --paper-dim: #B9B2A4;
+    --brass: #FFA500;
+    --spotlight: #E8B458;
+    --hairline: rgba(237,230,216,0.50);
+  }
 
-	.poster-container.loaded {
-		animation: none;
-		background: none;
-	}
-
-	.poster {
-		width: 100%;
-		height: 100%;
-		object-fit: cover;
-		transition: transform 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94), opacity 0.4s ease;
-		opacity: 0;
-	}
-
-	.poster.loaded {
-		opacity: 1;
-	}
-
-	@keyframes loading-pulse {
-		0% {
-			background-position: 200% 0;
-		}
-		100% {
-			background-position: -200% 0;
-		}
-	}
-
-	.movie-card:hover .poster {
-		transform: scale(1.05);
-	}
-
-	.movie-card:hover .overlay {
-		opacity: 1;
-	}
-
-	.movie-card:hover .play-btn {
-		transform: scale(1);
-	}
-	
-	.play-btn:hover {
-		background: var(--accent-color);
-		border-color: var(--accent-color);
-	}
-
-	.info {
-		padding: 0 0.2rem;
-	}
-
-	.title {
-		font-size: 1rem;
-		font-weight: 600;
-		margin: 0 0 0.4rem 0;
-		white-space: nowrap;
-		overflow: hidden;
-		text-overflow: ellipsis;
-	}
-
-	.meta {
-		display: flex;
-		justify-content: space-between;
-		align-items: center;
-		font-size: 0.85rem;
-		color: var(--text-muted);
-	}
-
-	.rating {
+	.card {
+		margin: 0;
+		min-height: 100%;
 		display: flex;
 		align-items: center;
-		gap: 0.3rem;
-		color: #1c1c1c;
-		font-weight: 600;
+		justify-content: center;
 	}
+	 .game-card{
+    display: block;
+    width: 100%;
+    text-decoration: none;
+    background: var(--ink);
+    border-radius: 6px;
+    overflow: hidden;
+    box-shadow:
+      0 1px 0 rgba(237,230,216,0.06) inset,
+      0 24px 48px -20px rgba(0,0,0,0.6);
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
+  }
+ 
+  .game-card:hover{
+    transform: translateY(-3px);
+    box-shadow:
+      0 1px 0 rgba(237,230,216,0.08) inset,
+      0 30px 56px -18px rgba(0,0,0,0.7);
+  }
+ 
+  .game-card:focus-visible{
+    outline: 2px solid var(--brass);
+    outline-offset: 3px;
+  }
+ 
+  /* ---------- poster art (9:16) ---------- */
+  .poster{
+    position: relative;
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    background:
+      radial-gradient(ellipse at 50% 0%, rgba(232,180,88,0.14), transparent 60%),
+      linear-gradient(180deg, #24262A 0%, #1A1B1D 100%);
+	background-image: var(--image);
+	background-size: cover;
+	background-position: center;
+    border-bottom: 1px solid var(--hairline);
+    overflow: hidden;
+  }
+ 
+  .link-arrow{
+    position: absolute;
+    bottom: 8px;
+    right: 8px;
+    width: 22px; height: 22px;
+    border-radius: 50%;
+    background: rgba(0,0,0,0.55);
+    border: 1px solid rgba(237,230,216,0.2);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 2;
+    transition: background 0.15s ease, border-color 0.15s ease;
+  }
+ 
+  .game-card:hover .link-arrow{
+    background: var(--brass);
+    border-color: var(--brass);
+  }
+ 
+  .link-arrow svg{
+    width: 10px; height: 10px;
+    stroke: var(--paper);
+  }
+ 
+  /* ---------- details ---------- */
+  .info{
+    padding: 13px 15px 15px;
+  }
+ 
+  .title{
+    font-weight: 900;
+    font-size: 15px;
+    line-height: 1.3;
+    color: var(--paper);
+    margin: 0 0 8px;
+  }
+ 
+  .meta{
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+  }
+ 
+  .meta-row{
+    display: flex;
+    align-items: baseline;
+    gap: 6px;
+    font-size: 11.5px;
+  }
+ 
+  .meta-label{
+    font-size: 9.5px;
+    letter-spacing: 0.06em;
+    color: var(--brass);
+    width: 52px;
+    flex-shrink: 0;
+  }
+ 
+  .meta-value{
+    color: var(--paper-dim);
+  }
 </style>

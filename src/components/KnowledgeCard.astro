@@ -17,7 +17,7 @@ const { title, description, image, source } = Astro.props;
  
     <div class="body">
       <div class="eyebrow">
-        <span class="fact-index">LORE &amp; CRAFT</span>
+        <span class="fact-index">KNOWLEDGE</span>
         <span class="fact-index"><a href="{source}">Source</a></span>
       </div>
  
@@ -25,30 +25,7 @@ const { title, description, image, source } = Astro.props;
       <p class="desc">{description}</p>
     </div>
  
-  </div>				
-	<!-- <div class="window" tabindex="0">
-		<div class="window__title-bar">
-			<div class="window__title">
-			{title}
-			</div>
-			<div class="buttons">
-				<span class="window__btn">
-					&#150;
-				</span>
-				<span class="window__btn">
-					&#9744;
-				</span>
-				<span class="window__btn">
-					&#88;
-				</span>
-			</div>
-		</div>
-
-		<div class="window__body">
-			<img src={image} />
-			<p>{description} (<a href={source}>Source</a>)</p>
-		</div>
-	</div> -->
+  </div>
 </article>
 
 <style define:vars={{image: `url("${image}")`}}>

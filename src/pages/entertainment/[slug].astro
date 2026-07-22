@@ -37,41 +37,46 @@ let relatedKnowledge = [...unshuffledKnowledge].sort(() => Math.random() - 0.5).
 >
 	<Header />
 	<main class="movie-page">
-		<div class="backdrop">
-			<img 
-				src={movie.imageUrl} 
-				alt={`${movie.title} Backdrop`} 
-				fetchpriority="high" 
-				loading="eager" 
-				onload="this.classList.add('loaded'); this.parentElement.classList.add('loaded');" 
-			/>
-			<div class="overlay"></div>
-		</div>
-		<div class="content">
-			<div class="poster-col">
-				<img 
-					src={movie.imageUrl} 
-					alt={movie.title} 
-					class="main-poster" 
-					fetchpriority="high" 
-					loading="eager" 
-					onload="this.classList.add('loaded'); this.parentElement.classList.add('loaded');" 
-				/>
+		<section class="hero">
+			<div class="hero-inner">
+		
+			<div class="art">
 			</div>
-			<div class="info-col">
-				<span class="category-badge">{movie.category}</span>
+		
+			<div class="content">
+		
 				<h1 class="title">{movie.title}</h1>
-				<div class="meta">
-					<span class="year">{movie.year}</span>
-					<span class="dot">&bull;</span>
-					<span class="rating">
-						{movie.producer}
-					</span>
+
+				<div class="tags">
+					<span class="tag">{movie.category}</span>
 				</div>
-				<h3 class="overview-title">Overview</h3>
-				<p class="description">{movie.description}</p>
+		
+				<div class="meta-grid">
+				<div>
+					<span class="meta-label">STUDIO</span>
+					<span class="meta-value">{movie.producer}</span>
+				</div>
+				<div>
+					<span class="meta-label">RELEASED</span>
+					<span class="meta-value">{movie.year}</span>
+				</div>
+				</div>
+		
+				<p class="desc">{movie.description}</p>
+		
+				<!-- <div class="actions">
+					<a class="btn btn-primary" href="#">
+						Watch the Video Essay
+						<svg viewBox="0 0 12 12" fill="none"><path d="M1 0.5L11 6L1 11.5V0.5Z" fill="currentColor"/></svg>
+					</a>
+					<a class="btn btn-secondary" href="#">
+						All Episodes on This Game
+					</a>
+				</div> -->
 			</div>
-		</div>
+		
+			</div>
+		</section>
 
 		{relatedKnowledge.length > 0 && (
 			<div class="related-section">
@@ -89,205 +94,154 @@ let relatedKnowledge = [...unshuffledKnowledge].sort(() => Math.random() - 0.5).
 	<Footer />
 </Layout>
 
-<style>
+<style define:vars={{image: `url("${movie.imageUrl}")`}}>
+  
 	.movie-page {
-		position: relative;
+		margin: 0 auto;
+		padding-top: 8rem;
 		min-height: 100vh;
-	}
+	}	
 
-	.backdrop {
-		position: absolute;
-		top: 0;
-		left: 0;
-		width: 100%;
-		height: 70vh;
-		z-index: -1;
-		background-color: #050505;
-		background-image: linear-gradient(
-			90deg,
-			rgba(255, 255, 255, 0.01) 25%,
-			rgba(255, 255, 255, 0.04) 50%,
-			rgba(255, 255, 255, 0.01) 75%
-		);
-		background-size: 200% 100%;
-		animation: loading-pulse 2s infinite;
-	}
-
-	.backdrop.loaded {
-		animation: none;
-		background: none;
-	}
-
-	.backdrop img {
-		width: 100%;
-		height: 100%;
-		object-fit: contain;
-		object-position: center 20%;
-		filter: blur(5px);
-		opacity: 0;
-		transition: opacity 0.6s ease-in-out;
-	}
-
-	.backdrop img.loaded {
-		opacity: 0.4;
-	}
-
-	.overlay {
-		position: absolute;
-		top: 0;
-		left: 0;
-		width: 100%;
-		height: 100%;
-		background: linear-gradient(to top, var(--bg-color) 0%, transparent 100%);
-	}
-
-	.content {
-		max-width: 1200px;
-		margin: 0 auto;
-		padding: 10rem 5% 5rem 5%;
-		display: flex;
-		gap: 4rem;
-		position: relative;
-		z-index: 10;
-	}
-
-	.poster-col {
-		flex: 0 0 300px;
-		aspect-ratio: 2 / 3;
-		border-radius: 12px;
-		overflow: hidden;
-		background-size: 100% 100%;
-		animation: loading-pulse 1.5s infinite;
-	}
-
-	.poster-col.loaded {
-		animation: none;
-		background: none;
-	}
-
-	.main-poster {
-		width: 100%;
-		height: 100%;
-		object-fit: contain;
-		border-radius: 12px;
-		opacity: 0;
-		transition: opacity 0.5s ease-in-out;
-	}
-
-	.main-poster.loaded {
-		opacity: 1;
-	}
-
-	@keyframes loading-pulse {
-		0% {
-			background-position: 200% 0;
-		}
-		100% {
-			background-position: -200% 0;
-		}
-	}
-
-	.info-col {
-		flex: 1;
-		padding-top: 2rem;
-	}
-
-	.category-badge {
-		background-color: var(--accent-color);
-		color: white;
-		padding: 0.4rem 1rem;
-		border-radius: 4px;
-		font-size: 0.9rem;
-		font-weight: 800;
-		text-transform: uppercase;
-		letter-spacing: 1px;
-		display: inline-block;
-		margin-bottom: 1.5rem;
-	}
-
-	.title {
-		font-size: 3.5rem;
-		font-weight: 800;
-		margin: 0 0 1rem 0;
-		line-height: 1.1;
-		letter-spacing: -1px;
-	}
-
-	.meta {
-		display: flex;
-		align-items: center;
-		gap: 1rem;
-		font-size: 1.2rem;
-		color: var(--text-muted);
-		margin-bottom: 3rem;
-	}
-
-	.dot {
-		color: #000000;
-	}
-
-	.rating {
-		display: flex;
-		align-items: center;
-		gap: 0.5rem;
-		color: #1c1c1c;
-		font-weight: 600;
-	}
-
-	.overview-title {
-		font-size: 1.5rem;
-		font-weight: 600;
-		margin: 0 0 1rem 0;
-	}
-
-	.description {
-		font-size: 1.1rem;
-		line-height: 1.8;
-		margin-bottom: 3rem;
-		max-width: 800px;
-	}
-
-	.btn {
-		display: flex;
-		align-items: center;
-		gap: 0.5rem;
-		padding: 1rem 2rem;
-		border: none;
-		border-radius: 4px;
-		font-size: 1.1rem;
-		font-weight: 600;
-		cursor: pointer;
-		transition: all 0.3s ease;
-	}
-
-	.btn-primary {
-		background-color: var(--text-color);
-		color: var(--bg-color);
-		text-shadow: none;
-	}
-
-	.btn-primary:hover {
-		background-color: rgba(255, 255, 255, 0.8);
-		transform: scale(1.05);
-	}
-
-	@media (max-width: 900px) {
-		.content {
-			flex-direction: column;
-			align-items: center;
-			text-align: center;
-			padding-top: 8rem;
-		}
-
-		.meta {
-			justify-content: center;
-		}
-	}
-
+	/* ---------- hero shell ---------- */
+  .hero{
+    position: relative;
+    padding: 64px 32px;
+    overflow: hidden;
+  }
+ 
+  .hero-inner{
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 35% 60%;
+    gap: 5%;
+    align-items: center;
+  }
+ 
+  /* ---------- 1:1 image ---------- */
+  .art{
+    position: relative;
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    border-radius: 6px;
+    overflow: hidden;
+    background:
+      radial-gradient(ellipse at 50% 0%, rgba(232,180,88,0.16), transparent 60%),
+      linear-gradient(180deg, #24262A 0%, #1A1B1D 100%);
+	background-image: var(--image);
+	background-size: cover;
+    border: 1px solid var(--hairline);
+    box-shadow: 0 24px 48px -20px rgba(0,0,0,0.6);
+  }
+ 
+  /* ---------- content ---------- */
+  .content{ min-width: 0; }
+ 
+  .title{
+    font-weight: 900;
+    font-size: 2.5em;
+    line-height: 1.15;
+    color: #000000;
+    margin: 0 0 12px;
+  }
+ 
+  .tags{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-bottom: 22px;
+  }
+ 
+  .tag{
+    font-size: 0.75em;
+    letter-spacing: 0.1em;
+    color: #ffffff;
+    background: #1c1c1c;
+    border: 1px solid var(--hairline);
+    padding: 5px 10px;
+    border-radius: 5px;
+  }
+ 
+  .meta-grid{
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    gap: 18px 32px;
+    padding: 18px 0;
+    margin-bottom: 22px;
+    border-top: 1px solid var(--hairline);
+    border-bottom: 1px solid var(--hairline);
+  }
+ 
+  .meta-label{
+    font-size: 0.75em;
+    letter-spacing: 0.05em;
+    color: #FFA500;
+    display: block;
+    margin-bottom: 5px;
+  }
+ 
+  .meta-value{
+    font-size: 1em;
+    color: #1c1c1c;
+  }
+ 
+  .desc{
+    font-size: 1.2em;
+    line-height: 1.5;
+    color: #1c1c1c;
+    margin: 0 0 28px;
+  }
+ 
+  .actions{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+ 
+  .btn{
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    font-size: 13px;
+    text-decoration: none;
+    padding: 11px 18px;
+    border-radius: 4px;
+    transition: background 0.15s ease, border-color 0.15s ease, transform 0.15s ease;
+  }
+ 
+  .btn:focus-visible{ outline: 2px solid var(--brass); outline-offset: 2px; }
+  .btn:hover{ transform: translateY(-1px); }
+ 
+  .btn-primary{
+    background: var(--ember);
+    color: var(--paper);
+  }
+  .btn-primary:hover{ background: var(--ember-hover); }
+ 
+  .btn-secondary{
+    background: transparent;
+    color: var(--paper);
+    border: 1px solid var(--hairline);
+  }
+  .btn-secondary:hover{ border-color: var(--brass); }
+ 
+  .btn svg{ width: 12px; height: 12px; }
+ 
+  /* ---------- responsive ---------- */
+  @media (max-width: 1100px){
+    .hero{ padding: 40px 20px; }
+    .hero-inner{
+      grid-template-columns: 100%;
+    }
+    .art{ max-width: 100%; }
+    .title{ font-size: 5em; }
+    .meta-grid{ grid-template-columns: repeat(2, auto); }
+  }
+  
 	.related-section {
-		max-width: 1200px;
 		margin: 0 auto;
-		padding: 3rem 5% 5rem 5%;
+		padding: 2rem 0;
 		border-top: 1px solid #1c1c1c;
 	}
 </style>

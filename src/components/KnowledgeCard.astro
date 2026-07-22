@@ -9,7 +9,7 @@ interface Props {
 const { title, description, image, source } = Astro.props;
 ---
 
-<article>			
+<article class="card-main">			
   <div class="card">
  
     <div class="thumb is-placeholder">
@@ -29,21 +29,11 @@ const { title, description, image, source } = Astro.props;
 </article>
 
 <style define:vars={{image: `url("${image}")`}}>
-:root{
-    --ink: #17181A;
-    --ink-raised: #1D1F21;
-    --paper: #EDE6D8;
-    --brass: #FFA500;
-    --spotlight: #E8B458;
-    --moss: #6C7A5E;
-    --hairline: rgba(237,230,216,0.10);
-  }
  
   *{ box-sizing: border-box; }
 
-  article{
-    margin: 0;
-    min-height: 100%;
+  .card-main {
+    height: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -52,7 +42,7 @@ const { title, description, image, source } = Astro.props;
 .card{
     width: 100%;
     height: 100%;
-    background: var(--ink);
+    background: #1c1c1c;
     border-radius: 6px;
     overflow: hidden;
     box-shadow:
@@ -70,7 +60,7 @@ const { title, description, image, source } = Astro.props;
       linear-gradient(180deg, #24262A 0%, #1A1B1D 100%);
     background-image: var(--image);
 	  background-size: cover;
-    border-bottom: 1px solid var(--hairline);
+    border-bottom: 2px solid #ffffff;
   }
   
  
@@ -87,124 +77,22 @@ const { title, description, image, source } = Astro.props;
   }
  
   .fact-index{
-    font-family: 'IBM Plex Mono', monospace;
-    font-size: 11px;
-    color: var(--paper-dim);
+    font-size: 0.75em;
+    color: #ffffff;
     letter-spacing: 0.05em;
   }
  
   .headline{
-    font-family: 'Roboto Slab', serif;
     font-weight: 600;
-    font-size: 19px;
+    font-size: 1.25em;
     line-height: 1.3;
-    color: var(--paper);
+    color: #ffffff;
     margin: 0 0 10px;
   }
  
   .desc{
-    font-size: 13.5px;
+    font-size: 1em;
     line-height: 1.65;
-    color: var(--paper);
-    margin: 0 0 20px;
+    color: #ffffff;
   }
- 
-  .footer{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding-top: 14px;
-    border-top: 1px solid var(--hairline);
-    font-family: 'IBM Plex Mono', monospace;
-    font-size: 10.5px;
-    color: var(--moss);
-    letter-spacing: 0.04em;
-  }
- 
-  .footer .from{
-    color: rgba(237,230,216,0.35);
-  }
-
-/* .window {
-  display: flex;
-  flex-direction: column;
-  border: 5px solid #1c1c1c;
-  box-shadow: 10px 10px 0 #FFA500;
-  height: 100%;
-  background-color: #FFC14D;
-  border-radius: 2px;  
-}
-
-.window__title-bar {
-  background-color: #FFC14D;
-  color: #1c1c1c;
-  border-bottom: 5px solid #1c1c1c;
-  padding: 5px, 10px;
-  display: flex;
-  align-items: center;  
-  justify-content: space-between;
-  user-select: none;
-  z-index: 1;
-  box-shadow: 0px 5px 6px -2px #bb99ff5e;
-  
-}
-
-.window .buttons {
-	display: flex;
-  align-items: center;
-  justify-content: space-between;
-  padding: 0 10px;
-}
-
-.window__body {
-  flex-grow: 1;
-  background-color: white;
-  color: #1c1c1c;
-  padding: 10px;
-  overflow-y: auto;
-  scrollbar-width: thin;
-
-  &::-webkit-scrollbar {
-    width: 6px;
-    height: 6px;
-    background-color: #dfd4fd;
-  }
-}
-
-.window__body a {
-  font-weight: 900;
-}
-
-.window__body img {
-	width: 100%;
-
-}
-
-.window__btn {
-  background-color: #1c1c1c;
-  width: 40px;
-  height: 20px;
-  border: none;
-  border-radius: 0px;
-  font-size: 1rem;
-  display: flex;
-  place-content: center;
-  align-items: center;
-  text-align: center;
-  justify-content: center;
-  color: #ffffff !important;  
-}
-
-.window__btn + .window__btn {
-  margin-left: 6px;
-}
-
-.window__title {
-	line-height: 1.5;
-	text-transform: uppercase;
-	letter-spacing: 0.2em;
-  	font-weight: 900;
-  	font-size: 1em;
-	padding: 0 10px;
-} */
 </style>

@@ -1,41 +1,32 @@
 ---
-import type { GetStaticPathsOptions } from 'astro';
-import Layout from '../../../../layouts/Layout.astro';
-import Header from '../../../../components/Header.astro';
-import KnowledgeGrid from '../../../../components/KnowledgeGrid.astro';
-import Footer from '../../../../components/Footer.astro';
-import knowledge from '../../../../data/knowledge.json';
-import movies from '../../../../data/movies.json'
-import { slugify } from '../../../../utils/slugify.js';
-import { propsToFilename } from 'astro/assets';
+import type { GetStaticPaths } from "astro";
+import Layout from '../../layouts/Layout.astro';
+import Header from '../../components/Header.astro';
+import KnowledgeGrid from '../../components/KnowledgeGrid.astro';
+import Footer from '../../components/Footer.astro';
+import knowledge from '../../data/knowledge.json';
 
-export function getStaticPaths({ paginate }: GetStaticPathsOptions) {	
-	
-	return movies.flatMap(movie => {
-		const knowledgeCondensed = knowledge.filter(k => k.entertainment.includes(movie.title));
-		return paginate(knowledgeCondensed, {
-			params: { entertainment: slugify(movie.title) },
-			props: { entertainmentName: movie.title },
-			pageSize: 4 // Show 8 movies per page
-		});
-	});
-}
 
-const { page, entertainmentName } = Astro.props;
+export const getStaticPaths = (({ paginate }) => {
+  return paginate(knowledge, { pageSize: 4 });
+}) satisfies GetStaticPaths;
+
+const { page } = Astro.props;
 ---
 
 <Layout
-	title={`${entertainmentName}s - Knowledge Page ${page.currentPage} of ${page.lastPage} - Geekotist by Camprowe`} 
-	description={`Explore the knowledge and facts about ${entertainmentName}s that Camprowe has documented here on the Geekotist site.`}
+	title={`All Facts, Lore and More Knowledge - ${page.currentPage} of ${page.lastPage} - Geekotist by Camprowe`} 
+	description={`Explore the knowledge and facts that Camprowe has documented here on the Geekotist site.`}
 >
 	<Header />
 	<main class="category-page">
 		<div class="category-header">
-			<h1>{entertainmentName} Knowledge</h1>
+			<h1>All Knowledge</h1>
 			<p>Page {page.currentPage} of {page.lastPage}</p>
 		</div>
 
 		<KnowledgeGrid title="" knowledge={page.data} />
+
 
 		<div class="pagination">
 			{page.url.prev ? (
@@ -60,7 +51,6 @@ const { page, entertainmentName } = Astro.props;
 
 <style>
 	.category-page {
-		margin: 0 auto;
 		padding-top: 8rem;
 		min-height: 100vh;
 	}

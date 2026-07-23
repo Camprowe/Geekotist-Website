@@ -12,7 +12,8 @@ export function getStaticPaths({ paginate }: GetStaticPathsOptions) {
 	
 	return uniqueCategories.flatMap(category => {
 		const categoryMovies = movies.filter(m => m.category === category);
-		return paginate(categoryMovies, {
+		const shuffledMovies = [...categoryMovies].sort(() => Math.random() - 0.5);
+		return paginate(shuffledMovies, {
 			params: { category: slugify(category) },
 			props: { categoryName: category },
 			pageSize: 12 // Show 8 movies per page

@@ -8,7 +8,8 @@ import knowledge from '../../data/knowledge.json';
 
 
 export const getStaticPaths = (({ paginate }) => {
-  return paginate(knowledge, { pageSize: 4 });
+	const shuffledKnowledge = [...knowledge].sort(() => Math.random() - 0.5);
+  	return paginate(shuffledKnowledge, { pageSize: 4 });
 }) satisfies GetStaticPaths;
 
 const { page } = Astro.props;

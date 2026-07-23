@@ -2,6 +2,7 @@
   { 
     "title" : "A Spartans Face?",
     "image" : "https://img.youtube.com/vi/z1vexibHNPo/mqdefault.jpg",
+    "type" : "EASTER EGG",
     "entertainment": ["Halo 3"],
     "description": "In the beta release of Halo 3 multiplayer mode, if you angle the camera just right while on a mongoose, you can clip through the Spartan's helmet and it'll show a face underneath. Which is the image of Marcus Lehto, Bungie's creative director from 1997 to 2012.",
     "source": "https://www.youtube.com/watch?v=wj-Grd-JEFk"
@@ -9,6 +10,7 @@
   { 
     "title" : "Load Screen Message",
     "image" : "https://static.wikia.nocookie.net/halo/images/b/b8/Halo_3_Easter_Egg.png",
+    "type" : "EASTER EGG",
     "entertainment": ["Halo 3"],
     "description": "Whilst your on the loading screen on December 25th (Christmas Day), if you press down on both thumbsticks a wider view of teh Halo Ring will display and if you look closely you can make out 'Happy Birthday, Lauren!' displayed on the rings surface.",
     "source": "https://www.youtube.com/watch?v=LuKaWd6_Stg"
@@ -16,6 +18,7 @@
   { 
     "title" : "Futuristic Aang",
     "image" : "https://miro.medium.com/v2/resize:fit:1100/format:webp/0*3xTjr7rYOjGYjKqi.jpg",
+    "type" : "FACT",
     "entertainment": ["Avatar: The Last Airbender"],
     "description": "An original concept for Aang had him coming from a Futuristic Sci-Fi world, with Aang being the last suvivor taking him 1000 years into the future as the world reverts back to a more ancient time. Momo would also be a robot cyclops monkey which sounds pretty cool (not that we'd ever want to change him).",
     "source": "https://www.youtube.com/watch?v=ft5YcUtHr4k&t=183s"
@@ -23,6 +26,7 @@
   { 
     "title" : "Kuroks Short Life",
     "image" : "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/02/avatar-the-last-airbender-avatar-kuruk.png",
+    "type" : "LORE",
     "entertainment": ["Avatar: The Last Airbender", "The Legend of Korra"],
     "description": "Avatar Kurok is the shortest living Avatar, he died at the age of 33. This was caused by Avatar Yangchen, who neglected the spirits, because of this every time Angry Spirits invaded the world. When Kurok defeated them some of his life energy would be drained eventually killing him.",
     "source": "https://www.goodreads.com/book/show/50158990-the-shadow-of-kyoshi"
@@ -30,6 +34,7 @@
   { 
     "title" : "Why Skyrim?",
     "image" : "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/12107975/skyrim_remastered.0.0.0.jpg",
+    "type" : "FACT",
     "entertainment": ["The Elder Scrolls V: Skyrim"],
     "description": "Skyrim was chosen as the next game in The Elder Scrolls series after Oblivion, was because the most was known about the province of Skyrim.It gave Bethesda more to start with as they developed the game. Along with the fact that Skyrim was considered cool",
     "source": "https://youtu.be/Nf55GOfp984?si=Dmw2phQ6DEIByli9&t=74"
@@ -37,6 +42,7 @@
   { 
     "title" : "A Positive Attitude",
     "image" : "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/25384858/vault_boy.jpg",
+    "type" : "LORE",
     "entertainment": ["Fallout 3", "Fallout"],
     "description": "Brian Fargo the co-creator of the Fallout series, went on record to confirm that the Vault Boy Thumbs-up depiction wasn't to see how close you are to atomic bomb blast (if it's bigger than your thumb you're in the radiation zone). Vault Boy simply has a 'Positive Attitude'",
     "source": "https://x.com/BrianFargo/status/400277541295886337"
@@ -44,8 +50,603 @@
   { 
     "title" : "Experienced Thief",
     "image" : "https://i.ytimg.com/vi/2Zabl75eobE/maxresdefault.jpg",
+    "type" : "FACT",
     "entertainment": ["The Elder Scrolls V: Skyrim", "Thief"],
     "description": "Stephen Russell the voice actor behind the leader of the Thieves Guild Mercer Frey in Skyrim, is also the voice actor for Garrett from the Thief Series, clearly Stephen is the ultimate Thief.",
     "source": "https://www.imdb.com/name/nm1592197/"
+  },
+  {
+    "title": "The Gnomeregan Punch Cards",
+    "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2024/02/17/WoW_Classic_Season_of_Discovery_Phase_2_Gnomeregan_2-1024x576.jpg",
+    "type" : "EASTER EGG",
+    "entertainment": ["World of Warcraft"],
+    "description": "Scattered throughout the Gnomeregan dungeon are collectible punch cards, each stamped with a string of binary code. Decode them and you'll find a set of silly, lore-flavoured in-jokes, including one that simply reads 'if you can read this, you're standing too close.'",
+    "source": "https://www.dexerto.com/world-of-warcraft/wow-easter-eggs-you-may-not-know-about-2559671/"
+  },
+  {
+    "title": "A Lost Island in Sholazar Basin",
+    "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2024/03/11/Lost-Island-WoW-1024x571.jpg",
+    "type" : "EASTER EGG",
+    "entertainment": ["World of Warcraft", "Lost"],
+    "description": "Swim out into Bittertide Lake in Sholazar Basin and you'll find a tiny island with a hatch set into the ground. A plaque beside it reads a string of numbers that's a cheeky one-digit-higher twist on the famous recurring sequence from the TV show Lost.",
+    "source": "https://www.dexerto.com/world-of-warcraft/wow-easter-eggs-you-may-not-know-about-2559671/"
+  },
+  {
+    "title": "Cryptids of the Deeprun Tram",
+    "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2024/03/11/75218-nessy.v1-1-1024x576.jpg",
+    "type" : "EASTER EGG",
+    "entertainment": ["World of Warcraft"],
+    "description": "The underwater stretch of the Deeprun Tram, which links Stormwind and Ironforge, occasionally has visitors: a Loch Ness-style sea serpent, a huge basking shark, the odd diver, and a chest that spawns and vanishes without explanation.",
+    "source": "https://www.dexerto.com/world-of-warcraft/wow-easter-eggs-you-may-not-know-about-2559671/"
+  },
+  {
+    "title": "Karazhan's Hidden Smiley Face",
+    "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2023/11/14/Karazhan.v1-1-1024x576.jpg",
+    "type" : "EASTER EGG",
+    "entertainment": ["World of Warcraft"],
+    "description": "Beneath the iconic wizard's tower of Karazhan, the developers hid a giant smiley face in the terrain. It's normally buried, but relogging near the tower or clipping through rubble at the right spot reveals it grinning back up at you.",
+    "source": "https://www.dexerto.com/world-of-warcraft/wow-easter-eggs-you-may-not-know-about-2559671/"
+  },
+  {
+    "title": "Stratholme's Ghostly Dancers",
+    "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2024/03/11/Stratholme-1024x576.jpg",
+    "type" : "LORE",
+    "entertainment": ["World of Warcraft"],
+    "description": "Stratholme is the site of one of Warcraft's darkest moments, where Arthas Menethil purged the city's population. Some of the ghostly former citizens who still wander the ruins will respond if you use the /dance or /rude emotes on them.",
+    "source": "https://www.dexerto.com/world-of-warcraft/wow-easter-eggs-you-may-not-know-about-2559671/"
+  },
+  {
+    "title": "The Sunken Gnome City",
+    "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2024/03/11/underwater_city_in_w_o_w__by_lichlore.v1-1-1024x576.jpg",
+    "type" : "LORE",
+    "entertainment": ["World of Warcraft"],
+    "description": "Far off the southeastern coast of Tanaris, past the point where fatigue starts to set in, lies the ruin of an abandoned gnomish settlement resting underwater. It's Azeroth's own little Atlantis, and its full story has never been told in-game.",
+    "source": "https://www.dexerto.com/world-of-warcraft/wow-easter-eggs-you-may-not-know-about-2559671/"
+  },
+  {
+    "title": "The Goldshire Demon Children",
+    "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2024/03/11/Goldshire-Demon-Children-1024x576.jpg",
+    "type" : "LORE",
+    "entertainment": ["World of Warcraft"],
+    "description": "Goldshire is one of the first towns Alliance players ever see, but around 6am server time it briefly turns sinister: six children spawn, walk in a tight pentagram formation, and head upstairs in a nearby house, with unsettling sound cues if you follow them.",
+    "source": "https://www.dexerto.com/world-of-warcraft/wow-easter-eggs-you-may-not-know-about-2559671/"
+  },
+  {
+    "title": "A Genie Tribute to Robin Williams",
+    "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2024/03/11/Robin-Williams-WoW-1024x576.jpg",
+    "type" : "EASTER EGG",
+    "entertainment": ["World of Warcraft"],
+    "description": "Robin Williams was reportedly a keen Alliance player. After his death in 2014, Blizzard added a quiet tribute on an island off the southern coast of Talador: rub the Ever-Burning Lamp there and one of his most famous characters appears.",
+    "source": "https://www.dexerto.com/world-of-warcraft/wow-easter-eggs-you-may-not-know-about-2559671/"
+  },
+  {
+    "title": "Florist Gump",
+    "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2024/03/11/Stormwind-WoW-1024x576.jpg",
+    "type" : "EASTER EGG",
+    "entertainment": ["World of Warcraft", "Forrest Gump"],
+    "description": "In the Canal District of Stormwind runs a flower shop owned by a man named Bernard Gump, a florist with an unmistakable nod in his name to Tom Hanks' Forrest Gump. A second, older reference (a long-missing character called Gubber Blump) predates him.",
+    "source": "https://www.dexerto.com/world-of-warcraft/wow-easter-eggs-you-may-not-know-about-2559671/"
+  },
+  {
+    "title": "Stormsong Valley's Harry Potter Tribute",
+    "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2024/03/11/Harry_Potter-1024x576.jpg",
+    "type" : "EASTER EGG",
+    "entertainment": ["World of Warcraft", "Harry Potter"],
+    "description": "In Stormsong Valley you can find NPCs named Severus the Outcast, Harald the Scarred, Ranald Flamehair, and Herme the Wise — a playful stand-in for Severus Snape and the Harry Potter trio, part of a wider scattering of wizarding-world nods across the game.",
+    "source": "https://www.dexerto.com/world-of-warcraft/wow-easter-eggs-you-may-not-know-about-2559671/"
+  },
+  {
+    "title": "Roscoe and Rachele: A Friends Tribute",
+    "image": "https://foxsanantonio.com/resources/media2/16x9/1870/986/48x214/90/2a715877-1000-4b80-b500-4aa40f08d0c4-GettyImages143479992.jpg",
+    "type" : "EASTER EGG",
+    "entertainment": ["World of Warcraft", "Friends"],
+    "description": "In Dalaran's Legerdemain Lounge, a human named Roscoe and a blood elf named Rachele sit across from each other on the coffee shop's centre couches — a clear stand-in for Ross and Rachel from Friends. Rachele will occasionally wonder aloud where 'Phoe'be' has got to.",
+    "source": "https://www.youtube.com/watch?v=A6i0H99ZoWs"
+  },
+  {
+    "title": "The Corrupted Blood Incident",
+    "image": "https://cdn.mos.cms.futurecdn.net/Jf7RW74USkGWm9jbXR9VWe.jpg",
+    "type" : "FACT",
+    "entertainment": ["World of Warcraft"],
+    "description": "In September 2005, a debuff meant to stay contained to a single raid boss, Hakkar the Soulflayer, escaped into the wider world through infected pets. The resulting outbreak spread through capital cities so effectively that epidemiologists later studied it as a real model for how populations react to disease.",
+    "source": "https://www.youtube.com/watch?v=m2g99vZcBMY"
+  },
+  {
+    "title": "Harrison Jones, Azeroth's Indiana Jones",
+    "image": "https://i.ytimg.com/vi/mg06ZlGDHHY/maxresdefault.jpg",
+    "type" : "EASTER EGG",
+    "entertainment": ["World of Warcraft", "Indiana Jones"],
+    "description": "First appearing in Zul'Aman, this human archaeologist wears the trademark hat, carries a whip, and even complains about a fear of snakes and rats. He later became Stormwind's archaeology trainer and stars in one of Uldum's most memorable quest chains.",
+    "source": "https://www.youtube.com/watch?v=mg06ZlGDHHY"
+  },
+  {
+    "title": "Zaalendor the Zoolander",
+    "image": "https://i.ytimg.com/vi/2rqBOV5qSZI/maxresdefault.jpg",
+    "type" : "EASTER EGG",
+    "entertainment": ["World of Warcraft", "Zoolander"],
+    "description": "Down on Ashran's Stormshield hub is an NPC named Zaalendor, who strikes three signature modelling poses — Azure Steel, Le Talbuk, and Magnuum — direct nods to Derek Zoolander's Blue Steel, Le Tigre, and Magnum.",
+    "source": "https://www.youtube.com/watch?v=2rqBOV5qSZI"
+  },
+  {
+    "title": "The Westfall Chicken",
+    "image": "https://i.ytimg.com/vi/piMgXlWydpI/maxresdefault.jpg",
+    "type" : "LORE",
+    "entertainment": ["World of Warcraft"],
+    "description": "Use the /chicken emote on a chicken enough times and it'll get fed up and offer you a quest, 'CLUCK!' Buy Special Chicken Feed from a nearby farmer, hand it over, and you're rewarded with a summonable chicken companion — one of the game's oldest and strangest vanity pets.",
+    "source": "https://www.youtube.com/watch?v=piMgXlWydpI"
+  },
+  {
+    "title": "Dormus the Camel-Hoarder",
+    "image": "https://i.ytimg.com/vi/KiL6oXTk-DA/maxresdefault.jpg",
+    "type" : "LORE",
+    "entertainment": ["World of Warcraft"],
+    "description": "Camel figurines scattered across Uldum usually just crumble to dust when examined, but rarely one will teleport you to a hidden area called the Steam Pools. There you'll face a huge ettin, Dormus, who drops the Reins of the Grey Riding Camel mount and a matching title if defeated.",
+    "source": "https://www.youtube.com/watch?v=KiL6oXTk-DA"
+  },
+  {
+    "title": "Sarah Kerrigan in the Shredder Cockpit",
+    "image": "https://syrco.wordpress.com/wp-content/uploads/2011/10/wowscrnshot_101711_002746.jpg",
+    "type" : "EASTER EGG",
+    "entertainment": ["World of Warcraft", "StarCraft"],
+    "description": "Peer into the cockpit of any Goblin Shredder and you'll spot a small image of Sarah Kerrigan, the Queen of Blades from StarCraft, glowing on the control panel. The Sky Golem mount, which shares the Shredder's design, updates the picture to her StarCraft II appearance.",
+    "source": "https://www.gamespot.com/gallery/22-world-of-warcraft-easter-eggs-and-secrets/2900-375/"
+  },
+  {
+    "title": "The M-K Memorial",
+    "image": "https://wow.zamimg.com/uploads/screenshots/normal/333815-koiter.jpg",
+    "type" : "FACT",
+    "entertainment": ["World of Warcraft"],
+    "description": "On a hill southwest of Crossroads in the Barrens sits a small shrine dedicated to an orc marked only with the initials 'M-K.' It honours Michel Koiter, a Blizzard illustrator who passed away during the game's development — a spirit healer named Koiter can be found nearby.",
+    "source": "https://eeggs.com/tree/9634.html"
+  },
+  {
+    "title": "Bambina and the Hunter",
+    "image": "https://i.ytimg.com/vi/bXxvILSma00/maxresdefault.jpg",
+    "type" : "EASTER EGG",
+    "entertainment": ["World of Warcraft", "Bambi"],
+    "description": "In Grizzly Hills you can find a young deer named Bambina wandering with a rabbit (Thudder) and a skunk (Flora) — a clear Bambi reference. Wait around and a scripted hunter appears to shoot Bambina's mother, sending the fawn into a berserk, 2,000%-damage rage.",
+    "source": "https://www.gamespot.com/gallery/22-world-of-warcraft-easter-eggs-and-secrets/2900-375/"
+  },
+  {
+    "title": "Xur'ios, Destiny's Vendor in Disguise",
+    "image": "https://sm.ign.com/t/ign_me/video/w/world-of-w/world-of-warcraft-destiny-xur-easter-egg_3xj7.1280.jpg",
+    "type" : "EASTER EGG",
+    "entertainment": ["World of Warcraft", "Destiny"],
+    "description": "Tucked near Dalaran's Antonidas Memorial is an ethereal vendor called Xur'ios, who deals exclusively in Curious Coins. It's a direct homage to Destiny's Xur, right down to selling items named after that game's gear, like 'Gjallar's Horn' and 'Krota's Shield.'",
+    "source": "https://www.gamespot.com/articles/destinys-xur-appears-in-world-of-warcrafts-new-exp/1100-6442298/"
+  },
+  {
+    "title": "The Original Loot Cave",
+    "image": "https://imageio.forbes.com/blogs-images/erikkain/files/2014/09/loot-cave.jpg",
+    "type": "FACT",
+    "entertainment": [
+      "Destiny"
+    ],
+    "description": "Shortly after launch in 2014, players discovered a cave in the Skywatch area of the Cosmodrome where low-level enemies respawned almost instantly. Guardians lined up to farm it for easy Engrams and XP, turning it into one of the most infamous grinding spots in gaming history before Bungie patched it out.",
+    "source": "https://www.gamespot.com/articles/destiny-1-loot-cave-returns-in-bungies-30th-anniversary-dungeon/1100-6498536/"
+  },
+  {
+    "title": "The Loot Cave's Haunted Message",
+    "image": "https://i.ytimg.com/vi/DyDxr4Cj6gE/maxresdefault.jpg",
+    "type": "LORE",
+    "entertainment": [
+      "Destiny"
+    ],
+    "description": "After the loot cave was patched, Bungie left behind a pile of charred Hive Thrall corpses at the site. Interacting with the remains triggers a distorted voice line about a million deaths not being enough for Master Rahool, a cheeky nod to how many enemies were farmed there for Cryptarch decoding.",
+    "source": "https://destiny.fandom.com/wiki/Loot_Cave_Easter_Egg"
+  },
+  {
+    "title": "A Possible Dune Reference",
+    "image": "https://media.gq-magazine.co.uk/photos/65e9d2c5ad37d1f2a0f745a2/16:9/w_2560%2Cc_limit/Dune-_Part_Two_s_seriousness_is_its_strength_0000_MCDDUPA_WB037.jpg",
+    "type": "FACT",
+    "entertainment": [
+      "Destiny",
+      "Dune"
+    ],
+    "description": "The haunted loot cave voice line bears a striking resemblance to a line from Frank Herbert's novel Dune about deaths not being enough for a character named Yueh. Bungie has never confirmed whether the similarity was an intentional literary nod or coincidence.",
+    "source": "https://destiny.fandom.com/wiki/Loot_Cave_Easter_Egg"
+  },
+  {
+    "title": "Grasp of Avarice Was Built Around the Loot Cave",
+    "image": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2021/12/Destiny-2-Grasp-of-Avarice-Dungeon-Crystal-Altar.jpg",
+    "type": "FACT",
+    "entertainment": [
+      "Destiny",
+      "Destiny 2"
+    ],
+    "description": "Years after Destiny 1 ended, Bungie revisited the Cosmodrome loot cave as the setting for the Grasp of Avarice dungeon in Destiny 2's 30th Anniversary Pack, spinning the community's favourite exploit into an in-universe story about a fireteam corrupted by greed.",
+    "source": "https://www.destinypedia.com/Grasp_of_Avarice"
+  },
+  {
+    "title": "The Alpha Line That Got Cut",
+    "image": "https://live.staticflickr.com/3871/15180436041_7e15df583c_h.jpg",
+    "type": "FACT",
+    "entertainment": [
+      "Destiny"
+    ],
+    "description": "During Destiny's public alpha, Ghost's flat delivery of a line about a wizard coming from the Moon was mocked so heavily online that Bungie pulled it from the final game entirely, an early sign the Ghost's dialogue and performance would become a lasting point of community ridicule.",
+    "source": "https://www.goodreads.com/notes/34376766-blood-sweat-and-pixels/108421659-dan-seitz/94f7926d-d9c8-4ba1-95e1-27ba5a93954e"
+  },
+  {
+    "title": "Peter Dinklage's 'Dinklebot'",
+    "image": "https://imageio.forbes.com/blogs-images/jasonevangelho/files/2015/09/destiny-ghost.jpg",
+    "type": "FACT",
+    "entertainment": [
+      "Destiny"
+    ],
+    "description": "Ghost was originally voiced by Game of Thrones star Peter Dinklage, whose flat, monotone delivery became so widely mocked that fans nicknamed the character 'Dinklebot.' The nickname spread quickly online even during the alpha test, before the full game had released.",
+    "source": "https://knowyourmeme.com/memes/ghost-destiny"
+  },
+  {
+    "title": "Ghost Got a Complete Voice Recast",
+    "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/10/Destiny-2-Fan-Uses-Blender-to-Design-Their-Own-Ghost.jpg",
+    "type": "FACT",
+    "entertainment": [
+      "Destiny"
+    ],
+    "description": "For The Taken King expansion, Bungie replaced Dinklage with veteran voice actor Nolan North, best known for Nathan Drake in Uncharted. Remarkably, North didn't just voice new lines, he re-recorded every single piece of Ghost dialogue from the original base game so the whole experience would feel consistent.",
+    "source": "https://www.gamesradar.com/bungie-destiny-taken-king-nolan-north-peter-dinklage-ghost/"
+  },
+  {
+    "title": "McCartney's Shelved Musical Suite",
+    "image": "https://assetsio.gnwcdn.com/PaulMcCartneyBungie.jpg",
+    "type": "FACT",
+    "entertainment": [
+      "Destiny"
+    ],
+    "description": "'Hope for the Future' was originally part of a larger orchestral suite McCartney composed for Destiny called 'Music of the Spheres.' Bungie shelved the full suite during development, and it wasn't released to the public until 2018, bundled with vinyl preorders of a Destiny soundtrack collection.",
+    "source": "https://www.the-paulmccartney-project.com/song/hope-for-the-future/"
+  },
+  {
+    "title": "Xur's Design Echoes Resident Evil's Merchant",
+    "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2021/03/resident-evil-4-merchant-other-games.jpg",
+    "type": "FACT",
+    "entertainment": [
+      "Destiny"
+    ],
+    "description": "The weekend exotic vendor Xur, hooded coat, backpack, and unsettling stare, bears a strong visual resemblance to the mysterious Merchant from Resident Evil 4. His tentacled face has also been noted by fans as a nod to Lovecraft's Cthulhu Mythos.",
+    "source": "https://www.destinypedia.com/X%C3%BBr,_Agent_of_the_Nine"
+  },
+  {
+    "title": "Why Xur Stands Hunched",
+    "image": "https://cdn.shopify.com/s/files/1/0556/5795/5430/articles/Xur-Destiny-2.jpg",
+    "type": "LORE",
+    "entertainment": [
+      "Destiny"
+    ],
+    "description": "In later lore, the Guardian Orin confronts Xur while investigating the Nine, crushing his throat and striking him with a war hammer hard enough to warp his spine permanently. It's why Xur has always stood in that distinctive hunched posture and spoken in his strained voice.",
+    "source": "https://www.destinypedia.com/X%C3%BBr,_Agent_of_the_Nine"
+  },
+  {
+    "title": "Xur Almost Missed Its Big Debut",
+    "image": "https://sm.ign.com/ign_nordic/video/d/destiny-2-/destiny-2-xur-has-a-good-nezarecs-whisper-xur-location-inven_uf9v.jpg",
+    "type": "FACT",
+    "entertainment": [
+      "Destiny"
+    ],
+    "description": "The legendary exotic rocket launcher Gjallarhorn was sold by Xur only three times across the game's entire history, twice in Destiny 1's first year. Many players missed or ignored the very first sale simply because they didn't yet realise how good it was or didn't have enough Strange Coins.",
+    "source": "https://www.destinypedia.com/X%C3%BBr,_Agent_of_the_Nine"
+  },
+  {
+    "title": "Ghosts Might Predate the Traveler's Arrival",
+    "image": "https://assetsio.gnwcdn.com/1_ClhQ8Cc.jpg",
+    "type": "LORE",
+    "entertainment": [
+      "Destiny"
+    ],
+    "description": "One piece of Destiny promotional material implied Ghosts already existed during humanity's Golden Age, which contradicts nearly every other in-game source stating the Traveler created Ghosts only after the Collapse. Fans generally treat it as an oversight rather than confirmed lore.",
+    "source": "https://www.destinypedia.com/Ghost"
+  },
+  {
+    "title": "Dead Ghosts Hide Grimoire Lore Everywhere",
+    "image": "https://i.pinimg.com/736x/ac/ed/e5/acede512f90e66cbd17255398bceaccf.jpg",
+    "type": "LORE",
+    "entertainment": [
+      "Destiny"
+    ],
+    "description": "Scattered across every world in the original Destiny are broken, inactive Ghosts that glow faintly blue. Reviving one unlocks a hidden Grimoire lore card, and hunting down fifty of them was rewarded with the 'Ghost Hunter' achievement.",
+    "source": "https://www.destinypedia.com/Dead_Ghost"
+  },
+  {
+    "title": "Your Ship Actually Lands in the Tower",
+    "image": "https://static.wikia.nocookie.net/destinypedia/images/f/f8/The_Tower_Hangar.jpg",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Destiny"
+    ],
+    "description": "The ships buzzing around Tower Plaza aren't just decorative background traffic. If you sprint into the Tower Hangar the instant you spawn in, you can actually catch your own Guardian's ship being flown in and lowered into the hangar below.",
+    "source": "https://www.bungie.net/en/Forums/Post/219543197"
+  },
+  {
+    "title": "Destiny's First Easter Egg Predates the Game",
+    "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/Halo-3-ODST-Destiny-Easter-Egg-Removed.jpg",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Destiny",
+      "Halo 3: ODST"
+    ],
+    "description": "Years before Destiny released, an advertising billboard reading 'Destiny Awaits' appeared in Bungie's Halo 3: ODST, complete with an image of Earth and what looks like the Traveler hovering above it, an early, subtle tease of the studio's next project.",
+    "source": "https://www.bungie.net/en/Forums/Post/219543197"
+  },
+  {
+    "title": "Players Found a Hidden Zone Beyond the Black Garden",
+    "image": "https://i.ytimg.com/vi/lOMNSsk733k/hq720.jpg",
+    "type": "FACT",
+    "entertainment": [
+      "Destiny"
+    ],
+    "description": "About a week after Destiny's launch, players discovered a large, empty, otherwise inaccessible map area reachable only by exploiting the Black Garden location, one of the first big community-driven secret discoveries in the game.",
+    "source": "https://www.aol.com/2014-09-22-destiny-secret-area-discovered.html"
+  },
+  {
+    "title": "Vault of Glass's Secret Chest",
+    "image": "https://assetsio.gnwcdn.com/destiny_2_vault_of_glass_secretchest1.jpg",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Destiny"
+    ],
+    "description": "Tucked into the raid's Gorgon's Labyrinth section is a hidden chest reachable only after a chasm jump across disappearing platforms, sitting just off the main path right before the corridor leading to Atheon's chamber.",
+    "source": "https://www.destinypedia.com/Vault_of_Glass_(Raid)/Walkthrough"
+  },
+  {
+    "title": "Cosmetic Coins Hidden in Plain Sight",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/destiny/8/89/Vlcsnap-2014-10-13-14h33m58s232.png",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Destiny"
+    ],
+    "description": "Scattered around the Tower and other social spaces are small, non-interactive coins visually identical to the collectible Destiny Coin. They can be spotted tucked into bushes, tree branches, and rafters, but can never actually be picked up.",
+    "source": "https://www.destinygamewiki.com/wiki/Easter_Egg_Coins"
+  },
+  {
+    "title": "Xur Once Bugged Out of Selling a Key Item",
+    "image": "https://assets-prd.ignimgs.com/2022/03/04/destiny2-xur-3-blogroll-1646416873591.jpg",
+    "type": "FACT",
+    "entertainment": [
+      "Destiny"
+    ],
+    "description": "During Rise of Iron, a code bug caused Xur to stop offering Three of Coins, a consumable many players relied on to boost exotic drop chances, for several consecutive weekends before Bungie caught and fixed the issue.",
+    "source": "https://www.destinypedia.com/X%C3%BBr,_Agent_of_the_Nine"
+  },
+  {
+    "title": "Nolan North's Uncanny Cayde-6 Impression",
+    "image": "https://cdn.mos.cms.futurecdn.net/Y4GuDCyS2HcACXMLTSyCgS-1200-80.jpg",
+    "type": "FACT",
+    "entertainment": [
+      "Destiny"
+    ],
+    "description": "After Nolan North took over as Ghost, he later also voiced Cayde-6 following Nathan Fillion's departure from the role, recording an entire set of cutscenes, including Cayde's own death scene, in a near-flawless impression of Fillion's original performance.",
+    "source": "https://steamcommunity.com/app/1085660/discussions/0/3843304884849139688"
+  },
+  {
+    "title": "The Nine Remain Deliberately Unexplained",
+    "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/9333415/trials_of_the_nine_2.jpg",
+    "type": "LORE",
+    "entertainment": [
+      "Destiny",
+      "Destiny 2"
+    ],
+    "description": "Xur repeatedly tells Guardians that his will belongs to the Nine and that he can't fully explain their purpose. A Grimoire card in the original game lays out several competing, unconfirmed theories about who or what the Nine actually are, leaving their true nature intentionally ambiguous.",
+    "source": "https://www.pcgamesn.com/destiny-2/destiny-the-nine-lore-who-are-the-nine"
+  },
+   {
+    "title": "Bungie's Cameo on the Ark",
+    "image": "https://i.ytimg.com/vi/7cn9IyiDQ2s/hq720.jpg",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Halo 3"
+    ],
+    "description": "Deep in the campaign level The Ark, near the seventh data terminal, players can find a floating cardboard cutout of Bungie co-founder Jason Jones, dressed in nothing but a pair of gym shorts. It's one of several in-jokes the studio hid throughout the level for eagle-eyed fans who go looking off the beaten path.",
+    "source": "https://www.landofgeek.com/posts/halo-3-hidden-secrets-easter-eggs"
+  },
+  {
+    "title": "Bungie Will Never Confirm Them All",
+    "image": "https://www.denofgeek.com/wp-content/uploads/2020/07/Halo-3-1.jpg",
+    "type": "FACT",
+    "entertainment": [
+      "Halo 3"
+    ],
+    "description": "Bungie deliberately kept the full scope of Halo 3's secrets a mystery even after launch. When fans asked the community team directly whether every easter egg had been found, the response was blunt: players would never find them all, and Bungie wouldn't be giving out hints, because the mystery was part of the magic.",
+    "source": "https://www.gamespot.com/articles/halo-3-easter-egg-uncovered-7-years-after-its-rele/1100-6421030/"
+  },
+  {
+    "title": "The Vidmaster Road to Recon",
+    "image": "https://www.thexboxhub.com/wp-content/uploads/2020/08/halo-armor-sets.jpg",
+    "type": "FACT",
+    "entertainment": [
+      "Halo 3",
+      "Halo 3: ODST"
+    ],
+    "description": "For years, the coveted Recon Armour wasn't something you could simply unlock in-game. Getting it meant completing a brutal set of Vidmaster Challenges spread across Halo 3 and Halo 3: ODST, things like finishing a level solo on Legendary without ever firing a shot or throwing a grenade. Complete them all and Bungie would grant you the Armour through their 'Road to Recon' program on Bungie.net.",
+    "source": "https://www.thexboxhub.com/looking-back-to-halo-3s-vidmaster-achievements/"
+  },
+  {
+    "title": "Challenges That Didn't Ship at Launch",
+    "image": "https://i.ytimg.com/vi/8ALnI99i4Qc/hq720.jpg",
+    "type": "FACT",
+    "entertainment": [
+      "Halo 3"
+    ],
+    "description": "The Vidmaster Challenges weren't actually part of Halo 3 when it launched in September 2007. They were added almost a year later through a title update released in September 2008, meaning the toughest achievements in the game were a post-launch surprise for the community rather than a day-one feature.",
+    "source": "https://www.thexboxhub.com/looking-back-to-halo-3s-vidmaster-achievements/"
+  },
+  {
+    "title": "Recon Armour for Everyone",
+    "image": "https://halo.wiki.gallery/images/3/38/HINF_Spartan_Recon_1.jpg",
+    "type": "FACT",
+    "entertainment": [
+      "Halo 3"
+    ],
+    "description": "The exclusivity didn't last forever. As Bungie handed the reins of the franchise to 343 Industries, the studio gave every Halo 3 player the Recon Armour permutation for free on March 29, 2012, closing the book on one of the game's most difficult unlocks.",
+    "source": "https://gaming-urban-legends.fandom.com/wiki/Recon_Skull"
+  },
+  {
+    "title": "Skulls You Could Only Find in Forge",
+    "image": "https://live.staticflickr.com/2030/1606504018_a280549f62_h.jpg",
+    "type": "FACT",
+    "entertainment": [
+      "Halo 3",
+      "Halo 3: ODST"
+    ],
+    "description": "Alongside the classic campaign skulls, Bungie hid a separate set of skulls exclusively inside Forge-enabled multiplayer maps like Sandbox, Assembly, and Orbital, later expanding the hunt with three more skulls on maps added by Halo 3: ODST. These didn't unlock cheats like the campaign skulls did, but collecting all of them triggered its own dedicated achievement.",
+    "source": "https://gamefaqs.gamespot.com/xbox360/926632-halo-3/faqs/57809"
+  },
+  {
+    "title": "800,000 Players Beta Tested the Multiplayer",
+    "image": "https://goombastomp.com/wp-content/uploads/2021/12/Bungie-Featured-Image.jpg",
+    "type": "FACT",
+    "entertainment": [
+      "Halo 3"
+    ],
+    "description": "Months before release, Bungie opened a public multiplayer beta to anyone who bought Crackdown. It wasn't just a marketing gimmick — in the space of three weeks the beta pulled in more than 800,000 unique players, effectively turning early access into one of the biggest live playtests in gaming history up to that point.",
+    "source": "https://everything-pr.com/the-success-of-the-halo-3-marketing-campaign"
+  },
+  {
+    "title": "The Biggest Entertainment Launch of Its Time",
+    "image": "https://media-cldnry.s-nbcnews.com/image/upload/msnbc/Components/Photos/070927/070927_halo3_hmed_5p.jpg",
+    "type": "FACT",
+    "entertainment": [
+      "Halo 3"
+    ],
+    "description": "When Halo 3 launched on September 25, 2007, it didn't just break gaming records — it outsold the opening weekends of major Hollywood films. Reports at the time put day-one earnings north of $170 million, with roughly 3.3 million copies sold in the first week alone, edging past openings like Spider-Man 3 and the release of the final Harry Potter novel.",
+    "source": "https://www.foxnews.com/story/microsoft-bets-big-on-halo-3"
+  },
+  {
+    "title": "A War Memorial Built to Sell a Game",
+    "image": "https://i.ytimg.com/vi/a3ZGGIdpfEM/maxresdefault.jpg",
+    "type": "FACT",
+    "entertainment": [
+      "Halo 3"
+    ],
+    "description": "Rather than lean on gameplay footage, Halo 3's centerpiece 'Believe' campaign built a physical diorama over 1,200 square feet in size, a miniature war memorial populated with hundreds of hand-sculpted human and Covenant figures at one-twelfth scale. Fans could pan across the entire model on a dedicated website, and the ad series went on to win gold at Cannes Lions the following year.",
+    "source": "https://everything-pr.com/the-success-of-the-halo-3-marketing-campaign"
+  },
+  {
+    "title": "An Alternate Reality Game Hidden in the Forums",
+    "image": "https://halo.wiki.gallery/images/thumb/e/e5/Halo3coverart.JPG/1200px-Halo3coverart.JPG",
+    "type": "FACT",
+    "entertainment": [
+      "Halo 3"
+    ],
+    "description": "Halo 3's viral marketing kicked off in a strange way: on June 11, 2007, Bungie.net's forums appeared to be 'hacked,' setting off months of clue-hunting as fans pieced together hidden servers that gradually revealed the final days of the Forerunners. The campaign, known as Iris, folded story lore directly into the game's real-world promotion.",
+    "source": "https://www.halopedia.org/Halo_3"
+  },
+  {
+    "title": "Why It's Called the Gravemind",
+    "image": "https://static.wikia.nocookie.net/halo/images/e/e6/H2A_Gravemind.png",
+    "type": "FACT",
+    "entertainment": [
+      "Halo 3",
+      "Halo 2"
+    ],
+    "description": "The name of the Flood's central intelligence wasn't lifted from any existing mythology — it was coined by Bungie staff writer Jaime Griesemer specifically for the character. The Gravemind is voiced throughout the trilogy by actor Dee Bradley Baker, known for his extensive voice work across animation and games.",
+    "source": "https://www.halopedia.org/Gravemind"
+  },
+  {
+    "title": "A Poet Older Than Your God",
+    "image": "https://static.wikia.nocookie.net/halo/images/9/9f/Originsgravemind.jpg",
+    "type": "LORE",
+    "entertainment": [
+      "Halo 3",
+      "Halo 2"
+    ],
+    "description": "The Gravemind almost always speaks in a distinct poetic meter, trochaic heptameter, and when Cortana challenges it on this habit, it explains that it carries the memories of countless poets from cultures far beyond human experience, giving it both the vocabulary and the quickness of mind to compose verse as it speaks rather than labour over words.",
+    "source": "https://www.halopedia.org/Gravemind"
+  },
+  {
+    "title": "The Gravemind Betrays Everyone, Every Time",
+    "image": "https://i.ytimg.com/vi/pxLZGJBidAA/maxresdefault.jpg",
+    "type": "LORE",
+    "entertainment": [
+      "Halo 3"
+    ],
+    "description": "At the Ark, the Gravemind strikes an uneasy truce with both Master Chief and the Arbiter, helping them cut down the Prophet of Truth and even manipulating Truth's own infection to seal his fate. The moment the shared goal is achieved, though, the Gravemind turns on its erstwhile allies immediately, forcing the two to fight their way clear before it can finish what it started.",
+    "source": "https://www.halopedia.org/Gravemind"
+  },
+  {
+    "title": "Master Chief's Given Name",
+    "image": "https://images.digitalfoundry.net/71e68a0d806c9/large.jpg",
+    "type": "LORE",
+    "entertainment": [
+      "Halo Combat Evolved",
+      "Halo Campaign Evolved",
+      "Halo 3",
+      "Halo 2",
+      "Halo 4",
+      "Halo Infinite"
+    ],
+    "description": "Behind the Spartan number and the legendary Armour, Master Chief has a first name that rarely comes up in dialogue: John. The Gravemind is one of the very few beings in the wider universe ever shown learning and using it, a small but telling detail about how much the Flood's intelligence comes to know about the humans it hunts.",
+    "source": "https://gamerant.com/halo-gravemind-facts/"
+  },
+  {
+    "title": "Cortana's Distorted Interludes",
+    "image": "https://halo.wiki.gallery/images/thumb/3/31/Cortanam.jpg/1600px-Cortanam.jpg",
+    "type": "LORE",
+    "entertainment": [
+      "Halo 3"
+    ],
+    "description": "Throughout the campaign, Cortana and the Gravemind periodically break into the Chief's mind through what Bungie internally called 'character interludes.' During these moments the screen washes with color, background music cuts out, and player movement slows drastically, a deliberate way of weaving story beats directly into gameplay rather than pulling players out to a cutscene.",
+    "source": "https://www.halopedia.org/Character_interludes"
+  },
+  {
+    "title": "A Trapped Marine Loses His Mind",
+    "image": "https://i.ytimg.com/vi/Vp_J2k73v3Y/maxresdefault.jpg",
+    "type": "LORE",
+    "entertainment": [
+      "Halo 3",
+      "Halo 2"
+    ],
+    "description": "The Gravemind's telepathic voice isn't only heard by the Chief. According to the wider lore, a Marine once overheard it speaking through nearby combat forms and was driven to insanity by what's known as the logic plague, implied to have taken his own life off-screen as a result. It's a small aside that hints at just how psychologically dangerous simply being near the Flood's collective mind can be.",
+    "source": "https://villains.fandom.com/wiki/Gravemind"
+  },
+  {
+    "title": "Morse Code on High Ground",
+    "image": "https://halo.wiki.gallery/images/thumb/e/e5/Halo3coverart.JPG/1200px-Halo3coverart.JPG",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Halo 3"
+    ],
+    "description": "Tucked inside the defensive base on the multiplayer map High Ground is a small machine that quietly taps out a message in Morse code. It was spotted as far back as the Halo 3 multiplayer beta, and the elevator music playing in the same room hides its own layer of secrecy for anyone patient enough to sit and listen.",
+    "source": "https://eeggs.com/tree/10656.html"
+  },
+  {
+    "title": "Carvings in the First Level's Trees",
+    "image": "https://i.ytimg.com/vi/3HB4UYwbX4g/maxresdefault.jpg",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Halo 3"
+    ],
+    "description": "Right from the opening level, Sierra 117, Bungie hid a string of small carvings in the jungle's tree trunks, from an initialed love note and a date to a tiny caveman figure and even a whole hidden caveman family. They're easy to run straight past, but they were part of a much longer campaign-wide easter egg hunt players pieced together over the years.",
+    "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=2170671635"
+  },
+  {
+    "title": "A Computer Screen Straight Out of Windows",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/halo-master-chief-collection/1/1f/Sandtrap_S8.png",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Halo 3"
+    ],
+    "description": "Inside the Sandtrap multiplayer map's temple, where the giant Elephant vehicle is parked, sits a two-screen laptop that will occasionally flash up a fake Windows-style error screen, complete with the kind of garbled system text you'd expect from a crashed PC rather than a 26th-century UNSC terminal.",
+    "source": "https://eeggs.com/tree/10656.html"
+  },
+  {
+    "title": "One Billion Matches and Counting",
+    "image": "https://halo.wiki.gallery/images/thumb/e/e5/Halo3coverart.JPG/1200px-Halo3coverart.JPG",
+    "type": "FACT",
+    "entertainment": [
+      "Halo 3"
+    ],
+    "description": "Halo 3's multiplayer wasn't just a launch-week phenomenon. By March 2009, more than one billion online matches had been played across the game, and it had gone on to sell over 14.5 million copies in total, making it one of the best-selling titles of its console generation.",
+    "source": "https://www.halopedia.org/Halo_3"
+  },
+  {
+    "title": "Forge Mode Makes Its Debut",
+    "image": "https://i.ytimg.com/vi/vXhKLgfNyu0/maxresdefault.jpg",
+    "type": "FACT",
+    "entertainment": [
+      "Halo 3"
+    ],
+    "description": "Halo 3 introduced Forge, an in-game object editor that let players reshape multiplayer maps by moving, adding, or removing pieces of scenery and weapons. It was far more limited than a full PC map editor, but it laid the groundwork for the custom map culture that would define Halo's multiplayer community for years afterward.",
+    "source": "https://www.halopedia.org/Halo_3"
   }
 ]

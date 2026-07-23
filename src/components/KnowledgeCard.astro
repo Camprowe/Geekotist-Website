@@ -3,10 +3,11 @@ interface Props {
   title: string;
 	description: string;
   image: string;
-  source: string
+  source: string,
+  type: string
 }
 
-const { title, description, image, source } = Astro.props;
+const { title, description, image, source, type } = Astro.props;
 ---
 
 <article class="card-main">			
@@ -17,7 +18,7 @@ const { title, description, image, source } = Astro.props;
  
     <div class="body">
       <div class="eyebrow">
-        <span class="fact-index">KNOWLEDGE</span>
+        <span class="fact-index">{type}</span>
         <span class="fact-index"><a href={source}>Source</a></span>
       </div>
  

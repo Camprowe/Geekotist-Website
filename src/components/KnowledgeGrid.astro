@@ -8,6 +8,7 @@ interface Props {
 		description: string;
 		image: string;
 		source: string;
+		type: string;
 	}>;
 	knowledgeLink?: string;
 }
@@ -28,6 +29,7 @@ const { title, knowledge, knowledgeLink } = Astro.props;
 				description={k.description}
 				image={k.image}
 				source={k.source}
+				type={k.type}
 			/>
 		))}
 	</div>

@@ -11,10 +11,12 @@ interface Props {
 
 const { title, imageUrl, year, producer, category } = Astro.props;
 const slug = slugify(title);
+
+const truncatedTitle = title.length > 30 ? title.slice(0, 30) + "..." : title;
 ---
 
 <section class="card">
-  <a class="game-card" href={`/entertainment/${slug}`} aria-label="View game page: TimeSplitters 2">
+  <a class="game-card" href={`/entertainment/${slug}`} aria-label={`View game page: ${title}`}>
     <div class="poster">
       <div class="link-arrow">
         <svg viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -24,7 +26,7 @@ const slug = slugify(title);
     </div>
  
     <div class="info">
-      <h3 class="title">{title}</h3>
+      <h3 class="title">{truncatedTitle}</h3>
       <div class="meta">
         <div class="meta-row">
           <span class="meta-label">STUDIO</span>

@@ -8,7 +8,8 @@ import movies from '../../data/movies.json';
 import knowledge from '../../data/knowledge.json';
 import { slugify } from '../../utils/slugify.js';
 
-export function getStaticPaths() {
+export function getStaticPaths() {  
+
 	return movies.map(movie => ({
 		params: { slug: slugify(movie.title) },
 		props: { movie }
@@ -18,13 +19,13 @@ export function getStaticPaths() {
 const { movie } = Astro.props;
 
 // Filter related movies by category/genre
-let unshuffledEntertainment = movies.filter(m => m.category === movie.category && m.title !== movie.title);
+  let unshuffledEntertainment = movies.filter(m => m.category === movie.category && m.title !== movie.title);
 
-let relatedEntertainment = [...unshuffledEntertainment].sort(() => Math.random() - 0.5).slice(0,4);
+  let relatedEntertainment = [...unshuffledEntertainment].sort(() => Math.random() - 0.5).slice(0,4);
 
-let unshuffledKnowledge = knowledge.filter(k => k.entertainment.includes(movie.title));
+  let unshuffledKnowledge = knowledge.filter(k => k.entertainment.includes(movie.title));
 
-let relatedKnowledge = [...unshuffledKnowledge].sort(() => Math.random() - 0.5).slice(0,4);
+  let relatedKnowledge = [...unshuffledKnowledge].sort(() => Math.random() - 0.5).slice(0,2);
 
 ---
 
@@ -63,16 +64,6 @@ let relatedKnowledge = [...unshuffledKnowledge].sort(() => Math.random() - 0.5).
 				</div>
 		
 				<p class="desc">{movie.description}</p>
-		
-				<!-- <div class="actions">
-					<a class="btn btn-primary" href="#">
-						Watch the Video Essay
-						<svg viewBox="0 0 12 12" fill="none"><path d="M1 0.5L11 6L1 11.5V0.5Z" fill="currentColor"/></svg>
-					</a>
-					<a class="btn btn-secondary" href="#">
-						All Episodes on This Game
-					</a>
-				</div> -->
 			</div>
 		
 			</div>

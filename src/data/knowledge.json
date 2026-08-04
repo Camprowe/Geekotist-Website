@@ -1297,5 +1297,181 @@
     ],
     "description": "At Bard's Leap Summit, a ghostly bard named Azzadal appears and can grant the player a boost to their Speech skill, a small hidden reward tucked away at a location most players only visit for the scenic cliffside view.",
     "source": "https://equilibregames.com/hidden-secrets-and-easter-eggs-in-skyrim/"
+  },
+  {
+    "title": "Harold the Talking Tree",
+    "image": "https://staticdelivery.nexusmods.com/images/120/3075098-1436446210.jpg",
+    "type": "EASTER EGG",
+    "entertainment": ["Fallout 3", "Fallout", "Fallout 2"],
+    "description": "Deep in Oasis, at the northern edge of the map, you'll find Harold, a ghoul who has literally become one with a tree, now known as Bob. Harold first appeared as a mutated ghoul in the original two Fallout games, and his transformation into a sentient tree is one of the series' longest-running character arcs.",
+    "source": "https://fallout.wiki/wiki/Harold"
+  },
+  {
+    "title": "HAL 9000 Surveillance Cameras",
+    "image": "https://www.gameskinny.com/wp-content/uploads/2015/09/top-best-easter-eggs-and-jokes-from-fallout-3-6.jpg",
+    "type": "EASTER EGG",
+    "entertainment": ["Fallout 3", "2001: A Space Odyssey"],
+    "description": "Scattered around the Capital Wasteland are surveillance cameras with a distinctive red-eyed circular design, deliberately styled after HAL 9000, the malevolent AI from Stanley Kubrick's 2001: A Space Odyssey.",
+    "source": "https://www.gameskinny.com/skqzl/the-10-best-easter-eggs-and-jokes-from-fallout-3"
+  },
+  {
+    "title": "Crashed UFO and Alien Blaster",
+    "image": "https://i.ytimg.com/vi/pjhsaJ_7MnM/hq720.jpg",
+    "type": "EASTER EGG",
+    "entertainment": ["Fallout 3"],
+    "description": "North of the MDPL-13 Power Station lies a crashed alien spacecraft with a dead extraterrestrial pilot still inside. Loot the wreckage and you'll find the Alien Blaster, one of the rarest and strangest weapons in the game.",
+    "source": "https://www.gameskinny.com/tips/top-best-easter-eggs-and-jokes-from-fallout-3/"
+  },
+  {
+    "title": "The Lovecraft Library",
+    "image": "https://static.wikia.nocookie.net/fallout/images/3/32/Dunwich_building.jpg",
+    "type": "EASTER EGG",
+    "entertainment": ["Fallout 3"],
+    "description": "In the far southwest of the map, south of Girdershade, sits a building stuffed with H.P. Lovecraft's writings and eerie cosmic-horror imagery, a quiet tribute tucked away from the game's main questlines.",
+    "source": "https://www.gameskinny.com/tips/top-best-easter-eggs-and-jokes-from-fallout-3/"
+  },
+  {
+    "title": "USS Ozymandias and the Shelley Reference",
+    "image": "https://static.wikia.nocookie.net/fallout/images/8/86/USS_Ozymandias.jpg",
+    "type": "LORE",
+    "entertainment": ["Fallout 3", "Ozymandias (poem)"],
+    "description": "The wrecked survey ship USS Ozymandias off the coast of Point Lookout is more than a scavenging spot. Its name, the quest 'An Antique Land,' and the in-game Bysshe Company are all references to Percy Bysshe Shelley's poem 'Ozymandias', right down to using the poet's own middle name.",
+    "source": "https://fallout.wiki/wiki/Community:Fallout_3_Easter_Eggs"
+  },
+  {
+    "title": "\"Burn That Goddamn Jumpsuit\"",
+    "image": "https://static.wikia.nocookie.net/fallout/images/a/af/V_77_Suit_and_Tape.jpg",
+    "type": "EASTER EGG",
+    "entertainment": ["Fallout 3", "Penny Arcade (webcomic)"],
+    "description": "In Paradise Falls, a Vault 77 jumpsuit sits beside a holodisk sarcastically demanding it be burned. It's a direct callback to a Penny Arcade Fallout tie-in comic, one of the more obscure crossover nods Bethesda buried in the game.",
+    "source": "https://forums.escapistmagazine.com/threads/fallout-3-easter-eggs.24433/"
+  },
+  {
+    "title": "The Shrinking Chess Set",
+    "image": "https://static.wikia.nocookie.net/fallout/images/1/18/NN03dChess.jpg",
+    "type": "EASTER EGG",
+    "entertainment": ["Fallout 3"],
+    "description": "Find a miniature chess board somewhere in the Wasteland and you'll be able to pick up tiny Nuka-Cola bottles, bears, and gnomes. Carry only one at a time and they'll stay miniature-sized in your inventory, a strange little physics quirk players still swap tips about.",
+    "source": "https://eeggs.com/tree/12191.html"
+  },
+  {
+    "title": "Butch and the Stolen Sweetroll",
+    "image": "https://static.wikia.nocookie.net/fallout/images/7/78/Fallout_Magic_Butch_DeLoria%2C_Tunnel_Snake_art.jpeg",
+    "type": "EASTER EGG",
+    "entertainment": ["Fallout 3", "The Elder Scrolls IV: Oblivion"],
+    "description": "During the Vault 101 birthday sequence, Butch DeLoria tries to snatch the sweetroll Old Lady Palmer just gave you. It's Bethesda's own running gag, echoing a famous line from the Elder Scrolls series about stolen sweetrolls.",
+    "source": "https://fallout.wiki/wiki/Community:Fallout_3_Easter_Eggs"
+  },
+  {
+    "title": "\"A Nice Day for a Right Wedding\"",
+    "image": "https://images.fallout.wiki/2/2a/FO3_CraigMullins_Wasteland.jpg",
+    "type": "EASTER EGG",
+    "entertainment": ["Fallout 3", "White Wedding (Billy Idol song)"],
+    "description": "The quest title is a wasteland twist on Billy Idol's lyric 'it's a nice day for a white wedding', a small pun that only lands if you know the song.",
+    "source": "https://fallout.wiki/wiki/Community:Fallout_3_Easter_Eggs"
+  },
+  {
+    "title": "Fawkes' Blade Runner Battle Cry",
+    "image": "https://fallout-wiki.com/thumb.php?f=FO3_Fawkes.jpg",
+    "type": "EASTER EGG",
+    "entertainment": ["Fallout 3", "Blade Runner"],
+    "description": "When Fawkes lands a power attack, he snarls 'Wake up... time to die!', a direct lift from Leon's line to Deckard in Blade Runner.",
+    "source": "https://fallout.wiki/wiki/Community:Fallout_3_Easter_Eggs"
+  },
+  {
+    "title": "Rory McLaren's Cool Hand Luke Line",
+    "image": "https://static.wikia.nocookie.net/fallout/images/4/47/Rory_Maclaren.jpg/",
+    "type": "EASTER EGG",
+    "entertainment": ["Fallout 3", "Cool Hand Luke"],
+    "description": "Rory McLaren will exclaim 'Nobody can eat 50 eggs!', a nod to the famous egg-eating bet at the heart of the 1967 Paul Newman film Cool Hand Luke.",
+    "source": "https://fallout.wiki/wiki/Community:Fallout_3_Easter_Eggs"
+  },
+  {
+    "title": "Bryan Wilks and the TV Dinner Line",
+    "image": "https://static.wikia.nocookie.net/fallout/images/6/68/Bryan_Wilks.jpg",
+    "type": "EASTER EGG",
+    "entertainment": ["Fallout 3", "Die Hard"],
+    "description": "During the 'Those!' quest, young Bryan Wilks hides in a Pulowski Preservation shelter and mutters 'Now I know what a TV dinner feels like', a quote lifted straight from Die Hard.",
+    "source": "https://fallout.wiki/wiki/Community:Fallout_3_Easter_Eggs"
+  },
+  {
+    "title": "Callahan's Magnum",
+    "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2021/09/Fallout-Powerful-Weapons-Callahan.jpg",
+    "type": "EASTER EGG",
+    "entertainment": ["Fallout 3", "Dirty Harry"],
+    "description": "The unique revolver Callahan's Magnum takes its name directly from Harry Callahan, Clint Eastwood's iconic character in Dirty Harry.",
+    "source": "https://fallout.wiki/wiki/Community:Fallout_3_Easter_Eggs"
+  },
+  {
+    "title": "The McClellan Family Townhome's Bradbury Tribute",
+    "image": "https://images.fallout.wiki/e/ed/FO3_Location_McClellan_Family_Townhome_01.webp",
+    "type": "LORE",
+    "entertainment": ["Fallout 3", "There Will Come Soft Rains (Ray Bradbury)", "Fahrenheit 451"],
+    "description": "This whole location is a deep-cut homage to Ray Bradbury. The self-operating house, the dead family dog outside, and the Mister Handy reciting a 1920s poem all mirror Bradbury's short story 'There Will Come Soft Rains.' The family surname is even a play on Bradbury's own name from Fahrenheit 451, and the house number references the story's setting year.",
+    "source": "https://fallout.wiki/wiki/Community:Fallout_3_Easter_Eggs"
+  },
+  {
+    "title": "Sergeant RL-3's MacArthur Quote",
+    "image": "https://i.ytimg.com/vi/oAeStkT3FzE/maxresdefault.jpg",
+    "type": "EASTER EGG",
+    "entertainment": ["Fallout 3"],
+    "description": "The robotic companion Sergeant RL-3 declares 'Old warbots never die! We just rust away,' twisting General Douglas MacArthur's real-life farewell line, 'old soldiers never die; they just fade away.'",
+    "source": "https://fallout.wiki/wiki/Community:Fallout_3_Easter_Eggs"
+  },
+  {
+    "title": "Mister Gutsy's Apocalypse Now Line",
+    "image": "https://i.pinimg.com/736x/03/6e/ec/036eec836ef283c55fb723c62af36a55.jpg",
+    "type": "EASTER EGG",
+    "entertainment": ["Fallout 3", "Apocalypse Now"],
+    "description": "In combat, Mister Gutsy robots sometimes chirp 'there is nothing I like better than the smell of plasma in the morning', a rewrite of Robert Duvall's iconic napalm line from Apocalypse Now.",
+    "source": "https://fallout.wiki/wiki/Community:Fallout_3_Easter_Eggs"
+  },
+  {
+    "title": "Charon's Beatles Reference",
+    "image": "https://images.fallout.wiki/d/d5/FO3_Character_Charon.png",
+    "type": "EASTER EGG",
+    "entertainment": ["Fallout 3", "The Beatles"],
+    "description": "Ask ghoul companion Charon to switch to ranged weapons and he'll remark that he 'finds happiness in a warm gun', a nod to The Beatles' 'Happiness Is a Warm Gun.'",
+    "source": "https://fallout.wiki/wiki/Community:Fallout_3_Easter_Eggs"
+  },
+  {
+    "title": "Robobrain's Portal Homage",
+    "image": "https://images.fallout.wiki/f/f4/Masterbrain.jpg",
+    "type": "EASTER EGG",
+    "entertainment": ["Fallout 3", "Portal"],
+    "description": "When a Robobrain loses track of you, it may ask 'Are you still there?' Developer script notes explicitly label this line as an homage to Portal.",
+    "source": "https://fallout.wiki/wiki/Community:Fallout_3_Easter_Eggs"
+  },
+  {
+    "title": "\"You Can't Stop the Signal\"",
+    "image": "https://static.wikia.nocookie.net/fallout_gamepedia/images/7/7e/Three_Dog.jpg",
+    "type": "EASTER EGG",
+    "entertainment": ["Fallout 3", "Serenity"],
+    "description": "After completing the Galaxy News Radio quest, DJ Three Dog shouts 'You can't stop the signal!', a direct quote from the film Serenity.",
+    "source": "https://fallout.wiki/wiki/Community:Fallout_3_Easter_Eggs"
+  },
+  {
+    "title": "The Bombs Fell on October 23, 2077",
+    "image": "https://static.wikia.nocookie.net/fallout/images/3/3f/The_Atom.jpg",
+    "type": "LORE",
+    "entertainment": ["Fallout 3", "Fallout (series)"],
+    "description": "Within Fallout lore, the Great War's nuclear bombs fell on October 23, 2077. Bethesda actually wanted Fallout 3's real-world release date to land on that same date, but the game ended up hitting shelves a week later in North America instead.",
+    "source": "https://www.gamesradar.com/fallout-trivia/"
+  },
+  {
+    "title": "The Adamantium Skeleton Perk",
+    "image": "https://www.gamespot.com/wp-content/uploads/original/1552/15524586/2959705-screen%20shot%202015-11-02%20at%202.04.29%20pm.png",
+    "type": "EASTER EGG",
+    "entertainment": ["Fallout 3", "X-Men"],
+    "description": "The Adamantium Skeleton perk borrows its name straight from Marvel's X-Men, referencing the fictional indestructible metal alloy bonded to Wolverine's bones.",
+    "source": "https://fallout.wiki/wiki/Community:Fallout_3_Easter_Eggs"
+  },
+  {
+    "title": "Fallout 3 Was Announced Before Oblivion",
+    "image": "https://images.fallohttps://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/2e73/live/7ae9b8c0-1f8e-11f0-9c65-a5c3dc449bf3.jpg",
+    "type": "FACT",
+    "entertainment": ["Fallout 3", "The Elder Scrolls IV: Oblivion"],
+    "description": "Development on Fallout 3 quietly began in 2004, and the game was actually revealed to the public before Oblivion, which released two years earlier. Full production reportedly didn't ramp up until after Oblivion shipped.",
+    "source": "https://www.gamesradar.com/fallout-trivia/"
   }
 ]

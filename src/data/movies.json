@@ -5,7 +5,7 @@
     "year": "2013",
     "rating": "4.9",
     "category": "Video Game",
-    "producer": "Rockstar",
+    "producer": "Rockstar Games",
     "description": "Los Santos, San Andreas: a sprawling sun-soaked metropolis full of self-help gurus, starlets, and fading celebrities, once the envy of the Western world, now struggling to stay afloat in an era of economic uncertainty and cheap reality TV. Amidst the turmoil, three very different criminals plot their own chances of survival and success: Franklin Clinton, a former street gangster, now looking for real opportunities and serious money; Michael De Santa, a professional ex-con whose retirement is a lot less rosy than he hoped it would be; and Trevor Philips, a violent maniac driven by the chance of a cheap high and the next big score. Running out of options, the crew risks everything in a series of daring and dangerous heists that could set them up for life."
   },
   {
@@ -50,7 +50,7 @@
     "year": "2004",
     "rating": "4.0",
     "category": "Video Game",
-    "producer": "Blizzard",
+    "producer": "Blizzard Entertainment",
     "description": "Four years have passed since the races banded together to protect the Well of Eternity from the power of the Burning Legion. The tenuous peace that once held all the hatred of the races at bay, has shattered. The lands of the world of Azeroth have once again become host to a World of Warcraft. With eight races, all vying for control of Azeroth."
   },
   {
@@ -70,6 +70,88 @@
     "category": "Video Game",
     "producer": "Bethesda",
     "description": "In the far future where Earth has become a devastated wasteland, you're the child of the noted scientist James in the underground Vault 101 that's in the Washington DC area. Upon reaching adulthood, your father has mysteriously disappeared into the outside for some unknown purpose. Soon, you're forced to flee outside yourself from the murderous tyranny of the Vault Overseer who'll not tolerate such dissent. Now, you'll begin the search for your father as your adventures begin that'll either bring hope to that dismal world or destroy it."
+  },
+  {
+    "title": "Minecraft",
+    "imageUrl": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/key-art/Onboarding_Card-A_For-Beginners_600x600.jpg",
+    "year": "2009",
+    "rating": "4.5",
+    "category": "Video Game",
+    "producer": "Mojang",
+    "description": "An open world, sandbox game that is randomly generated. Players mine for minerals, build shelters, and fight off monsters that come at night in Survival Mode. The game also features a Creative Mode, where the player is invincible, has an unlimited supply of everything, can fly, and break blocks easily."
+  },
+  {
+    "title": "The Witcher 3: Wild Hunt",
+    "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1412/5YlA3POEEpaAJsUq3eg6U8d6.png",
+    "year": "2015",
+    "rating": "4.5",
+    "category": "Video Game",
+    "producer": "CD Projekt RED",
+    "description": "The witcher Geralt of Rivia reunites the sorceress Yennefer of Vengerberg, his former lover, and sets out to find his adoptive daughter and former apprentice Ciri, who he learns is being pursued by the Wild Hunt. They must find a way to defeat the Wild Hunt and stop the arrival of the White Frost, an unending snowfall that will bring about the end of the world."
+  },
+  {
+    "title": "Red Dead Redemption II",
+    "imageUrl": "https://image.api.playstation.com/cdn/UP1004/CUSA03041_00/Hpl5MtwQgOVF9vJqlfui6SDB5Jl4oBSq.png",
+    "year": "2015",
+    "rating": "4.5",
+    "category": "Video Game",
+    "producer": "Rockstar Games",
+    "description": "In 1899 the era of the Wild West is coming to an end as the federal government asserts its control over the lawless territories. Realizing that their fortunes are fading, Dutch Van der Linde's notorious gang plots one last major bank robbery that could set them for life. However, the heist goes awry with several gang members dead or captured; the gang is forced to flee across the country with the law pursuing them. Undeterred, Dutch hopes to pull off one last heist and flee the country. However each scheme ends in failure and Dutch's most-trusted lieutenant, Arthur Morgan, sees his loyalty to the gang put to the test as he is forced to come to terms with the changing times."
+  },
+  {
+    "title": "The Last of Us Part 1",
+    "imageUrl": "https://sm.ign.com/ign_ap/cover/t/the-last-o/the-last-of-us-part-1_sbdy.jpg",
+    "year": "2013",
+    "rating": "4.5",
+    "category": "Video Game",
+    "producer": "Naughty Dog",
+    "description": "Twenty years after a fungal infection obliterated most of the U.S. population and turned the victims into infected monstrosities, Joel is tasked with escorting Ellie to the Fireflies to help reverse engineer a cure. This isn't easy for either of them, since Joel has been left almost permanently bitter after the death of his daughter, and Ellie is distrusting of him."
+  },
+  {
+    "title": "The Last of Us Part 2",
+    "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202312/0117/315718bce7eed62e3cf3fb02d61b81ff1782d6b6cf850fa4.png",
+    "year": "2020",
+    "rating": "4.5",
+    "category": "Video Game",
+    "producer": "Naughty Dog",
+    "description": "Five years after their dangerous journey across the post-pandemic United States, Ellie and Joel have settled down in Jackson, Wyoming. Living amongst a thriving community of survivors has allowed them peace and stability, despite the constant threat of the infected and other, more desperate survivors. When a violent event disrupts that peace, Ellie embarks on a relentless journey to carry out justice and find closure. As she hunts those responsible one by one, she is confronted with the devastating physical and emotional repercussions of her actions."
+  },
+  {
+    "title": "Overwatch",
+    "imageUrl": "https://assets1.ignimgs.com/2018/02/23/overwatch-button-v2-1519416414955.jpg",
+    "year": "2016",
+    "rating": "4.5",
+    "category": "Video Game",
+    "producer": "Blizzard Entertainment",
+    "description": "After a devastating war against a combat-ready team of intelligent machines known as Omnics, the former agents of the heroic team known as Overwatch must join forces once more to fight a new threat."
+  },
+  {
+    "title": "Fallout 4",
+    "imageUrl": "https://assetsio.gnwcdn.com/-1447169751712.jpg",
+    "year": "2015",
+    "rating": "4.5",
+    "category": "Video Game",
+    "producer": "Bethesda",
+    "description": "Fallout 4 is an open-world role-playing game developed by Bethesda Game Studios. In it, the player begins as a parent and spouse in the year 2077, but then must enter Vault 111 to survive the nuclear apocalypse. The player becomes the last remaining survivor of Vault 111 as he/she emerges into the nuclear wasteland in 2287, amidst the ruins of the city of Boston."
+  },
+  {
+    "title": "Fallout: New Vegas",
+    "imageUrl": "https://sm.ign.com/ign_nordic/cover/f/fallout-ne/fallout-new-vegas_3h24.jpg",
+    "year": "2010",
+    "rating": "4.5",
+    "category": "Video Game",
+    "producer": "Obsidian Entertainment",
+    "description": "As you were delivering a package to the New Vegas strip, a strange man stops you and captures you, only for you to be shot in the head. He leaves you for dead and takes your package. You awaken in a clinic in the town of Goodsprings, where a doctor heals you and helps you get back on your feet. You have to defeat this strange man and have him pay for his crimes and find out what's in the package.. or betray the residents of Goodsprings and other small towns for their money and property... it's all up to you."
+  },
+  
+  {
+    "title": "The Elder Scrolls IV: Oblivion",
+    "imageUrl": "https://assets-prd.ignimgs.com/2025/04/22/elderscrolls-1745339694084.jpg",
+    "year": "2006",
+    "rating": "4.5",
+    "category": "Video Game",
+    "producer": "Bethesda",
+    "description": "The Player is in the Imperial Prison when the Emperor and his bodyguards need to go through his cell to escape from the Imperial City. The Emperors sons are asassinated. The Player goes to Kvatch where he finds the last heir of the Septim Bloodline. The emperor has been killed while escaping from the City. The Player must help the heir Martin Septim to save the world from the Oblivion Crisis. And joining the Blades, Save Kvatch from Oblivion, Save Bruma, and be the Champion Of Cyrodiil."
   },
   {
     "title": "The Avengers",

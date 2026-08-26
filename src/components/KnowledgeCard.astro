@@ -2,12 +2,16 @@
 interface Props {
   title: string;
 	description: string;
-  image: string;
+  entertainment: Array;
   source: string,
   type: string
 }
 
-const { title, description, image, source, type } = Astro.props;
+const { title, description, entertainment, source, type } = Astro.props;
+let entertainmentEdit;
+entertainment.map(k => {
+  entertainmentEdit + `•` + `<a href="https://geekotist.com/entertainment/` + k + `" >` + k + `</a>`
+})
 ---
 
 <article class="card-main">			
@@ -21,6 +25,8 @@ const { title, description, image, source, type } = Astro.props;
  
       <h2 class="headline">{title}</h2>
       <p class="desc">{description}</p>
+
+      <span class="fact-index">{entertainment.map(k => <a href={`https://geekotist.com/entertainment/${k.replace(/['.:]/g, "").split(' ').join('-').toLowerCase()}`}>{k}</a>)}</span>
     </div>
  
   </div>
@@ -71,6 +77,12 @@ const { title, description, image, source, type } = Astro.props;
     color: #FFA500;
   }
  
+  .bottom {
+    position: absolute; 
+    bottom: 0; 
+    left: 0;
+  }
+
   .headline{
     font-weight: 600;
     font-size: 1.25em;

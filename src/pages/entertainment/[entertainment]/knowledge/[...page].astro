@@ -16,7 +16,7 @@ export function getStaticPaths({ paginate }: GetStaticPathsOptions) {
 		return paginate(shuffledKnowledge, {
 			params: { entertainment: slugify(movie.title) },
 			props: { entertainmentName: movie.title },
-			pageSize: 4 // Show 8 movies per page
+			pageSize: 10 // Show 8 movies per page
 		});
 	});
 }

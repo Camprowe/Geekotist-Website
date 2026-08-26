@@ -9,7 +9,7 @@ import knowledge from '../../data/knowledge.json';
 
 export const getStaticPaths = (({ paginate }) => {
 	const shuffledKnowledge = [...knowledge].sort(() => Math.random() - 0.5);
-  	return paginate(shuffledKnowledge, { pageSize: 4 });
+  	return paginate(shuffledKnowledge, { pageSize: 10 });
 }) satisfies GetStaticPaths;
 
 const { page } = Astro.props;
@@ -21,30 +21,37 @@ const { page } = Astro.props;
 >
 	<Header />
 	<main class="category-page">
-		<div class="category-header">
-			<h1>All Knowledge</h1>
-			<p>Page {page.currentPage} of {page.lastPage}</p>
-		</div>
-
-		<KnowledgeGrid title="" knowledge={page.data} />
-
-
-		<div class="pagination">
-			{page.url.prev ? (
-				<a href={page.url.prev} class="page-link">Previous</a>
-			) : (
-				<span class="page-link disabled">Previous</span>
-			)}
-			
-			<div class="page-numbers">
-				{page.currentPage} / {page.lastPage}
+		<div>
+			<div class="category-header">
+				<h1>All Knowledge</h1>
+				<p>Page {page.currentPage} of {page.lastPage}</p>
 			</div>
 
-			{page.url.next ? (
-				<a href={page.url.next} class="page-link">Next</a>
-			) : (
-				<span class="page-link disabled">Next</span>
-			)}
+			<div class="category-content">
+
+				<KnowledgeGrid title="" knowledge={page.data} />
+
+			</div>
+
+			
+
+			<div class="pagination">
+				{page.url.prev ? (
+					<a href={page.url.prev} class="page-link">Previous</a>
+				) : (
+					<span class="page-link disabled">Previous</span>
+				)}
+				
+				<div class="page-numbers">
+					{page.currentPage} / {page.lastPage}
+				</div>
+
+				{page.url.next ? (
+					<a href={page.url.next} class="page-link">Next</a>
+				) : (
+					<span class="page-link disabled">Next</span>
+				)}
+			</div>
 		</div>
 	</main>
 	<Footer />
@@ -73,6 +80,10 @@ const { page } = Astro.props;
 		color: var(--text-muted);
 		font-size: 1.1rem;
 		margin: 0;
+	}
+
+	.category-content {
+		height: 100%
 	}
 
 	.pagination {

@@ -8,10 +8,6 @@ interface Props {
 }
 
 const { title, description, entertainment, source, type } = Astro.props;
-let entertainmentEdit;
-entertainment.map(k => {
-  entertainmentEdit + `•` + `<a href="https://geekotist.com/entertainment/` + k + `" >` + k + `</a>`
-})
 ---
 
 <article class="card-main">			
@@ -19,14 +15,14 @@ entertainment.map(k => {
  
     <div class="body">
       <div class="eyebrow">
-        <span class="fact-index">{type}</span>
+        <span class="fact-index"><a href={`https://geekotist.com/entertainment/${entertainment[0].replace(/['.:()]/g, "").split(' ').join('-').toLowerCase()}`}>{entertainment[0]}</a></span>
         <span class="fact-index"><a href={source}>Source</a></span>
       </div>
- 
+      
+      
       <h2 class="headline">{title}</h2>
       <p class="desc">{description}</p>
-
-      <span class="fact-index">{entertainment.map(k => <a href={`https://geekotist.com/entertainment/${k.replace(/['.:]/g, "").split(' ').join('-').toLowerCase()}`}>{k}</a>)}</span>
+      
     </div>
  
   </div>
@@ -96,4 +92,5 @@ entertainment.map(k => {
     line-height: 1.65;
     color: #ffffff;
   }
+
 </style>

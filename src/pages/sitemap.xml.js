@@ -6,7 +6,8 @@ const siteUrl = 'https://geekotist.com';
 export async function GET() {
   const staticPages = [
     '',
-    '/knowledge'
+    '/knowledge',
+    '/entertainment'
   ];
 
   // Get dynamic categories

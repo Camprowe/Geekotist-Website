@@ -2,12 +2,12 @@
 interface Props {
   title: string;
 	description: string;
-  image: string;
+  entertainment: Array;
   source: string,
   type: string
 }
 
-const { title, description, image, source, type } = Astro.props;
+const { title, description, entertainment, source, type } = Astro.props;
 ---
 
 <article class="card-main">			
@@ -15,12 +15,14 @@ const { title, description, image, source, type } = Astro.props;
  
     <div class="body">
       <div class="eyebrow">
-        <span class="fact-index">{type}</span>
+        <span class="fact-index"><a href={`https://geekotist.com/entertainment/${entertainment[0].replace(/['.:()]/g, "").split(' ').join('-').toLowerCase()}`}>{entertainment[0]}</a></span>
         <span class="fact-index"><a href={source}>Source</a></span>
       </div>
- 
+      
+      
       <h2 class="headline">{title}</h2>
       <p class="desc">{description}</p>
+      
     </div>
  
   </div>
@@ -71,6 +73,12 @@ const { title, description, image, source, type } = Astro.props;
     color: #FFA500;
   }
  
+  .bottom {
+    position: absolute; 
+    bottom: 0; 
+    left: 0;
+  }
+
   .headline{
     font-weight: 600;
     font-size: 1.25em;
@@ -84,4 +92,5 @@ const { title, description, image, source, type } = Astro.props;
     line-height: 1.65;
     color: #ffffff;
   }
+
 </style>

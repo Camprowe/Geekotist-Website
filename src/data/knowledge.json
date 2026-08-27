@@ -3667,5 +3667,289 @@
     "entertainment": ["My Hero Academia", "Spider-Man"],
     "description": "When Stan Lee passed away, MHA fans online paid tribute by redrawing the classic 1963 Amazing Spider-Man #50 cover, but swapped Spider-Man's webbing for Sero's tape-based Cellophane Quirk. It's a fitting tribute given how openly MHA borrows from the Marvel aesthetic Lee helped build.",
     "source": "https://comicbook.com/anime/news/my-hero-academia-manga-marvel-stan-lee-tribute/"
+  },
+  {
+    "title": "Motion-Captured by a Real Swordsman",
+    "type": "FACT",
+    "entertainment": [
+      "The Witcher 3: Wild Hunt"
+    ],
+    "description": "Geralt's combat animations weren't just hand-keyed by animators. CD Projekt Red actually brought in a professional swordsman to perform the motion capture, and he found that a dance-like flow through each strike and parry felt far more natural than stiff, mechanical swings. That's exactly the fluid, almost balletic combat style that made it into the finished game.",
+    "source": "https://twinfinite.net/gallery/the-witcher-3-did-you-know-facts/"
+  },
+  {
+    "title": "A Map Bigger Than Skyrim",
+    "type": "FACT",
+    "entertainment": [
+      "The Witcher 3: Wild Hunt",
+      "The Elder Scrolls V: Skyrim"
+    ],
+    "description": "At launch, Witcher 3's open world was roughly 20% larger than Skyrim's map, and about 35 times the size of the world in The Witcher 2. That scale goes a long way toward explaining why the map ends up absolutely covered in little question marks waiting to be uncovered.",
+    "source": "https://twinfinite.net/gallery/the-witcher-3-did-you-know-facts/"
+  },
+  {
+    "title": "A Cut Fallout-Style Targeting System",
+    "type": "FACT",
+    "entertainment": [
+      "The Witcher 3: Wild Hunt",
+      "Fallout"
+    ],
+    "description": "At one point during development, the team experimented with a targeting system similar to Fallout's V.A.T.S, letting players pause combat and aim at specific body parts. It never made it into the final release, and honestly it's hard to picture the fast, fluid swordplay working any other way.",
+    "source": "https://twinfinite.net/gallery/the-witcher-3-did-you-know-facts/"
+  },
+  {
+    "title": "Over a Million Lines of Code",
+    "type": "FACT",
+    "entertainment": [
+      "The Witcher 3: Wild Hunt"
+    ],
+    "description": "Building a world this size took some serious engineering. The finished game runs on more than a million lines of code, and a staggering 30,000 of those lines exist purely to handle dialogue.",
+    "source": "https://twinfinite.net/gallery/the-witcher-3-did-you-know-facts/"
+  },
+  {
+    "title": "The Author Stayed Out of It",
+    "type": "FACT",
+    "entertainment": [
+      "The Witcher 3: Wild Hunt"
+    ],
+    "description": "Andrzej Sapkowski, the Polish novelist behind the books this whole series is built on, had no creative involvement in the direction CD Projekt Red took the story. All of the quests, characters, and choices players remember were shaped entirely by the studio's own writing team.",
+    "source": "https://twinfinite.net/gallery/the-witcher-3-did-you-know-facts/"
+  },
+  {
+    "title": "The Dev Team's Hidden Mountaintop Photo",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "The Witcher 3: Wild Hunt"
+    ],
+    "description": "Right at the peak of the tallest, most distant mountain visible from Toussaint, there's a framed photo of the actual development team propped on an easel between two pillars. There's no legitimate way to reach it during normal play, you need the game's debug free camera to teleport Geralt all the way up there.",
+    "source": "https://twinfinite.net/gallery/the-witcher-3-did-you-know-facts/"
+  },
+  {
+    "title": "Gwent Was Built in a Three-Day Sprint",
+    "type": "FACT",
+    "entertainment": [
+      "The Witcher 3: Wild Hunt",
+      "Gwent: The Witcher Card Game"
+    ],
+    "description": "Gwent almost never happened. Designers Damien Monnier and Rafal Jaki pitched a card game within the game, but studio head Adam Kiciński wasn't sold and only gave them three days to prove the idea could work. They pulled together a working demo over one long weekend, and it went on to become one of the most beloved parts of the entire game.",
+    "source": "https://www.gamedeveloper.com/design/how-i-the-witcher-3-s-i-card-game-within-a-game-was-brought-to-life"
+  },
+  {
+    "title": "Gwent's Real-World Inspirations",
+    "type": "FACT",
+    "entertainment": [
+      "The Witcher 3: Wild Hunt",
+      "Gwent: The Witcher Card Game"
+    ],
+    "description": "When the Gwent team needed inspiration, they didn't turn to other fantasy card games. They borrowed ideas from the tabletop games War, Netrunner, and Condottiere to figure out how cards should move and interact on the board.",
+    "source": "https://www.gamedeveloper.com/design/how-i-the-witcher-3-s-i-card-game-within-a-game-was-brought-to-life"
+  },
+  {
+    "title": "From Mini-Game to Standalone Hit",
+    "type": "FACT",
+    "entertainment": [
+      "The Witcher 3: Wild Hunt",
+      "Gwent: The Witcher Card Game",
+      "Thronebreaker: The Witcher Tales"
+    ],
+    "description": "Gwent proved so popular that CD Projekt Red spun it off into its own free-to-play card game, and later into a single-player story campaign called Thronebreaker: The Witcher Tales. What started life as a way for Geralt to kill time between contracts ended up becoming a whole franchise on its own.",
+    "source": "https://gamerant.com/gwent-anniversary-mini-game-full-release-future-history-tournaments-support-ended-next-step/"
+  },
+  {
+    "title": "Gwent Finally Became a Physical Card Game",
+    "type": "FACT",
+    "entertainment": [
+      "The Witcher 3: Wild Hunt",
+      "Gwent: The Witcher Card Game"
+    ],
+    "description": "A full decade after Witcher 3 first launched, Gwent finally got turned into a real tabletop product, complete with over 400 physical cards, a playmat, and rules for both casual play and proper tournaments.",
+    "source": "https://www.gamesradar.com/games/the-witcher/after-10-years-the-witcher-3s-fan-favorite-card-game-gwent-is-becoming-an-actual-real-life-card-game-with-more-than-400-cards/"
+  },
+  {
+    "title": "A New Single-Player Gwent Spin-off Is Coming",
+    "type": "FACT",
+    "entertainment": [
+      "The Witcher 3: Wild Hunt",
+      "Gwent: The Witcher Card Game"
+    ],
+    "description": "CD Projekt Red's in-house Gwent team has been quietly working on another standalone single-player card game, codenamed Project Golden Nekker. The studio has said it's meant to feel like its own thing rather than simply a repeat of the earlier Thronebreaker spin-off.",
+    "source": "https://www.techradar.com/news/witcher-3-card-game-gwent-receiving-a-new-standalone-spin-off"
+  },
+  {
+    "title": "One Voice, Three Games (and a Movie)",
+    "type": "FACT",
+    "entertainment": [
+      "The Witcher 3: Wild Hunt",
+      "The Witcher",
+      "The Witcher 2: Assassins of Kings"
+    ],
+    "description": "Doug Cockle has voiced Geralt of Rivia in English across all three mainline Witcher games, sticking with the role for well over a decade. He's since confirmed he'll be reprising the part again for the animated film The Witcher: Sirens of the Deep.",
+    "source": "https://witcher.fandom.com/wiki/Doug_Cockle"
+  },
+  {
+    "title": "Geralt's Voice Actor Calls the UK Home",
+    "type": "FACT",
+    "entertainment": [
+      "The Witcher 3: Wild Hunt"
+    ],
+    "description": "Doug Cockle actually grew up in the US in a Marine Corps family before eventually settling in the UK with his wife back in 1999, where he still lives and works today. He holds both American and British citizenship.",
+    "source": "https://www.imdb.com/name/nm0168339/"
+  },
+  {
+    "title": "Award Recognition for Geralt's Voice",
+    "type": "FACT",
+    "entertainment": [
+      "The Witcher 3: Wild Hunt"
+    ],
+    "description": "Doug Cockle's performance as Geralt in Witcher 3 didn't go unnoticed by the industry. It earned him genuine critical acclaim along with multiple award nominations at major gaming awards ceremonies.",
+    "source": "https://grokipedia.com/page/Doug_Cockle"
+  },
+  {
+    "title": "A Diablo Shout-Out in Fyresdal",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "The Witcher 3: Wild Hunt",
+      "Diablo"
+    ],
+    "description": "Walk into the butcher's house in Fyresdal for the first time and he'll bellow 'Fresh Meat' the moment he spots you, the exact same line The Butcher shouts the first time you run into him in every Diablo game.",
+    "source": "https://witcher.fandom.com/wiki/The_Witcher_3_Easter_eggs/Games"
+  },
+  {
+    "title": "Legendary Swords with Borrowed Names",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "The Witcher 3: Wild Hunt",
+      "Diablo II",
+      "Baldur's Gate"
+    ],
+    "description": "A couple of Witcher 3's silver swords are quiet nods to other classic RPGs. Azure Wrath echoes Azurewrath, the angelic blade wielded by the fallen angel Izual in the Diablo games, while a sword called Daystar borrows its name from the weapon guarded by a lich in Baldur's Gate's city of Amn.",
+    "source": "https://witcher.fandom.com/wiki/The_Witcher_3_Easter_eggs/Games"
+  },
+  {
+    "title": "The CDPR Logo Hiding in Toussaint",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "The Witcher 3: Wild Hunt"
+    ],
+    "description": "The Scarlet Cardinal Inn tucked away in Toussaint is a sly nod to CD Projekt Red's own company logo, hiding the studio's branding in plain sight as a tavern sign.",
+    "source": "https://witcher.fandom.com/wiki/The_Witcher_3_Easter_eggs/Games"
+  },
+  {
+    "title": "A Shawshank Redemption Nod",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "The Witcher 3: Wild Hunt",
+      "The Shawshank Redemption"
+    ],
+    "description": "During the Hearts of Stone side quest The Drakenborg Redemption, a letter mentions a hidden stash and a promise to reunite with whoever left it there, a pretty clear wink at the setup from The Shawshank Redemption.",
+    "source": "https://witcher.fandom.com/wiki/The_Witcher_3_Easter_eggs/Films"
+  },
+  {
+    "title": "'All Work and No Play' in Beauclair",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "The Witcher 3: Wild Hunt",
+      "The Shining"
+    ],
+    "description": "A guard patrolling the streets of Beauclair mutters 'all work and no play' at Geralt, lifted straight from The Shining, right down to the delivery.",
+    "source": "https://witcher.fandom.com/wiki/The_Witcher_3_Easter_eggs/Films"
+  },
+  {
+    "title": "'This is Skellige!'",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "The Witcher 3: Wild Hunt",
+      "300"
+    ],
+    "description": "Villagers and guards across Skellige will occasionally shout 'This is Skellige!' at the top of their lungs, an obvious riff on Leonidas' famous battle cry from 300.",
+    "source": "https://witcher.fandom.com/wiki/The_Witcher_3_Easter_eggs/Films"
+  },
+  {
+    "title": "A Monty Python Moment",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "The Witcher 3: Wild Hunt",
+      "Monty Python and the Holy Grail"
+    ],
+    "description": "Tucked away somewhere in the game is a reference clearly lifted from Monty Python and the Holy Grail, which honestly fits given how much of Witcher 3's writing leans on dry, self-aware humour.",
+    "source": "https://www.thegamer.com/witcher-3-game-best-hidden-easter-eggs-missed-guide/"
+  },
+  {
+    "title": "Red Hot Chili Peppers Get a Nod",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "The Witcher 3: Wild Hunt"
+    ],
+    "description": "Somewhere in the storybook world of the Land of a Thousand Fables, there's a bridge with an actual red pepper sitting underneath it, a cheeky little reference from developers who were clearly Red Hot Chili Peppers fans.",
+    "source": "https://www.thegamer.com/witcher-3-game-best-hidden-easter-eggs-missed-guide/"
+  },
+  {
+    "title": "Smigole Serkis and His Precious Spoon",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "The Witcher 3: Wild Hunt",
+      "The Lord of the Rings"
+    ],
+    "description": "Somewhere in Blood and Wine there's a note written by a character called Smigole Serkis, mourning the loss of his beloved golden spoon. It's a two-for-one joke, poking fun at both Gollum's alter ego Smeagol and Andy Serkis, the actor who brought him to life.",
+    "source": "https://witcherhour.com/best-witcher-3-easter-eggs/"
+  },
+  {
+    "title": "Durden the Tailor",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "The Witcher 3: Wild Hunt",
+      "Fight Club"
+    ],
+    "description": "Check out a brawling tournament in Novigrad and you'll run into a character called Durden the Tailor, a fairly unsubtle nod to Tyler Durden from Fight Club.",
+    "source": "https://witcherhour.com/best-witcher-3-easter-eggs/"
+  },
+  {
+    "title": "A 127 Hours Reference in a Monster Cave",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "The Witcher 3: Wild Hunt",
+      "127 Hours"
+    ],
+    "description": "Deep inside one of the game's monster caves is a skeleton with its arm trapped under a fallen rock, a grim little homage to 127 Hours imagining what might have happened if the climber in that film never made it out.",
+    "source": "https://witcherhour.com/best-witcher-3-easter-eggs/"
+  },
+  {
+    "title": "Djenge Frett, Bounty Hunter",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "The Witcher 3: Wild Hunt",
+      "Star Wars"
+    ],
+    "description": "One of the bounty hunters Geralt runs into over in Skellige goes by the name Djenge Frett. Say it out loud a couple of times and it's not hard to hear the wink at Star Wars' Jango Fett.",
+    "source": "https://www.theversed.com/72950/10-pop-culture-easter-egg-witcher-3/"
+  },
+  {
+    "title": "A Godfather Line from Vesemir",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "The Witcher 3: Wild Hunt",
+      "The Godfather"
+    ],
+    "description": "Right near the start of the game, Vesemir describes Emperor Emhyr's summons as 'an offer one can't refuse,' borrowing one of The Godfather's most famous lines almost word for word.",
+    "source": "https://www.theversed.com/72950/10-pop-culture-easter-egg-witcher-3/"
+  },
+  {
+    "title": "Game of Thrones Easter Eggs Everywhere",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "The Witcher 3: Wild Hunt",
+      "Game of Thrones"
+    ],
+    "description": "Witcher 3 has more than one nod to Game of Thrones scattered through Skellige and Novigrad. A secondary quest even borrows its title, A Feast for Crows, straight from George R. R. Martin's fourth book in the series.",
+    "source": "https://www.theversed.com/72950/10-pop-culture-easter-egg-witcher-3/"
+  },
+  {
+    "title": "Why the Wild Hunt Wants Ciri",
+    "type": "LORE",
+    "entertainment": [
+      "The Witcher 3: Wild Hunt"
+    ],
+    "description": "The Wild Hunt aren't the ghostly folklore riders that common folk on the Continent assume they are. They're actually elves from a different, dying world, crossing between dimensions in search of people carrying Elder Blood, like Ciri, because their own world is running out of options.",
+    "source": "https://collider.com/the-witcher-season-3-wild-hunt-explained/"
   }
 ]

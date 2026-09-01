@@ -9,6 +9,15 @@
     "description": "Los Santos, San Andreas: a sprawling sun-soaked metropolis full of self-help gurus, starlets, and fading celebrities, once the envy of the Western world, now struggling to stay afloat in an era of economic uncertainty and cheap reality TV. Amidst the turmoil, three very different criminals plot their own chances of survival and success: Franklin Clinton, a former street gangster, now looking for real opportunities and serious money; Michael De Santa, a professional ex-con whose retirement is a lot less rosy than he hoped it would be; and Trevor Philips, a violent maniac driven by the chance of a cheap high and the next big score. Running out of options, the crew risks everything in a series of daring and dangerous heists that could set them up for life."
   },
   {
+    "title": "Grand Theft Auto IV",
+    "imageUrl": "https://assets-prd.ignimgs.com/2022/01/07/gta-4-button-char-v2-1641587906428.jpg",
+    "year": "2008",
+    "rating": "4.9",
+    "category": "Video Game",
+    "producer": "Rockstar Games",
+    "description": "Niko Bellic, a south eastern and previous soldier migrates to America to forget all the memories from the war in his country. He comes to Liberty City to join his cousin. He comes to Liberty City to live the American Dream his cousin told him so much about. However this dream ain't true. And instead of living like a boss both of them gets thrown in to a dark underworld were they're forced to work for the mob. Niko can do anything to get what he demands - money. He is also looking for someone, and asks the mob for help. He's looking for the man who betrayed him back in the war. It seems like he lives here in Liberty City. So the dangerous journey is also a revenge mission were Niko does everything to avenge the man who killed his friends."
+  },
+  {
     "title": "The Elder Scrolls V: Skyrim",
     "imageUrl": "https://4kwallpapers.com/images/wallpapers/the-elder-scrolls-v-2560x2560-14935.jpg",
     "year": "2011",
@@ -99,6 +108,15 @@
     "description": "In 1899 the era of the Wild West is coming to an end as the federal government asserts its control over the lawless territories. Realizing that their fortunes are fading, Dutch Van der Linde's notorious gang plots one last major bank robbery that could set them for life. However, the heist goes awry with several gang members dead or captured; the gang is forced to flee across the country with the law pursuing them. Undeterred, Dutch hopes to pull off one last heist and flee the country. However each scheme ends in failure and Dutch's most-trusted lieutenant, Arthur Morgan, sees his loyalty to the gang put to the test as he is forced to come to terms with the changing times."
   },
   {
+    "title": "Red Dead Redemption",
+    "imageUrl": "https://assets-prd.ignimgs.com/2021/12/08/rdr-1638988040345.jpg",
+    "year": "2010",
+    "rating": "4.5",
+    "category": "Video Game",
+    "producer": "Rockstar Games",
+    "description": "John Marston is being blackmailed by government lawmen to hunt down his former partners-in-crime. Driven further into the American Southwest, Marston soon finds that Williams has crossed into Mexico, a country in the throes of a civil war. At every turn, Marston must choose whether to side with outlaws or innocents in the crossfire."
+  },
+  {
     "title": "The Last of Us Part 1",
     "imageUrl": "https://sm.ign.com/ign_ap/cover/t/the-last-o/the-last-of-us-part-1_sbdy.jpg",
     "year": "2013",
@@ -142,8 +160,7 @@
     "category": "Video Game",
     "producer": "Obsidian Entertainment",
     "description": "As you were delivering a package to the New Vegas strip, a strange man stops you and captures you, only for you to be shot in the head. He leaves you for dead and takes your package. You awaken in a clinic in the town of Goodsprings, where a doctor heals you and helps you get back on your feet. You have to defeat this strange man and have him pay for his crimes and find out what's in the package.. or betray the residents of Goodsprings and other small towns for their money and property... it's all up to you."
-  },
-  
+  },  
   {
     "title": "The Elder Scrolls IV: Oblivion",
     "imageUrl": "https://assets-prd.ignimgs.com/2025/04/22/elderscrolls-1745339694084.jpg",
@@ -152,6 +169,33 @@
     "category": "Video Game",
     "producer": "Bethesda",
     "description": "The Player is in the Imperial Prison when the Emperor and his bodyguards need to go through his cell to escape from the Imperial City. The Emperors sons are asassinated. The Player goes to Kvatch where he finds the last heir of the Septim Bloodline. The emperor has been killed while escaping from the City. The Player must help the heir Martin Septim to save the world from the Oblivion Crisis. And joining the Blades, Save Kvatch from Oblivion, Save Bruma, and be the Champion Of Cyrodiil."
+  },
+  {
+    "title": "God of War (2018)",
+    "imageUrl": "https://www.ancientwarrior.co.uk/cdn/shop/collections/AW_GOW-collectibles-banner.jpg",
+    "year": "2018",
+    "rating": "4.5",
+    "category": "Video Game",
+    "producer": "Santa Monica Studio",
+    "description": "Kratos, the God of War, has defeated the Gods of Olympus and has started his life anew, in one of the Nine Realms of Norse Mythology: Midgard; he now has a son named Atreus, whom he had with his late wife Faye. Together, Kratos and Atreus travel across The Realms to scatter Faye's ashes from the highest peak in all the land"
+  },
+  {
+    "title": "Batman: Arkham Asylum",
+    "imageUrl": "https://assets2.ignimgs.com/2014/02/07/rszbatman-arkham-asylum-1920x1200-action-role-playing-photo-batman-arkham-city-wallpaperjpg-1e07c3_160w.jpg?width=1200&height=1200&fit=crop&format=jpg&auto=webp&quality=80",
+    "year": "2009",
+    "rating": "4.5",
+    "category": "Video Game",
+    "producer": "Rocksteady Studio",
+    "description": "On a routine trip returning The Joker to Arkham Asylum, the Batman himself must deal with traps set within its inner sanctums, purposely set by the now escaped Joker, along with the rest of his rogues' gallery that are now free within the premises."
+  },
+  {
+    "title": "Batman: Arkham City",
+    "imageUrl": "https://assets-prd.ignimgs.com/2021/12/08/batmanarkhamcity-1638989730511.jpg",
+    "year": "2011",
+    "rating": "4.5",
+    "category": "Video Game",
+    "producer": "Rocksteady Studio",
+    "description": "Bruce Wayne is kidnapped whilst protesting the use of Arkham City, a dilapidated part of Gotham that is used to house the resident of Arkham Asylum. He is trapped inside the facility, forced to fight the most powerful criminals in Gotham, and confront Hugo Strange."
   },
   {
     "title": "The Avengers",

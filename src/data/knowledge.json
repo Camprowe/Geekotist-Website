@@ -5534,5 +5534,617 @@
     ],
     "description": "Tom Uberti, one of the figures in Sadie's Story, seems to be a nod to Dante's Farinata degli Uberti, a heretic condemned to spend eternity trapped in a burning tomb. Tom's own fate in the story mirrors that fairly closely, which fits given how heavily the whole audio log arc leans on Inferno imagery.",
     "source": "https://halo.fandom.com/wiki/Sadie%27s_Story"
+  },
+  {
+    "title": "The Drowned Lover of Fort Nikel",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "The Elder Scrolls IV: Oblivion"
+    ],
+    "description": "There's a body floating in the lake just west of Fort Nikel called Nath Dyer, and on him you'll find a primrose and a love letter he never got round to sending. Dig into the construction set files and his hidden internal name is 'NathanMcDyer' - almost certainly a nod to Nathan McDyer, one of the QA testers who worked on the game. Poor Nath never got the girl, but at least he got a tombstone-worthy in-joke out of it.",
+    "source": "https://en.uesp.net/wiki/Oblivion:Easter_Eggs"
+  },
+  {
+    "title": "A Skeleton Named After the Art Team",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "The Elder Scrolls IV: Oblivion"
+    ],
+    "description": "Wander into Fort Scinia and you'll find a long-dead skeleton called Gran Struthe. Say it out loud a couple of times and it starts sounding a lot like Grant Struthers, who was part of the seven-person World Art team credited on the game. Bethesda clearly liked hiding little tombstones for their own staff around Cyrodiil.",
+    "source": "https://en.uesp.net/wiki/Oblivion:Easter_Eggs"
+  },
+  {
+    "title": "Land Dreugh a.k.a. 'Billies'",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "The Elder Scrolls IV: Oblivion"
+    ],
+    "description": "NPCs will occasionally warn you about land dreugh and call them 'Billies' for no reason the game ever explains. Turns out that was a genuine internal dev nickname - the team apparently referred to the creature as 'Codename: Billy' during production and the name just leaked straight into the finished dialogue.",
+    "source": "https://en.uesp.net/wiki/Oblivion:Easter_Eggs"
+  },
+  {
+    "title": "Lucien Lachance Is a Forever Knight Fan",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "The Elder Scrolls IV: Oblivion",
+      "Forever Knight"
+    ],
+    "description": "The Dark Brotherhood's Lucien Lachance shares more than just a similar-sounding name with Lucien Lacroix from the old Canadian vampire show Forever Knight. Both are the ones who drag the hero into their dark little family in the first place, which feels like a very deliberate bit of homage rather than coincidence.",
+    "source": "https://en.uesp.net/wiki/Oblivion:Easter_Eggs"
+  },
+  {
+    "title": "There Is Nothing You Can Possess",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "The Elder Scrolls IV: Oblivion",
+      "Raiders of the Lost Ark"
+    ],
+    "description": "Umbacano's second quest, Nothing You Can Possess, borrows its title straight from Raiders of the Lost Ark, where Belloq tells Indy 'there is nothing you can possess which I cannot take away.' It's not just the name either - the whole setup of someone snatching away the relic you just risked your neck for is lifted from that exact scene.",
+    "source": "https://en.uesp.net/wiki/Oblivion:Easter_Eggs"
+  },
+  {
+    "title": "Gable, Laughton, and a Mutiny at Sea",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "The Elder Scrolls IV: Oblivion",
+      "Mutiny on the Bounty"
+    ],
+    "description": "Finish the Forlorn Watchman quest and you'll get your hands on a ship's log describing a mutiny led by a sailor named Gable against a Captain Laughton. That's a wink at Mutiny on the Bounty, where Clark Gable and Charles Laughton played the mutineer and the captain respectively.",
+    "source": "https://en.uesp.net/wiki/Oblivion:Easter_Eggs"
+  },
+  {
+    "title": "The Diary of a Man-Eating Plant",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "The Elder Scrolls IV: Oblivion",
+      "Little Shop of Horrors"
+    ],
+    "description": "Steal Amantius Allectus' diary during May the Best Thief Win and give it a read - it's about a blood-drinking plant he stumbles across during a solar eclipse and eventually has to destroy. It's basically Little Shop of Horrors, just with a happier ending for the humans involved this time.",
+    "source": "https://en.uesp.net/wiki/Oblivion:Easter_Eggs"
+  },
+  {
+    "title": "Blue Suede Shoes, Cyrodiil Edition",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "The Elder Scrolls IV: Oblivion"
+    ],
+    "description": "There's an item you can find simply called Blue Suede Shoes, and it's exactly the tribute it sounds like - a nod to the Carl Perkins rock and roll classic that Elvis, Johnny Cash, and half of music history have covered since. No real gameplay purpose, just a fun name for the collectors to spot.",
+    "source": "https://en.uesp.net/wiki/Oblivion:Easter_Eggs"
+  },
+  {
+    "title": "Shum gro-Yarug Really Likes That Wine",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "The Elder Scrolls IV: Oblivion"
+    ],
+    "description": "Ask around Castle Skingrad about the Surilie vineyards and Shum gro-Yarug will tell you he 'helped him drink his wine, and he always has some mighty fine wine.' That's almost word for word from Three Dog Night's 'Joy to the World,' the one about Jeremiah the bullfrog. Slightly odd choice for an Orc, but it works.",
+    "source": "https://en.uesp.net/wiki/Oblivion:Easter_Eggs"
+  },
+  {
+    "title": "Jack Be Nimble, Jakben Be Imbel",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "The Elder Scrolls IV: Oblivion"
+    ],
+    "description": "Strip the 'Earl of' off Jakben, Earl of Imbel's name and you get JakbenImbel, which reads a lot like 'Jack be nimble' if you squint. Fittingly, he's connected to Springheel Jak - a play on the English folklore figure Spring-Heeled Jack - whose boots give you a hefty Acrobatics boost, perfect for jumping over candlesticks.",
+    "source": "https://en.uesp.net/wiki/Oblivion:Easter_Eggs"
+  },
+  {
+    "title": "Hackdirt Worships the Deep Ones",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "The Elder Scrolls IV: Oblivion",
+      "The Shadow Over Innsmouth"
+    ],
+    "description": "The Chorrol quest A Shadow Over Hackdirt has the townsfolk secretly worshipping unseen creatures called the Deep Ones through their own twisted little scripture. That's lifted almost wholesale from H.P. Lovecraft's The Shadow Over Innsmouth, right down to the isolated town hiding something under the water.",
+    "source": "https://en.uesp.net/wiki/Oblivion:Easter_Eggs"
+  },
+  {
+    "title": "Redmaw the Wolf Is Actually Carcharoth",
+    "type": "LORE",
+    "entertainment": [
+      "The Elder Scrolls IV: Oblivion",
+      "The Silmarillion"
+    ],
+    "description": "Up at Gnoll Mountain you'll meet a Nord called Havilstein Hoar-Blood travelling with a wolf named Redmaw. Redmaw is a pretty direct English translation of Carcharoth, the monstrous wolf from Tolkien's Silmarillion - one of a few Tolkien nods tucked away in the game for anyone who's read the source material.",
+    "source": "https://en.uesp.net/wiki/Oblivion:Easter_Eggs"
+  },
+  {
+    "title": "A Knife in the Dark, Twice Over",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "The Elder Scrolls IV: Oblivion",
+      "The Lord of the Rings: The Fellowship of the Ring"
+    ],
+    "description": "Your Dark Brotherhood initiation quest, A Knife in the Dark, shares its title with a chapter of The Fellowship of the Ring - and it's not just the name. Both involve someone very nearly being murdered in their sleep at an inn, which is about as close a callback as you can get without lifting dialogue outright.",
+    "source": "https://en.uesp.net/wiki/Oblivion:Easter_Eggs"
+  },
+  {
+    "title": "Cardius Is Dracula Backwards, Sort Of",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "The Elder Scrolls IV: Oblivion",
+      "Dracula"
+    ],
+    "description": "Deep in the Ayleid ruin of Vilverin there's a note addressed to a Daggerfall guard captain named Aluc Cardius. Rearrange those letters and you're basically looking at 'Dracula' - which tracks nicely, since the game hints pretty strongly that Cardius is a vampire himself.",
+    "source": "https://en.uesp.net/wiki/Oblivion:Easter_Eggs"
+  },
+  {
+    "title": "The Bear You're Not Meant to Fight",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "The Elder Scrolls IV: Oblivion"
+    ],
+    "description": "During Nature's Fury you'll run into a huge bear called Forest Guardian, and the trick to 'beating' it is simply not attacking it despite the growling and posturing. That's pulled straight from David Gemmell's novel Sword in the Storm, where the hero Connavar earns the same bear's respect by refusing to fight it.",
+    "source": "https://en.uesp.net/wiki/Oblivion:Easter_Eggs"
+  },
+  {
+    "title": "Alas, Poor Orc",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "The Elder Scrolls IV: Oblivion",
+      "Hamlet"
+    ],
+    "description": "When an Orc dies during the Tournament of Ten Bloods, Boethia sighs 'Alas, poor Orc. This was not your finest hour.' It's a straightforward pun on Hamlet's graveyard speech, 'Alas, poor Yorick,' dropped in without any fanfare for anyone who happened to study the play in school.",
+    "source": "https://en.uesp.net/wiki/Oblivion:Easter_Eggs"
+  },
+  {
+    "title": "Gogron's Rabbit Problem",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "The Elder Scrolls IV: Oblivion",
+      "Of Mice and Men"
+    ],
+    "description": "Ask Telaendril for rumours and she'll tell you that Gogron gro-Bolmog once had a pet rabbit as a kid and petted it so hard he accidentally crushed its skull. That's basically lifted from Steinbeck's Of Mice and Men, where Lennie does much the same thing to a mouse and a puppy while dreaming of one day tending rabbits of his own.",
+    "source": "https://en.uesp.net/wiki/Oblivion:Easter_Eggs"
+  },
+  {
+    "title": "The Emperor Quotes Shakespeare",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "The Elder Scrolls IV: Oblivion",
+      "Julius Caesar"
+    ],
+    "description": "During the tutorial, Uriel Septim recites a couple of slightly reworked lines from Shakespeare's Julius Caesar, including 'death, a necessary end, will come when it will come.' Makes sense once you remember his voice actor was Patrick Stewart, a Royal Shakespeare Company member since the 1960s.",
+    "source": "https://en.uesp.net/wiki/Oblivion:Easter_Eggs"
+  },
+  {
+    "title": "Caught in the Hunt, Caught in a Reference",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "The Elder Scrolls IV: Oblivion",
+      "The Most Dangerous Game"
+    ],
+    "description": "The quest Caught in the Hunt borrows its premise from Richard Connell's short story The Most Dangerous Game, where a hunter travelling abroad ends up becoming the prey on an isolated island instead of the one doing the hunting.",
+    "source": "https://en.uesp.net/wiki/Oblivion:Easter_Eggs"
+  },
+  {
+    "title": "M'aiq Knows Much, Tells Some",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "The Elder Scrolls IV: Oblivion",
+      "The Moon Is a Harsh Mistress"
+    ],
+    "description": "M'aiq the Liar's signature line, 'M'aiq knows much, tells some,' is a twist on a line from Robert Heinlein's The Moon Is a Harsh Mistress, where Mannie says of his best friend Mike, 'Mike knows much, doesn't tell all.' Fitting company for gaming's most unreliable Khajiit.",
+    "source": "https://en.uesp.net/wiki/Oblivion:Easter_Eggs"
+  },
+  {
+    "title": "Battlehorn Castle's Necromancer Problem",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "The Elder Scrolls IV: Oblivion",
+      "Legacy of Kain"
+    ],
+    "description": "Take over Battlehorn Castle and dig into its unmarked quest, and you'll learn the previous lord, Lord Kain, was brought back from the dead by a scheming necromancer after being killed in battle. Swap a few names and that's basically the setup of the Legacy of Kain series, where a nobleman named Kain is resurrected by the necromancer Mortanius.",
+    "source": "https://en.uesp.net/wiki/Oblivion:Easter_Eggs"
+  },
+  {
+    "title": "Jump on My Sword While You Can",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "The Elder Scrolls IV: Oblivion",
+      "Baldur's Gate II: Shadows of Amn"
+    ],
+    "description": "In combat you'll occasionally hear an NPC yell 'Jump on my sword while you can!' It's a straight lift from Minsc's battle cry in Baldur's Gate II - 'Jump on my sword while you can, evil, I won't be as gentle!' - a small nod from one RPG legend to another.",
+    "source": "https://en.uesp.net/wiki/Oblivion:Easter_Eggs"
+  },
+  {
+    "title": "Skingrad Castle Is Dracula's Castle",
+    "type": "LORE",
+    "entertainment": [
+      "The Elder Scrolls IV: Oblivion"
+    ],
+    "description": "If Skingrad's castle looks oddly familiar, that's because it's a visual copy of Bran Castle in Romania, the real-world fortress popularly (if not entirely accurately) known as Dracula's Castle. Bethesda didn't exactly hide who they were borrowing the silhouette from.",
+    "source": "https://en.uesp.net/wiki/Oblivion:Easter_Eggs"
+  },
+  {
+    "title": "Anvil's Little Mermaid",
+    "type": "LORE",
+    "entertainment": [
+      "The Elder Scrolls IV: Oblivion"
+    ],
+    "description": "Down by the docks in Anvil there's a statue in the water that's clearly scaled up from The Little Mermaid statue in Copenhagen harbour, easily the most photographed statue in Denmark. It's a small, quiet homage that most players sail straight past without noticing.",
+    "source": "https://en.uesp.net/wiki/Oblivion:Easter_Eggs"
+  },
+  {
+    "title": "The High Ground Meme Made It Into Kvatch",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "The Elder Scrolls IV: Oblivion",
+      "The Elder Scrolls IV: Oblivion Remastered",
+      "Star Wars: Episode III - Revenge of the Sith"
+    ],
+    "description": "Push through Breaking the Siege of Kvatch into the Oblivion World and you'll find a burnt body near a pool of lava, positioned in a way that's an unmistakable riff on Anakin's fate in Revenge of the Sith after Obi-Wan famously 'had the high ground.' It's been in the game a while, and Bethesda has openly admitted it was intentional.",
+    "source": "https://sinisthenerd.com/2025/04/28/oblivion-remastered-hidden-secrets-easter-eggs-guide/"
+  },
+  {
+    "title": "Martin Septim Almost Had a Different Voice",
+    "type": "FACT",
+    "entertainment": [
+      "The Elder Scrolls IV: Oblivion"
+    ],
+    "description": "Before Sean Bean was locked in to play Martin Septim, voice actor Wes Johnson recorded a full set of lines for the character as a backup plan. Once Bean was officially cast, most of Johnson's takes were scrapped from the final game, but a handful of orphaned files reportedly still sit buried in the game's data to this day.",
+    "source": "https://tvtropes.org/pmwiki/pmwiki.php/Trivia/TheElderScrollsIVOblivion"
+  },
+  {
+    "title": "The Emperor Who Dies in Twenty Minutes",
+    "type": "FACT",
+    "entertainment": [
+      "The Elder Scrolls IV: Oblivion"
+    ],
+    "description": "Getting Patrick Stewart to voice Emperor Uriel Septim VII was a genuinely big deal back in 2006, when big-name actors in games were still pretty rare. Funnily enough, all that star power gets used up fast - Uriel is killed off within the opening stretch of the game, making his one of gaming's shortest celebrity cameos with the biggest opening impact.",
+    "source": "https://fandomwire.com/the-elder-scrolls-hired-patrick-stewart-in-oblivion-just-to-kill-his-character-in-minutes/"
+  },
+  {
+    "title": "Radiant AI Promised a Lot More Chaos",
+    "type": "FACT",
+    "entertainment": [
+      "The Elder Scrolls IV: Oblivion"
+    ],
+    "description": "Before launch, Bethesda talked up Radiant AI as a system where hungry guards could wander off duty, letting opportunistic NPCs steal from unguarded shops and spark full-blown street fights the player might stumble across later. In testing it caused way too much unpredictable carnage, so a lot of that ambition got quietly dialled back before the game ever shipped.",
+    "source": "https://blog.paavo.me/radiant-ai/"
+  },
+  {
+    "title": "A Town That Never Made It to Release",
+    "type": "FACT",
+    "entertainment": [
+      "The Elder Scrolls IV: Oblivion"
+    ],
+    "description": "Cyrodiil was originally meant to include a settlement called Sutch, sitting where Fort Sutch stands in the finished game. It got cut somewhere along the way, along with a rumoured questline about the Elder Council helping rebuild Kvatch, leaving only scattered file remnants as evidence it was ever planned.",
+    "source": "https://www.gamesas.com/what-was-cut-from-oblivion-t113718.html"
+  },
+  {
+    "title": "The Undead Nightmare Mask Cameo",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Red Dead Redemption 2",
+      "Red Dead Redemption"
+    ],
+    "description": "Pop into the general store in Saint Denis and take a proper look behind the shopkeeper's counter. Sitting there is the zombie mask from the original game's Undead Nightmare expansion, just quietly hanging around eight years later. You can't buy it or wear it, it's there purely as a nod for anyone who noticed.",
+    "source": "https://www.pcgamer.com/red-dead-redemption-2-rdr2-secrets-easter-eggs-ufo-vampire/"
+  },
+  {
+    "title": "The Woman With a Donkey's Head",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Red Dead Redemption"
+    ],
+    "description": "Back in the original 2010 game, a rendering glitch could occasionally spawn a woman with what looked exactly like a donkey's head sat on her shoulders. It was never an intended feature, just a broken asset swap, but it became one of those glitches players actively went hunting for instead of reporting.",
+    "source": "https://www.pcgamer.com/red-dead-redemption-2-rdr2-secrets-easter-eggs-ufo-vampire/"
+  },  
+  {
+    "title": "Bigfoot Actually Exists in Undead Nightmare",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Red Dead Redemption",
+      "Grand Theft Auto: San Andreas"
+    ],
+    "description": "Grab the Undead Nightmare DLC and you can genuinely track down and kill Bigfoot, a direct wink at the years of rumours that Bigfoot was hidden somewhere in GTA San Andreas. Rockstar basically decided to settle the debate by giving players the real thing, teeth and all.",
+    "source": "https://www.thegamer.com/red-dead-redemption-facts-trivia-never-knew-about-first-video-game/"
+  },
+  {
+    "title": "The Strange Man's True Identity",
+    "type": "LORE",
+    "entertainment": [
+      "Red Dead Redemption",
+      "Red Dead Redemption 2"
+    ],
+    "description": "Fans spent years arguing over who, or what, the mysterious Strange Man actually is. Rockstar co-founder Dan Houser eventually confirmed his identity himself in an interview, closing the book on one of the series' longest-running mysteries and giving a whole new meaning to some of his cryptic dialogue.",
+    "source": "https://www.rdr2.org/news/the-true-story-behind-the-development-of-red-dead-redemption-2/"
+  },  
+  {
+    "title": "John Marston Had Already Been in the Gang 15 Years",
+    "type": "LORE",
+    "entertainment": [
+      "Red Dead Redemption 2",
+      "Red Dead Redemption"
+    ],
+    "description": "By the time Red Dead Redemption 2 opens, John Marston has already spent fifteen years riding with Dutch's gang, having only recently come back after running off for a year. It's a detail that quietly reshapes how you read his whole arc once you know just how long he'd been in this life before the story even starts.",
+    "source": "https://www.imdb.com/title/tt6161168/trivia/?item=tr6113461"
+  },  
+  {
+    "title": "Arthur Morgan Wasn't Planned Until Rockstar Saw the Sequel's Success",
+    "type": "LORE",
+    "entertainment": [
+      "Red Dead Redemption",
+      "Red Dead Redemption 2"
+    ],
+    "description": "Arthur Morgan is never mentioned anywhere in the original Red Dead Redemption, and it's not an oversight. Rockstar genuinely hadn't planned a prequel at the time, and it was only after the first game sold over five million copies in three weeks that the idea of telling the gang's earlier story, and inventing Arthur, ever got off the ground.",
+    "source": "https://gamerant.com/red-dead-redemption-2-behind-scenes-development-facts-trivia/"
+  },
+  {
+    "title": "The Original Game Took Over Half a Decade",
+    "type": "FACT",
+    "entertainment": [
+      "Red Dead Redemption"
+    ],
+    "description": "The first Red Dead Redemption had a genuinely rough road to release, taking more than five years to finish thanks to how massive and detailed the map was. At one point the delays got so bad that Rockstar reportedly worried the whole project might not be worth it, right up until it actually launched and paid off.",
+    "source": "https://www.thegamer.com/red-dead-redemption-facts-trivia-never-knew-about-first-video-game/"
+  },
+  {
+    "title": "Thousands of Wanted Posters Never Made the Cut",
+    "type": "FACT",
+    "entertainment": [
+      "Red Dead Redemption"
+    ],
+    "description": "The wanted posters scattered across towns in the first game weren't just set dressing, some tied into actual missions. Rockstar apparently made so many of them during development that a huge number never got used at all, and there's a decent chance a few of those leftover designs quietly resurfaced in the sequel.",
+    "source": "https://www.thegamer.com/red-dead-redemption-facts-trivia-never-knew-about-first-video-game/"
+  },
+  {
+    "title": "The Heart of Liberty City",
+    "image": "https://img.youtube.com/vi/urv36QvzeQ8/maxresdefault.jpg",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Grand Theft Auto IV"
+    ],
+    "description": "There's a hidden chamber inside the Statue of Happiness that most players never find, and honestly it's not exactly signposted - there's literally a sign at the base that says 'No Hidden Content This Way,' which is Rockstar being cheeky. Steal a helicopter, land on the upper platform of the pedestal, and climb a ladder up through the statue's body. What's waiting for you is a huge, slowly beating heart wrapped in chains. Nobody's ever officially explained what it's supposed to mean, it's just there for the people determined enough to go looking.",
+    "source": "https://www.grandtheftwiki.com/Secrets_in_GTA_IV"
+  },
+  {
+    "title": "A Brain in Packie's Head",
+    "image": "https://img.youtube.com/vi/urv36QvzeQ8/maxresdefault.jpg",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Grand Theft Auto IV"
+    ],
+    "description": "During the heist mission Three Leaf Clover, if you fiddle with the camera angle just right while Patrick 'Packie' McReary is on screen, you can actually clip inside his head. Sitting in there, instead of anything gross, is a little box with a picture of a brain drawn on it. It's a throwaway modelling joke that almost nobody stumbles across by accident, since you have to be actively trying to break the camera to see it.",
+    "source": "https://www.grandtheftwiki.com/Secrets_in_GTA_IV"
+  },
+  {
+    "title": "Claude's Old Jacket",
+    "image": "https://img.youtube.com/vi/urv36QvzeQ8/maxresdefault.jpg",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Grand Theft Auto IV",
+      "Grand Theft Auto III"
+    ],
+    "description": "Want to run around Liberty City dressed as GTA III's silent protagonist? It's possible, but you have to make a specific, fairly cold-blooded choice first. During the mission where you decide whether to kill Playboy X or Dwayne, choosing to let Dwayne do the deed opens up Playboy's now-empty apartment, and tucked away inside is Claude's classic outfit from GTA III, ready for Niko to put on.",
+    "source": "https://www.quora.com/What-are-some-of-the-best-secrets-and-Easter-eggs-from-GTA-IV"
+  },
+  {
+    "title": "Nuck Chorris Wrote a Book",
+    "image": "https://img.youtube.com/vi/urv36QvzeQ8/maxresdefault.jpg",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Grand Theft Auto IV"
+    ],
+    "description": "In one of the Bohan safehouses there's a paperback lying around called 'Madness and Blasphemy: The Do's and Don'ts.' Doesn't look like much until you shoot it and get a close-up of the cover, where the author is credited as 'Nuck Chorris' - a not-so-subtle wink at a certain roundhouse-kicking action star.",
+    "source": "https://eeggs.com/tree/11931.html"
+  },
+  {
+    "title": "Niko Fights Dirty (and Precisely)",
+    "image": "https://img.youtube.com/vi/SBEnTwFt4j0/maxresdefault.jpg",
+    "type": "FACT",
+    "entertainment": [
+      "Grand Theft Auto IV"
+    ],
+    "description": "Niko's default hand-to-hand combat isn't just generic brawler animation, it's actually modelled on Krav Maga, the close-quarters fighting system developed for the Israeli military. Makes sense once you think about it, given Niko's background as a war veteran who's clearly had to defend himself in ugly situations long before he ever got to Liberty City.",
+    "source": "https://www.mobygames.com/game/33867/grand-theft-auto-iv/trivia/"
+  },
+  {
+    "title": "The Most Expensive Game Ever Made (At the Time)",
+    "image": "https://img.youtube.com/vi/SBEnTwFt4j0/maxresdefault.jpg",
+    "type": "FACT",
+    "entertainment": [
+      "Grand Theft Auto IV"
+    ],
+    "description": "Back in April 2008, producer Leslie Benzies told The Times that GTA IV's production costs had climbed to somewhere around $100 million. At the time that absolutely smashed the previous record for game development spending, which had been set by Sega's Shenmue at roughly $70 million.",
+    "source": "https://www.mobygames.com/game/33867/grand-theft-auto-iv/trivia/"
+  },
+  {
+    "title": "One Actor, Two Liberty City Criminals",
+    "image": "https://img.youtube.com/vi/SBEnTwFt4j0/maxresdefault.jpg",
+    "type": "FACT",
+    "entertainment": [
+      "Grand Theft Auto IV"
+    ],
+    "description": "Actor Karel Roden pulls double duty in GTA IV without most players ever clocking it. He voices Mikhail Faustin, the volatile Russian mobster Niko works for early on, and also Wade 'The Fixer' Johnson later in the story. Two very different guys, same voice underneath.",
+    "source": "https://tvtropes.org/pmwiki/pmwiki.php/Trivia/GrandTheftAutoIV"
+  },
+  {
+    "title": "The Niko That Almost Wasn't",
+    "image": "https://img.youtube.com/vi/SBEnTwFt4j0/maxresdefault.jpg",
+    "type": "LORE",
+    "entertainment": [
+      "Grand Theft Auto IV"
+    ],
+    "description": "Niko's look was partly based on actor Vladimir Mashkov, who's known for playing Sasha in Behind Enemy Lines, and Rockstar actually approached him to voice the character. He turned it down - reportedly he wasn't that interested in video games, Rockstar were being extremely tight-lipped about the whole project, and the recording setup would've meant constant flights between Moscow and New York. Word is he ended up regretting the decision once the game blew up.",
+    "source": "https://tvtropes.org/pmwiki/pmwiki.php/Trivia/GrandTheftAutoIV"
+  },
+  {
+    "title": "Hired for Mo-Cap, Became the Voice",
+    "image": "https://img.youtube.com/vi/SBEnTwFt4j0/maxresdefault.jpg",
+    "type": "FACT",
+    "entertainment": [
+      "Grand Theft Auto IV"
+    ],
+    "description": "Michael Hollick wasn't originally brought on to be the voice of Niko Bellic at all - he was hired purely to handle motion capture work. It was only after he auditioned that Rockstar decided he should be the actual voice too, and Niko went on to become one of the most well-regarded protagonists in the series.",
+    "source": "https://tvtropes.org/pmwiki/pmwiki.php/Trivia/GrandTheftAutoIV"
+  },
+  {
+    "title": "Rockstar Photographed a City to Build One",
+    "image": "https://img.youtube.com/vi/SBEnTwFt4j0/maxresdefault.jpg",
+    "type": "FACT",
+    "entertainment": [
+      "Grand Theft Auto IV"
+    ],
+    "description": "The amount of reference material Rockstar gathered for Liberty City is a little absurd - producer Leslie Benzies has claimed the team shot over 100,000 photographs on location in New York, and art director Alexander Roger Garbut has put the figure closer to 250,000. They also reportedly played footage of New York streets on office TVs so the team could just glance up and see the real city while they worked.",
+    "source": "https://ultimatepopculture.fandom.com/wiki/Grand_Theft_Auto_IV"
+  },
+  {
+    "title": "Mission Names Are Secretly a Reading List",
+    "image": "https://img.youtube.com/vi/urv36QvzeQ8/maxresdefault.jpg",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Grand Theft Auto IV"
+    ],
+    "description": "A handful of GTA IV's mission titles are lifted straight from literature if you know what to look for. 'The Master and the Molotov' is a play on Mikhail Bulgakov's 'The Master and Margarita', and 'Crime and Punishment' borrows its name directly from the Dostoevsky classic. Little nods for anyone paying more attention to the mission list than the actual shooting.",
+    "source": "https://www.trueachievements.com/forum/viewthread.aspx?tid=597537"
+  },
+  {
+    "title": "A Terminator Quote Hiding in the Mission List",
+    "image": "https://img.youtube.com/vi/urv36QvzeQ8/maxresdefault.jpg",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Grand Theft Auto IV",
+      "Terminator 2: Judgment Day"
+    ],
+    "description": "The mission called 'I Need Your Clothes, Your Boots and Your Motorcycle' isn't Rockstar being random with grammar - it's a direct lift from Terminator 2: Judgment Day, where the T-800 says almost exactly that line to a biker in a bar. Small reference, but once you've seen the movie you can't unhear it.",
+    "source": "https://gamefaqs.gamespot.com/xbox360/933037-grand-theft-auto-iv/trivia"
+  },
+  {
+    "title": "Assassin's Greed",
+    "image": "https://img.youtube.com/vi/urv36QvzeQ8/maxresdefault.jpg",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Grand Theft Auto IV",
+      "Assassin's Creed"
+    ],
+    "description": "One of the multiplayer trophies/achievements in GTA IV is literally called 'Assassin's Greed,' which is obviously just a wordplay dig at Ubisoft's Assassin's Creed. Rockstar loves naming achievements after other media, and this one's about as on-the-nose as it gets.",
+    "source": "https://gamefaqs.gamespot.com/xbox360/933037-grand-theft-auto-iv/trivia"
+  },
+  {
+    "title": "Dial B for Bomb",
+    "image": "https://img.youtube.com/vi/urv36QvzeQ8/maxresdefault.jpg",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Grand Theft Auto IV"
+    ],
+    "description": "The trophy/achievement title 'Dial B for Bomb' is a riff on Dial M for Murder, the 1954 Hitchcock thriller. It's the kind of joke that only really lands if you're a bit of a film nerd, which, fair enough, describes a lot of the writers at Rockstar.",
+    "source": "https://gamefaqs.gamespot.com/xbox360/933037-grand-theft-auto-iv/trivia"
+  },
+  {
+    "title": "The Midnight Club Trophies",
+    "image": "https://img.youtube.com/vi/urv36QvzeQ8/maxresdefault.jpg",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Grand Theft Auto IV",
+      "Midnight Club"
+    ],
+    "description": "Winning multiplayer races earns you trophies called 'Join the Midnight Club' and 'Top the Midnight Club' - a shout-out to Rockstar's own Midnight Club street racing series rather than anything to do with GTA's own lore.",
+    "source": "https://gamefaqs.gamespot.com/xbox360/933037-grand-theft-auto-iv/trivia"
+  },
+  {
+    "title": "Niko's Digital Footprint in Los Santos",
+    "image": "https://img.youtube.com/vi/urv36QvzeQ8/maxresdefault.jpg",
+    "type": "LORE",
+    "entertainment": [
+      "Grand Theft Auto IV",
+      "Grand Theft Auto V"
+    ],
+    "description": "Years later and hundreds of miles away, Niko's still floating around the GTA universe. If you look closely at Jimmy's laptop in GTA V, he's got Niko Bellic's LifeInvader profile pulled up, complete with Roman on his friends list. Jimmy also seems to be following Burger Shot on the page, which plays as a cheeky nod to how eating burgers was how you healed up back in Liberty City.",
+    "source": "https://gamefaqs.gamespot.com/ps3/634490-grand-theft-auto-v/trivia"
+  },
+  {
+    "title": "Drink Enough and You'll End Up in the Heart",
+    "image": "https://img.youtube.com/vi/urv36QvzeQ8/maxresdefault.jpg",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Grand Theft Auto IV",
+      "Grand Theft Auto: The Ballad of Gay Tony"
+    ],
+    "description": "Get properly hammered while playing as Luis in The Ballad of Gay Tony and the game starts teleporting you to random spots around the map when you black out. One of the possible drop-off points is, of all places, the hidden heart chamber inside the Statue of Happiness - so a good night out can accidentally solve an Easter egg you'd otherwise need a helicopter for.",
+    "source": "https://www.grandtheftwiki.com/Secrets_in_GTA_IV"
+  },
+  {
+    "title": "An Alien in Middle Park",
+    "image": "https://img.youtube.com/vi/urv36QvzeQ8/maxresdefault.jpg",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Grand Theft Auto IV"
+    ],
+    "description": "Pull up the map or grab a helicopter and look down at the lake in Middle Park (Liberty City's answer to Central Park) and, if you squint a bit, the shoreline actually forms the shape of an alien head. Whether it was deliberate or just a happy accident of level design, it's stuck around as one of those 'huh, never noticed that' moments for longtime players.",
+    "source": "https://www.grandtheftwiki.com/Secrets_in_GTA_IV"
+  },
+  {
+    "title": "The Ice Cream Van's Secret Speed-Up",
+    "image": "https://img.youtube.com/vi/urv36QvzeQ8/maxresdefault.jpg",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Grand Theft Auto IV"
+    ],
+    "description": "Ever driven an ice cream truck around Liberty City and noticed the tune speeding up? That jingle is actually a warped version of the game's own theme song, and the faster you drive, the faster it plays - a tiny detail Rockstar didn't need to bother with, but did anyway.",
+    "source": "https://www.quora.com/What-are-some-of-the-best-secrets-and-Easter-eggs-from-GTA-IV"
+  },
+  {
+    "title": "A Very Small Website",
+    "image": "https://img.youtube.com/vi/urv36QvzeQ8/maxresdefault.jpg",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Grand Theft Auto IV"
+    ],
+    "description": "Sit down at one of the in-game internet cafe computers and type www.littlelacysurprisepageant.com into the browser and you'll pull up a joke website that's every bit as tasteless as you'd expect from the GTA writers. Fair warning if you're trying to keep your wanted level clean afterward, though - leaving the computer can rack you up a five-star response from the cops for reasons that are never really explained.",
+    "source": "https://eeggs.com/tree/11931.html"
+  },
+  {
+    "title": "When the Music Died (Legally)",
+    "image": "https://img.youtube.com/vi/SBEnTwFt4j0/maxresdefault.jpg",
+    "type": "FACT",
+    "entertainment": [
+      "Grand Theft Auto IV"
+    ],
+    "description": "A lot of players who go back to GTA IV today notice the radio isn't quite what it used to be, and there's a boring but real reason for that. Rockstar's original music licensing deals only ran for about ten years, and once they expired in 2018 a big chunk of the soundtrack had to be pulled. Vladivostok FM got hit hardest, needing a near-total replacement of its entire song list.",
+    "source": "https://tvtropes.org/pmwiki/pmwiki.php/Trivia/GrandTheftAutoIV"
+  },
+  {
+    "title": "Liberty City Almost Wasn't New York (Again)",
+    "image": "https://img.youtube.com/vi/SBEnTwFt4j0/maxresdefault.jpg",
+    "type": "LORE",
+    "entertainment": [
+      "Grand Theft Auto IV"
+    ],
+    "description": "Early plans for GTA IV apparently included areas modelled on upstate New York and Long Island, on top of the core city. Those regions got cut somewhere along the way, and the game shipped with the more compact, densely packed version of Liberty City everyone actually knows.",
+    "source": "https://gamefaqs.gamespot.com/xbox360/933037-grand-theft-auto-iv/trivia"
+  },
+  {
+    "title": "Juliette Lewis Turned Down San Andreas, Then Showed Up Anyway",
+    "image": "https://img.youtube.com/vi/SBEnTwFt4j0/maxresdefault.jpg",
+    "type": "LORE",
+    "entertainment": [
+      "Grand Theft Auto IV",
+      "Grand Theft Auto: San Andreas"
+    ],
+    "description": "Juliette Lewis was originally lined up to voice Sage, a DJ on Radio X back in San Andreas, but she passed on it because she felt the character's dialogue was too crude even for GTA. She still ended up in the series eventually, though - in GTA IV she appears as herself, hosting on Radio Broker rather than playing a fictional character.",
+    "source": "https://tvtropes.org/pmwiki/pmwiki.php/Trivia/GrandTheftAutoIV"
+  },
+  {
+    "title": "The Wilhelm Scream Sneaks In",
+    "image": "https://img.youtube.com/vi/urv36QvzeQ8/maxresdefault.jpg",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Grand Theft Auto IV"
+    ],
+    "description": "GTA IV quietly includes the Wilhelm Scream, that famous stock sound effect that's been dubbed into everything from Star Wars to Toy Story whenever someone falls or gets thrown. It's used sparingly enough that most players will have heard it dozens of times in the game without ever clocking what it actually is.",
+    "source": "https://www.trueachievements.com/forum/viewthread.aspx?tid=597537"
+  },
+  {
+    "title": "Brucie's Tattoos Say the Opposite of What He Thinks",
+    "image": "https://img.youtube.com/vi/SBEnTwFt4j0/maxresdefault.jpg",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Grand Theft Auto IV"
+    ],
+    "description": "Watch Brucie work out during one of his cutscenes and you can spot Chinese character tattoos covering his torso. On his chest is the character for 'I,' but the ones on his back translate to 'transsexual.' Given how much time Brucie spends bragging about his own masculinity, it's hard to believe this one was an accident.",
+    "source": "https://www.mobygames.com/game/33867/grand-theft-auto-iv/trivia/"
   }
 ]

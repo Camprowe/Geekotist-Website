@@ -158,6 +158,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://geekotist.com/entertainment/god-of-war-ragnark</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://geekotist.com/entertainment/batman-arkham-asylum</loc>
     <lastmod>2026-09-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -170,7 +176,19 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://geekotist.com/entertainment/gears-of-war</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://geekotist.com/entertainment/the-avengers</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://geekotist.com/entertainment/avengers-infinity-war</loc>
     <lastmod>2026-09-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -225,6 +243,24 @@
   </url>
   <url>
     <loc>https://geekotist.com/entertainment/fallout-tv-series</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://geekotist.com/entertainment/the-legend-of-korra</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://geekotist.com/entertainment/the-last-of-us-tv-series</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://geekotist.com/entertainment/adventure-time-fionna-and-cake</loc>
     <lastmod>2026-09-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -350,6 +386,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://geekotist.com/entertainment/god-of-war-ragnark/knowledge</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://geekotist.com/entertainment/batman-arkham-asylum/knowledge</loc>
     <lastmod>2026-09-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -362,7 +404,19 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://geekotist.com/entertainment/gears-of-war/knowledge</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://geekotist.com/entertainment/the-avengers/knowledge</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://geekotist.com/entertainment/avengers-infinity-war/knowledge</loc>
     <lastmod>2026-09-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -417,6 +471,24 @@
   </url>
   <url>
     <loc>https://geekotist.com/entertainment/fallout-tv-series/knowledge</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://geekotist.com/entertainment/the-legend-of-korra/knowledge</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://geekotist.com/entertainment/the-last-of-us-tv-series/knowledge</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://geekotist.com/entertainment/adventure-time-fionna-and-cake/knowledge</loc>
     <lastmod>2026-09-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>

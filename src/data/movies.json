@@ -180,6 +180,15 @@
     "description": "Kratos, the God of War, has defeated the Gods of Olympus and has started his life anew, in one of the Nine Realms of Norse Mythology: Midgard; he now has a son named Atreus, whom he had with his late wife Faye. Together, Kratos and Atreus travel across The Realms to scatter Faye's ashes from the highest peak in all the land"
   },
   {
+    "title": "God of War Ragnarök",
+    "imageUrl": "https://assets-prd.ignimgs.com/2021/09/09/god-of-war-ragnarok-button-1631231879154.jpg",
+    "year": "2022",
+    "rating": "4.5",
+    "category": "Video Game",
+    "producer": "Santa Monica Studio",
+    "description": "Kratos and his son Atreus brace themselves for the calamity that is Ragnarök. Will the God of War survive the onslaught of Odin and Thor, or could this be The Ghost of Sparta's last stand? Greek and Norse mythology come to a head in this epic of blood and ice."
+  },
+  {
     "title": "Batman: Arkham Asylum",
     "imageUrl": "https://assets2.ignimgs.com/2014/02/07/rszbatman-arkham-asylum-1920x1200-action-role-playing-photo-batman-arkham-city-wallpaperjpg-1e07c3_160w.jpg?width=1200&height=1200&fit=crop&format=jpg&auto=webp&quality=80",
     "year": "2009",
@@ -198,6 +207,15 @@
     "description": "Bruce Wayne is kidnapped whilst protesting the use of Arkham City, a dilapidated part of Gotham that is used to house the resident of Arkham Asylum. He is trapped inside the facility, forced to fight the most powerful criminals in Gotham, and confront Hugo Strange."
   },
   {
+    "title": "Gears of War",
+    "imageUrl": "https://assets-prd.ignimgs.com/2022/01/07/gears-of-war-1-button-art-1641591565394.jpg",
+    "year": "2006",
+    "rating": "4.5",
+    "category": "Video Game",
+    "producer": "Epic Games",
+    "description": "14 days after Emergance Day, Marcus is freed from prison and his life sentence for leaving his post during the Battle of Aspho Fields, to join the COG Army once again in humanity's epic fight for survival against the Locust. Together with his best friend Dom and the rest of Delta Squad he is sent on a mission to destroy the Locust Horde."
+  },
+  {
     "title": "The Avengers",
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BMDRhMGZlMDEtM2MzYi00MDZhLTgxZGMtN2FlMDg3ZTViOTU2XkEyXkFqcGc@._V1_.jpg",
     "year": "2012",
@@ -205,6 +223,15 @@
     "category": "Movie",
     "producer": "Disney",
     "description": "Loki, the adopted brother of Thor, teams-up with the Chitauri Army and uses the Tesseract's power to travel from Asgard to Midgard to plot the invasion of Earth and become a king. The director of the agency S.H.I.E.L.D., Nick Fury, sets in motion project Avengers, joining Tony Stark a.k.a. the Iron Man; Steve Rogers, a.k.a. Captain America; Bruce Banner, a.k.a. The Hulk; Thor; Natasha Romanoff, a.k.a. Black Widow; and Clint Barton, a.k.a. Hawkeye, to save the world from the powerful Loki and the alien invasion."
+  },
+  {
+    "title": "Avengers: Infinity War",
+    "imageUrl": "https://wallpapercave.com/wp/wp9196380.jpg",
+    "year": "2018",
+    "rating": "4.0",
+    "category": "Movie",
+    "producer": "Disney",
+    "description": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment, the fate of Earth and existence has never been more uncertain."
   },
   {
     "title": "The Dark Knight",
@@ -286,6 +313,33 @@
     "category": "TV Show",
     "producer": "Amazon",
     "description": "Years after a nuclear apocalypse devastates America, a violent raid by bandits on an underground fallout shelter forces one of its residents to set out into a barren wasteland filled with radiation, mutated monsters, and a lawless society of those who remained on the surface."
-  }
+  },
+  {
+    "title": "The Legend of Korra",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTdmMGEzZjEtYTc2Yi00ODNlLWJiMWEtNTVhMGU0MGViMWI4XkEyXkFqcGc@._V1_.jpg",
+    "year": "2014",
+    "rating": "3.5",
+    "category": "TV Show",
+    "producer": "Paramount",
+    "description": "The series picks up seventy years after the end of the Avatar: The Last Airbender story arc with brand new characters and settings. The protagonist of the new series, Korra, the Avatar after Aang, is a hot-headed and rebellious young woman from the Southern Water Tribe who is 'ready to take on the world'. The series follows Korra as she faces the difficult challenges, duties, and responsibilities that come with being the Avatar."
+  },
+  {
+    "title": "The Last of Us (TV series)",
+    "imageUrl": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/EF04/production/_128288116_ka_334_tlou_s01.jpg",
+    "year": "2023",
+    "rating": "3.5",
+    "category": "TV Show",
+    "producer": "Warner Bros",
+    "description": "20 years after modern civilization has been destroyed, Joel, a hardened survivor, is hired to smuggle Ellie, a 14-year-old girl, out of an oppressive quarantine zone. What starts as a small job soon becomes a brutal heartbreaking journey as they both must traverse the U.S. and depend on each other for survival."
+  },
+  {
+    "title": "Adventure Time: Fionna and Cake",
+    "imageUrl": "https://www.thedailybeast.com/resizer/NRImHpDwsoexRPAJ7_zjrEec66E=/arc-photo-thedailybeast/arc2-prod/public/EQGTWJ3Q4FJ3XHXCKG3THACEWE.png",
+    "year": "2023",
+    "rating": "3.5",
+    "category": "TV Show",
+    "producer": "Warner Bros",
+    "description": "Fionna and Cake with help from the former Ice King, Simon Petrikov--embark on a multiverse-hopping adventure and journey of self-discovery. All the while, lurking in the shadows is a powerful new antagonist determined to track them down and erase them from existence."
+  }   
   
 ]

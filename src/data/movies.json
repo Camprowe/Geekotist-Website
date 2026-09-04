@@ -270,6 +270,33 @@
     "description": "Once again we're plunged into the world of sword fights and 'savvy' pirates. Captain Jack Sparrow is reminded he owes a debt to Davy Jones, who captains the flying Dutchman, a ghostly ship, with a crew from hell. Facing the 'locker' Jack must find the heart of Davy Jones but to save himself he must get the help of quick-witted Will Turner and Elizabeth Swann. If that's not complicated enough, Will and Elizabeth are sentenced to hang, unless Will can get Lord Cutler Beckett Jack's compass. Will is forced to join another crazy adventure with Jack."
   },
   {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "imageUrl": "https://assets-prd.ignimgs.com/2024/05/09/lord-of-the-rings-the-fellowship-of-the-ring-ver4-xlg-1715259603392.jpg",
+    "year": "2001",
+    "rating": "4.0",
+    "category": "Movie",
+    "producer": "Warner Bros",
+    "description": "Almost lost for two and a half millennia, the One Ring, a corrupting relic forged by the dark lord Sauron, has resurfaced in the most unlikely of places: the verdant, unsuspecting hills of the Shire. To prevent absolute darkness from consuming Middle-earth, it falls upon Frodo Baggins, an ordinary young hobbit, to carry the fate of us all to the fiery chasms of Mount Doom, deep into hostile enemy territory. The brave halfling is not alone, though. A wizard's staff, a ranger's sword, an elf's bow, and a dwarf's ax have sworn to protect him. But as the shadowy ruler fixes his gaze on the little ring bearer, the ultimate threat emerges. Will the seductive, eroding power of the artifact itself tear the fellowship apart before their journey even begins?"
+  },
+  {
+    "title": "The Lord of the Rings: The Two Towers",
+    "imageUrl": "https://sm.ign.com/ign_ap/cover/t/the-lord-o/the-lord-of-the-rings-the-two-towers_k143.jpg",
+    "year": "2002",
+    "rating": "4.0",
+    "category": "Movie",
+    "producer": "Warner Bros",
+    "description": "In the aftermath of The Lord of the Rings: The Fellowship of the Ring (2001), the companions of Rivendell are forced to go their separate ways. Yet, the quest endures. Now stranded in the desolate crags leading to Mordor, Frodo and Sam must place their lives in the hands of Gollum--a deceitful, tormented creature battling his inner demons. Meanwhile, Aragorn, Legolas, and Gimli race to aid Rohan, once a proud kingdom that now suffocates under the hypnotic spell of Saruman. But as the dark lords of Isengard and Barad-dûr unite under the shadow of the Two Towers, a formidable force of foul Uruk-hai marches on to crush the world of Men at Helm's Deep. With hope flickering and the fate of Middle-earth hanging in the balance, can a fractured resistance hold the line before darkness consumes all?"
+  },
+  {
+    "title": "The Lord of the Rings: The Return of the King",
+    "imageUrl": "https://assets-prd.ignimgs.com/2024/05/09/lord-of-the-rings-the-return-of-the-king-ver7-xlg-1715259784298.jpg",
+    "year": "2003",
+    "rating": "4.0",
+    "category": "Movie",
+    "producer": "Warner Bros",
+    "description": "'One ring to rule them all. One ring to find them. One ring to bring them all and in the darkness bind them.' In the conclusion of J.R.R. Tolkien's epic masterpiece, The Lord of the Rings, as armies mass for a final battle that will decide the fate of the world--and powerful, ancient forces of Light and Dark compete to determine the outcome--one member of the Fellowship of the Ring is revealed as the noble heir to the throne of the Kings of Men. Yet, the sole hope for triumph over evil lies with a brave hobbit, Frodo, who, accompanied only by his loyal friend Sam and the hideous, wretched Gollum, ventures deep into the very dark heart of Mordor on his seemingly impossible quest to destroy the Ring of Power."
+  },
+  {
     "title": "Arcane",
     "imageUrl": "https://sm.ign.com/ign_za/cover/l/league-of-/league-of-legends-arcane_pnjf.jpg",
     "year": "2021",
@@ -340,6 +367,86 @@
     "category": "TV Show",
     "producer": "Warner Bros",
     "description": "Fionna and Cake with help from the former Ice King, Simon Petrikov--embark on a multiverse-hopping adventure and journey of self-discovery. All the while, lurking in the shadows is a powerful new antagonist determined to track them down and erase them from existence."
-  }   
-  
+  },
+  {
+    "title": "Loki",
+    "imageUrl": "https://gugimages.s3.us-east-2.amazonaws.com/wp-content/uploads/2021/07/11145706/loki_teaser_poster.jpeg",
+    "year": "2021",
+    "rating": "3.5",
+    "category": "TV Show",
+    "producer": "Disney",
+    "description": "When an alternate Loki uses the Tesseract to escape in 'Avengers: Endgame,' the Time Variance Authority (TVA), a group that keeps an eye on the sacred timeline, captures him. After first doubting the TVA's legitimacy, Loki is forced to decide between being eliminated from the universe and assisting them in their search for a hazardous time variant-a different version of himself going by the name Sylvie. Along the way, they discover the secrets of the TVA and travel across time, forcing Loki to wrestle with issues of free will and identity and make a decision that could destroy the sacred timeline and unleash havoc over the multiverse."
+  },
+  {
+    "title": "Game of Thrones",
+    "imageUrl": "https://assets-prd.ignimgs.com/2022/01/14/gameofthrones-allseasons-sq-1642120207458.jpg",
+    "year": "2011",
+    "rating": "3.5",
+    "category": "TV Show",
+    "producer": "Warner Bros",
+    "description": "Years after a rebellion spurred by a stolen bride to be and the blind ambitions of a mad King, Robert of the house Baratheon (Mark Addy) sits on the much desired Iron Throne. In the mythical land of Westeros, nine noble families fight for every inch of control and every drop of power. The King's Hand, Jon Arryn (Sir John Standing), is dead. And Robert seeks out his only other ally in all of Westeros, his childhood friend Lord Eddard 'Ned' Stark. The solemn and honorable Warden of the North is tasked to depart his frozen sanctuary and join the King in the capital of King's Landing to help the now overweight and drunk Robert rule. However, a letter in the dead of night informs 'Ned' that the former Hand was murdered, and that Robert will be next. So noble Ned goes against his better desires in an attempt to save his friend and the kingdoms. But political intrigue, plots, murders, and sexual desires lead to a secret that could tear the Seven Kingdoms apart. And soon Eddard will find out what happens when you play the Game of Thrones."
+  },
+  {
+    "title": "Sherlock",
+    "imageUrl": "https://akns-images.eonline.com/eol_images/Entire_Site/201303/600.Sherlock.Cumberbatch.mh.010313.jpg",
+    "year": "2010",
+    "rating": "3.5",
+    "category": "TV Show",
+    "producer": "BBC",
+    "description": "A modernised series of adaptations of the Sherlock Holmes novels by Sir Arthur Conan Doyle. John Watson (Martin Freeman), an army doctor, is wounded in Afghanistan and invalided out of the Army. Back in London his search for a place to stay leads him to share a flat with Sherlock Holmes (Benedict Cumberbatch), a brilliant but eccentric private detective. Together they solve baffling, and often bizarre, murder mysteries. They must also compete with Holmes' nemesis, the criminal genius Moriarty."
+  },
+  {
+    "title": "Breaking Bad",
+    "imageUrl": "https://i.guim.co.uk/img/media/376f51d0a14fa7b1c16d98ae5d6cf48fe6ef48ad/0_96_3600_2160/master/3600.jpg",
+    "year": "2008",
+    "rating": "3.5",
+    "category": "TV Show",
+    "producer": "AMC",
+    "description": "Walter White is a chemistry genius but works as a chemistry teacher at a high school in Albuquerque, New Mexico. His life drastically changes when he's diagnosed with stage III terminal lung cancer and given a prognosis of two years to live. To ensure that his pregnant wife and disabled teenage son have a financial future, he uses his chemistry background to create and sell the world's finest crystal methamphetamine. To sell his signature 'blue meth,' he teams up with Jesse Pinkman, a former student of his. The meth makes them very rich very quickly, but it attracts the attention of his DEA brother-in-law, Hank. As Walter and Jesse's status in the drug world escalates, Walter becomes a dangerous criminal, and Jesse becomes a hot-headed salesman. Hank is always hot on his tail, forcing Walter to devise new ways to cover his tracks."
+  },
+  {
+    "title": "Invincible",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/v2/t:0,l:420,cw:1080,ch:1080,q:80,w:1080/5da3GNWTGWu9ybbEJ6YNzJ.jpg",
+    "year": "2021",
+    "rating": "3.5",
+    "category": "TV Show",
+    "producer": "Amazon",
+    "description": "A seemingly ordinary teenager begins to discover that he has inherited extraordinary abilities from his father, the most powerful superhero on Earth. As he learns to control his powers, he is pulled into a world of heroes, threats, and hidden truths that challenge everything he believes about his family and the legacy he is meant to carry. His journey quickly becomes a struggle between growing up and understanding what it truly means to be a hero in the world of Invincible."
+  },
+  {
+    "title": "Stranger Things",
+    "imageUrl": "https://i.guim.co.uk/img/media/344f3917f3e40dbb745e498dd31ab84e4b098981/0_901_3000_2400/master/3000.jpg",
+    "year": "2016",
+    "rating": "3.5",
+    "category": "TV Show",
+    "producer": "Netflix",
+    "description": "When Will Byers suddenly goes missing, the whole town of Hawkins, Indiana, turns upside down. Many people are on the search for Will, including his mother Joyce, his brother Jonathan, his friends Mike, Dustin, and Lucas, Police Chief Jim Hopper, and other notable people. But one thing leads to another, creating a supernatural trail. And things get even weirder when a little girl with a shaved head comes into the story."
+  },
+  {
+    "title": "Rick and Morty",
+    "imageUrl": "https://i.guim.co.uk/img/media/b563ac5db4b4a4e1197c586bbca3edebca9173cd/0_12_3307_1985/master/3307.jpg",
+    "year": "2013",
+    "rating": "3.5",
+    "category": "TV Show",
+    "producer": "Warner Bros",
+    "description": "Rick Sanchez, a depressed, alcoholic, abusive, madman (who also happens to be a genius scientist with the ability to travel through dimensions) returns to his daughter Beth's life after two decades of being silent between the two. He finds her married to an incompetent, pathetic man named Jerry, and the couple has two teenage kids. Summer, the oldest girl, is a rebellious teen looking to have more friends at school, and Morty, the youngest child and a boy, is an anxious, quiet, and sweet kid. Rick makes Morty his sidekick and takes him on hilarious Interdimensional adventures, causing poor Morty to become steadily more miserable due to Rick's insane, abusive, and careless additude."
+  },
+  {
+    "title": "Moon Knight",
+    "imageUrl": "https://i.guim.co.uk/img/media/c4ed7e6ecbd9ad059f64b12110908947c57074c5/0_105_1603_962/master/1603.jpg",
+    "year": "2022",
+    "rating": "3.5",
+    "category": "TV Show",
+    "producer": "Disney",
+    "description": "The series follows Steven Grant, a mild- mannered gift-shop employee, who becomes plagued with blackouts and memories of another life. Steven discovers he has dissociative identity disorder and shares a body with mercenary Marc Spector. As Steven/Marc's enemies converge upon them, they must navigate their complex identities while thrust into a deadly mystery among the powerful gods of Egypt."
+  },
+  {
+    "title": "The Witcher",
+    "imageUrl": "https://i.guim.co.uk/img/media/d74fb48312da07d3419482b1a22f5eb1cb04e4f1/0_103_1532_919/master/1532.jpg",
+    "year": "2019",
+    "rating": "3.5",
+    "category": "TV Show",
+    "producer": "Netflix",
+    "description": "Geralt of Rivia, a brooding professional monster hunter for hire also known as witcher, struggles to keep his humanity in a medieval dark fantasy world ruled by corrupt kings, queens and mages, where poverty, violence and intolerance are rampant, normal humans are sometimes worse than actual monsters and most jobs that pay well involve the darkest of human emotions and desires. Yennefer of Vengerberg is an ambitious mage who came from nothing and wants everything. Princess Cirilla or Ciri is a young girl who may or may not possess some great mysterious power within her. Their destinies, seemingly quite different, slowly intertwine in a rather cosmic fashion. Their companions include Jaskier the bard, Geralt's endearingly annoying friend and hype man vowed to spread the word of his heroics throughout the continent even if he has to embellish them a little for a few coins more, Tissaia de Vries, Yennefer's secretive mentor who believes in tough love, and Triss Merigold, a good-natured druidic mage and trustworthy friend. The Nilfgaardian Empire's sudden brutal invasion of the kingdom of Cintra ruled by Cirilla's protective grandmother, warrior queen Calanthe, puts their lives in great danger."
+  }
 ]

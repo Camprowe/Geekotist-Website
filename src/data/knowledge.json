@@ -1123,7 +1123,9 @@
     "type": "EASTER EGG",
     "entertainment": [
       "The Elder Scrolls V: Skyrim",
-      "The Lord of the Rings"
+      "The Lord of the Rings: The Fellowship of the Ring",
+      "The Lord of the Rings: The Two Towers",
+      "The Lord of the Rings: The Return of the King"
     ],
     "description": "During 'A Night to Remember', a hagraven named Moira mutters 'my precious' while trying to hold onto a wedding ring the player needs, a direct callback to Gollum's obsession with the One Ring in The Lord of the Rings.",
     "source": "https://elderscrolls.fandom.com/wiki/User_blog:MarkvA/Top_10_Skyrim_Easter_Eggs"
@@ -3888,7 +3890,9 @@
     "type": "EASTER EGG",
     "entertainment": [
       "The Witcher 3: Wild Hunt",
-      "The Lord of the Rings"
+      "The Lord of the Rings: The Fellowship of the Ring",
+      "The Lord of the Rings: The Two Towers",
+      "The Lord of the Rings: The Return of the King"
     ],
     "description": "Somewhere in Blood and Wine there's a note written by a character called Smigole Serkis, mourning the loss of his beloved golden spoon. It's a two-for-one joke, poking fun at both Gollum's alter ego Smeagol and Andy Serkis, the actor who brought him to life.",
     "source": "https://witcherhour.com/best-witcher-3-easter-eggs/"
@@ -6745,5 +6749,912 @@
     ],
     "description": "Looking back across the series, Zsasz's expanded role kept getting trimmed further in later games too, with unused audio files turning up online of him interacting with Batman in scenes that never made the final cut. It shows Rocksteady clearly liked the character a lot more than what actually reached players.",
     "source": "https://fandomwire.com/10-things-that-were-cut-from-the-batman-arkham-games-at-the-last-minute/"
+  },
+  {
+    "title": "The TVA's Comic-Book Cameo",
+    "type": "LORE",
+    "entertainment": [
+      "Loki"
+    ],
+    "description": "In the original Marvel comics, every single agent working for the Time Variance Authority was drawn to look exactly like real-life Marvel writer and editor Mark Gruenwald. It was a cheeky in-joke, because Gruenwald's actual day job was keeping Marvel's endless timelines consistent, which is basically what the TVA does in the show.",
+    "source": "https://www.imdb.com/title/tt9140554/trivia/"
+  },
+  {
+    "title": "Owen Wilson's Spoiler Strike",
+    "type": "FACT",
+    "entertainment": [
+      "Loki"
+    ],
+    "description": "Owen Wilson let slip in an interview that he'd grown a moustache for playing Mobius, and later that day he got a text from an unknown number that just said \"Strike 1.\" He reckons it might have been Kevin Feige himself on a burner phone, and after that he was a lot more careful about what he said in press.",
+    "source": "https://www.imdb.com/title/tt9140554/trivia/"
+  },
+  {
+    "title": "Wilson's Marvel Crash Course",
+    "type": "FACT",
+    "entertainment": [
+      "Loki"
+    ],
+    "description": "Rather than sit down and read years of Marvel comics to prep for playing Mobius, Owen Wilson just got Tom Hiddleston to talk him through the entire MCU face to face. These sessions apparently became known on set as the \"Loki lectures.\"",
+    "source": "https://www.yahoo.com/entertainment/16-loki-cast-facts-anyone-044611534.html"
+  },
+  {
+    "title": "A Building Numbered After A Kang Comic",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Loki"
+    ],
+    "description": "Keep an eye on the TVA architecture in the season one premiere and you'll spot a structure marked \"T-282.\" It's a nod to The Mighty Thor issue 282, the comic that first introduced an incarnation of Kang the Conqueror going by the name Immortus.",
+    "source": "https://marvelcinematicuniverse.fandom.com/wiki/Loki_(TV_series)/Trivia"
+  },
+  {
+    "title": "Loki's File Is Labelled Earth-616",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Loki"
+    ],
+    "description": "When the TVA finishes playing back the tape documenting Loki's whole life, it's stamped \"ETH-616\" as it ends. That's a direct reference to Earth-616, the designation for the main Marvel comics continuity that the entire MCU loosely spins out of.",
+    "source": "https://marvelcinematicuniverse.fandom.com/wiki/Loki_(TV_series)/Trivia"
+  },
+  {
+    "title": "Loki's Gobi Desert Landing Mirrors Iron Man",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Loki",
+      "Iron Man"
+    ],
+    "description": "When Loki turns up in the Gobi Desert right at the start of the show, the shot is staged to echo Tony Stark's landing after escaping the Ten Rings in the very first Iron Man film. It quietly puts Loki in that same \"I just survived something huge\" headspace Tony was in back in 2008.",
+    "source": "https://marvelcinematicuniverse.fandom.com/wiki/Loki_(TV_series)/Trivia"
+  },
+  {
+    "title": "A Hidden Arcade Cabinet Urban Legend",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Loki"
+    ],
+    "description": "In the Loki variant lair during \"Journey Into Mystery,\" there's an arcade cabinet in the background for a game called Polybius. In the real world Polybius is a famous urban legend about a supposedly mind-warping arcade machine that never actually existed, which fits a room full of unstable alternate Lokis pretty well.",
+    "source": "https://www.imdb.com/title/tt10161338/trivia/"
+  },
+  {
+    "title": "A Loki Variant Pulled Straight From 2016 Comics",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Loki"
+    ],
+    "description": "One of the extra Loki variants hanging around in the underground vault is a dead ringer for the version of the character from the 2016 comic run \"Vote Loki,\" right down to the look. Easy to miss him among the crowd of horned, sunglasses-wearing alternates.",
+    "source": "https://www.imdb.com/title/tt10161338/trivia/"
+  },
+  {
+    "title": "A Tiny Thanos Helicopter Homage",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Loki"
+    ],
+    "description": "Just before Loki and the variants head into the vault, there's a small toy helicopter sitting around with \"Thanos\" written on the side. It's modelled on a helicopter Thanos piloted in a 1979 Spidey Super Stories comic, a simplified Spider-Man tie-in most people have genuinely never heard of.",
+    "source": "https://www.imdb.com/title/tt10161338/trivia/"
+  },
+  {
+    "title": "Chris Hemsworth Sneaks In As Throg",
+    "type": "FACT",
+    "entertainment": [
+      "Loki",
+      "Thor"
+    ],
+    "description": "Director Kate Herron confirmed that the tiny frog version of Thor, known to comic readers as Throg, is voiced by Chris Hemsworth himself in this episode. A proper blink-and-you'll-miss-it cameo a lot of viewers assumed was just a sound-alike.",
+    "source": "https://www.imdb.com/title/tt10161338/trivia/"
+  },
+  {
+    "title": "Breaking Brad, A Breaking Bad Riff",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Loki"
+    ],
+    "description": "The title of season two's second episode, \"Breaking Brad,\" is a play on Breaking Bad, and it works on more than one level. TVA hunter X-5 goes rogue and starts a secret double life under the alias Brad Wolfe, essentially living out his own quiet Walter White transformation.",
+    "source": "https://screenrant.com/loki-season-2-episode-2-easter-eggs-mcu-references/"
+  },
+  {
+    "title": "Kingo's Bollywood Poster Cameo",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Loki",
+      "Eternals"
+    ],
+    "description": "While walking through 1970s London, Loki and Mobius pass a poster for a Bollywood film starring one of Kingo's \"family members.\" It's a sly callback to how Kumail Nanjiani's Eternals character covered up his immortality by pretending to be a long line of relatives who kept replacing each other as actors.",
+    "source": "https://screenrant.com/loki-season-2-episode-2-easter-eggs-mcu-references/"
+  },
+  {
+    "title": "The Kingo & Zaniac Comic Deep Cut",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Loki"
+    ],
+    "description": "Season two episode two's director Dan DeLeeuw confirmed the Kingo and Zaniac references were actually suggested by executive producer Kevin Wright rather than being his own idea. Zaniac's easter egg lines up with his comic origin as a parasite sent by Dormammu to possess a human, which is a pretty deep pull for a background gag.",
+    "source": "https://m.imdb.com/news/ni64292146/?ref_=nm_nwr_1"
+  },
+  {
+    "title": "TVA's Weirdly Specific Lunch Break Sign",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Loki"
+    ],
+    "description": "Wander the TVA hallways in season two and you'll spot a sign telling staff to minimise chit chat in the cafeteria and keep lunch breaks to exactly seventeen minutes. Nobody's ever explained why seventeen specifically, which somehow makes it funnier for an organisation whose staff can live for centuries.",
+    "source": "https://www.looper.com/1414608/loki-season-2-easter-eggs/"
+  },
+  {
+    "title": "End Credits Posters Keep The Jokes Going",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Loki"
+    ],
+    "description": "The TVA's dry corporate humour doesn't switch off when the episode does. Posters glimpsed over the season two end credits include gems like \"check your suit for defects before entry\" and the far more threatening \"behave or get your clock cleaned.\"",
+    "source": "https://www.looper.com/1414608/loki-season-2-easter-eggs/"
+  },
+  {
+    "title": "Mobius's House Number Points To Another Earth",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Loki"
+    ],
+    "description": "When Loki tracks down a Sacred Timeline version of Mobius, we learn his real name is Don and his house is numbered 1049. Fans have latched onto this as a possible nod to Earth-1049, one of the countless designated realities scattered across Marvel's multiverse.",
+    "source": "https://movieweb.com/loki-season-2-episode-5-easter-eggs/"
+  },
+  {
+    "title": "The Reversed Marvel Studios Logo",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Loki"
+    ],
+    "description": "The season two finale opens with the Marvel Studios fanfare logo playing backwards instead of forwards. It's a tiny touch, but it sums up the whole episode, which is built entirely around Loki rewinding and reliving moments from across the series.",
+    "source": "https://collider.com/loki-season-2-finale-easter-eggs/"
+  },
+  {
+    "title": "Loki Quotes T.S. Eliot To He Who Remains",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Loki"
+    ],
+    "description": "During his tense final conversation with He Who Remains, Loki stares into the distance and says \"we die with the dying.\" That's not an MCU original line, it's actually lifted from a T.S. Eliot poem, which fits the show's habit of sneaking literary references into its biggest moments.",
+    "source": "https://movieweb.com/loki-easter-eggs-season-2/"
+  },
+  {
+    "title": "Yggdrasil Ties The Whole Series Together",
+    "type": "LORE",
+    "entertainment": [
+      "Loki"
+    ],
+    "description": "The season finale leans hard on Yggdrasil, the world tree from Norse mythology, as Loki binds every branching timeline together into a single image. It's the show finally circling back to Loki's Asgardian roots after two seasons of TVA bureaucracy and multiverse chaos.",
+    "source": "https://movieweb.com/loki-easter-eggs-season-2/"
+  },
+  {
+    "title": "A Deadly Void Monster Gets A Deadpool Shout-Out",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Loki",
+      "Deadpool & Wolverine"
+    ],
+    "description": "When Deadpool spots Alioth lurking in the Void, he actually name-drops the creature's earlier appearance in \"Loki Season One, Episode Five: Journey Into Mystery.\" It's a proper crossover receipt confirming the two projects share the exact same Void.",
+    "source": "https://marvelcinematicuniverse.fandom.com/wiki/Loki_(TV_series)/Trivia"
+  },
+  {
+    "title": "Ten Years, Under Two Hours Of Screen Time",
+    "type": "FACT",
+    "entertainment": [
+      "Loki"
+    ],
+    "description": "Co-executive producer Kevin R. Wright revealed the team actually crunched the numbers, and across a full decade of MCU movie appearances, Hiddleston's Loki had been on screen for less than two hours total. Season one alone blows straight past that, clocking in at 280 minutes and 17 seconds across just six episodes.",
+    "source": "https://www.newsweek.com/making-loki-10-things-learned-behind-scenes-show-disney-mcu-tom-hiddleston-1611714"
+  },
+  {
+    "title": "Owen Wilson's Hamlet Question",
+    "type": "FACT",
+    "entertainment": [
+      "Loki"
+    ],
+    "description": "During filming, Tom Hiddleston asked Owen Wilson if he'd ever played Hamlet, a nod to Hiddleston's own stage background. Wilson joked that nobody, not even his old collaborator Ben Stiller, had ever asked him that, though he did rattle off the opening line of The Two Gentlemen of Verona for good measure.",
+    "source": "https://www.newsweek.com/making-loki-10-things-learned-behind-scenes-show-disney-mcu-tom-hiddleston-1611714"
+  },
+  {
+    "title": "Hiddleston Nearly Played Thor Instead",
+    "type": "FACT",
+    "entertainment": [
+      "Loki",
+      "Thor"
+    ],
+    "description": "Long before he became the God of Mischief, Tom Hiddleston actually auditioned for the role of Thor for the 2011 film. Footage of him swinging the hammer has surfaced over the years, and it's genuinely strange to imagine an MCU where Hiddleston ended up on the hero's side of that sibling rivalry.",
+    "source": "https://www.newsweek.com/making-loki-10-things-learned-behind-scenes-show-disney-mcu-tom-hiddleston-1611714"
+  },
+  {
+    "title": "Gandalf's Real Headache",
+    "type": "FACT",
+    "entertainment": [
+      "The Lord of the Rings: The Fellowship of the Ring"
+    ],
+    "description": "That bit where Gandalf smacks his head on the beam in Bilbo's hobbit-hole wasn't scripted at all - Ian McKellen actually clonked his forehead for real mid-take. Peter Jackson thought he sold the pain so well he just left it in the final cut.",
+    "source": "https://movies.fandom.com/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring/Trivia"
+  },
+  {
+    "title": "The Only Person Who Met Tolkien",
+    "type": "FACT",
+    "entertainment": [
+      "The Lord of the Rings: The Fellowship of the Ring"
+    ],
+    "description": "Christopher Lee, who played Saruman, was the only person on the entire cast and crew who had actually met J.R.R. Tolkien in person. He was also a genuine superfan, rereading the whole trilogy every single year right up until his death in 2015.",
+    "source": "https://movies.fandom.com/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring/Trivia"
+  },
+  {
+    "title": "Two Rings, One Secret",
+    "type": "FACT",
+    "entertainment": [
+      "The Lord of the Rings: The Fellowship of the Ring"
+    ],
+    "description": "When the shoot wrapped, Peter Jackson quietly gave Elijah Wood and Andy Serkis each one of the actual rings used on set as a wrap gift. Both of them genuinely believed they'd been handed the only one, with no clue the other had one too.",
+    "source": "https://movies.fandom.com/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring/Trivia"
+  },
+  {
+    "title": "Aragorn Wasn't Always Aragorn",
+    "type": "FACT",
+    "entertainment": [
+      "The Lord of the Rings: The Fellowship of the Ring"
+    ],
+    "description": "Viggo Mortensen only joined the production after filming had already started, stepping in for actor Stuart Townsend just a handful of days into the shoot. He hadn't even read the books before signing on.",
+    "source": "https://www.kino.de/film/der-herr-der-ringe-die-gefaehrten-2001/news/bomben-bei-herr-der-ringe-viggo-mortensen-schwebte-in-lebensgefahr/"
+  },
+  {
+    "title": "The Kid Who Cast Aragorn",
+    "type": "FACT",
+    "entertainment": [
+      "The Lord of the Rings: The Fellowship of the Ring"
+    ],
+    "description": "Viggo Mortensen was on the fence about taking the role, and it was reportedly his eleven-year-old son Henry who talked him into signing on. Good call, kid.",
+    "source": "https://movies.fandom.com/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring/Trivia"
+  },
+  {
+    "title": "The Fellowship's Matching Ink",
+    "type": "FACT",
+    "entertainment": [
+      "The Lord of the Rings: The Fellowship of the Ring"
+    ],
+    "description": "Elijah Wood, Viggo Mortensen, Ian McKellen, Orlando Bloom, Sean Bean, Dominic Monaghan, Sean Astin and Billy Boyd all got the Elvish word for 'nine' tattooed on themselves during the shoot, in the same script but different spots on their bodies. John Rhys-Davies, who played Gimli, was the one holdout.",
+    "source": "https://trivia.cracked.com/article_49617_25-behind-the-scenes-facts-about-the-lord-of-the-rings-for-the-fellowships-25th-anniversary.html"
+  },
+  {
+    "title": "Boromir's Fear of Flying",
+    "type": "FACT",
+    "entertainment": [
+      "The Lord of the Rings: The Fellowship of the Ring"
+    ],
+    "description": "Sean Bean genuinely hated flying, so instead of taking the helicopter to remote mountain locations like the rest of the cast, he'd spend up to two hours climbing up the mountainside in full costume every morning just to avoid it.",
+    "source": "https://movies.fandom.com/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring/Trivia"
+  },
+  {
+    "title": "A Surfing Wipeout Changed a Scene",
+    "type": "FACT",
+    "entertainment": [
+      "The Lord of the Rings: The Fellowship of the Ring"
+    ],
+    "description": "During downtime in New Zealand, most of the Fellowship cast took up surfing, and Viggo Mortensen wiped out badly enough to bruise one whole side of his face. Makeup couldn't hide it in time, so Peter Jackson just shot the Moria tomb scene from Aragorn's other side for the rest of the sequence.",
+    "source": "https://www.imdb.com/title/tt0120737/trivia/"
+  },
+  {
+    "title": "Tiny Hobbits, Big Trick",
+    "type": "FACT",
+    "entertainment": [
+      "The Lord of the Rings: The Fellowship of the Ring"
+    ],
+    "description": "Real hobbits are meant to stand around 3'6\", so Weta had to fake that constantly. Every hobbit actor had a scale double of that exact height, and depending on the shot, you might be looking at the double's whole body with the actor's face digitally added on top.",
+    "source": "https://alltherightmovies.com/feature/60-interesting-and-ring-bearing-facts-about-the-lord-of-the-rings-the-fellowship-of-the-ring/"
+  },
+  {
+    "title": "The Workshop Behind the Magic",
+    "type": "FACT",
+    "entertainment": [
+      "The Lord of the Rings: The Fellowship of the Ring"
+    ],
+    "description": "Almost everything on screen that isn't CGI, from weapons to prosthetics to miniature sets, came out of Weta Workshop. It was a level of practical craftsmanship film hadn't really attempted at that scale before, and it changed how fantasy movies got made afterward.",
+    "source": "https://alltherightmovies.com/feature/60-interesting-and-ring-bearing-facts-about-the-lord-of-the-rings-the-fellowship-of-the-ring/"
+  },
+  {
+    "title": "The Weight of the Ring",
+    "type": "FACT",
+    "entertainment": [
+      "The Lord of the Rings: The Fellowship of the Ring"
+    ],
+    "description": "When Bilbo finally lets go of the Ring in Bag End and it drops into Frodo's palm, that little thud was added in post-production. To make the Ring visibly feel heavy as it fell, the crew rigged up a hidden magnet to pull it down.",
+    "source": "https://www.thethings.com/lord-of-the-rings-fellowship-of-the-ring-behind-the-scenes-facts/"
+  },
+  {
+    "title": "Gollum's Hidden Cameos",
+    "type": "LORE",
+    "entertainment": [
+      "The Lord of the Rings: The Fellowship of the Ring"
+    ],
+    "description": "Gollum doesn't properly show up as a character until the second film, but he technically appears in Fellowship three separate times: as a shadow during the prologue, briefly during his torture in Mordor, and as a pair of eyes watching from the dark in the Mines of Moria.",
+    "source": "https://www.thethings.com/lord-of-the-rings-fellowship-of-the-ring-behind-the-scenes-facts/"
+  },
+  {
+    "title": "Hobbiton Was Built a Year Early",
+    "type": "FACT",
+    "entertainment": [
+      "The Lord of the Rings: The Fellowship of the Ring"
+    ],
+    "description": "The Shire needed to look properly lived-in on camera, so the Hobbiton set near Matamata, New Zealand was actually built a full year before filming started, giving the gardens and hedges time to grow in naturally.",
+    "source": "https://screenrant.com/lord-of-the-rings-behind-the-scenes-fellowship/"
+  },
+  {
+    "title": "The Prologue That Wouldn't Shrink",
+    "type": "FACT",
+    "entertainment": [
+      "The Lord of the Rings: The Fellowship of the Ring"
+    ],
+    "description": "New Line Cinema thought the original opening prologue was too long and confusing, and asked Peter Jackson to trim it down to about two minutes. He came back with one that ran seven and a half minutes instead, and it made the final cut anyway.",
+    "source": "https://screenrant.com/lord-of-the-rings-behind-the-scenes-fellowship/"
+  },
+  {
+    "title": "The Staircase Stunt at Khazad-dûm",
+    "type": "FACT",
+    "entertainment": [
+      "The Lord of the Rings: The Fellowship of the Ring"
+    ],
+    "description": "That moment where the Fellowship leaps a gap in the collapsing stairs while orcs fire arrows at them, with Aragorn and Frodo riding a broken chunk of stone across the gap, was built as a real physical set piece rather than a digital effect.",
+    "source": "https://screenrant.com/lord-of-the-rings-behind-the-scenes-fellowship/"
+  },
+  {
+    "title": "The Aragorn Who Never Was",
+    "type": "FACT",
+    "entertainment": [
+      "The Lord of the Rings: The Fellowship of the Ring"
+    ],
+    "description": "Nicolas Cage was reportedly approached for the role of Aragorn before Viggo Mortensen came on board, but turned it down over family obligations, since it would have meant relocating to New Zealand for a couple of years.",
+    "source": "https://www.buzzfeed.com/alliehayes/lord-of-the-rings-behind-the-scenes-facts"
+  },
+  {
+    "title": "Christopher Lee's Long Campaign for a Wizard Role",
+    "type": "FACT",
+    "entertainment": [
+      "The Lord of the Rings: The Fellowship of the Ring"
+    ],
+    "description": "Christopher Lee wanted to play a wizard so badly that years earlier he'd deliberately auditioned for wizard-type roles just to build a case for himself. He even sent Peter Jackson a photo of himself dressed as one, half joke, half not-so-subtle hint.",
+    "source": "https://www.buzzfeed.com/alliehayes/lord-of-the-rings-behind-the-scenes-facts"
+  },
+  {
+    "title": "When The Beatles Almost Made Middle-earth",
+    "type": "LORE",
+    "entertainment": [
+      "The Lord of the Rings: The Fellowship of the Ring"
+    ],
+    "description": "Long before Peter Jackson got involved, The Beatles reportedly wanted to make their own Lord of the Rings film, with John Lennon eyeing the role of Gollum. Tolkien wasn't keen on a pop group taking on his story, and the rights never came through.",
+    "source": "https://www.buzzfeed.com/alliehayes/lord-of-the-rings-behind-the-scenes-facts"
+  },
+  {
+    "title": "Thirteen Nominations, Four Wins",
+    "type": "FACT",
+    "entertainment": [
+      "The Lord of the Rings: The Fellowship of the Ring"
+    ],
+    "description": "The Fellowship of the Ring picked up thirteen Oscar nominations, including Best Picture and Best Director, and walked away with four wins: Best Cinematography, Best Makeup, Best Original Score and Best Visual Effects.",
+    "source": "https://www.yardbarker.com/entertainment/articles/20_facts_you_might_not_know_about_lord_of_the_rings_the_fellowship_of_the_ring/s1__38645873"
+  },
+  {
+    "title": "Bilbo Played Frodo First",
+    "type": "FACT",
+    "entertainment": [
+      "The Lord of the Rings: The Fellowship of the Ring"
+    ],
+    "description": "Twenty years before he played Bilbo on screen, Ian Holm voiced Frodo Baggins in the BBC's 1981 radio dramatisation of The Lord of the Rings. When the film came knocking, he ended up on the other side of the story entirely.",
+    "source": "https://www.penguin.co.uk/series/BBCLOTR/bbc-radios-the-lord-of-the-rings"
+  },
+  {
+    "title": "The Ring Only Talks When It's Hot",
+    "type": "LORE",
+    "entertainment": [
+      "The Lord of the Rings: The Fellowship of the Ring"
+    ],
+    "description": "The One Ring looks completely plain most of the time, but its fiery inscription only shows up when it's heated - exactly the trick Gandalf uses in Bag End to prove Bilbo's old ring is the real deal. Small detail, but it's the whole reason the plot kicks off.",
+    "source": "https://thetolkien.forum/wiki/Ring-Inscription"
+  },
+  {
+    "title": "The Knife Throw That Wasn't Supposed to Land",
+    "type": "FACT",
+    "entertainment": [
+      "The Lord of the Rings: The Fellowship of the Ring"
+    ],
+    "description": "During the fight at Amon Hen, the Uruk-hai Lurtz was meant to miss Aragorn with a thrown knife, but the actor's makeup blocked his vision and he threw it straight at Viggo Mortensen for real. Mortensen deflected it with his sword on pure instinct, and Jackson kept the moment in the film.",
+    "source": "https://tropedia.fandom.com/wiki/Viggo_Mortensen"
+  },
+  {
+    "title": "A Sword Fight Master's Verdict",
+    "type": "FACT",
+    "entertainment": [
+      "The Lord of the Rings: The Fellowship of the Ring"
+    ],
+    "description": "Longtime swordmaster Bob Anderson, who trained the cast for the film's combat, called Viggo Mortensen the best swordsman he'd worked with across his entire fifty-year career, which is a genuinely huge compliment coming from someone who's coached fencers and film stars alike.",
+    "source": "https://tropedia.fandom.com/wiki/Viggo_Mortensen"
+  },
+  {
+    "title": "One Giant 14-Month Shoot",
+    "type": "FACT",
+    "entertainment": ["The Lord of the Rings: The Two Towers", "The Lord of the Rings: The Fellowship of the Ring", "The Lord of the Rings: The Return of the King"],
+    "description": "Jackson didn't make these films back to back like a normal trilogy. All three were shot as one continuous production in New Zealand, running for about 14 months, so nothing had to be rebuilt or recast between films.",
+    "source": "https://alltherightmovies.com/feature/20-interesting-facts-about-the-lord-of-the-rings-the-two-towers/"
+  },
+  {
+    "title": "Special Permission for Edoras",
+    "type": "FACT",
+    "entertainment": ["The Lord of the Rings: The Two Towers"],
+    "description": "The sweeping shots of Edoras were filmed on protected land inside a New Zealand national park, which meant Jackson's team had to get sign-off from the country's Conservation Society before they could touch the location.",
+    "source": "https://alltherightmovies.com/feature/20-interesting-facts-about-the-lord-of-the-rings-the-two-towers/"
+  },
+  {
+    "title": "The Bigatures of Isengard",
+    "type": "FACT",
+    "entertainment": ["The Lord of the Rings: The Two Towers"],
+    "description": "Rather than lean fully on CGI, the crew built enormous scale models they nicknamed 'bigatures.' The one for Orthanc, Saruman's tower, stood a full 27 feet tall on its own.",
+    "source": "https://alltherightmovies.com/feature/20-interesting-facts-about-the-lord-of-the-rings-the-two-towers/"
+  },
+  {
+    "title": "Nearly Three Years of Miniature Work",
+    "type": "FACT",
+    "entertainment": ["The Lord of the Rings: The Two Towers"],
+    "description": "Across the whole trilogy, the team spent 998 working days just shooting miniatures and bigatures. Add it up and that's roughly four years of someone's working life spent filming models.",
+    "source": "https://alltherightmovies.com/feature/20-interesting-facts-about-the-lord-of-the-rings-the-two-towers/"
+  },
+  {
+    "title": "Treebeard's Puppet Had Bike Seats",
+    "type": "FACT",
+    "entertainment": ["The Lord of the Rings: The Two Towers"],
+    "description": "The animatronic Treebeard puppet was 14 feet tall, and getting Billy Boyd and Dominic Monaghan up into its hands took so long that during breaks they'd just stay perched up there rather than climb down and back up again.",
+    "source": "https://alltherightmovies.com/feature/20-interesting-facts-about-the-lord-of-the-rings-the-two-towers/"
+  },
+  {
+    "title": "Fifty Years to Render an Ent",
+    "type": "FACT",
+    "entertainment": ["The Lord of the Rings: The Two Towers"],
+    "description": "Weta's digital version of Treebeard was so complex that a single frame took up to 48 hours to render. Since he appears throughout the film, that adds up to something like 50 years of computer processing time in total.",
+    "source": "https://alltherightmovies.com/feature/20-interesting-facts-about-the-lord-of-the-rings-the-two-towers/"
+  },
+  {
+    "title": "Too Fantastical for Jackson's Taste",
+    "type": "FACT",
+    "entertainment": ["The Lord of the Rings: The Two Towers"],
+    "description": "Jackson wanted a grounded, Braveheart-style look for Middle-earth, but his early concept artists kept drawing things too fantasy-heavy for him. He ended up bringing in Tolkien illustrators Alan Lee and John Howe, who got the tone right almost immediately.",
+    "source": "https://alltherightmovies.com/feature/20-interesting-facts-about-the-lord-of-the-rings-the-two-towers/"
+  },
+  {
+    "title": "Rohan's Anglo-Saxon Roots",
+    "type": "FACT",
+    "entertainment": ["The Lord of the Rings: The Two Towers"],
+    "description": "Costume designer Ngila Dickson based the Rohirrim look on real Anglo-Saxon warriors and Migration-era Swedish armour. The Swedish helmets actually had dragons and ravens on them originally, which she swapped for horses to fit Rohan.",
+    "source": "https://alltherightmovies.com/feature/20-interesting-facts-about-the-lord-of-the-rings-the-two-towers/"
+  },
+  {
+    "title": "Jackson's Family Cameo at Helm's Deep",
+    "type": "FACT",
+    "entertainment": ["The Lord of the Rings: The Two Towers"],
+    "description": "Peter Jackson pops up briefly during the Helm's Deep battle in chainmail, throwing a spear. His own kids, Billy and Katie, also show up as refugee children hiding in the caves.",
+    "source": "https://alltherightmovies.com/feature/20-interesting-facts-about-the-lord-of-the-rings-the-two-towers/"
+  },
+  {
+    "title": "Christopher Lee's Lifelong Devotion",
+    "type": "FACT",
+    "entertainment": ["The Lord of the Rings: The Two Towers"],
+    "description": "Christopher Lee had been reading Tolkien's trilogy once a year since it was first published in 1954, right up until he died in 2015. He's also the only cast member who actually met Tolkien, having crossed paths with him in an Oxford pub years earlier.",
+    "source": "https://alltherightmovies.com/feature/20-interesting-facts-about-the-lord-of-the-rings-the-two-towers/"
+  },
+  {
+    "title": "Family Faces Hidden in Helm's Deep",
+    "type": "FACT",
+    "entertainment": ["The Lord of the Rings: The Two Towers"],
+    "description": "Keep an eye out during the Helm's Deep refugee scenes and you'll spot Elijah Wood's real-life sister Hannah among the crowd. Viggo Mortensen's son also has a small appearance in the film.",
+    "source": "https://alltherightmovies.com/feature/20-interesting-facts-about-the-lord-of-the-rings-the-two-towers/"
+  },
+  {
+    "title": "The Sword Boy Needed Dubbing",
+    "type": "FACT",
+    "entertainment": ["The Lord of the Rings: The Two Towers"],
+    "description": "The young boy who hands Aragorn his sword before Helm's Deep is actually screenwriter Philippa Boyens' son. By the time they came back to shoot pickups, his voice had already broken, so his lines had to be redubbed.",
+    "source": "https://alltherightmovies.com/feature/20-interesting-facts-about-the-lord-of-the-rings-the-two-towers/"
+  },
+  {
+    "title": "Andy Serkis Almost Just Did Voiceover",
+    "type": "FACT",
+    "entertainment": ["The Lord of the Rings: The Two Towers"],
+    "description": "Serkis was originally booked for a three-week job just recording Gollum's voice. He ended up acting out the whole part in his audition, impressed Jackson enough to land the full motion-capture role, and forced Weta to redo two years of animation work in about ten weeks.",
+    "source": "https://alltherightmovies.com/feature/20-interesting-facts-about-the-lord-of-the-rings-the-two-towers/"
+  },
+  {
+    "title": "Gollum's Eyes Give Him Away",
+    "type": "FACT",
+    "entertainment": ["The Lord of the Rings: The Two Towers"],
+    "description": "There's a subtle detail in Gollum's design: his pupils actually change shape depending on which personality is talking. Smeagol gets wide, innocent-looking eyes, while Gollum's pupils shrink down to something meaner.",
+    "source": "https://alltherightmovies.com/feature/20-interesting-facts-about-the-lord-of-the-rings-the-two-towers/"
+  },
+  {
+    "title": "Viggo Mortensen Bought His Horse",
+    "type": "FACT",
+    "entertainment": ["The Lord of the Rings: The Two Towers"],
+    "description": "Mortensen got so attached to Brego, the horse he rode as Aragorn, that he bought him from the production once filming wrapped, and picked up a second horse so Brego wouldn't be lonely.",
+    "source": "https://alltherightmovies.com/feature/20-interesting-facts-about-the-lord-of-the-rings-the-two-towers/"
+  },
+  {
+    "title": "A Real Broken Toe on Camera",
+    "type": "FACT",
+    "entertainment": ["The Lord of the Rings: The Two Towers"],
+    "description": "The scene where Aragorn furiously kicks an Orc helmet is famous because Viggo Mortensen actually broke two toes doing it, on the first take. Jackson liked the reaction so much it stayed in the final cut.",
+    "source": "https://alltherightmovies.com/feature/20-interesting-facts-about-the-lord-of-the-rings-the-two-towers/"
+  },
+  {
+    "title": "A Chipped Tooth and a Dentist Trip",
+    "type": "FACT",
+    "entertainment": ["The Lord of the Rings: The Two Towers"],
+    "description": "During the Helm's Deep shoot, Mortensen broke a tooth and asked if there was any superglue lying around so he could just stick it back on and keep filming. Producer Barrie M. Osborne wasn't having it and sent him to an actual dentist instead.",
+    "source": "https://alltherightmovies.com/feature/20-interesting-facts-about-the-lord-of-the-rings-the-two-towers/"
+  },
+  {
+    "title": "Trapped Underwater Filming the Rapids",
+    "type": "FACT",
+    "entertainment": ["The Lord of the Rings: The Two Towers"],
+    "description": "Filming Aragorn being swept down the river after the Warg attack, Mortensen got pulled under the water and was genuinely stuck there for close to a minute before the crew managed to haul him out.",
+    "source": "https://alltherightmovies.com/feature/20-interesting-facts-about-the-lord-of-the-rings-the-two-towers/"
+  },
+  {
+    "title": "The Warg Attack Moved Books",
+    "type": "FACT",
+    "entertainment": ["The Lord of the Rings: The Two Towers", "The Lord of the Rings: The Fellowship of the Ring"],
+    "description": "In Tolkien's original story, the Warg attack actually happens near the Mines of Moria in the first book and takes place at night. Jackson moved the whole sequence into The Two Towers and shot it in broad daylight instead.",
+    "source": "https://alltherightmovies.com/feature/20-interesting-facts-about-the-lord-of-the-rings-the-two-towers/"
+  },
+  {
+    "title": "Osgiliath Was Invented for the Film",
+    "type": "FACT",
+    "entertainment": ["The Lord of the Rings: The Two Towers"],
+    "description": "The whole battle-at-Osgiliath detour for Frodo, Sam and Gollum doesn't exist in the book at all. It was written purely to give Faramir a redemption arc on screen, and there's even a knowing line where Sam mutters they shouldn't even be there.",
+    "source": "https://alltherightmovies.com/feature/20-interesting-facts-about-the-lord-of-the-rings-the-two-towers/"
+  },
+  {
+    "title": "Seven Months to Build Helm's Deep",
+    "type": "FACT",
+    "entertainment": ["The Lord of the Rings: The Two Towers"],
+    "description": "The Helm's Deep set wasn't a soundstage build, it was constructed life-size into an actual cliff face, and it took the crew seven months just to get it standing before they could film there for eight days.",
+    "source": "https://alltherightmovies.com/feature/20-interesting-facts-about-the-lord-of-the-rings-the-two-towers/"
+  },
+  {
+    "title": "A Twenty-Hour First Cut",
+    "type": "FACT",
+    "entertainment": ["The Lord of the Rings: The Two Towers"],
+    "description": "Editor Michael Horton's very first assembly cut of the Helm's Deep battle ran a staggering 20 hours long before it got trimmed down into the sequence we actually see in the film.",
+    "source": "https://alltherightmovies.com/feature/20-interesting-facts-about-the-lord-of-the-rings-the-two-towers/"
+  },
+  {
+    "title": "The One-Eyed Extra",
+    "type": "FACT",
+    "entertainment": ["The Lord of the Rings: The Two Towers"],
+    "description": "An extra named Wayne Phillips showed up to Helm's Deep wearing his own eye patch. Jackson noticed him and asked if he'd be comfortable playing the scene without it, and gave him a featured close-up on the wall. Phillips later said it actually helped him feel better about his condition.",
+    "source": "https://alltherightmovies.com/feature/20-interesting-facts-about-the-lord-of-the-rings-the-two-towers/"
+  },
+  {
+    "title": "Liquorice Mouthwash for the Orcs",
+    "type": "FACT",
+    "entertainment": ["The Lord of the Rings: The Two Towers"],
+    "description": "Since Orcs bleed black in the film, Jackson decided their mouths should look black too, so every actor playing an Orc had to rinse with special liquorice mouthwash before each take.",
+    "source": "https://alltherightmovies.com/feature/20-interesting-facts-about-the-lord-of-the-rings-the-two-towers/"
+  },
+  {
+    "title": "25,000 Cricket Fans Chanting Orcish",
+    "type": "FACT",
+    "entertainment": ["The Lord of the Rings: The Two Towers"],
+    "description": "To get the sound of a 10,000-strong Uruk-hai army chanting outside Helm's Deep, Jackson went to an actual New Zealand versus England cricket test, put Orc words up on the big screen, and had the crowd of 25,000 spectators chant along while it was recorded.",
+    "source": "https://alltherightmovies.com/feature/20-interesting-facts-about-the-lord-of-the-rings-the-two-towers/"
+  },
+  {
+    "title": "Orlando Bloom Auditioned for Someone Else",
+    "type": "FACT",
+    "entertainment": ["The Lord of the Rings: The Two Towers"],
+    "description": "Before he was cast as Legolas, Orlando Bloom actually tried out for Faramir, the character who debuts in The Two Towers. That role ended up going to David Wenham instead.",
+    "source": "https://www.yardbarker.com/entertainment/articles/20_facts_you_might_not_know_about_lord_of_the_rings_the_two_towers/s1__38645870"
+  },
+  {
+    "title": "Uma Thurman Turned Down Eowyn",
+    "type": "FACT",
+    "entertainment": ["The Lord of the Rings: The Two Towers"],
+    "description": "Uma Thurman was offered the part of Eowyn but passed on it. Miranda Otto took the role instead, and Thurman later admitted she regretted saying no.",
+    "source": "https://www.yardbarker.com/entertainment/articles/20_facts_you_might_not_know_about_lord_of_the_rings_the_two_towers/s1__38645870"
+  },
+  {
+    "title": "Grima's Unscripted Tear",
+    "type": "FACT",
+    "entertainment": ["The Lord of the Rings: The Two Towers"],
+    "description": "Brad Dourif, who played Grima Wormtongue, can apparently cry on command whenever he likes. The single tear rolling down Grima's face in the film wasn't scripted, he just told Jackson he could do it and they let him.",
+    "source": "https://www.yardbarker.com/entertainment/articles/20_facts_you_might_not_know_about_lord_of_the_rings_the_two_towers/s1__38645870"
+  },
+  {
+    "title": "A Beatles Nod on the Soundtrack",
+    "type": "FACT",
+    "entertainment": ["The Lord of the Rings: The Two Towers"],
+    "description": "The score was recorded at Abbey Road Studios, so as an in-joke, the soundtrack release included a photo of Jackson, composer Howard Shore, and two producers recreating the famous Abbey Road album cover walk, with Jackson going barefoot to play the Paul McCartney part.",
+    "source": "https://www.yardbarker.com/entertainment/articles/20_facts_you_might_not_know_about_lord_of_the_rings_the_two_towers/s1__38645870"
+  },
+  {
+    "title": "Gollum Juice Kept Serkis Talking",
+    "type": "FACT",
+    "entertainment": ["The Lord of the Rings: The Two Towers"],
+    "description": "Doing Gollum's raspy voice for every single line, take after take, wrecked Andy Serkis's throat, so the crew mixed him up a drink of honey, lemon and ginger in water that everyone started calling Gollum juice to keep his voice going.",
+    "source": "https://www.yardbarker.com/entertainment/articles/20_facts_you_might_not_know_about_lord_of_the_rings_the_two_towers/s1__38645870"
+  },
+  {
+    "title": "The Title's Towers Aren't the Book's Towers",
+    "type": "FACT",
+    "entertainment": ["The Lord of the Rings: The Two Towers"],
+    "description": "In Tolkien's version, the 'two towers' of the title refer to Orthanc and Minas Morgul. Jackson's film swaps that second one out, pairing Orthanc with Barad-dur instead.",
+    "source": "https://www.yardbarker.com/entertainment/articles/20_facts_you_might_not_know_about_lord_of_the_rings_the_two_towers/s1__38645870"
+  },
+  {
+    "title": "Denethor Only Shows Up Later",
+    "type": "FACT",
+    "entertainment": ["The Lord of the Rings: The Two Towers"],
+    "description": "If you've only seen the theatrical cut, you've never actually seen Denethor in this film, he only appears once the Extended Edition adds his scenes back in.",
+    "source": "https://www.yardbarker.com/entertainment/articles/20_facts_you_might_not_know_about_lord_of_the_rings_the_two_towers/s1__38645870"
+  },
+  {
+    "title": "The Weakest Oscar Showing of the Trilogy",
+    "type": "FACT",
+    "entertainment": ["The Lord of the Rings: The Two Towers"],
+    "description": "Despite being nominated for Best Picture, The Two Towers is the only film in the trilogy that missed out on Best Director and Best Score nominations, and it walked away with just two wins, for Sound Editing and Visual Effects.",
+    "source": "https://www.yardbarker.com/entertainment/articles/20_facts_you_might_not_know_about_lord_of_the_rings_the_two_towers/s1__38645870"
+  },
+  {
+    "title": "My Precious Made the AFI List",
+    "type": "FACT",
+    "entertainment": ["The Lord of the Rings: The Two Towers"],
+    "description": "Gollum first hisses out 'my precious' in this film, and it's the only line from the entire trilogy to land a spot on the American Film Institute's top 100 movie quotes, coming in at number 85.",
+    "source": "https://www.yardbarker.com/entertainment/articles/20_facts_you_might_not_know_about_lord_of_the_rings_the_two_towers/s1__38645870"
+  },
+  {
+    "title": "Building Helm's Deep Started Years Early",
+    "type": "FACT",
+    "entertainment": ["The Lord of the Rings: The Two Towers"],
+    "description": "Production designer Alan Lee's very first job on joining the film back in 1997 was designing the model for Helm's Deep, years before the battle sequence would actually be filmed.",
+    "source": "https://www.yardbarker.com/entertainment/articles/20_facts_you_might_not_know_about_lord_of_the_rings_the_two_towers/s1__38645870"
+  },
+  {
+    "title": "The Cost of the Battle in Injuries",
+    "type": "FACT",
+    "entertainment": ["The Lord of the Rings: The Two Towers"],
+    "description": "The Rohan shoot was rough on the cast in more ways than one. Alongside Mortensen's broken toes, Orlando Bloom cracked three ribs falling off a horse, and John Rhys-Davies' stunt double dislocated a kneecap.",
+    "source": "https://www.yardbarker.com/entertainment/articles/20_facts_you_might_not_know_about_lord_of_the_rings_the_two_towers/s1__38645870"
+  },
+  {
+    "title": "The Biggest Prop Ever Built",
+    "type": "FACT",
+    "entertainment": [
+      "The Lord of the Rings: The Return of the King"
+    ],
+    "description": "The dead oliphaunt used in the film is, on record, the largest movie prop ever constructed. Peter Jackson apparently still thought it wasn't big enough.",
+    "source": "https://www.factinate.com/things/facts-lord-of-the-rings-return-of-the-king"
+  },
+  {
+    "title": "Real Soldiers, Broken Props",
+    "type": "FACT",
+    "entertainment": [
+      "The Lord of the Rings: The Return of the King"
+    ],
+    "description": "For the Battle of the Black Gate, the crew needed so many extras they brought in members of the New Zealand Armed Forces. Turns out real soldiers get a little too into a fake battle, and they ended up snapping a lot of the prop weapons.",
+    "source": "https://www.factinate.com/things/facts-lord-of-the-rings-return-of-the-king"
+  },
+  {
+    "title": "A Safety Handle for Faramir's Horse",
+    "type": "FACT",
+    "entertainment": [
+      "The Lord of the Rings: The Return of the King"
+    ],
+    "description": "When Faramir gets dragged back to Minas Tirith by his spooked horse, the crew were nervous enough that they rigged a custom release into the saddle. David Wenham held a handle so he could free himself if the horse bolted for real, though he never had to use it.",
+    "source": "https://www.factinate.com/things/facts-lord-of-the-rings-return-of-the-king"
+  },
+  {
+    "title": "Two Rings, Two Believers",
+    "type": "FACT",
+    "entertainment": [
+      "The Lord of the Rings: The Return of the King"
+    ],
+    "description": "After the trilogy wrapped, Peter Jackson gifted a One Ring prop to both Elijah Wood and Andy Serkis, and each of them genuinely believed his was the only one out there. Sorry to break it to you two, but you were both had.",
+    "source": "https://www.moviefone.com/news/lord-of-the-rings-return-of-the-king-movie-trivia/"
+  },
+  {
+    "title": "Jackson's Own Spider Phobia Built Shelob",
+    "type": "FACT",
+    "entertainment": [
+      "The Lord of the Rings: The Return of the King"
+    ],
+    "description": "Peter Jackson is genuinely terrified of spiders, and he leaned right into it when designing Shelob. Every detail people find most unsettling about her, the fangs, the size, the way she moves, comes from what actually scares him.",
+    "source": "https://www.factinate.com/things/facts-lord-of-the-rings-return-of-the-king"
+  },
+  {
+    "title": "Wrap Gifts That Meant Something",
+    "type": "FACT",
+    "entertainment": [
+      "The Lord of the Rings: The Return of the King"
+    ],
+    "description": "On the last day of shooting, the cast were handed keepsakes tied to their characters. Miranda Otto got Eowyn's dress and sword, Liv Tyler took home Arwen's dying dress, and Orlando Bloom walked away with one of Legolas's bows.",
+    "source": "https://www.factinate.com/things/facts-lord-of-the-rings-return-of-the-king"
+  },
+  {
+    "title": "Gimli Was the Tallest Fellowship Member",
+    "type": "FACT",
+    "entertainment": [
+      "The Lord of the Rings: The Return of the King"
+    ],
+    "description": "It sounds backwards, but John Rhys-Davies, the man playing the dwarf, was actually the tallest actor among the nine members of the Fellowship. Every trick in the camera book went into making him look like the shortest.",
+    "source": "https://www.factinate.com/things/facts-lord-of-the-rings-return-of-the-king"
+  },
+  {
+    "title": "Burning the Gimli Mask",
+    "type": "FACT",
+    "entertainment": [
+      "The Lord of the Rings: The Return of the King"
+    ],
+    "description": "Getting into Gimli's makeup every day left Rhys-Davies with rashes for most of the shoot. Once his final scene wrapped, the makeup team let him toss the prosthetic mask straight into a fire, and he didn't hesitate.",
+    "source": "https://www.factinate.com/things/facts-lord-of-the-rings-return-of-the-king"
+  },
+  {
+    "title": "Gollum's Cough Came From a Cat",
+    "type": "FACT",
+    "entertainment": [
+      "The Lord of the Rings: The Return of the King"
+    ],
+    "description": "Andy Serkis has said that Gollum's wet, rattling cough is modelled on the sound his own cat made when it was hacking up a hairball. Not exactly a glamorous inspiration, but it worked.",
+    "source": "https://www.factinate.com/things/facts-lord-of-the-rings-return-of-the-king"
+  },
+  {
+    "title": "Motion-Capture Horses for Safer Stunts",
+    "type": "FACT",
+    "entertainment": [
+      "The Lord of the Rings: The Return of the King"
+    ],
+    "description": "With over 200 horses used across the trilogy and huge battle scenes to shoot, the team put both horses and riders in motion capture suits and filmed their gallops and rears safely in a studio before digitally dropping them into the fighting.",
+    "source": "https://www.factinate.com/things/facts-lord-of-the-rings-return-of-the-king"
+  },
+  {
+    "title": "Viggo Bought His Own Horse",
+    "type": "FACT",
+    "entertainment": [
+      "The Lord of the Rings: The Return of the King"
+    ],
+    "description": "Once filming ended, the production auctioned off its horses, and Viggo Mortensen bought two of them: the one he'd ridden as Aragorn for most of the shoot, plus the horse used by Arwen's riding double.",
+    "source": "https://www.factinate.com/things/facts-lord-of-the-rings-return-of-the-king"
+  },
+  {
+    "title": "A Clean Sweep at the Oscars",
+    "type": "FACT",
+    "entertainment": [
+      "The Lord of the Rings: The Return of the King"
+    ],
+    "description": "Return of the King is tied with Ben-Hur and Titanic for the most Academy Award wins, but it stands alone for going 11 for 11. Every single nomination it received, it won.",
+    "source": "https://www.yardbarker.com/entertainment/articles/20_facts_you_might_not_know_about_lord_of_the_rings_return_of_the_king/s1__38646244"
+  },
+  {
+    "title": "Pippin's Song Started at Karaoke",
+    "type": "FACT",
+    "entertainment": [
+      "The Lord of the Rings: The Return of the King"
+    ],
+    "description": "Screenwriter Philippa Boyens only added the scene of Pippin singing for Denethor after hearing Billy Boyd's voice at a cast karaoke night. She handed him the lyrics straight from the book and left him to write the melody himself.",
+    "source": "https://www.moviefone.com/news/lord-of-the-rings-return-of-the-king-movie-trivia/"
+  },
+  {
+    "title": "Elijah Wood's Unblinking Stare",
+    "type": "FACT",
+    "entertainment": [
+      "The Lord of the Rings: The Return of the King"
+    ],
+    "description": "Elijah Wood happens to have a knack for staring straight ahead for ages without blinking, which turned out to be perfect for the scenes where Frodo lies comatose, wrapped up in Shelob's webbing.",
+    "source": "https://www.factinate.com/things/facts-lord-of-the-rings-return-of-the-king"
+  },
+  {
+    "title": "Gollum's Missing Earlobe Was an Accident",
+    "type": "FACT",
+    "entertainment": [
+      "The Lord of the Rings: The Return of the King"
+    ],
+    "description": "Gollum's left earlobe is missing entirely, and it wasn't a deliberate design choice. A casting mold made for Peter Jackson's approval got an air bubble right where the lobe should be, and the team just decided to keep it that way.",
+    "source": "https://www.factinate.com/things/facts-lord-of-the-rings-return-of-the-king"
+  },
+  {
+    "title": "Every Film Says Its Own Title Out Loud",
+    "type": "LORE",
+    "entertainment": [
+      "The Lord of the Rings: The Fellowship of the Ring",
+      "The Lord of the Rings: The Two Towers",
+      "The Lord of the Rings: The Return of the King"
+    ],
+    "description": "Watch the trilogy back to back and you'll catch each film naming itself in dialogue. Elrond calls the group a 'Fellowship of the Ring' in the first, Saruman says 'the Two Towers' in the second, and Gandalf tells Denethor he can't deny the 'Return of the King' in the third.",
+    "source": "https://www.factinate.com/things/facts-lord-of-the-rings-return-of-the-king"
+  },
+  {
+    "title": "Jackson Kept the Army of the Dead Despite Hating Them",
+    "type": "FACT",
+    "entertainment": [
+      "The Lord of the Rings: The Return of the King"
+    ],
+    "description": "Peter Jackson has admitted he thought the Army of the Dead were too unbelievable and wasn't keen on including them. He left them in anyway because he didn't want to let down fans of the books.",
+    "source": "https://www.factinate.com/things/facts-lord-of-the-rings-return-of-the-king"
+  },
+  {
+    "title": "The Luckiest Fall in the Rohirrim Charge",
+    "type": "FACT",
+    "entertainment": [
+      "The Lord of the Rings: The Return of the King"
+    ],
+    "description": "During the filming of the Rohirrim's charge, one rider actually fell off the back of his horse mid-shot. Every single horse charging behind him somehow missed or dodged him, and he walked away without a scratch.",
+    "source": "https://www.factinate.com/things/facts-lord-of-the-rings-return-of-the-king"
+  },
+  {
+    "title": "Touching the Spears Was Bernard Hill's Idea",
+    "type": "FACT",
+    "entertainment": [
+      "The Lord of the Rings: The Return of the King"
+    ],
+    "description": "That moment where Theoden reaches out to touch each of his soldiers' spears before the Pelennor Fields charge wasn't in the script. Bernard Hill came up with it himself, and it became one of the film's quietly powerful beats.",
+    "source": "https://tvtropes.org/pmwiki/pmwiki.php/Trivia/TheLordOfTheRingsTheReturnOfTheKing"
+  },
+  {
+    "title": "Shelob's Shriek Is Part Toy, Part Steam, Part Tasmanian Devil",
+    "type": "FACT",
+    "entertainment": [
+      "The Lord of the Rings: The Return of the King"
+    ],
+    "description": "The sound designers built Shelob's shriek out of several unrelated recordings layered together, including a plastic alien toy, hissing steam, and an actual Tasmanian devil. Somehow it all blends into one nightmare noise.",
+    "source": "https://www.factinate.com/things/facts-lord-of-the-rings-return-of-the-king"
+  },
+  {
+    "title": "Denethor Carried a Sword He Never Used",
+    "type": "FACT",
+    "entertainment": [
+      "The Lord of the Rings: The Return of the King"
+    ],
+    "description": "John Noble's Denethor wears a sword on his belt for the entire film despite never once drawing it. The props department just gave it to him so he'd feel like part of the club alongside everyone else who actually fought.",
+    "source": "https://www.factinate.com/things/facts-lord-of-the-rings-return-of-the-king"
+  },
+  {
+    "title": "Filling in Rabbit Holes Before the Battle",
+    "type": "FACT",
+    "entertainment": [
+      "The Lord of the Rings: The Return of the King"
+    ],
+    "description": "The field chosen for the Battle of the Pelennor Fields turned out to be riddled with rabbit warrens. Before any horses could gallop across it, the whole terrain had to be swept and every hole filled in for safety.",
+    "source": "https://www.factinate.com/things/facts-lord-of-the-rings-return-of-the-king"
+  },
+  {
+    "title": "Milk Before the Pipe-Smoking Scene",
+    "type": "FACT",
+    "entertainment": [
+      "The Lord of the Rings: The Return of the King"
+    ],
+    "description": "Dominic Monaghan isn't much of a smoker, so before filming the scene of Merry and Pippin puffing away at Isengard, he'd drink milk beforehand just to keep from getting sick on camera.",
+    "source": "https://www.factinate.com/things/facts-lord-of-the-rings-return-of-the-king"
+  },
+  {
+    "title": "Ian McKellen Kept Gandalf's Staff",
+    "type": "FACT",
+    "entertainment": [
+      "The Lord of the Rings: The Return of the King"
+    ],
+    "description": "Ian McKellen has openly admitted he walked off with Gandalf's staff once filming wrapped, and it now sits on display at The Grapes, the London pub he co-owns.",
+    "source": "https://www.factinate.com/things/facts-lord-of-the-rings-return-of-the-king"
+  },
+  {
+    "title": "Elijah Wood Actually Got Hurt by Shelob's Stinger",
+    "type": "FACT",
+    "entertainment": [
+      "The Lord of the Rings: The Return of the King"
+    ],
+    "description": "In the shot where Shelob stabs Frodo, the prop stinger actually caught Elijah Wood for real. He's said it was genuinely painful and left him in hospital for a few days afterwards.",
+    "source": "https://www.factinate.com/things/facts-lord-of-the-rings-return-of-the-king"
+  },
+  {
+    "title": "Sauron Was Almost Going to Duel Aragorn in Person",
+    "type": "FACT",
+    "entertainment": [
+      "The Lord of the Rings: The Return of the King"
+    ],
+    "description": "An early plan had Sauron stepping out to physically fight Aragorn during the battle at the Black Gate. That sequence was scrapped and replaced with a troll, which is why the Extended Edition's Palantir scene still shows Sauron seated in solid form rather than just the fiery eye.",
+    "source": "https://tvtropes.org/pmwiki/pmwiki.php/Trivia/TheLordOfTheRingsTheReturnOfTheKing"
   }
 ]

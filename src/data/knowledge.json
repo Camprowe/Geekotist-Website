@@ -9874,5 +9874,683 @@
     ],
     "description": "The yearly Urf celebration on April Fools' Day traces back to a fan-favourite riverboat captain that Riot ended up killing off in the story, and players never really let it go. The whole event doubles as a tribute to him and, a little cheekily, as a reminder of Warwick's animal instincts, since it was his appetite that did Urf in.",
     "source": "https://gamerant.com/league-of-legends-lore-you-might-have-missed/"
+  },
+  {
+    "title": "Tom Cruise Nearly Suited Up",
+    "type": "FACT",
+    "entertainment": [
+      "Iron Man"
+    ],
+    "description": "Before Robert Downey Jr. ever tried on the suit, Tom Cruise was circling the role back when Iron Man was stuck in development at New Line. Nicolas Cage, a lifelong comic nerd, was also floated at one point. Wild to think how differently the MCU could've kicked off.",
+    "source": "https://www.mentalfloss.com/entertainment/movies/facts-about-iron-man-movie-robert-downey-jr-marvel-cinematic-universe"
+  },
+  {
+    "title": "Downey Turned Up in a Tux",
+    "type": "FACT",
+    "entertainment": [
+      "Iron Man"
+    ],
+    "description": "Robert Downey Jr. didn't have to screen test given his resume, but he did anyway, and he showed up dressed exactly like Tony Stark would: full tuxedo. It clearly worked, because Marvel handed him the role for a modest $2.5 million, pocket change compared to what he'd later earn.",
+    "source": "https://www.mentalfloss.com/entertainment/movies/facts-about-iron-man-movie-robert-downey-jr-marvel-cinematic-universe"
+  },
+  {
+    "title": "Rhodey Almost Stayed Rhodey Forever",
+    "type": "FACT",
+    "entertainment": [
+      "Iron Man",
+      "Iron Man 2"
+    ],
+    "description": "Terrence Howard, fresh off an Oscar nomination, was actually the first actor signed to the film and was paid more than anyone else in the cast to play James Rhodes. When he asked for a raise on the sequel, Marvel said no thanks and brought in Don Cheadle instead.",
+    "source": "https://www.mentalfloss.com/entertainment/movies/facts-about-iron-man-movie-robert-downey-jr-marvel-cinematic-universe"
+  },
+  {
+    "title": "There Was Barely a Script",
+    "type": "FACT",
+    "entertainment": [
+      "Iron Man"
+    ],
+    "description": "Filming started before the screenplay was actually finished. The crew leaned so hard on the story beats and action that most of the dialogue got worked out on the day, take after take, with Favreau happy to let it happen because it made everything feel less rehearsed.",
+    "source": "https://www.imdb.com/title/tt0371746/trivia/"
+  },
+  {
+    "title": "Cue Cards in the Desert",
+    "type": "FACT",
+    "entertainment": [
+      "Iron Man"
+    ],
+    "description": "That cocky monologue Tony gives the troops while showing off the Jericho missile wasn't scripted, it came together right there on set. And those sunglasses he's wearing aren't just for the desert sun, Downey was also using them to sneak glances at cue cards.",
+    "source": "https://www.imdb.com/title/tt0371746/trivia/"
+  },
+  {
+    "title": "Coulson Was Meant to Be a Nobody",
+    "type": "FACT",
+    "entertainment": [
+      "Iron Man",
+      "Agents of S.H.I.E.L.D."
+    ],
+    "description": "Phil Coulson was written as such a minor character that he wasn't even given a surname to start with, just 'Agent'. Clark Gregg clicked so well with the rest of the cast during filming that the part kept getting bigger, eventually growing into a whole spin-off show.",
+    "source": "https://www.imdb.com/title/tt0371746/trivia/"
+  },
+  {
+    "title": "The Mandarin Was the Original Plan",
+    "type": "LORE",
+    "entertainment": [
+      "Iron Man",
+      "Iron Man 3"
+    ],
+    "description": "Marvel was so confident the Mandarin would be the villain that Favreau announced it at San Diego Comic-Con back in 2006. Plans shifted, though, and by the time cameras rolled the antagonist duties had gone to Obadiah Stane instead, with the Mandarin held back for a later film.",
+    "source": "https://www.mentalfloss.com/entertainment/movies/facts-about-iron-man-movie-robert-downey-jr-marvel-cinematic-universe"
+  },
+  {
+    "title": "A $200 Million Student Film",
+    "type": "FACT",
+    "entertainment": [
+      "Iron Man"
+    ],
+    "description": "Jeff Bridges is a famously prepared actor, so having no real script to work from freaked him out at first. He eventually made peace with it by telling himself he was just part of a very expensive student film, and once he reframed it that way, he said it turned out great.",
+    "source": "https://www.imdb.com/title/tt0371746/trivia/"
+  },
+  {
+    "title": "Paul Bettany Never Watched the Movie",
+    "type": "FACT",
+    "entertainment": [
+      "Iron Man"
+    ],
+    "description": "The man behind JARVIS's voice has apparently never sat through Iron Man and doesn't really know what happens in it. He's described the job as the easiest paycheck of his career, just a couple of hours in the booth before heading off on holiday with his wife.",
+    "source": "https://www.imdb.com/title/tt0371746/trivia/"
+  },
+  {
+    "title": "Rhodey's Ringtone Is a Deep Cut",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Iron Man"
+    ],
+    "description": "Next time Tony calls Rhodey, listen closely. His ringtone is a MIDI rendition of the theme song from the 1966 Iron Man cartoon, a tiny nod buried in the sound design that most people scroll straight past.",
+    "source": "https://www.kickassfacts.com/25-interesting-facts-about-iron-man-2008/"
+  },
+  {
+    "title": "450 Pieces of Armor",
+    "type": "FACT",
+    "entertainment": [
+      "Iron Man"
+    ],
+    "description": "The practical Mark III suit worn on set wasn't one solid shell, it was built from roughly 450 individual pieces fitted together, which is part of why suiting Downey up for shots took so long.",
+    "source": "https://www.kickassfacts.com/25-interesting-facts-about-iron-man-2008/"
+  },
+  {
+    "title": "Real Childhood Photos in the Montage",
+    "type": "FACT",
+    "entertainment": [
+      "Iron Man"
+    ],
+    "description": "The quick flashback montage of Tony Stark's life isn't just movie-magic photoshopping, editor Kyle Cooper wove in genuine childhood photographs of Robert Downey Jr. with his own father, Robert Downey Sr.",
+    "source": "https://www.kickassfacts.com/25-interesting-facts-about-iron-man-2008/"
+  },
+  {
+    "title": "Faking the Arc Reactor Surgery",
+    "type": "FACT",
+    "entertainment": [
+      "Iron Man"
+    ],
+    "description": "For the scene where Pepper swaps out Tony's arc reactor, the crew rigged up a prosthetic chest piece that connected to Downey's real torso and jutted out at an angle behind the chair he sat in, with a bright light aimed at the seam to hide the join.",
+    "source": "https://www.kickassfacts.com/25-interesting-facts-about-iron-man-2008/"
+  },
+  {
+    "title": "Why JARVIS Isn't Human",
+    "type": "LORE",
+    "entertainment": [
+      "Iron Man"
+    ],
+    "description": "In the comics, Jarvis is Howard Stark's loyal human butler. The film turned him into an AI partly as a nod to that legacy and partly to dodge the obvious comparison to Batman's butler Alfred, since a wisecracking computer voice reads pretty differently on screen.",
+    "source": "https://www.kickassfacts.com/25-interesting-facts-about-iron-man-2008/"
+  },
+  {
+    "title": "Tony Stark Was Basically Howard Hughes",
+    "type": "LORE",
+    "entertainment": [
+      "Iron Man"
+    ],
+    "description": "Stan Lee has said he built the original comic version of Tony Stark around Howard Hughes, someone he saw as one of the most colourful figures of his era: inventor, playboy, multimillionaire, and eventually a full-blown eccentric.",
+    "source": "https://www.kickassfacts.com/25-interesting-facts-about-iron-man-2008/"
+  },
+  {
+    "title": "Five Suits, All Comic Accurate",
+    "type": "LORE",
+    "entertainment": [
+      "Iron Man"
+    ],
+    "description": "The film runs through roughly five different armor variants, and every one of them is pulled from the comics in some way. The gold-only look JARVIS shows off first is a wink to the classic 'Golden Avenger' era, while the finished red and gold design echoes the 1980s Silver Centurion armor.",
+    "source": "https://www.kickassfacts.com/25-interesting-facts-about-iron-man-2008/"
+  },
+  {
+    "title": "Roxxon Hiding in Plain Sight",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Iron Man"
+    ],
+    "description": "During the highway brawl with Iron Monger, keep an eye on the buildings in the background, one of them is branded with the Roxxon logo. In the wider Marvel universe, Roxxon is a shady energy conglomerate that's been tied to all sorts of dodgy dealings.",
+    "source": "https://www.kickassfacts.com/25-interesting-facts-about-iron-man-2008/"
+  },
+  {
+    "title": "Favreau's 70-Pound Celebration",
+    "type": "FACT",
+    "entertainment": [
+      "Iron Man"
+    ],
+    "description": "Once Jon Favreau landed the director's chair, he marked the occasion by going on a serious health kick, dropping about 70 pounds before production got underway.",
+    "source": "https://www.kickassfacts.com/25-interesting-facts-about-iron-man-2008/"
+  },
+  {
+    "title": "Thirty Writers Said No",
+    "type": "FACT",
+    "entertainment": [
+      "Iron Man"
+    ],
+    "description": "Before the film found its footing, around thirty different writers took a pass at the project and walked away. A lot of them figured Iron Man was too obscure a character to build a movie around, and plenty were nervous about signing on with a studio that had only ever made comic books.",
+    "source": "https://www.kickassfacts.com/25-interesting-facts-about-iron-man-2008/"
+  },
+  {
+    "title": "SHIELD Got a Modern Rewrite",
+    "type": "LORE",
+    "entertainment": [
+      "Iron Man"
+    ],
+    "description": "Coulson rattles off SHIELD's full name as the 'Strategic Homeland Intervention, Enforcement and Logistics Division.' That's actually a tweak on the comics, where the acronym has shifted over the decades from its original Cold War-era meaning to something a bit more current.",
+    "source": "https://www.kickassfacts.com/25-interesting-facts-about-iron-man-2008/"
+  },
+  {
+    "title": "Marvel Bet on Itself",
+    "type": "FACT",
+    "entertainment": [
+      "Iron Man"
+    ],
+    "description": "This was the first movie Marvel Studios financed entirely on its own, rather than licensing a character out to another studio. It was also the opening chapter of a planned six-picture distribution deal with Paramount, which later got reshuffled once Disney bought Marvel outright.",
+    "source": "https://www.kickassfacts.com/25-interesting-facts-about-iron-man-2008/"
+  },
+  {
+    "title": "Cap's Shield on the Workbench",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Iron Man",
+      "Captain America: The First Avenger"
+    ],
+    "description": "In the scene where Pepper walks in on Tony stripping off the damaged armor, Captain America's shield is sitting right there on his workbench. It showed up in several early trailers too, but Marvel quietly cut it out of the marketing before release.",
+    "source": "https://www.kickassfacts.com/25-interesting-facts-about-iron-man-2008/"
+  },
+  {
+    "title": "The Post-Credits Scene Was Meant to Be Missed",
+    "type": "FACT",
+    "entertainment": [
+      "Iron Man",
+      "The Avengers"
+    ],
+    "description": "Kevin Feige deliberately tucked Nick Fury's Avengers Initiative cameo after the credits so it wouldn't overshadow the main film if the bigger universe plans never panned out. He was stunned by how fast it blew up anyway, with outlets covering it within days.",
+    "source": "https://www.mentalfloss.com/entertainment/movies/facts-about-iron-man-movie-robert-downey-jr-marvel-cinematic-universe"
+  },
+  {
+    "title": "Nobody Expected It to Be a Hit",
+    "type": "FACT",
+    "entertainment": [
+      "Iron Man"
+    ],
+    "description": "Early projections had the film capping out around $100 million domestically for its entire run. It ended up making nearly that much in just its opening weekend alone and kept going from there, a result that genuinely surprised the people who greenlit it.",
+    "source": "https://www.mentalfloss.com/entertainment/movies/facts-about-iron-man-movie-robert-downey-jr-marvel-cinematic-universe"
+  },
+  {
+    "title": "A Premiere in Disguise",
+    "type": "FACT",
+    "entertainment": [
+      "Iron Man"
+    ],
+    "description": "Marvel exec Isaac Perlmutter famously avoided cameras and interviews, but he wasn't about to miss opening night for the studio's first film. He reportedly showed up at the premiere wearing a fake mustache and glasses so he could watch it happen without being recognised.",
+    "source": "https://www.mentalfloss.com/entertainment/movies/facts-about-iron-man-movie-robert-downey-jr-marvel-cinematic-universe"
+  },
+  {
+    "title": "Toy Companies Weren't Sold on Iron Man",
+    "type": "FACT",
+    "entertainment": [
+      "Iron Man"
+    ],
+    "description": "Marvel's whole business plan hinged on merchandise, but toy manufacturers weren't convinced a guy in a metal suit would move units before the film actually came out. One exec later said they basically couldn't give the license away, right up until the movie proved them wrong.",
+    "source": "https://www.mentalfloss.com/entertainment/movies/facts-about-iron-man-movie-robert-downey-jr-marvel-cinematic-universe"
+  },
+  {
+    "title": "A Cheeseburger Over a Hospital Bed",
+    "type": "FACT",
+    "entertainment": [
+      "Iron Man"
+    ],
+    "description": "The first thing Tony asks for after being rescued from months of captivity in Afghanistan isn't medical attention, it's a cheeseburger. A small moment, but it says everything about who this character is before he's even suited up.",
+    "source": "https://www.ranker.com/list/iron-man-bts-facts/jonathan-kantor"
+  },
+  {
+    "title": "One Actor, No Auditions",
+    "type": "FACT",
+    "entertainment": [
+      "Avengers: Age of Ultron"
+    ],
+    "description": "Joss Whedon didn't shortlist anyone for Ultron. James Spader was his one and only pick from day one, apparently because Spader's got this weirdly hypnotic voice that can sound calm and menacing one second and dry and funny the next. Spader used his own natural speaking voice for the recording sessions rather than putting on anything artificial.",
+    "source": "https://www.comingsoon.net/movies/news/426569-avengers-age-of-ultron-fun-facts"
+  },
+  {
+    "title": "A Year-Long Chase for Quicksilver",
+    "type": "FACT",
+    "entertainment": [
+      "Avengers: Age of Ultron"
+    ],
+    "description": "Getting Aaron Taylor-Johnson to sign on as Pietro Maximoff wasn't quick at all, ironically. Whedon reportedly spent close to a year courting him for the part. Taylor-Johnson eventually said yes partly because his Godzilla co-star Elizabeth Olsen had already been cast as his on-screen twin, Wanda.",
+    "source": "https://www.comingsoon.net/movies/news/426569-avengers-age-of-ultron-fun-facts"
+  },
+  {
+    "title": "The Fox Legal Tangle Behind Quicksilver",
+    "type": "LORE",
+    "entertainment": [
+      "Avengers: Age of Ultron",
+      "X-Men: Days of Future Past"
+    ],
+    "description": "Because Fox owned the X-Men film rights and Quicksilver is technically Magneto's son, Marvel had to walk a tightrope. The deal struck between the studios meant this version of Pietro could never be called a mutant, and no line could tie him back to the X-Men or his comic dad, even though Fox had their own speedster running around in Days of Future Past at basically the same time.",
+    "source": "https://marvel-movies.fandom.com/wiki/Avengers:_Age_of_Ultron_Trivia"
+  },
+  {
+    "title": "Three Black Widows on Set",
+    "type": "FACT",
+    "entertainment": [
+      "Avengers: Age of Ultron"
+    ],
+    "description": "Scarlett Johansson was pregnant while shooting this, so the crew front-loaded a lot of her scenes early in production before it started to show and brought in three separate stunt doubles for the physical stuff later on. The doubles apparently looked so much like her that even her co-stars got confused, with Chris Evans admitting he'd sometimes start chatting to one of them mid-scene before realising it wasn't Scarlett at all.",
+    "source": "https://www.imdb.com/title/tt2395427/trivia/"
+  },
+  {
+    "title": "A Rig Just for Eye Contact",
+    "type": "FACT",
+    "entertainment": [
+      "Avengers: Age of Ultron"
+    ],
+    "description": "Ultron was meant to tower at eight or nine feet tall on screen, but James Spader is only five foot ten in real life. To help his co-stars actually know where to look while acting opposite him, he wore a tall wire contraption strapped to his back with two red balls on top, roughly marking where Ultron's eyes would eventually sit once the CGI was added.",
+    "source": "https://www.imdb.com/title/tt2395427/trivia/"
+  },
+  {
+    "title": "Edgar Wright's Cut Credits Scene",
+    "type": "FACT",
+    "entertainment": [
+      "Avengers: Age of Ultron",
+      "Ant-Man"
+    ],
+    "description": "Before he left the Ant-Man project, Edgar Wright actually wrote an after-credits scene intended for this film. It never made it into the finished cut, and details on what it would have shown have stayed pretty scarce ever since.",
+    "source": "https://tvtropes.org/pmwiki/pmwiki.php/Trivia/AvengersAgeOfUltron?from=Trivia.TheAvengersAgeOfUltron"
+  },
+  {
+    "title": "Ultron's Wakanda Plan That Got Scrapped",
+    "type": "FACT",
+    "entertainment": [
+      "Avengers: Age of Ultron",
+      "Black Panther"
+    ],
+    "description": "Early drafts of the script had Ultron travelling to Wakanda himself to steal the vibranium he needed. That idea got dropped in favour of introducing the arms dealer Ulysses Klaw as the middleman instead, which is why Klaw ended up being the one holding a stash of the metal for Ultron to take by force.",
+    "source": "https://tvtropes.org/pmwiki/pmwiki.php/Trivia/AvengersAgeOfUltron?from=Trivia.TheAvengersAgeOfUltron"
+  },
+  {
+    "title": "The Loki Cameo Nobody Saw",
+    "type": "FACT",
+    "entertainment": [
+      "Avengers: Age of Ultron",
+      "Thor"
+    ],
+    "description": "Tom Hiddleston actually shot a full day of footage reprising Loki for one of Thor's vision sequences. Test audiences ended up finding the scene confusing, with some walking away thinking Loki had somehow been behind Ultron's creation the whole time, so the whole thing got cut way down and Loki's part in it vanished entirely.",
+    "source": "https://tvtropes.org/pmwiki/pmwiki.php/Trivia/AvengersAgeOfUltron?from=Trivia.TheAvengersAgeOfUltron"
+  },
+  {
+    "title": "Executives vs. the Farmhouse",
+    "type": "FACT",
+    "entertainment": [
+      "Avengers: Age of Ultron"
+    ],
+    "description": "Marvel's higher-ups weren't fans of Hawkeye's farm reveal or the team's vision sequences and reportedly threatened to cut them entirely unless Whedon added in the subplot with Thor visiting the cave. Once test screenings reacted badly to that cave detour, the studio turned around and ordered it trimmed anyway, leaving the editor to stitch together a version that still made sense without it.",
+    "source": "https://tvtropes.org/pmwiki/pmwiki.php/Trivia/AvengersAgeOfUltron?from=Trivia.TheAvengersAgeOfUltron"
+  },
+  {
+    "title": "Seoul Rolled Out the Red Carpet",
+    "type": "FACT",
+    "entertainment": [
+      "Avengers: Age of Ultron"
+    ],
+    "description": "The Seoul city government offered the production some pretty generous tax incentives to film there, which is a big part of why the Korean set pieces made it into the finished movie at all.",
+    "source": "https://tvtropes.org/pmwiki/pmwiki.php/Trivia/AvengersAgeOfUltron?from=Trivia.TheAvengersAgeOfUltron"
+  },
+  {
+    "title": "Hulk Nearly Flew the Quinjet Into Space",
+    "type": "FACT",
+    "entertainment": [
+      "Avengers: Age of Ultron"
+    ],
+    "description": "An earlier version of the ending had the Hulk piloting the Quinjet off into space rather than just wandering off on his own. Marvel apparently nixed it because they didn't want fans reading it as a setup for a Planet Hulk adaptation, which is a bit funny given where his story eventually did go years later.",
+    "source": "https://tvtropes.org/pmwiki/pmwiki.php/Trivia/AvengersAgeOfUltron?from=Trivia.TheAvengersAgeOfUltron"
+  },
+  {
+    "title": "Jocasta's Cameo on a Loading Screen",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Avengers: Age of Ultron"
+    ],
+    "description": "Keep an eye on Tony's monitor when he's cycling through AI options before settling on FRIDAY. One of the cards flashing past is labelled JOCASTA, a nod to the comics where Jocasta is a robot built by Ultron who eventually joins the Avengers herself.",
+    "source": "https://www.moviemistakes.com/film10769/trivia"
+  },
+  {
+    "title": "Stan Lee Says His Catchphrase for the First Time",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Avengers: Age of Ultron"
+    ],
+    "description": "During the party scene where the Avengers are mingling with war veterans, Stan Lee shows up in his usual cameo spot and, for the first time in any MCU movie, actually gets to say his famous \"Excelsior!\" line out loud.",
+    "source": "https://www.moviemistakes.com/film10769/trivia"
+  },
+  {
+    "title": "Saoirse Ronan Was Almost the Scarlet Witch",
+    "type": "FACT",
+    "entertainment": [
+      "Avengers: Age of Ultron"
+    ],
+    "description": "Before Elizabeth Olsen was locked in, Saoirse Ronan was reportedly floated as a possibility for the role of Wanda Maximoff. It's an interesting road not taken given how different the tone of that casting might have felt.",
+    "source": "https://marvelcinematicuniverse.fandom.com/wiki/Avengers:_Age_of_Ultron/Trivia"
+  },
+  {
+    "title": "Cap Nearly Moves the Hammer",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Avengers: Age of Ultron"
+    ],
+    "description": "During the party game where everyone takes turns trying to lift Mjolnir, Steve Rogers is the only one who manages to budge it slightly before letting go, a small but deliberate nod toward the comic storylines where Captain America has actually proven worthy enough to wield the hammer himself.",
+    "source": "https://www.denofgeek.com/movies/avengers-age-of-ultron-marvel-universe-easter-eggs-and-comic-references-guide/"
+  },
+  {
+    "title": "War Machine Flies Solo",
+    "type": "FACT",
+    "entertainment": [
+      "Avengers: Age of Ultron"
+    ],
+    "description": "This is the first MCU outing where James Rhodes suits up as War Machine without either Pepper Potts or Happy Hogan anywhere nearby, a small detail that quietly separates it from his earlier Iron Man appearances.",
+    "source": "https://marvelcinematicuniverse.fandom.com/wiki/Avengers:_Age_of_Ultron/Trivia"
+  },
+  {
+    "title": "Ultron's Red Hood Callback",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Avengers: Age of Ultron"
+    ],
+    "description": "When Ultron is lounging on his makeshift throne talking down to Pietro and Wanda, he's draped in a red hooded cloak. It's a subtle wink toward his first-ever comic appearance back in Avengers #54 from 1968, where he disguised himself under the alias \"the Crimson Cowl.\"",
+    "source": "https://www.denofgeek.com/movies/avengers-age-of-ultron-marvel-universe-easter-eggs-and-comic-references-guide/"
+  },
+  {
+    "title": "Ultron's Comic Creator Wasn't Tony Stark",
+    "type": "LORE",
+    "entertainment": [
+      "Avengers: Age of Ultron",
+      "Ant-Man"
+    ],
+    "description": "In the source comics, Ultron is Hank Pym's creation, not Tony Stark and Bruce Banner's. The switch happened mostly for practical reasons: Michael Douglas was busy playing an older Hank Pym over in the upcoming Ant-Man film, so handing the creation credit to Stark and Banner made a lot more sense for how the shared timeline was shaping up.",
+    "source": "https://www.denofgeek.com/movies/avengers-age-of-ultron-marvel-universe-easter-eggs-and-comic-references-guide/"
+  },
+  {
+    "title": "Vision's Origin Gets Flipped",
+    "type": "LORE",
+    "entertainment": [
+      "Avengers: Age of Ultron"
+    ],
+    "description": "In the comics, Ultron builds Vision specifically to hunt down and destroy the Avengers. The movie flips that idea on its head, having Stark and Banner shape his intellect and Thor's lightning give him life, so instead of being a weapon against the team, Vision ends up helping them fight Ultron himself.",
+    "source": "https://marvelcinematicuniverse.fandom.com/wiki/Avengers:_Age_of_Ultron/Trivia"
+  },
+  {
+    "title": "Grand Central Gets a New Statue",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Avengers: Age of Ultron",
+      "The Avengers"
+    ],
+    "description": "The famous Hermes statue at Grand Central Station was smashed to pieces during the Chitauri invasion in the first Avengers film. Look closely in this sequel and you'll notice it's been rebuilt, only now redesigned as a tribute to the first responders who helped out during that same Battle of New York.",
+    "source": "https://screenrant.com/avengers-2-ultron-spoilers-easter-eggs-comic-references/"
+  },
+  {
+    "title": "Cap's Shield Has a Comic-Accurate Upgrade",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Avengers: Age of Ultron"
+    ],
+    "description": "The magnetic gauntlet that lets Cap yank his shield back to his arm feels like slick movie tech, but it's actually pulled straight from the comics, where Tony Stark built a similar magnet-based retrieval system for his star-spangled teammate long before this film came along.",
+    "source": "https://screenrant.com/avengers-2-ultron-spoilers-easter-eggs-comic-references/"
+  },
+  {
+    "title": "Falcon's Missing Persons Joke",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Avengers: Age of Ultron",
+      "Captain America: Civil War"
+    ],
+    "description": "Sam Wilson pops up briefly here, joking that he's busy working \"missing persons\" cases while Cap handles the actual avenging. It's a low-key tease that he's quietly helping Steve track down Bucky Barnes, a thread that would pay off properly once Captain America: Civil War rolled around.",
+    "source": "https://comicbook.com/comicbook/news/avengers-age-of-ultron-marvel-universe-easter-eggs/"
+  },
+  {
+    "title": "Hawkeye's Costume Is a Comic Mashup",
+    "type": "FACT",
+    "entertainment": [
+      "Avengers: Age of Ultron"
+    ],
+    "description": "Clint's new suit in this film borrows a bit from three different eras of the character: his classic comic-book costume, the Ultimates version fans first saw referenced in the original Avengers, and his stint running around as the masked vigilante Ronin.",
+    "source": "https://www.ranker.com/list/avengers-age-of-ultron-trivia/derrick-deane"
+  },
+  {
+    "title": "Why There's No Real Post-Credits Scene",
+    "type": "FACT",
+    "entertainment": [
+      "Avengers: Age of Ultron"
+    ],
+    "description": "Both Kevin Feige and Joss Whedon went out of their way beforehand to tell audiences not to expect a post-credits scene this time. Whedon reasoned that the shawarma gag at the end of the first Avengers had already set an impossibly high bar, and he didn't want people sitting through ten extra minutes of credits only to walk away disappointed.",
+    "source": "https://www.ranker.com/list/avengers-age-of-ultron-trivia/derrick-deane"
+  },
+  {
+    "title": "Black Widow Doesn't Even Try",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Avengers: Age of Ultron"
+    ],
+    "description": "During the hammer-lifting party game, every Avenger gives Mjolnir a go except Natasha, who sits it out entirely. It's a nice little inversion of an alternate-reality comic story where Black Widow is actually the one deemed worthy enough to pick it up.",
+    "source": "https://www.ranker.com/list/avengers-age-of-ultron-trivia/derrick-deane"
+  },
+  {
+    "title": "The Second Most Expensive Movie Ever Made",
+    "type": "FACT",
+    "entertainment": [
+      "Avengers: Age of Ultron"
+    ],
+    "description": "Age of Ultron reportedly cost around $365 million to make, which at the time put it just behind Pirates of the Caribbean: On Stranger Tides as one of the priciest films ever produced, even once you account for inflation.",
+    "source": "https://www.yardbarker.com/entertainment/articles/20_facts_you_might_not_know_about_avengers_age_of_ultron/s1__38010485"
+  },
+  {
+    "title": "The Mid-Credits Gauntlet Doesn't Quite Add Up",
+    "type": "LORE",
+    "entertainment": [
+      "Avengers: Age of Ultron",
+      "Avengers: Infinity War",
+      "Thor: Ragnarok"
+    ],
+    "description": "That brief mid-credits shot of Thanos grabbing the Infinity Gauntlet and grumbling \"Fine, I'll do it myself\" actually created a small continuity headache down the line. Infinity War later established the real Gauntlet wasn't forged until the dwarf Eitri built it on Nidavellir, and Thor: Ragnarok revealed the one sitting in Odin's vault was a fake all along, so co-director Joe Russo eventually explained this particular scene must be set on Nidavellir itself rather than Asgard.",
+    "source": "https://comicbook.com/marvel/news/avengers-endgame-infinity-war-age-of-ultron-infinity-gauntlet/"
+  },
+  {
+    "title": "A Right-Handed Glove Turns Left",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Avengers: Age of Ultron",
+      "Thor"
+    ],
+    "description": "Eagle-eyed fans noticed the Infinity Gauntlet glimpsed in Odin's trophy room back in the first Thor movie fits a right hand, while the one Thanos slips on during the credits here fits his left. It's a tiny detail that ended up fuelling years of fan theories about fake gauntlets and hidden vaults before later films sorted it all out.",
+    "source": "https://www.goodreads.com/author_blog_posts/16026268-thor-ragnarok-finally-solves-marvel-s-biggest-plothole"
+  },
+  {
+    "title": "Joe Russo's Own Daughter Plays Lila Barton",
+    "type": "FACT",
+    "entertainment": ["Avengers: Endgame"],
+    "description": "That little girl practicing archery with Clint in the cold open isn't just any child actor - it's Ava Russo, daughter of director Joe Russo. Nice bit of nepotism that actually pays off emotionally given what happens to the rest of the family seconds later.",
+    "source": "https://collider.com/avengers-endgame-trivia/"
+  },
+  {
+    "title": "The Opening Scene Was Cut From Infinity War First",
+    "type": "FACT",
+    "entertainment": ["Avengers: Endgame", "Avengers: Infinity War"],
+    "description": "That gut-punch opening with Hawkeye's family turning to dust was actually written for Infinity War. It got pulled because the editors felt that film was already jumping between too many characters, so it got saved and used to kick off Endgame instead.",
+    "source": "https://collider.com/avengers-endgame-trivia/"
+  },
+  {
+    "title": "RDJ Was The Only Actor Given The Full Script",
+    "type": "FACT",
+    "entertainment": ["Avengers: Endgame"],
+    "description": "Marvel is notoriously paranoid about leaks, and on Endgame they took it to another level - most of the cast only got the pages for their own scenes. Robert Downey Jr. was reportedly the sole actor trusted with the complete script front to back.",
+    "source": "https://www.cinemablend.com/news/2484509/12-crazy-behind-the-scenes-facts-from-avengers-endgame"
+  },
+  {
+    "title": "Writing Started During Civil War Shoots",
+    "type": "FACT",
+    "entertainment": ["Avengers: Endgame", "Avengers: Infinity War", "Captain America: Civil War"],
+    "description": "Christopher Markus and Stephen McFeely didn't just sit down one day and bang out Infinity War and Endgame. They started plotting both films years earlier during downtime on the Civil War set, scribbling ideas while the cast was off filming other scenes.",
+    "source": "https://www.cinemablend.com/news/2484509/12-crazy-behind-the-scenes-facts-from-avengers-endgame"
+  },
+  {
+    "title": "Sixty Pages Of Ideas Before A Word Of Script Existed",
+    "type": "FACT",
+    "entertainment": ["Avengers: Endgame", "Avengers: Infinity War"],
+    "description": "Before either film had a proper screenplay, the writing team had already compiled roughly 60 pages of concepts and possibilities for how the two-part finale could play out. A lot of that never made the cut, but it shows how much was thrown at the wall.",
+    "source": "https://www.cinemablend.com/news/2484509/12-crazy-behind-the-scenes-facts-from-avengers-endgame"
+  },
+  {
+    "title": "Tony's Snacking Was Basically All Improvised",
+    "type": "EASTER EGG",
+    "entertainment": ["Avengers: Endgame"],
+    "description": "Robert Downey Jr. has a habit of sneaking food onto set to keep himself going through long days, and a lot of Tony Stark's snack moments came from that habit rather than the script. The bit where he offers everyone food around the table apparently wasn't planned at all.",
+    "source": "https://www.cinemablend.com/news/2484509/12-crazy-behind-the-scenes-facts-from-avengers-endgame"
+  },
+  {
+    "title": "Paul Rudd Was Filming Two Marvel Movies At Once",
+    "type": "FACT",
+    "entertainment": ["Avengers: Endgame", "Ant-Man and the Wasp"],
+    "description": "Somehow Paul Rudd managed to juggle shooting Endgame and Ant-Man and the Wasp during overlapping windows. Keeping two separate Scott Lang timelines straight in his head while bouncing between sets sounds like a headache, but you'd never know it from the finished films.",
+    "source": "https://www.cinemablend.com/news/2484509/12-crazy-behind-the-scenes-facts-from-avengers-endgame"
+  },
+  {
+    "title": "\"I Love You 3000\" Came From RDJ's Real Kid",
+    "type": "FACT",
+    "entertainment": ["Avengers: Endgame"],
+    "description": "That line Morgan says to Tony wasn't dreamed up in a writers' room - Robert Downey Jr. mentioned that one of his own children says something similar to him at home, and the filmmakers loved it so much they wrote it straight into the movie.",
+    "source": "https://www.cinemablend.com/news/2484509/12-crazy-behind-the-scenes-facts-from-avengers-endgame"
+  },
+  {
+    "title": "A Grown-Up Morgan Scene Got Cut Entirely",
+    "type": "FACT",
+    "entertainment": ["Avengers: Endgame"],
+    "description": "At one point there was a scene inside the Soul Stone where a teenage Morgan Stark, played by 13 Reasons Why's Katherine Langford, tells her dad it's okay if he doesn't make it back. It's a mirror of the Thanos-and-young-Gamora scene from Infinity War, but it ended up on the cutting room floor rather than the final film.",
+    "source": "https://www.cinemablend.com/news/2484509/12-crazy-behind-the-scenes-facts-from-avengers-endgame"
+  },
+  {
+    "title": "Natalie Portman Never Actually Filmed For Endgame",
+    "type": "FACT",
+    "entertainment": ["Avengers: Endgame", "Thor: The Dark World"],
+    "description": "That glimpse of Jane Foster you catch isn't new footage at all. It's an outtake recycled straight from Thor: The Dark World - Portman never stepped on set for Endgame, so her actual return had to wait for a later Thor film.",
+    "source": "https://www.cinemablend.com/news/2484509/12-crazy-behind-the-scenes-facts-from-avengers-endgame"
+  },
+  {
+    "title": "1,400 VFX Artists Built The Final Battle In 16 Weeks",
+    "type": "FACT",
+    "entertainment": ["Avengers: Endgame"],
+    "description": "The massive portal battle where every hero shows up at once took roughly 1,400 visual effects artists working flat out, and they only had around sixteen weeks to pull it off. Given how much is happening on screen in that sequence, that's a genuinely wild turnaround time.",
+    "source": "https://www.cinemablend.com/news/2484509/12-crazy-behind-the-scenes-facts-from-avengers-endgame"
+  },
+  {
+    "title": "Endgame's First Character Borrowed From TV",
+    "type": "FACT",
+    "entertainment": ["Avengers: Endgame", "Agent Carter"],
+    "description": "James D'Arcy briefly pops up as Edwin Jarvis, and it's easy to miss why that's a big deal - he's actually reprising a role from the short-lived Agent Carter series. It was the first time a Marvel movie pulled a character over from one of their TV shows.",
+    "source": "https://www.cinemablend.com/news/2484509/12-crazy-behind-the-scenes-facts-from-avengers-endgame"
+  },
+  {
+    "title": "The Snap Was The Very Last Shot Filmed",
+    "type": "FACT",
+    "entertainment": ["Avengers: Endgame"],
+    "description": "Out of everything in this three-hour epic, the actual moment Tony snaps his fingers in the gauntlet was the last piece of footage captured for the whole movie, shot during reshoots in January 2019, with the visual effects team still finishing work on it right up until the premiere.",
+    "source": "https://www.cinemablend.com/news/2484509/12-crazy-behind-the-scenes-facts-from-avengers-endgame"
+  },
+  {
+    "title": "Robert Downey Jr. Refused To Give Tony A Death Speech",
+    "type": "FACT",
+    "entertainment": ["Avengers: Endgame"],
+    "description": "The writers apparently drafted a bunch of dialogue for Tony's goodbye scene, but Downey pushed back hard and insisted the moment land better with Tony saying nothing at all. It's part of why that scene hits as hard as it does - the silence does the work.",
+    "source": "https://collider.com/avengers-endgame-trivia/"
+  },
+  {
+    "title": "The Funeral Scene Wasn't Stitched Together In Post",
+    "type": "FACT",
+    "entertainment": ["Avengers: Endgame"],
+    "description": "With basically the entire MCU cast standing together at Tony's funeral, you'd assume some digital trickery was involved to get everyone in one shot. Nope - every actor was physically there on the same day, and the crew just shot five or six takes of the whole group.",
+    "source": "https://collider.com/avengers-endgame-trivia/"
+  },
+  {
+    "title": "Thor's Asgard Scene Was Shot Two Years Early",
+    "type": "FACT",
+    "entertainment": ["Avengers: Endgame", "Avengers: Infinity War"],
+    "description": "The corridor conversation between Thor and Rocket on Asgard was actually filmed at Durham Cathedral all the way back in April 2017, while the crew was still shooting Infinity War. It's one of the very few Endgame scenes that predates its own production.",
+    "source": "https://collider.com/avengers-endgame-trivia/"
+  },
+  {
+    "title": "Robert Redford Called It His Final Acting Role",
+    "type": "FACT",
+    "entertainment": ["Avengers: Endgame"],
+    "description": "When Robert Redford came back for his brief cameo, he apparently told the crew on set that this was going to be his last piece of on-camera acting before stepping away from the profession altogether.",
+    "source": "https://collider.com/avengers-endgame-trivia/"
+  },
+  {
+    "title": "The \"Hail Hydra\" Elevator Scene Is A Comics Callback",
+    "type": "LORE",
+    "entertainment": ["Avengers: Endgame"],
+    "description": "When Steve mutters \"Hail Hydra\" to get the scepter off Sitwell, it's not just a throwaway gag - it's a direct nod to the Secret Empire comic run, where the real Steve Rogers turns out to be a sleeper agent for Hydra and uses that exact phrase to prove his loyalty.",
+    "source": "https://marvelcinematicuniverse.fandom.com/wiki/Avengers:_Endgame/Trivia"
+  },
+  {
+    "title": "The Five-Year Jump Began As A \"What If\" Pitch",
+    "type": "FACT",
+    "entertainment": ["Avengers: Endgame"],
+    "description": "The whole idea of skipping five years ahead and showing everyone broken and scattered wasn't originally treated as the main plot. It started life as a side concept the writers jokingly called their \"What If?\" section back when they were first mapping out the two films.",
+    "source": "https://collider.com/avengers-endgame-trivia/"
+  },
+  {
+    "title": "There Was A Version Where Thanos Throws Cap's Severed Head",
+    "type": "FACT",
+    "entertainment": ["Avengers: Endgame"],
+    "description": "An early draft had a much darker beat where Thanos opens a portal to reveal he'd already been to the battlefield and tosses the head of the 2012 version of Captain America onto the ground in front of the heroes. Understandably, it never made it past the drawing board.",
+    "source": "https://collider.com/avengers-endgame-trivia/"
+  },
+  {
+    "title": "The Final Showdown Was Inspired By A Spaghetti Western",
+    "type": "FACT",
+    "entertainment": ["Avengers: Endgame"],
+    "description": "For the tense final standoff between Tony, Steve, Thor and Thanos, the Russo brothers said they were drawing on the classic tension-building style of Sergio Leone's Once Upon a Time in the West rather than anything from previous superhero movies.",
+    "source": "https://collider.com/avengers-endgame-trivia/"
+  },
+  {
+    "title": "The Curtain Call Credits Were A Star Trek Homage",
+    "type": "FACT",
+    "entertainment": ["Avengers: Endgame"],
+    "description": "That closing credits sequence where each actor's name appears over a still of their character wasn't a random stylistic choice - the filmmakers have said it was directly inspired by the way the original Star Trek TV series used to roll its cast credits.",
+    "source": "https://collider.com/avengers-endgame-trivia/"
+  },
+  {
+    "title": "Nineteen Oscar Winners Or Nominees Are In This Cast",
+    "type": "FACT",
+    "entertainment": ["Avengers: Endgame"],
+    "description": "For a superhero blockbuster, the acting pedigree on display is honestly kind of absurd - reports from the production put the number of Academy Award winning or nominated actors appearing in the film at nineteen.",
+    "source": "https://www.cinemablend.com/news/2484509/12-crazy-behind-the-scenes-facts-from-avengers-endgame"
+  },
+  {
+    "title": "Captain Marvel's Rescue Directly Continues Her Own Post-Credits Scene",
+    "type": "LORE",
+    "entertainment": ["Avengers: Endgame", "Captain Marvel"],
+    "description": "The moment Carol Danvers shows up to save a drifting Tony Stark isn't a standalone beat - it picks up right where her post-credits scene left off, with her tracking down his ship using the beacon left over from Nick Fury's pager call.",
+    "source": "https://collider.com/avengers-endgame-trivia/"
   }
 ]

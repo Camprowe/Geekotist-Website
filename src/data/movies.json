@@ -18,6 +18,15 @@
     "description": "Niko Bellic, a south eastern and previous soldier migrates to America to forget all the memories from the war in his country. He comes to Liberty City to join his cousin. He comes to Liberty City to live the American Dream his cousin told him so much about. However this dream ain't true. And instead of living like a boss both of them gets thrown in to a dark underworld were they're forced to work for the mob. Niko can do anything to get what he demands - money. He is also looking for someone, and asks the mob for help. He's looking for the man who betrayed him back in the war. It seems like he lives here in Liberty City. So the dangerous journey is also a revenge mission were Niko does everything to avenge the man who killed his friends."
   },
   {
+    "title": "Grand Theft Auto VI",
+    "imageUrl": "https://assets-prd.ignimgs.com/2026/07/20/9f51f0ccdb65bd29c36a0907a738c2902a712f03e2fd6470-1784587649326.jpg",
+    "year": "2026",
+    "rating": "4.9",
+    "category": "Video Game",
+    "producer": "Rockstar Games",
+    "description": "Jason Duval and Lucia Caminos have always known the deck is stacked against them. But when an easy score goes wrong, they find themselves on the darkest side of the sunniest place in America, in the middle of a criminal conspiracy stretching across the state of Leonida — forced to rely on each other more than ever if they want to make it out alive."
+  },
+  {
     "title": "The Elder Scrolls V: Skyrim",
     "imageUrl": "https://4kwallpapers.com/images/wallpapers/the-elder-scrolls-v-2560x2560-14935.jpg",
     "year": "2011",
@@ -142,6 +151,60 @@
     "category": "Video Game",
     "producer": "Naughty Dog",
     "description": "Five years after their dangerous journey across the post-pandemic United States, Ellie and Joel have settled down in Jackson, Wyoming. Living amongst a thriving community of survivors has allowed them peace and stability, despite the constant threat of the infected and other, more desperate survivors. When a violent event disrupts that peace, Ellie embarks on a relentless journey to carry out justice and find closure. As she hunts those responsible one by one, she is confronted with the devastating physical and emotional repercussions of her actions."
+  },
+  {
+    "title": "Uncharted: Drake's Fortune",
+    "imageUrl": "https://assets-prd.ignimgs.com/2021/12/10/uncharted1-1639126218029.jpg",
+    "year": "2007",
+    "rating": "4.5",
+    "category": "Video Game",
+    "producer": "Naughty Dog",
+    "description": "The Drake's Fortune subtitle is a reference to the fictional main character, Nathan Drake, who believes himself to be a descendant of famed explorer Sir Francis Drake. A 400-year-old clue in the coffin of Sir Francis Drake sets the modern-day fortune hunter on an exploration for the fabled treasure of El Dorado, leading to the discovery of a forgotten island in the middle of the Pacific Ocean. The search turns deadly when Drake becomes stranded on the island and hunted by mercenaries. Outnumbered and outgunned, Drake and his companions must fight to survive as they begin to unravel the terrible secrets hidden on the Island."
+  },
+  {
+    "title": "Uncharted 2: Among Thieves",
+    "imageUrl": "https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/uncharted2amongthieves.png",
+    "year": "2009",
+    "rating": "4.5",
+    "category": "Video Game",
+    "producer": "Naughty Dog",
+    "description": "Nathan Drake tracks down Marco Polo's centuries-old trail to finally track down one of Earth's greatest mysteries: the city of Shambhala, the holder of the elusive Cintamani Stone. With the help of Chloe, Elena and Sully, Nate will uncover Shambhala's secrets that could change the course of history."
+  },
+  {
+    "title": "Uncharted 3: Drake's Deception",
+    "imageUrl": "https://assets1.ignimgs.com/2019/01/09/uncharted-3---button-1547078066172.jpg",
+    "year": "2011",
+    "rating": "4.5",
+    "category": "Video Game",
+    "producer": "Naughty Dog",
+    "description": "Fortune hunter Nathan Drake is catapulted headlong into an adventure that takes him on a daring trek into the heart of the Arabian Desert in a search for the fabled 'Atlantis of the Sands.' This journey pits him and his mentor Victor Sullivan against the occult treachery of a shadowy clandestine organization and its ruthless leader. When the terrible secrets of this lost city are unearthed, Drake's quest descends into a desperate bid for survival that strains the limits of his endurance and forces him to confront his deepest fears."
+  },
+  {
+    "title": "Uncharted 4: A Thief's End",
+    "imageUrl": "https://assets2.ignimgs.com/2015/06/03/uncharted-4-button-v2jpg-5a448e.jpg",
+    "year": "2016",
+    "rating": "4.5",
+    "category": "Video Game",
+    "producer": "Naughty Dog",
+    "description": "Set three years after his last adventure, Nathan Drake has now settled down with his wife, Elena Fisher and left the treasure hunting scene behind. That all changes, however, when Nate's long thought-to-be dead brother, Sam tracks him down, and asks for his help to find the long lost treasure of Pirate Captain Henry Avery. Together with Sully, Nate and Sam embark on a globe-trotting adventure, one last time."
+  },
+  {
+    "title": "Uncharted 4: A Thief's End",
+    "imageUrl": "https://assets2.ignimgs.com/2015/06/03/uncharted-4-button-v2jpg-5a448e.jpg",
+    "year": "2016",
+    "rating": "4.5",
+    "category": "Video Game",
+    "producer": "Naughty Dog",
+    "description": "Set three years after his last adventure, Nathan Drake has now settled down with his wife, Elena Fisher and left the treasure hunting scene behind. That all changes, however, when Nate's long thought-to-be dead brother, Sam tracks him down, and asks for his help to find the long lost treasure of Pirate Captain Henry Avery. Together with Sully, Nate and Sam embark on a globe-trotting adventure, one last time."
+  },
+  {
+    "title": "Uncharted: The Lost Legacy",
+    "imageUrl": "https://assets1.ignimgs.com/2017/08/11/uncharted-lost-legacy---button-f-1502413916063.jpg",
+    "year": "2017",
+    "rating": "4.5",
+    "category": "Video Game",
+    "producer": "Naughty Dog",
+    "description": "Beyond the Drake Saga: Chloe Frazer enlists the help of Nate's nemesis Nadine Ross. Together, Chloe and Nadine try their damnedest to stop a warlord from igniting an uprising in India; and the salvation of India's future may lie in the fabled Tusk of Ganesh, a long sought-after treasure which Chloe's father died trying to obtain. The Uncharted Legacy lives on."
   },
   {
     "title": "Overwatch",

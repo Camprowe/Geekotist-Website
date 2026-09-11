@@ -283,7 +283,11 @@
     "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/10/Destiny-2-Fan-Uses-Blender-to-Design-Their-Own-Ghost.jpg",
     "type": "FACT",
     "entertainment": [
-      "Destiny"
+      "Destiny",
+      "Uncharted: Drake's Fortune",
+      "Uncharted 2: Among Thieves",
+      "Uncharted 3: Drake's Deception",
+      "Uncharted 4: A Thief's End"
     ],
     "description": "For The Taken King expansion, Bungie replaced Dinklage with veteran voice actor Nolan North, best known for Nathan Drake in Uncharted. Remarkably, North didn't just voice new lines, he re-recorded every single piece of Ghost dialogue from the original base game so the whole experience would feel consistent.",
     "source": "https://www.gamesradar.com/bungie-destiny-taken-king-nolan-north-peter-dinklage-ghost/"
@@ -4999,7 +5003,14 @@
   {
     "title": "Justin Bieber, Movie Star",
     "type": "EASTER EGG",
-    "entertainment": ["The Last of Us Part 1", "Uncharted"],
+    "entertainment": [
+      "The Last of Us Part 1", 
+      "Uncharted: Drake's Fortune",
+      "Uncharted 2: Among Thieves",
+      "Uncharted 3: Drake's Deception",
+      "Uncharted 4: A Thief's End",
+      "Uncharted: The Lost Legacy"
+    ],
     "description": "Scattered copies of a fictional newspaper called The Daily Metro pop up across the game, and if you stop to actually read the headlines, one of them is a proper gem: 'Uncharted 13: A Lush Movie — Justin Bieber as Drake.' Naughty Dog poking a bit of fun at their own flagship franchise.",
     "source": "https://gamerant.com/the-last-of-us-part-1-easter-eggs-die-hard-fans-noticed/"
   },
@@ -5034,7 +5045,15 @@
   {
     "title": "Plushies of PlayStation Royalty",
     "type": "EASTER EGG",
-    "entertainment": ["The Last of Us Part 1", "Uncharted", "Jak and Daxter"],
+    "entertainment": [
+      "The Last of Us Part 1", 
+      "Uncharted: Drake's Fortune",
+      "Uncharted 2: Among Thieves",
+      "Uncharted 3: Drake's Deception",
+      "Uncharted 4: A Thief's End",
+      "Uncharted: The Lost Legacy",
+      "Jak and Daxter"
+    ],
     "description": "In Serenity Apartments, right after you meet Henry and Sam, take a look around the bedroom - there's a Jak & Daxter plush on the dresser and a Nathan Drake plushie on the bed. The remake even throws in a second Drake plush for good measure.",
     "source": "https://gamerant.com/the-last-of-us-part-1-easter-eggs-die-hard-fans-noticed/"
   },
@@ -5146,7 +5165,14 @@
   {
     "title": "The Bank Vault Ring",
     "type": "EASTER EGG",
-    "entertainment": ["The Last of Us Part 2", "Uncharted"],
+    "entertainment": [
+      "The Last of Us Part 2",
+      "Uncharted: Drake's Fortune",
+      "Uncharted 2: Among Thieves",
+      "Uncharted 3: Drake's Deception",
+      "Uncharted 4: A Thief's End",
+      "Uncharted: The Lost Legacy"
+    ],
     "description": "Poke around the vault in the Seattle bank during Day 1 downtown and you'll find a drawer with an engraved ring sitting inside it. It's the same ring Nathan Drake wears throughout the Uncharted series, a nice little wink from Naughty Dog to their other flagship franchise.",
     "source": "https://game8.co/games/Last-of-Us-2/archives/291153"
   },
@@ -5167,7 +5193,14 @@
   {
     "title": "Dressed as Nathan Drake",
     "type": "EASTER EGG",
-    "entertainment": ["The Last of Us Part 2", "Uncharted"],
+    "entertainment": [
+      "The Last of Us Part 2", 
+      "Uncharted: Drake's Fortune",
+      "Uncharted 2: Among Thieves",
+      "Uncharted 3: Drake's Deception",
+      "Uncharted 4: A Thief's End",
+      "Uncharted: The Lost Legacy"
+    ],
     "description": "Among the various costumes and outfits players can dig up during their scavenging runs is a full Nathan Drake Halloween getup. It's become one of the most talked-about crossover finds in the whole game, mostly because it looks ridiculous on Ellie.",
     "source": "https://www.ranker.com/list/last-of-us-2-easter-eggs/kyle-townsend"
   },
@@ -5188,7 +5221,15 @@
   {
     "title": "The Sic Parvis Magna Ring and a Point Break Chat",
     "type": "EASTER EGG",
-    "entertainment": ["The Last of Us Part 2", "Uncharted", "Point Break"],
+    "entertainment": [
+      "The Last of Us Part 2", 
+      "Uncharted: Drake's Fortune",
+      "Uncharted 2: Among Thieves",
+      "Uncharted 3: Drake's Deception",
+      "Uncharted 4: A Thief's End",
+      "Uncharted: The Lost Legacy", 
+      "Point Break"
+    ],
     "description": "During the same scene where Ellie picks up a ring engraved with 'Sic Parvis Magna,' another Uncharted callback, she and Dina end up chatting about Point Break, the 1991 bank-heist movie with Keanu Reeves and Patrick Swayze. Two references stacked into one quiet conversation.",
     "source": "https://screenrant.com/last-us-2-secrets-easter-egg-reference-hidden/"
   },
@@ -10552,5 +10593,206 @@
     "entertainment": ["Avengers: Endgame", "Captain Marvel"],
     "description": "The moment Carol Danvers shows up to save a drifting Tony Stark isn't a standalone beat - it picks up right where her post-credits scene left off, with her tracking down his ship using the beacon left over from Nick Fury's pager call.",
     "source": "https://collider.com/avengers-endgame-trivia/"
+  },
+  {
+    "title": "Rockstar Confirmed Development Years Before Anyone Saw a Frame",
+    "type": "FACT",
+    "entertainment": [
+      "Grand Theft Auto VI"
+    ],
+    "description": "Long before a single screenshot existed, Rockstar quietly told the world on the Newswire back on February 4th, 2022 that the next Grand Theft Auto was actively in the works. No name, no footage, just a short confirmation that set off years of speculation and countless fan theories about where it would be set.",
+    "source": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI"
+  },
+  {
+    "title": "Vice City's First Comeback Since 2006",
+    "type": "FACT",
+    "entertainment": [
+      "Grand Theft Auto VI",
+      "Grand Theft Auto: Vice City Stories"
+    ],
+    "description": "Vice City hadn't been the main setting of a GTA game since Vice City Stories launched on the PSP way back in 2006. GTA VI marks its first return as a flagship, current-gen location, rebuilt from scratch and looking nothing like the pastel-soaked PS2 era version longtime fans remember.",
+    "source": "https://www.techradar.com/gaming/consoles-pc/gta-6-trailer-revealed-by-rockstar-games-with-2025-release-date"
+  },
+  {
+    "title": "The Trailer That Leaked Itself Out Early",
+    "type": "FACT",
+    "entertainment": [
+      "Grand Theft Auto VI"
+    ],
+    "description": "Trailer 1 was originally scheduled for December 5th, 2023, but a shaky bootleg copy hit social media the night before. Rather than let the leak steal the moment, Rockstar scrambled and dropped the real, full-quality trailer just hours later on December 4th.",
+    "source": "https://gta6index.com/guides/gta-6-trailer-timeline/"
+  },
+  {
+    "title": "A YouTube Record That Beat MrBeast",
+    "type": "FACT",
+    "entertainment": [
+      "Grand Theft Auto VI"
+    ],
+    "description": "Trailer 1 pulled in over 93 million views on YouTube within its first 24 hours, which was enough to set a Guinness World Record for the most-watched video game trailer ever and quietly overtake MrBeast's previous best of 59.4 million.",
+    "source": "https://www.gtaboss.gg/gta-6/guides/gta-6-trailers"
+  },
+  {
+    "title": "Trailer 2 Went Even Bigger Across Every Platform",
+    "type": "FACT",
+    "entertainment": [
+      "Grand Theft Auto VI"
+    ],
+    "description": "When Trailer 2 dropped on May 6th, 2025, it racked up roughly 475 million views across all platforms combined in its first day. That figure counts everywhere the trailer was watched, not just YouTube, so it's not a direct apples-to-apples comparison with Trailer 1's numbers, but it's still a staggering reach for a single video.",
+    "source": "https://www.gtaboss.gg/gta-6/guides/gta-6-trailers"
+  },
+  {
+    "title": "The 2022 Slack Breach That Leaked 90 Videos",
+    "type": "FACT",
+    "entertainment": [
+      "Grand Theft Auto VI"
+    ],
+    "description": "In September 2022 a hacker going by 'teapotuberhacker,' who also claimed responsibility for a recent Uber breach, broke into a Rockstar employee's Slack and dumped around 90 clips of early, unpolished GTA VI development footage onto GTAForums. It's still considered one of the biggest leaks in gaming history.",
+    "source": "https://www.forbes.com/sites/paultassi/2022/09/18/gta-6-suffers-massive-leak-of-90-gameplay-videos/"
+  },
+  {
+    "title": "The Leak That Confirmed Lucia Before Rockstar Did",
+    "type": "FACT",
+    "entertainment": [
+      "Grand Theft Auto VI"
+    ],
+    "description": "Long before Rockstar officially introduced her, that 2022 leak had already revealed the game would star a female protagonist alongside a male co-lead, giving fans their first unofficial glimpse of who we now know as Lucia and Jason.",
+    "source": "https://variety.com/2022/digital/news/grand-theft-auto-6-leak-rockstar-games-hack-1235376727"
+  },
+  {
+    "title": "A Second Leak Hit Just Months Before Launch",
+    "type": "FACT",
+    "entertainment": [
+      "Grand Theft Auto VI"
+    ],
+    "description": "History repeated itself in August 2026 when another alleged hacker posted gameplay clips and what looked like a full map of Leonida online, warning other publishers that nobody was safe from the same kind of breach. Fans nicknamed the whole saga the 'Cyberleek' incident.",
+    "source": "https://www.nbcnews.com/tech/tech-news/hacker-targets-grand-theft-auto-vi-apparent-leak-rcna593634"
+  },
+  {
+    "title": "The Extended Look Premiered on Netflix, Not YouTube",
+    "type": "FACT",
+    "entertainment": [
+      "Grand Theft Auto VI"
+    ],
+    "description": "Rockstar broke from tradition for its big pre-launch gameplay reveal, premiering 'Grand Theft Auto VI: An Extended Look' on Netflix on August 27th, 2026, before letting it loose for free on YouTube and the official site a few hours later that same evening.",
+    "source": "https://www.gtaboss.gg/gta-6/guides/gta-6-trailers"
+  },
+  {
+    "title": "A Bonnie and Clyde Story With Jason and Lucia",
+    "type": "LORE",
+    "entertainment": [
+      "Grand Theft Auto VI"
+    ],
+    "description": "Rockstar's own pitch for the story leans hard into Bonnie and Clyde territory: Jason and Lucia know the odds have always been against them, and when a simple job goes sideways they end up tangled in a criminal conspiracy across Leonida, with only each other to rely on to survive it.",
+    "source": "https://www.rockstargames.com/VI"
+  },
+  {
+    "title": "Two Editions With a Real Price Tag Attached",
+    "type": "FACT",
+    "entertainment": [
+      "Grand Theft Auto VI"
+    ],
+    "description": "Despite months of rumours that GTA VI could cost as much as $200, Rockstar settled on a Standard Edition priced at $79.99 and an Ultimate Edition at $99.99, putting it in line with other big current-gen console releases rather than the wild numbers fans had been bracing for.",
+    "source": "https://www.recharge.com/blog/en-gb/gta-6-map-explained-leonida-vice-city-regions"
+  },
+  {
+    "title": "Leonida Is Made Up of Six Named Regions",
+    "type": "FACT",
+    "entertainment": [
+      "Grand Theft Auto VI"
+    ],
+    "description": "Rockstar has officially named six distinct areas that make up the state of Leonida: Vice City itself, the Leonida Keys, Grassrivers, Port Gellhorn, Ambrosia, and Mount Kalaga National Park. An exact map size has never been published, so anything you see quoting square miles online is still just fan estimation.",
+    "source": "https://www.gtabase.com/grand-theft-auto-6/"
+  },
+  {
+    "title": "It's Single-Player Only, At Least for Now",
+    "type": "FACT",
+    "entertainment": [
+      "Grand Theft Auto VI"
+    ],
+    "description": "Rockstar has been very direct about this one: GTA VI launches as a single-player experience with no online mode included at release. A GTA Online-style follow-up is widely assumed to be coming eventually, but nothing has been named, dated, or confirmed for it yet.",
+    "source": "https://www.recharge.com/blog/en-gb/gta-6-features"
+  },
+  {
+    "title": "No PC Version Has Been Announced Yet",
+    "type": "FACT",
+    "entertainment": [
+      "Grand Theft Auto VI"
+    ],
+    "description": "As of launch, GTA VI is confirmed only for PS5 and Xbox Series X|S. Rockstar hasn't said a word about a PC release window, following the same pattern as GTA V, which didn't arrive on PC until well over a year after console.",
+    "source": "https://www.recharge.com/blog/en-gb/gta-6-features"
+  },
+  {
+    "title": "A Wildlife Checklist Straight Out of Red Dead",
+    "type": "FACT",
+    "entertainment": [
+      "Grand Theft Auto VI",
+      "Red Dead Redemption 2"
+    ],
+    "description": "Leonida's animal population is genuinely huge, with alligators, boars, dogs, snakes, flamingos, dolphins and even sharks confirmed. Spot or study them in the wild or at the zoo and they get logged to a checklist, a system that feels lifted almost straight out of Red Dead Redemption 2.",
+    "source": "https://www.gtabase.com/grand-theft-auto-6/"
+  },
+  {
+    "title": "A Fully Explorable Zoo and Metro System",
+    "type": "FACT",
+    "entertainment": [
+      "Grand Theft Auto VI"
+    ],
+    "description": "Among the confirmed landmarks players will be able to walk into are a full zoo, a working Vice City Metro Station, a massive airport, a football stadium, and a large military base, on top of the malls, hotels, nightclubs and pawn shops already shown off in trailers.",
+    "source": "https://www.gtabase.com/grand-theft-auto-6/"
+  },
+  {
+    "title": "Switching Between Jason and Lucia Happens Mid-Action",
+    "type": "FACT",
+    "entertainment": [
+      "Grand Theft Auto VI"
+    ],
+    "description": "When Jason and Lucia are together, control can jump between them almost instantly, even in the middle of a car chase, with one driving while the other leans out to shoot. Split them up, though, and switching goes back to that slower, GTA V-style transition sweeping across the map.",
+    "source": "https://www.gameshub.com/news/guides/gta-6-everything-we-know/"
+  },
+  {
+    "title": "The Extended Look Was Shot Entirely on a PS5",
+    "type": "FACT",
+    "entertainment": [
+      "Grand Theft Auto VI"
+    ],
+    "description": "That 26-minute Extended Look wasn't a cinematic trailer dressed up to look like gameplay, it was genuinely captured running on a PlayStation 5, giving fans the clearest indication yet of what the final game will actually look like in motion.",
+    "source": "https://www.gameshub.com/news/guides/gta-6-everything-we-know/"
+  },
+  {
+    "title": "Over Ten Times More NPC Animation Than GTA V",
+    "type": "FACT",
+    "entertainment": [
+      "Grand Theft Auto VI",
+      "Grand Theft Auto V"
+    ],
+    "description": "Rockstar has reportedly built more than 600,000 individual NPC animations for GTA VI, compared to roughly 55,000 in GTA V. That jump is a big part of why pedestrians and crowds in the recent footage look so much less repetitive and robotic than in past games.",
+    "source": "https://gta6map.io/"
+  },
+  {
+    "title": "Backyard Wrestling Is an Actual Confirmed Activity",
+    "type": "FACT",
+    "entertainment": [
+      "Grand Theft Auto VI"
+    ],
+    "description": "Alongside more expected pastimes like basketball, mini golf, scuba diving and kayaking, footage has confirmed a genuinely odd one: backyard wrestling complete with WWE-style finishing moves, plus base jumping and stock car racing for anyone who wants a bit more adrenaline.",
+    "source": "https://gta6map.io/"
+  },
+  {
+    "title": "Pre-Orders Came With a Vintage Vice City Bundle",
+    "type": "FACT",
+    "entertainment": [
+      "Grand Theft Auto VI"
+    ],
+    "description": "Anyone who pre-ordered GTA VI, in either edition, got a bonus Vintage Vice City Pack thrown in along with a free month of GTA+. Only the boxed Standard Edition actually ships with a physical code inside, since every other version is entirely digital.",
+    "source": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI"
+  },
+  {
+    "title": "Guns and Masks Both Live on the Item Wheel",
+    "type": "FACT",
+    "entertainment": [
+      "Grand Theft Auto VI"
+    ],
+    "description": "Small detail, but a telling one: masks have been pulled into the same item wheel used for weapons, and guns now automatically holster the moment you walk into a shop. It's a quiet convenience upgrade that suggests Rockstar spent real time smoothing out the friction points GTA V players complained about for years.",
+    "source": "https://gta6map.io/"
   }
 ]

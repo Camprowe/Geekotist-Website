@@ -11807,5 +11807,900 @@
     "entertainment": ["Uncharted: The Lost Legacy"],
     "description": "Scattered supply crates and lockboxes across the game usually hold ammo and grenades, but crack one open with the simple lock-picking minigame and you might land some of the best guns around, including the Silenced Pistol, an RPG, the China Lake shotgun-launcher, or the Harbinger sniper rifle.",
     "source": "https://www.thesixthaxis.com/2017/08/17/6-need-to-know-facts-about-uncharted-the-lost-legacy/"
+  },
+  {
+    "title": "Tryndamere Is Named After a Riot Co-Founder",
+    "type": "FACT",
+    "entertainment": [
+      "League of Legends"
+    ],
+    "description": "The Barbarian King shares his name with Marc \"Tryndamere\" Merrill, one of Riot Games' co-founders. It's not the only bit of himself he worked into the lore either, since he also picked the name for Tryndamere's in-game wife.",
+    "source": "https://us.millenium.gg/news/27365.html"
+  },
+  {
+    "title": "Ashe Is Named After Marc Merrill's Real Wife",
+    "type": "FACT",
+    "entertainment": [
+      "League of Legends"
+    ],
+    "description": "League's iconic Frost Archer owes her name to Ashley, the real-life wife of Riot co-founder Marc Merrill. He's even referenced it himself online, joking about being married to the actual Ashe. Naturally, the lore team went ahead and married her to Tryndamere in-game too.",
+    "source": "https://us.millenium.gg/news/27365.html"
+  },
+  {
+    "title": "Ezreal Is Named After a Real Riot Employee's Nickname",
+    "type": "FACT",
+    "entertainment": [
+      "League of Legends"
+    ],
+    "description": "The Prodigal Explorer wasn't just plucked out of thin air. He's named after Colt Hallam, a Riot Games staffer who's gone by the nickname Ezreal for years, and who worked on some of the earliest systems in the game, including the original ARAM mode.",
+    "source": "https://us.millenium.gg/news/27365.html"
+  },
+  {
+    "title": "Lee Sin Draws From an Old Blind Monk Legend",
+    "type": "LORE",
+    "entertainment": [
+      "League of Legends"
+    ],
+    "description": "Lee Sin's whole design leans on an older folk tale about a blind but incredibly skilled monk who fights through senses other than sight. It fits him perfectly, a martial artist who's lost his eyes but never lost his edge, relying on instinct and discipline instead.",
+    "source": "http://forums.na.leagueoflegends.com/board/showthread.php?t=2220302"
+  },
+  {
+    "title": "Nasus and Renekton Are Modelled on Egyptian Gods",
+    "type": "LORE",
+    "entertainment": [
+      "League of Legends"
+    ],
+    "description": "The jackal-headed Nasus is a clear nod to Anubis, the Egyptian god tied to death and the afterlife, while his crocodile brother Renekton borrows from Sobek, who ancient Egyptians prayed to for safe passage across the Nile. Two brothers, two very different gods, and a rivalry that's baked right into the mythology they're drawn from.",
+    "source": "http://forums.na.leagueoflegends.com/board/showthread.php?t=2220302"
+  },
+  {
+    "title": "Annie Was Inspired By an Anime Sorceress",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "League of Legends",
+      "Slayers"
+    ],
+    "description": "Before Annie became the tiny fire-wielding girl with a bear, she took cues from Lina Inverse, the explosive teenage sorceress from the anime Slayers. Riot originally planned for Annie to be a teenager too, but they eventually settled on a younger child instead, and looking at her now it's hard to imagine her any other way.",
+    "source": "http://forums.na.leagueoflegends.com/board/showthread.php?t=2220302"
+  },
+  {
+    "title": "One of Veigar's Skins Is a Sneaky Gandalf Reference",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "League of Legends",
+      "The Lord of the Rings"
+    ],
+    "description": "Veigar already plays like a pint-sized Black Mage, but his eagle-rider skin takes things further with a not-so-subtle wink at Gandalf, specifically the moment he gets airlifted by a giant eagle in The Lord of the Rings. Swap the wizard's robes for a yordle and you've basically got the same picture.",
+    "source": "http://forums.na.leagueoflegends.com/board/showthread.php?t=2220302"
+  },
+  {
+    "title": "Corki's Design Started as a Warcraft III Unit",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "League of Legends",
+      "Warcraft III"
+    ],
+    "description": "Corki's little propeller helicopter isn't an original idea, it's lifted almost directly from the Dwarven Gyrocopter unit in Warcraft III, a game a lot of early Riot staff had cut their teeth on before making League. The bushy moustache and bomb-dropping playstyle carried over pretty much intact.",
+    "source": "http://forums.na.leagueoflegends.com/board/showthread.php?t=2220302"
+  },
+  {
+    "title": "Riven's Story Mirrors Aragorn's Journey",
+    "type": "LORE",
+    "entertainment": [
+      "League of Legends",
+      "The Lord of the Rings"
+    ],
+    "description": "Strip away the Noxian armour and Riven's arc looks a lot like Aragorn's. Both were exiled from where they belonged, both carried a broken blade as a symbol of who they used to be, and both eventually get that sword reforged as part of reclaiming their identity.",
+    "source": "http://forums.na.leagueoflegends.com/board/showthread.php?t=2220302"
+  },
+  {
+    "title": "Akshan's Name Comes From Ancient Sanskrit",
+    "type": "LORE",
+    "entertainment": [
+      "League of Legends"
+    ],
+    "description": "Akshan's name translates roughly to \"eye\" in Sanskrit, a nod to Hindu mythology where Shiva's mostly-closed third eye is said to unleash devastating power whenever it opens. Riot's champion team has talked about wanting more South Asian representation in the roster, and Akshan's very name is where that story starts.",
+    "source": "https://www.sportskeeda.com/esports/upcoming-league-legends-champion-akshan-draws-design-inspiration-indian-mythos"
+  },
+  {
+    "title": "There's a SOLD Sign on a Discontinued Item in the Shop",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "League of Legends"
+    ],
+    "description": "Take a proper look at the shop on the Red side base and you'll spot the old Heart of Gold item sitting there with a SOLD sign slapped over it. The item itself got removed from the game years ago, but Riot never bothered clearing the shelf, so it's just been sitting there ever since, technically bought by nobody and collected by no one.",
+    "source": "https://www.unrankedsmurfs.com/blog/facts-and-figures-2017"
+  },
+  {
+    "title": "There's a Hidden Statue Holding an Old Item on Blue Side",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "League of Legends"
+    ],
+    "description": "Head out of Blue side's base through the middle tower and take a right, and there's a big statue wearing a necklace with a stone set into it. That stone used to represent the Philosopher's Stone item, which later got renamed to Nomad's Medallion, but the statue itself was never updated, so it's quietly kept the old design in place.",
+    "source": "https://www.unrankedsmurfs.com/blog/facts-and-figures-2017"
+  },
+  {
+    "title": "An Item Was Once Named After a Famous WoW Streamer",
+    "type": "FACT",
+    "entertainment": [
+      "League of Legends"
+    ],
+    "description": "Athene's Unholy Grail wasn't always called that. It started out as the Chalice of Discord before Riot renamed it in honour of Athene, a well-known World of Warcraft streamer who reportedly brought thousands of players over into League. Not a bad way to say thanks.",
+    "source": "https://www.unrankedsmurfs.com/blog/facts-and-figures-2017"
+  },
+  {
+    "title": "Rammus Used to Have a Full Set of Voice Lines",
+    "type": "FACT",
+    "entertainment": [
+      "League of Legends"
+    ],
+    "description": "The armadillo everyone knows for saying \"ok\" over and over didn't start out that way. Rammus originally had a much bigger voice set with proper lines, but at some point Riot scrapped most of it, leaving him with the stripped-down, deadpan personality players have come to love.",
+    "source": "https://www.unrankedsmurfs.com/blog/facts-and-figures-2017"
+  },
+  {
+    "title": "Amumu Almost Wasn't a Yordle",
+    "type": "LORE",
+    "entertainment": [
+      "League of Legends"
+    ],
+    "description": "Early drafts of Amumu's backstory described him as a mummified human child rather than a Yordle, which is a considerably darker starting point than what shipped. Riot eventually softened the concept, but even as a Yordle he's still stuck wandering the world alone, cursed and crying, so it's not exactly a cheerful ending either way.",
+    "source": "https://www.unrankedsmurfs.com/blog/facts-and-figures-2017"
+  },
+  {
+    "title": "Zyra Has Hidden Interactions Tied to Plants vs. Zombies",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "League of Legends",
+      "Plants vs. Zombies"
+    ],
+    "description": "Zyra's kit is quietly full of little Easter eggs most players never notice. Killing, or being killed by, Karthus or Sion nets an extra bit of gold as a wink to Plants vs. Zombies, and if Maokai's on her team she gives him a small movement speed boost, since apparently plants look out for each other.",
+    "source": "https://www.unrankedsmurfs.com/blog/facts-and-figures-2017"
+  },
+  {
+    "title": "Malphite's Ground Slam Leaves the Riot Games Logo Behind",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "League of Legends"
+    ],
+    "description": "Next time you're playing against a Malphite, watch the ground when he slams down his ultimate. The crack pattern it leaves behind is shaped like Riot Games' own logo, a small piece of studio branding hidden in plain sight that most people run straight past without ever clocking it.",
+    "source": "https://www.unrankedsmurfs.com/blog/facts-and-figures-2017"
+  },
+  {
+    "title": "Four Champion Skins Are Named After Old Web Browsers",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "League of Legends"
+    ],
+    "description": "Foxfire Ahri, Chrome Rammus, Explorer Ezreal, and Safari Caitlyn line up a little too neatly with Firefox, Chrome, Internet Explorer, and Safari. Whether it's a deliberate in-joke from the skins team or just a happy coincidence, poor Ezreal really did get stuck representing the one browser everybody loves to complain about.",
+    "source": "https://www.unrankedsmurfs.com/blog/facts-and-figures-2017"
+  },
+  {
+    "title": "Rumble Named His Mech After His Crush on Tristana",
+    "type": "LORE",
+    "entertainment": [
+      "League of Legends"
+    ],
+    "description": "According to Rumble's lore, he's had a soft spot for Tristana for a while now, enough that he named his rocket-powered mech Tristy after her. Naming a giant piece of battle machinery after your crush is a bold move, though whether it's actually worked in his favour is left pretty ambiguous.",
+    "source": "https://www.unrankedsmurfs.com/blog/facts-and-figures-2017"
+  },
+  {
+    "title": "Morgana and Kayle Are Actually Sisters",
+    "type": "LORE",
+    "entertainment": [
+      "League of Legends"
+    ],
+    "description": "The Fallen and the Righteous aren't just thematic opposites, they're siblings. Morgana refused to join Kayle's crusade against evil, and that single disagreement fractured their relationship for good, eventually turning them into two of the most opposed forces in Runeterra's story.",
+    "source": "https://www.unrankedsmurfs.com/blog/facts-and-figures-2017"
+  },
+  {
+    "title": "Bard Doesn't Actually Speak in Words",
+    "type": "LORE",
+    "entertainment": [
+      "League of Legends"
+    ],
+    "description": "Every one of Bard's voice lines is really just chiming noises to anyone in Runeterra, since he's technically speaking in a voice mortal ears can't process. Only a handful of beings, mostly other celestials, can actually understand what the Wandering Caretaker is saying, which makes him a genuinely strange and lonely kind of hero.",
+    "source": "https://wiki.leagueoflegends.com/en-us/Bard/Trivia"
+  },
+  {
+    "title": "Where the Name Actually Comes From",
+    "type": "FACT",
+    "entertainment": [
+      "Diablo",
+      "Diablo II",
+      "Diablo III",
+      "Diablo IV"
+    ],
+    "description": "Diablo's name isn't some deep lore reference, it's just geography. Creator David Brevik grew up near Mount Diablo in California, and Blizzard North's studios in Redwood City and San Mateo weren't far from it either, so the name just kind of stuck.",
+    "source": "https://facts.net/culture-and-the-arts/games-and-toys/30-facts-about-diablo-video-game/"
+  },
+  {
+    "title": "The Cow Level Started as a Total Lie",
+    "type": "FACT",
+    "entertainment": [
+      "Diablo",
+      "Diablo II"
+    ],
+    "description": "Back when the original Diablo came out, players spread a rumour about a secret cow level hidden somewhere in the game. It was completely made up, but the joke got so big that Blizzard actually built a real one into Diablo II a few years later.",
+    "source": "https://facts.net/culture-and-the-arts/games-and-toys/30-facts-about-diablo-video-game/"
+  },
+  {
+    "title": "Whimsyshire, the Cow Level's Weird Cousin",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Diablo III"
+    ],
+    "description": "Craft the Staff of Herding and use it on the pink lights between old and new Tristram, and you'll open a portal to Whimsyshire, a candy-coloured field full of teddy bears, unicorns and giant butterflies that turn out to be just as deadly as anything else in the game. It's basically Blizzard's way of keeping the old cow level joke alive.",
+    "source": "https://www.diablowiki.net/Diablo_III_Easter_Eggs"
+  },
+  {
+    "title": "The 'Cute' Level Has a Dark Secret in Its Music",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Diablo III"
+    ],
+    "description": "Whimsyshire sounds all bubbly and 8-bit on the surface, but the actual track is Ravel's Gaspard de la Nuit playing backwards. That piece's title translates loosely to 'the Devil of the Night,' so even the silliest level in the game is hiding a joke.",
+    "source": "https://diablo-archive.fandom.com/wiki/Easter_Egg"
+  },
+  {
+    "title": "The Devs Hid Their Own Names in the Loot Tables",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Diablo II"
+    ],
+    "description": "Ever picked up Civerb's Vestments and not thought twice about it? Spell 'Civerb' backwards, swap a letter, and you get Brevik, a nod to Diablo co-creators David and Peter Brevik. A bunch of Diablo II's items and locations are staff names in disguise.",
+    "source": "https://diablo.fandom.com/wiki/Diablo_II"
+  },
+  {
+    "title": "There's a Whole Dungeon Named After the Dev Team",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Diablo III"
+    ],
+    "description": "Sometimes the Cemetery of the Forsaken swaps its usual Defiled Crypt for one called Development Hell, and every single monster inside is named after a real Diablo III staff member. You can literally fight lead director Jay Wilson in there.",
+    "source": "https://diablo-archive.fandom.com/wiki/Easter_Egg"
+  },
+  {
+    "title": "Larry, Curly and Moe Got Turned Into Skeletons",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Diablo III"
+    ],
+    "description": "After you take down Ezek during the Broken Blade quest, three skeleton guardians show up named Brother Larel, Brother Karel and Brother Moek. Say them out loud and it clicks: it's a goofy little Three Stooges reference tucked into a pretty grim questline.",
+    "source": "https://diablo-archive.fandom.com/wiki/Easter_Egg"
+  },
+  {
+    "title": "An NFL Team Snuck Into Act II",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Diablo III"
+    ],
+    "description": "Wander into the Ruined Cistern and you might run into a group of elite Berserkers named after actual New York Giants players, including Jacobs the Gigantic and Bradshaw the Behemoth. No idea who on the dev team was the football fan, but they had fun with it.",
+    "source": "https://diablo-archive.fandom.com/wiki/Easter_Egg"
+  },
+  {
+    "title": "Nine Toes Becomes Nine Toads",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Diablo III",
+      "Borderlands"
+    ],
+    "description": "There's a rare spawn called Nine Toads, which is a pretty obvious wink at Borderlands' Nine Toes. It doesn't stop at the name either, since killing it can drop a weapon called The Clipper, the exact same name as the gun Nine Toes drops in Borderlands.",
+    "source": "https://diablo-archive.fandom.com/wiki/Easter_Egg"
+  },
+  {
+    "title": "Boogie Nights in a Dungeon",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Diablo II",
+      "Boogie Nights"
+    ],
+    "description": "Somewhere in Diablo II's item pool sits a dagger called The Diggler. It's not subtle once you know it, it's a cheeky reference to Dirk Diggler, Mark Wahlberg's character from Paul Thomas Anderson's Boogie Nights.",
+    "source": "https://www.gamepressure.com/editorials/diablo-2-resurrected-tips-before-you-play/trivia/z74a2"
+  },
+  {
+    "title": "There's a Real Tapestry Hiding in the Cathedral",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Diablo II"
+    ],
+    "description": "Push through the cathedral late in Act I and you'll pass a wall carving that's actually lifted from the Bayeux Tapestry, the medieval artwork depicting Harold and his knights riding into the Battle of Hastings. Blackly funny place to put it, honestly.",
+    "source": "https://www.gamepressure.com/editorials/diablo-2-resurrected-tips-before-you-play/trivia/z74a2"
+  },
+  {
+    "title": "Typing 'starcow' Broke the Internet for a Day",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Diablo III"
+    ],
+    "description": "During the beta, someone found a mysterious empty text box hidden on the Diablo III forums. After a load of guessing, a fan worked out that typing 'starcow' into it unlocked a hidden animation of a cow drifting through space to a Nyan Cat remix. Nobody really knows why it's there, it's just there.",
+    "source": "https://www.diablowiki.net/Diablo_III_Easter_Eggs"
+  },
+  {
+    "title": "Diablo II Almost Didn't Happen",
+    "type": "FACT",
+    "entertainment": [
+      "Diablo",
+      "Diablo II"
+    ],
+    "description": "Making the first Diablo wrecked the team, so much crunch and so little sleep that by the time it shipped, nobody at Blizzard North was exactly jumping at the chance to start a sequel straight away.",
+    "source": "https://www.gamepressure.com/editorials/diablo-2-resurrected-tips-before-you-play/trivia/z74a2"
+  },
+  {
+    "title": "The Skills That Got Cut Before Launch",
+    "type": "FACT",
+    "entertainment": [
+      "Diablo II"
+    ],
+    "description": "An early build of Diablo II had a Necromancer skill that let you take mind control of enemies, and the Druid was meant to be able to shapeshift into an eagle on top of the wolf and bear forms we actually got. Both were scrapped before release.",
+    "source": "https://www.gamepressure.com/editorials/diablo-2-resurrected-tips-before-you-play/trivia/z74a2"
+  },
+  {
+    "title": "Tyrael Chose to Destroy the Worldstone Himself",
+    "type": "LORE",
+    "entertainment": [
+      "Diablo II"
+    ],
+    "description": "Once Baal got his claws into the Worldstone and started twisting it to his own ends, Tyrael made the call that nobody wanted to make: shatter it rather than risk Sanctuary falling entirely. It worked, but it also turned Mount Arreat into a smoking crater that was still poisoning the air decades later.",
+    "source": "https://www.diablowiki.net/Worldstone"
+  },
+  {
+    "title": "Why the Soulstones Exist in the First Place",
+    "type": "LORE",
+    "entertainment": [
+      "Diablo",
+      "Diablo II"
+    ],
+    "description": "According to the Horadrim monk Jered Cain's own writings, Tyrael gave his order the Soulstones purely to trap the Three Prime Evils. The catch is the stones only pull in non-corporeal spirits, so they were never going to work on anything with a living, breathing body.",
+    "source": "https://blizzplanet.substack.com/p/diablo_i_lore___the_nature_of_the_soulstones"
+  },
+  {
+    "title": "The Butcher Started Out as an Offhand Joke",
+    "type": "LORE",
+    "entertainment": [
+      "Diablo"
+    ],
+    "description": "The story goes that someone on the original dev team looked at an early bloodied-up dungeon room and just said it looked like a butcher's shop. That one throwaway comment is apparently how one of gaming's most feared bosses got his name.",
+    "source": "https://blizzardwatch.com/2021/10/18/butcher-diablo-still-afraid/"
+  },
+  {
+    "title": "His Dying Words Are Actually a Parenting Tip",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Diablo"
+    ],
+    "description": "Beat the final boss and listen to his garbled death message played backwards, it comes out as 'eat your vegetables and brush after every meal.' Not exactly the dark prophecy you'd expect from the Lord of Terror.",
+    "source": "https://gamefaqs.gamespot.com/pc/11255-diablo/trivia"
+  },
+  {
+    "title": "The Butcher Moonlights in Two Other Blizzard Games",
+    "type": "FACT",
+    "entertainment": [
+      "Diablo III",
+      "Heroes of the Storm",
+      "Overwatch"
+    ],
+    "description": "He's a fully playable melee assassin in Heroes of the Storm, built around a trait literally called Fresh Meat. Over in Overwatch, Roadhog has a Butcher skin, and one of its unique voice lines is, of course, 'Fresh meat!'",
+    "source": "https://diablo.fandom.com/wiki/The_Butcher_(Lore)"
+  },
+  {
+    "title": "A Hellraiser Cameo Hiding in Yelesna",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Diablo IV",
+      "Hellraiser"
+    ],
+    "description": "The side quest 'Unyielding Flesh' has you helping a woman named Krystyna save her husband Feodor, who you find chained up looking a little too pleased with his situation while a mysterious woman hovers nearby. Follow her and things turn very Hellraiser very fast, right down to some of the dialogue.",
+    "source": "https://thenerdstash.com/6-diablo-4-easter-eggs-and-references-you-may-have-missed/"
+  },
+  {
+    "title": "Diablo IV's Class Select Screen Is a Throwback",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Diablo II",
+      "Diablo IV"
+    ],
+    "description": "The campfire scene where you pick your class in Diablo IV isn't just a nice bit of atmosphere, it mirrors the layout of Diablo II's own character select screen, right down to where the Druid and Necromancer are standing around the fire.",
+    "source": "https://game8.co/games/Diablo-4/archives/417231"
+  },
+  {
+    "title": "Lara Croft Shows Up as a Dungeon Boss",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Diablo IV",
+      "Tomb Raider"
+    ],
+    "description": "Players dug up an elite enemy inside a Diablo IV dungeon called 'Risen Tomb Raider,' a cheeky little nod to Crystal Dynamics' Rise of the Tomb Raider that's easy to miss if you're not paying attention to enemy names.",
+    "source": "https://thenerdstash.com/6-diablo-4-easter-eggs-and-references-you-may-have-missed/"
+  },
+  {
+    "title": "There's a Secret Crypt Nobody Sends You To",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Diablo Immortal"
+    ],
+    "description": "South of the Derelict Manor waypoint in Ashwold Cemetery, there's a cracked stone wall that looks like nothing until you get close and see a prompt to 'Enter Hidden Crypt.' It's not tied to any quest, it's just a fully unmarked mini-dungeon with elite enemies guarding a loot chest for anyone curious enough to poke at the scenery.",
+    "source": "https://vocal.media/gamers/hidden-secrets-and-easter-eggs-in-diablo-immortal-a-complete-guide"
+  },
+  {
+    "title": "It Shipped on New Year's Eve",
+    "type": "FACT",
+    "entertainment": [
+      "Diablo"
+    ],
+    "description": "The original Diablo came out on December 31st, 1996. Releasing a game on the very last day of the year is a weird call by today's standards, but it meant it technically counted as a 1996 release right under the wire.",
+    "source": "https://facts.net/culture-and-the-arts/games-and-toys/30-facts-about-diablo-video-game/"
+  },
+  {
+    "title": "Diablo II Reused a Familiar Tune",
+    "type": "FACT",
+    "entertainment": [
+      "Diablo II",
+      "Diablo"
+    ],
+    "description": "When you walk back into Tristram in Diablo II, years after the events of the first game, the exact same music from the original Diablo's Tristram plays. It's a small touch, but it hits harder than it has any right to.",
+    "source": "https://diablo.fandom.com/wiki/Diablo_II"
+  },
+  {
+    "title": "The Leg You Need to Reach the Cows",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Diablo II",
+      "Diablo"
+    ],
+    "description": "Remember Wirt, the peg-legged kid who overcharged you for gambling items in the first game? Click his corpse in Diablo II's Tristram and he drops his own severed leg, which you then need alongside a Tome of Town Portal to actually crack open the Secret Cow Level. Grim way to pay tribute to a character, but it works.",
+    "source": "https://diablo-archive.fandom.com/wiki/Wirt_(Diablo_I)"
+  },
+  {
+    "title": "Wirt's Leg Followed the Devs to Warcraft",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Diablo",
+      "Warcraft III: The Frozen Throne"
+    ],
+    "description": "The Wirt's Leg joke didn't stay contained to Diablo. Over in Warcraft III's Frozen Throne expansion, there's an item called Wirt's Other Leg, and fittingly, it drops from an Abomination that's literally named the Butcher.",
+    "source": "https://www.diablowiki.net/Easter_Egg"
+  },
+  {
+    "title": "Even World of Warcraft Has a Third Leg for Wirt",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Diablo",
+      "Diablo II",
+      "Diablo III",
+      "Diablo IV",
+      "World of Warcraft"
+    ],
+    "description": "By the time World of Warcraft rolled around, Blizzard had turned the whole thing into a running gag across the company. Somewhere in Azeroth there's an item called Wirt's Third Leg, quietly keeping a decades-old Diablo joke alive in a completely different game.",
+    "source": "https://www.diablowiki.net/Easter_Egg"
+  },
+  {
+    "title": "Diablo Shows Up as a Sore Loser in a Pod Race",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Diablo",
+      "Diablo II",
+      "Diablo III",
+      "Diablo IV",
+      "World of Warcraft"
+    ],
+    "description": "Head to Thousand Needles in World of Warcraft and you can stumble into a Star Wars-style pod racing event in the Shimmering Flats. One of the racers is Diablo himself, and he does not look thrilled about being stuck in a go-kart instead of terrorizing Sanctuary.",
+    "source": "https://www.diablowiki.net/Easter_Egg"
+  },
+  {
+    "title": "Illidan Wonders If He's Turning Into Diablo",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Diablo",
+      "Diablo II",
+      "Diablo III",
+      "Diablo IV",
+      "Warcraft III"
+    ],
+    "description": "One of Illidan's gag quotes in Warcraft III, after he takes on his demonic form, has him muttering 'Wings, horns, hooves... what am I saying, is this Diablo?' A tiny bit of self-aware humor poking fun at how demonic he'd become.",
+    "source": "https://www.diablowiki.net/Easter_Egg"
+  },
+  {
+    "title": "Ex-Blizzard Devs Snuck a Wirt Tribute Into Their Own Game",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Diablo",
+      "Hellgate: London"
+    ],
+    "description": "When some of the original Blizzard North team left to found Flagship Studios, they clearly couldn't resist bringing a piece of Diablo with them. Their game Hellgate: London includes a quest reward called 'Wart's Peg Leg,' a not-so-subtle parody of Wirt's Leg.",
+    "source": "https://www.diablowiki.net/Easter_Egg"
+  },
+  {
+    "title": "A Mysterious Mercenary Name Swap Nobody Explained",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Diablo II",
+      "Diablo III"
+    ],
+    "description": "When Diablo II's patch 1.13 dropped in 2009, fans noticed two mercenary names had quietly changed in the game files, from Weohstan and Erfor to Klar and Tryneus. Blizzard never explained why, and since it happened right as Diablo III was in development, plenty of fans still think it was some kind of quiet lore setup.",
+    "source": "https://diablo2.diablowiki.net/Diablo_II_Easter_Eggs"
+  },
+  {
+    "title": "Someone Made a Rap Out of Deckard Cain's Catchphrase",
+    "type": "FACT",
+    "entertainment": [
+      "Diablo II"
+    ],
+    "description": "Cain's 'Stay awhile and listen' became so iconic that Blizzard actually had his voice actor, Michael Gough, record a full rap song built around the line. Not something you'd expect from a wise old scholar NPC, but Blizzard leaned into it.",
+    "source": "https://mygeekwisdom.com/2012/07/07/stay-awhile-and-listen/"
+  },
+  {
+    "title": "Cain's Family Has Been Fighting Diablo for Centuries",
+    "type": "LORE",
+    "entertainment": [
+      "Diablo",
+      "Diablo II"
+    ],
+    "description": "Deckard Cain isn't just some random old man who happens to know a lot. He's a descendant of Jered Cain, the Horadrim mage who led the original hunt that trapped Diablo and his brothers in Soulstones centuries before the games even start.",
+    "source": "https://gamerant.com/diablo-deckard-cain-trivia/"
+  },
+  {
+    "title": "Cain Doesn't Survive to See Diablo III's Ending",
+    "type": "LORE",
+    "entertainment": [
+      "Diablo III"
+    ],
+    "description": "After surviving the fall of Tristram and spending years helping heroes across two whole games, Cain finally dies in Diablo III, fatally wounded by the witch Maghda and her Dark Coven while protecting the fallen star that turns out to be Tyrael.",
+    "source": "https://gamerant.com/diablo-deckard-cain-trivia/"
+  },
+  {
+    "title": "The Announcement That Became a Meme Forever",
+    "type": "FACT",
+    "entertainment": [
+      "Diablo Immortal"
+    ],
+    "description": "When Blizzard revealed Diablo Immortal at BlizzCon 2018, the crowd wanted Diablo IV and let their disappointment be known. A fan asked if it was coming to PC, and the developer's exasperated reply, 'Don't you guys have phones?', instantly became one of gaming's most infamous PR moments.",
+    "source": "https://www.forbes.com/sites/paultassi/2020/12/19/diablo-immortal-alpha-impressions-more-than-a-meme/"
+  },
+  {
+    "title": "The Expansion Blizzard Didn't Actually Make",
+    "type": "FACT",
+    "entertainment": [
+      "Diablo"
+    ],
+    "description": "Hellfire, the only expansion ever released for the original Diablo, wasn't built by Blizzard North at all. It came from Synergistic Software over at Sierra, and Blizzard quietly retconned the whole thing as non-canon not long after it launched.",
+    "source": "https://www.destructoid.com/whoa-gog-brought-back-that-weird-forgotten-diablo-expansion-hellfire/"
+  },
+  {
+    "title": "A Guitar Chord Was the Whole Diablo III Reveal",
+    "type": "FACT",
+    "entertainment": [
+      "Diablo",
+      "Diablo III"
+    ],
+    "description": "Composer Matt Uelmen wrote Diablo's Tristram theme on a 12-string guitar, and it became so recognizable that when Blizzard wanted to announce Diablo III at BlizzCon 2008, all they did was have a guitarist strum the opening chords onstage. Apparently over ten thousand people in the crowd knew exactly what game was coming before a single word was said.",
+    "source": "https://www.greatestgamemusic.com/soundtracks/diablo-soundtrack/"
+  },
+  {
+    "title": "A Coin Flip Away From Being Turn-Based",
+    "type": "FACT",
+    "entertainment": [
+      "Diablo"
+    ],
+    "description": "Diablo started life as a turn-based dungeon crawler in the vein of Rogue. Creator David Brevik actually fought against switching it to real-time combat, but the studio put it to a vote, he lost, and he ended up reworking the whole system by making turns happen twenty times a second instead.",
+    "source": "https://www.gamedeveloper.com/design/20-years-later-david-brevik-shares-the-story-of-making-i-diablo-i-"
+  },
+  {
+    "title": "Diablo's Look Was Basically Traced From X-Com",
+    "type": "FACT",
+    "entertainment": [
+      "Diablo"
+    ],
+    "description": "When the team needed to figure out how to angle and render their isometric world, Brevik has said he just grabbed a screenshot of X-Com and built Diablo's camera and tile grid to match it exactly, same shape, same size tiles and everything.",
+    "source": "https://www.gamedeveloper.com/design/20-years-later-david-brevik-shares-the-story-of-making-i-diablo-i-"
+  },
+  {
+    "title": "Diablo Almost Looked Completely Different",
+    "type": "FACT",
+    "entertainment": [
+      "Diablo"
+    ],
+    "description": "Before settling on the dark isometric look everyone knows, Diablo was at one point going to be rendered using claymation. It's genuinely hard to picture Tristram's gothic dread working the same way with stop-motion clay models.",
+    "source": "https://www.opiumpulses.com/article/236/history-of-blizzard"
+  },
+  {
+    "title": "Only One Book Series Actually Counts",
+    "type": "LORE",
+    "entertainment": [
+      "Diablo",
+      "Diablo II",
+      "Diablo III",
+      "Diablo IV"
+    ],
+    "description": "Diablo has had a handful of tie-in novels over the years, but according to Blizzard, only Richard A. Knaak's Sin War trilogy is treated as fully canon to the games' story. Everything else sits in a much murkier, semi-official zone.",
+    "source": "https://diablo-archive.fandom.com/wiki/Birthright"
+  },
+  {
+    "title": "The Man Who Wrote Diablo Also Wrote Half of Azeroth",
+    "type": "FACT",
+    "entertainment": [
+      "Diablo",
+      "Diablo II",
+      "Diablo III",
+      "Diablo IV",
+      "Warcraft",
+      "StarCraft"
+    ],
+    "description": "Richard A. Knaak, the author behind most of the Diablo novels, has also written extensively for Warcraft and StarCraft, on top of his own long-running Dragonlance series. The guy clearly doesn't take a day off from world-building.",
+    "source": "https://diablo.fandom.com/wiki/Richard_A._Knaak"
+  },
+  {
+    "title": "The Novels Take You 3,000 Years Before Diablo",
+    "type": "LORE",
+    "entertainment": [
+      "Diablo",
+      "Diablo II",
+      "Diablo III",
+      "Diablo IV"
+    ],
+    "description": "The Sin War trilogy isn't set anywhere near the events of the games. It rewinds the clock 3,000 years before the fall of Tristram and follows a farmer named Uldyssian as he gets tangled up in the ancient war between angels and demons over Sanctuary.",
+    "source": "https://diablo.fandom.com/wiki/Sin_War_(Novels)"
+  },
+  {
+    "title": "Tyrael Literally Fell From the Sky as a Star",
+    "type": "LORE",
+    "entertainment": [
+      "Diablo III"
+    ],
+    "description": "Long before he became a fan-favorite archangel, Tyrael crash-landed on Sanctuary as what looked like a falling star. It was the discovery of his shattered sword El'druin at the impact site that eventually led humanity to uncover the existence of the Nephalem.",
+    "source": "https://blizzardwatch.com/2015/08/31/know-lore-tyrael/"
+  },
+  {
+    "title": "Every Demon in the Series Comes From One Dragon",
+    "type": "LORE",
+    "entertainment": [
+      "Diablo",
+      "Diablo II",
+      "Diablo III",
+      "Diablo IV"
+    ],
+    "description": "All seven of the Great Evils, including Diablo himself, were originally born from the seven heads of a single primordial dragon named Tathamet. Three of those heads became the Prime Evils, and the other four became the so-called Lesser Evils.",
+    "source": "https://diablo.fandom.com/wiki/Great_Evils"
+  },
+  {
+    "title": "The 'Lesser' Evils Aren't Actually One Family",
+    "type": "LORE",
+    "entertainment": [
+      "Diablo",
+      "Diablo II"
+    ],
+    "description": "Unlike Diablo, Mephisto and Baal, who consider themselves true brothers, the four Lesser Evils split into two separate pairs. Andariel and Duriel call each other twins, while Belial and Azmodan see themselves as siblings, and that lack of unity is a big part of why the Lesser Evils struggled to team up against the Three.",
+    "source": "https://blizzardwatch.com/2020/08/04/prime-evil-lesser-evil-diablo/"
+  },
+  {
+    "title": "Diablo IV's Big Bad Is Actually Family",
+    "type": "LORE",
+    "entertainment": [
+      "Diablo IV"
+    ],
+    "description": "Lilith, the demon driving most of Diablo IV's story, isn't some new player in Sanctuary's history. She's the daughter of Mephisto, one of the original Three Prime Evils, which makes the whole conflict feel a lot more personal once you know the family tree.",
+    "source": "https://diablobytes.com/diablo-iv/lore/evils/"
+  },
+  {
+    "title": "The Three Brothers Ruled Hell by Force",
+    "type": "LORE",
+    "entertainment": [
+      "Diablo",
+      "Diablo II",
+      "Diablo III",
+      "Diablo IV"
+    ],
+    "description": "Mephisto, Baal and Diablo styled themselves as a dark ruling triumvirate over the whole of Hell, using brutal strength and cunning to keep the four Lesser Evils in line beneath them. It's this power imbalance that eventually sparked the rebellion known as the Dark Exile.",
+    "source": "https://blizzplanet.substack.com/p/diablo_i_lore_the_dark_exile"
+  },
+  {
+    "title": "Diablo Has More Than One Name",
+    "type": "LORE",
+    "entertainment": [
+      "Diablo",
+      "Diablo II",
+      "Diablo III",
+      "Diablo IV"
+    ],
+    "description": "Outside of the name players know him by, Diablo also goes by al'Diabolos in older Horadric texts, and followers of the Triune sect refer to him as Dialon, the Spirit of Determination. Different cultures in Sanctuary clearly weren't on the same page about what to call the Lord of Terror.",
+    "source": "https://blizzardwatch.com/2020/08/04/prime-evil-lesser-evil-diablo/"
+  },
+  {
+    "title": "Leeroy Jenkins Became Canon",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "World of Warcraft"
+    ],
+    "description": "That 2005 clip of a paladin charging into a room full of dragon whelps screaming his own name became one of gaming's first proper viral videos, and Blizzard leaned all the way into it. There's now an NPC called Leeroy Jenkins wandering Orgrimmar, plus an achievement that has you re-enact the whole disaster, complete with the 'at least I have chicken' payoff.",
+    "source": "https://www.pcgamer.com/au/leeroy-jenkins-world-of-warcrafts-greatest-meme-turns-15-today/"
+  },
+  {
+    "title": "The Secret Cow Level Made It Into Azeroth",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "World of Warcraft",
+      "Diablo"
+    ],
+    "description": "Blizzard spent years insisting 'there is no cow level,' a running joke going back to the original Diablo. For Diablo's 20th anniversary they finally caved, at least in WoW: killing a Treasure Goblin in the Broken Isles could pull you into a farmer's field crawling with axe-wielding cows and a boss called the Cow King, who'd hand out a toy guitar that plays Tristram's theme song.",
+    "source": "https://www.pcgamer.com/uk/world-of-warcraft-gets-its-own-secret-cow-level"
+  },
+  {
+    "title": "Kraes of Immersang, Silvermoon's Self-Proclaimed Prince",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "World of Warcraft"
+    ],
+    "description": "Wander into Silvermoon City and you might bump into Kraes of Immersang, a troll NPC billed as a self-proclaimed prince. His flavour text piles on every over-the-top backstory cliché roleplay servers are famous for, right down to a throwaway line about fighting a personal war against a random player named Joshua Fuesting. It's Blizzard gently poking fun at its own community.",
+    "source": "https://mein-mmo.de/en/wow-7-lustige-easter-eggs,340265/"
+  },
+  {
+    "title": "The Undercity's Fight Club Cameo",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "World of Warcraft",
+      "Fight Club"
+    ],
+    "description": "Loiter in the War Quarter of the Undercity and you'll find a small crowd of Forsaken standing around named Chloe Curthas, Tyler, Andrew Hartwell, Robert Gossom and a handful of others. Line the names up and it reads like a cast list for Fight Club, mixing character first names with the actors who played them in the film.",
+    "source": "https://warcraft.wiki.gg/wiki/Chloe_Curthas"
+  },
+  {
+    "title": "Innkeeper Bates and His Motel",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "World of Warcraft",
+      "Psycho"
+    ],
+    "description": "Tucked away at the Sepulcher in Silverpine Forest is a Forsaken innkeeper who goes by the name Bates. Given that the surrounding zone is dripping with gothic horror atmosphere already, it's hard to believe the Norman Bates nod running the local lodging is a coincidence.",
+    "source": "https://warcraft.wiki.gg/wiki/Innkeeper_Bates"
+  },
+  {
+    "title": "Charlie the Unicorn's Cameo in Azsuna",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "World of Warcraft",
+      "Charlie the Unicorn"
+    ],
+    "description": "Out in Azsuna there's a rare spawn called the Treacherous Stallions, two hostile unicorns standing guard over the corpse of a third. That dead unicorn is simply named Charlie, a direct wink at the cult animated short about a bedraggled unicorn dragged into disturbing adventures, and beating the pair actually rewards you with a kidney.",
+    "source": "https://www.gamepedia.com/blogs/1232-5-hilarious-easter-eggs-in-world-of-warcraft?comment=1"
+  },
+  {
+    "title": "Cloud and Aerith Working Dalaran's Streets",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "World of Warcraft",
+      "Final Fantasy VII"
+    ],
+    "description": "Somewhere in Dalaran you can find a flower seller called Aerith Primrose being quietly watched over by her bodyguard, Koraud. Spell it out loud and Koraud is basically Cloud with the letters shuffled, making this pair a sly little Final Fantasy VII reunion nobody asked for but everybody appreciated.",
+    "source": "https://www.gamespot.com/gallery/22-world-of-warcraft-easter-eggs-and-secrets/2900-375/"
+  },
+  {
+    "title": "Mulgore's Ridiculously Over-Armed Critters",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "World of Warcraft"
+    ],
+    "description": "On the border between Mulgore and Stonetalon Mountains there's a small plateau populated entirely by oversized mice, rabbits and prairie dogs, all of them decked out with axes, knives and even shotguns, some carrying the skulls of whatever they've already beaten. Nobody's ever gotten a straight answer from Blizzard about why they're there.",
+    "source": "https://www.gamespot.com/gallery/22-world-of-warcraft-easter-eggs-and-secrets/2900-375/"
+  },
+  {
+    "title": "Blizzard's Own In-House Rock Band",
+    "type": "FACT",
+    "entertainment": [
+      "World of Warcraft"
+    ],
+    "description": "Elite Tauren Chieftain isn't just a joke band that shows up in-game, it's a real group made up of actual Blizzard staff, including art director Samwise Didier on vocals and former company president Mike Morhaime on bass. Their song 'Power of the Horde' plays hourly at the Darkmoon Faire, and the band has genuinely performed it live at BlizzCon in full costume.",
+    "source": "https://www.gamespot.com/gallery/22-world-of-warcraft-easter-eggs-and-secrets/2900-375/"
+  },
+  {
+    "title": "A Kid Once Used WoW to Survive a Real Moose Attack",
+    "type": "FACT",
+    "entertainment": [
+      "World of Warcraft"
+    ],
+    "description": "Back in 2010, a twelve-year-old Norwegian boy named Hans Jørgen Olsen ran into an angry moose while out walking with his sister. He taunted the moose to pull its attention away from her, then feigned death once it turned on him, both straight out of his hunter playbook in WoW, and it actually worked; the moose lost interest and wandered off.",
+    "source": "https://www.tomshardware.com/news/world-of-warcraft,10631.html"
+  },
+  {
+    "title": "WoW Was Announced Days Before 9/11",
+    "type": "FACT",
+    "entertainment": [
+      "World of Warcraft"
+    ],
+    "description": "Development quietly kicked off back in 1999, but the game wasn't revealed to the world until a European trade show on September 2, 2001, just days before the September 11 attacks reshaped the news cycle. Fans at the reveal were actually expecting an announcement about StarCraft II and were caught completely off guard when Blizzard said it was making an MMO instead.",
+    "source": "https://massivelyop.com/2016/02/06/the-game-archaeologist-ten-strange-pre-release-facts-about-world-of-warcraft/"
+  },
+  {
+    "title": "Gnomes and Trolls Almost Didn't Make the Cut",
+    "type": "FACT",
+    "entertainment": [
+      "World of Warcraft"
+    ],
+    "description": "Look closely at WoW's original launch cinematic and you'll notice something missing: no gnomes, no trolls. Both races were added so late into alpha development that they never made it into the trailer, long after the other six playable races had already been locked in.",
+    "source": "https://massivelyop.com/2016/02/06/the-game-archaeologist-ten-strange-pre-release-facts-about-world-of-warcraft/"
+  },
+  {
+    "title": "Playing WoW Was Linked to Sharper Minds in Seniors",
+    "type": "FACT",
+    "entertainment": [
+      "World of Warcraft"
+    ],
+    "description": "A study out of North Carolina State University had a group of 60 to 77 year olds play WoW at home for two weeks after establishing a baseline cognitive score. Those who'd started off with lower scores showed a noticeable improvement in mental agility by the end of it, which is a pretty solid excuse to get your gran into raiding.",
+    "source": "https://www.shortlist.com/news/15-things-you-probably-didnt-know-about-world-of-warcraft"
+  },
+  {
+    "title": "Bolvar Took the Crown So Nobody Else Had To",
+    "type": "LORE",
+    "entertainment": [
+      "World of Warcraft"
+    ],
+    "description": "Once Arthas finally fell at the top of Icecrown Citadel, the Scourge needed a new leader fast or it would've run completely wild across Azeroth with nobody controlling it. That job fell to Bolvar Fordragon, a human paladin badly burned in an earlier battle, who willingly took up the Helm of Domination and became the new Lich King to keep the undead in check from the shadows.",
+    "source": "https://www.siliconera.com/who-is-the-lich-king-in-world-of-warcraft/"
+  },
+  {
+    "title": "The Lich King Has Been Three Different People",
+    "type": "LORE",
+    "entertainment": [
+      "World of Warcraft"
+    ],
+    "description": "The Lich King isn't one villain, it's a title that's been passed around. It started with Ner'zhul, an orc shaman whose soul was frozen into a block of ice by the Burning Legion, and it only became Arthas Menethil once the paladin claimed both the cursed runeblade Frostmourne and the Helm of Domination, fusing the two souls into the icon most players remember.",
+    "source": "https://www.siliconera.com/who-is-the-lich-king-in-world-of-warcraft/"
+  },
+  {
+    "title": "Stormwind and Orgrimwar's Guards Went Full Jedi for a Day",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "World of Warcraft",
+      "Star Wars"
+    ],
+    "description": "On the release day of Star Wars: The Force Awakens, city guards in Stormwind and Orgrimmar quietly swapped their usual weapons for glowing blades that looked suspiciously like lightsabers, blue for the Alliance and red for the Horde. It only lasted the one day, so if you weren't logged in you'd have completely missed it.",
+    "source": "https://www.pcgames.de/World-of-Warcraft-Spiel-42971/Specials/gaming-facts-trivia-listicle-wow-blizzard-mmorpg-1369297/"
+  },
+  {
+    "title": "Lunara and Rhonda's Class Hall Cameos",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "World of Warcraft",
+      "Heroes of the Storm"
+    ],
+    "description": "The Druid Class Hall in Legion is home to a dryad called Lunara, lifted straight from the MOBA Heroes of the Storm. Wander over to the Monk Class Hall and you'll meet Rhonda, who plenty of players assumed was a nod to MMA fighter Ronda Rousey but is actually named for Rhonda Cox, a real Blizzard sound engineer and martial artist.",
+    "source": "https://www.gamepedia.com/blogs/1232-5-hilarious-easter-eggs-in-world-of-warcraft?comment=1"
+  },
+  {
+    "title": "Once the Biggest Game Wiki on the Internet",
+    "type": "FACT",
+    "entertainment": [
+      "World of Warcraft"
+    ],
+    "description": "At its peak, WoWWiki grew to more than 99,800 pages, making it the largest community-run wiki dedicated to any single video game on the internet. That's an enormous amount of collective note-taking from a fanbase that clearly wasn't satisfied with just playing the thing.",
+    "source": "https://www.shortlist.com/news/15-things-you-probably-didnt-know-about-world-of-warcraft"
+  },
+  {
+    "title": "Jaina's Medallion Looks a Lot Like Scooby's Collar",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "World of Warcraft",
+      "Scooby-Doo"
+    ],
+    "description": "The teleportation trinket you pick up from Icecrown Citadel, Jaina's Medallion, has a shape and colour scheme that lines up suspiciously well with the collar Scooby-Doo wears. Nobody at Blizzard has ever confirmed it outright, but once you notice the resemblance it's genuinely hard to unsee.",
+    "source": "https://www.pcgames.de/World-of-Warcraft-Spiel-42971/Specials/gaming-facts-trivia-listicle-wow-blizzard-mmorpg-1369297/"
+  },
+  {
+    "title": "Kel'Thuzad Used to Be an Ordinary Archmage",
+    "type": "LORE",
+    "entertainment": [
+      "World of Warcraft"
+    ],
+    "description": "Long before he was the undead lich guarding Naxxramas, Kel'Thuzad was a respected human archmage and member of Dalaran's Kirin Tor, with genuine standing among the city's magical elite. His obsession with forbidden necromancy got him cast out, and the Lich King's voice found him not long after, turning him into the very first member of the Cult of the Damned.",
+    "source": "https://warcraft.wiki.gg/wiki/Kel%27Thuzad"
+  },
+  {
+    "title": "Early WoW Ran on a Modified Warcraft III Engine",
+    "type": "FACT",
+    "entertainment": [
+      "World of Warcraft",
+      "Warcraft III"
+    ],
+    "description": "Because World of Warcraft and Warcraft III were being built at roughly the same time, the two teams ended up leaning on each other. Some of the earliest playable builds of WoW were actually running on a modified version of the Warcraft III engine before the MMO's own tech had caught up.",
+    "source": "https://massivelyop.com/2016/02/06/the-game-archaeologist-ten-strange-pre-release-facts-about-world-of-warcraft/"
   }
 ]

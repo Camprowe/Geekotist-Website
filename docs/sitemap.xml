@@ -254,6 +254,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://geekotist.com/entertainment/diablo-immortal</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://geekotist.com/entertainment/iron-man</loc>
     <lastmod>2026-09-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -639,6 +645,12 @@
   </url>
   <url>
     <loc>https://geekotist.com/entertainment/diablo-iv/knowledge</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://geekotist.com/entertainment/diablo-immortal/knowledge</loc>
     <lastmod>2026-09-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>

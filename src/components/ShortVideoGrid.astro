@@ -1,18 +1,6 @@
 ---
 import ShortVideoCard from './ShortVideoCard.astro';
 
-interface Props {
-	title: string;
-	knowledge: Array<{
-		title: string;
-		description: string;
-		entertainment: Array;
-		source: string;
-		type: string;
-	}>;
-	knowledgeLink?: string;
-}
-
 const { title, knowledge, knowledgeLink } = Astro.props;
 ---
 
@@ -23,7 +11,7 @@ const { title, knowledge, knowledgeLink } = Astro.props;
 	</div>
 		<div class="grid">
 			{knowledge.map(k => (
-				<ShortVideoCard />
+				<ShortVideoCard video={k} />
 			))}
 		</div>
 </section>

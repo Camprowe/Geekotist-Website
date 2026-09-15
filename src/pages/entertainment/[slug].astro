@@ -6,6 +6,7 @@ import MovieGrid from '../../components/MovieGrid.astro';
 import KnowledgeGrid from '../../components/KnowledgeGrid.astro';
 import movies from '../../data/movies.json';
 import knowledge from '../../data/knowledge.json';
+import EntertainmentDetail from '../../components/EntertainmentDetail.astro';
 import ShortVideoGrid from '../../components/ShortVideoGrid.astro';
 import { slugify } from '../../utils/slugify.js';
 
@@ -39,36 +40,7 @@ const { movie } = Astro.props;
 >
 	<Header />
 	<main class="movie-page">
-		<section class="hero">
-			<div class="hero-inner">
-		
-			<div class="art">
-			</div>
-		
-			<div class="content">
-		
-				<h1 class="title">{movie.title}</h1>
-
-				<div class="tags">
-					<span class="tag">{movie.category}</span>
-				</div>
-		
-				<div class="meta-grid">
-				<div>
-					<span class="meta-label">STUDIO</span>
-					<span class="meta-value">{movie.producer}</span>
-				</div>
-				<div>
-					<span class="meta-label">RELEASED</span>
-					<span class="meta-value">{movie.year}</span>
-				</div>
-				</div>
-		
-				<p class="desc">{movie.description}</p>
-			</div>
-		
-			</div>
-		</section>
+		<EntertainmentDetail entertainment={movie} />
 
 		{unshuffledKnowledge.length > 0 && (
 			<div class="related-section">
@@ -92,108 +64,13 @@ const { movie } = Astro.props;
 	<Footer />
 </Layout>
 
-<style define:vars={{image: `url("${movie.imageUrl}")`}}>
+<style>
   
 	.movie-page {
 		margin: 0 auto;
 		padding-top: 8rem;
 		min-height: 100vh;
-	}	
-
-	/* ---------- hero shell ---------- */
-  .hero{
-    position: relative;
-    padding: 64px 32px;
-    overflow: hidden;
-  }
- 
-  .hero-inner{
-    margin: 0 auto;
-    display: grid;
-    grid-template-columns: 35% 60%;
-    gap: 5%;
-    align-items: center;
-  }
- 
-  /* ---------- 1:1 image ---------- */
-  .art{
-    position: relative;
-    width: 100%;
-    aspect-ratio: 1 / 1;
-    border-radius: 6px;
-    overflow: hidden;
-    background:
-      radial-gradient(ellipse at 50% 0%, rgba(232,180,88,0.16), transparent 60%),
-      linear-gradient(180deg, #24262A 0%, #1A1B1D 100%);
-	background-image: var(--image);
-	background-size: cover;
-    border: 1px solid var(--hairline);
-    box-shadow: 0 24px 48px -20px rgba(0,0,0,0.6);
-  }
- 
-  /* ---------- content ---------- */
-  .content{ min-width: 0; }
- 
-  .title{
-    font-weight: 900;
-    font-size: 2.5em;
-    line-height: 1.15;
-    color: #000000;
-    margin: 0 0 12px;
-  }
- 
-  .tags{
-    display: flex;
-    flex-wrap: wrap;
-    gap: 6px;
-    margin-bottom: 22px;
-  }
- 
-  .tag{
-    font-size: 0.75em;
-    letter-spacing: 0.1em;
-    color: #ffffff;
-    background: #1c1c1c;
-    border: 1px solid var(--hairline);
-    padding: 5px 10px;
-    border-radius: 5px;
-  }
- 
-  .meta-grid{
-    display: grid;
-    grid-template-columns: repeat(3, auto);
-    gap: 18px 32px;
-    padding: 18px 0;
-    margin-bottom: 22px;
-    border-top: 1px solid var(--hairline);
-    border-bottom: 1px solid var(--hairline);
-  }
- 
-  .meta-label{
-    font-size: 0.75em;
-    letter-spacing: 0.05em;
-    color: #FFA500;
-    display: block;
-    margin-bottom: 5px;
-  }
- 
-  .meta-value{
-    font-size: 1em;
-    color: #1c1c1c;
-  }
- 
-  .desc{
-    font-size: 1.2em;
-    line-height: 1.5;
-    color: #1c1c1c;
-    margin: 0 0 28px;
-  }
- 
-  .actions{
-    display: flex;
-    flex-wrap: wrap;
-    gap: 10px;
-  }
+	}		
  
   .btn{
     display: inline-flex;
@@ -225,17 +102,6 @@ const { movie } = Astro.props;
   .btn-secondary:hover{ border-color: var(--brass); }
  
   .btn svg{ width: 12px; height: 12px; }
- 
-  /* ---------- responsive ---------- */
-  @media (max-width: 1100px){
-    .hero{ padding: 40px 20px; }
-    .hero-inner{
-      grid-template-columns: 100%;
-    }
-    .art{ display:none; }
-    .title{ font-size: 5em; }
-    .meta-grid{ grid-template-columns: repeat(2, auto); }
-  }
   
 	.related-section {
 		margin: 0 auto;

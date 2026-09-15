@@ -7,6 +7,7 @@ import Footer from '../../../../components/Footer.astro';
 import knowledge from '../../../../data/knowledge.json';
 import movies from '../../../../data/movies.json'
 import { slugify } from '../../../../utils/slugify.js';
+import EntertainmentDetail from '../../../../components/EntertainmentDetail.astro';
 
 export function getStaticPaths({ paginate }: GetStaticPathsOptions) {	
 	
@@ -14,23 +15,24 @@ export function getStaticPaths({ paginate }: GetStaticPathsOptions) {
 		const knowledgeCondensed = knowledge.filter(k => k.entertainment.includes(movie.title));
 		return paginate(knowledgeCondensed, {
 			params: { entertainment: slugify(movie.title) },
-			props: { entertainmentName: movie.title },
+			props: { entertainment: movie },
 			pageSize: 10 // Show 8 movies per page
 		});
 	});
 }
 
-const { page, entertainmentName } = Astro.props;
+const { page, entertainment } = Astro.props;
 ---
 
 <Layout
-	title={`${entertainmentName}s - Knowledge Page ${page.currentPage} of ${page.lastPage} - Geekotist by Camprowe`} 
-	description={`Explore the knowledge and facts about ${entertainmentName}s that Camprowe has documented here on the Geekotist site.`}
+	title={`${entertainment.title}s - Knowledge Page ${page.currentPage} of ${page.lastPage} - Geekotist by Camprowe`} 
+	description={`Explore the knowledge and facts about ${entertainment.title}s that Camprowe has documented here on the Geekotist site.`}
 >
 	<Header />
 	<main class="category-page">
+		<EntertainmentDetail entertainment={entertainment} />
 		<div class="category-header">
-			<h1>{entertainmentName} Knowledge</h1>
+			<h1>Knowledge</h1>
 			<p>Page {page.currentPage} of {page.lastPage}</p>
 		</div>
 

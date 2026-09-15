@@ -54,13 +54,40 @@
     "description": "Experience the events preceding Halo 3 through the eyes of Orbital Drop Shock Troopers (ODST) as they return to familiar ground and attempt to uncover the motivations behind the Covenant’s invasion of New Mombasa. Isolated and vulnerable, use stealth and precision to survive the dangers of the Covenant occupation in a gripping new take on combat in the Halo universe."
   },
   {
-    "title": "Assassin's Creed 2",
+    "title": "Assassin's Creed",
+    "imageUrl": "https://assets-prd.ignimgs.com/2021/12/30/assassins-creed-1-button-1640894408253.jpg",
+    "year": "2007",
+    "rating": "4.5",
+    "category": "Video Game",
+    "producer": "Ubisoft",
+    "description": "A man enters a machine called the Animus that lets him relive the memories of his ancestor, a 12th century assassin named Altair."
+  },
+  {
+    "title": "Assassin's Creed II",
     "imageUrl": "https://m.media-amazon.com/images/I/51bcjsS1bIL._UF894,1000_QL80_.jpg",
     "year": "2009",
     "rating": "4.5",
     "category": "Video Game",
     "producer": "Ubisoft",
     "description": "Assassin’s Creed 2 is an epic story of family, vengeance and conspiracy set in the pristine, yet brutal, backdrop of a Renaissance Italy. Ezio befriends Leonardo da Vinci, takes on Florence’s most powerful families and ventures throughout the canals of Venice where he learns to become a master assassin."
+  },
+  {
+    "title": "Assassin's Creed: Brotherhood",
+    "imageUrl": "https://assets-prd.ignimgs.com/2021/12/30/assassins-creed-brotherhood-button-1640894392247.jpg",
+    "year": "2010",
+    "rating": "4.5",
+    "category": "Video Game",
+    "producer": "Ubisoft",
+    "description": "Desmond Miles returns to Renaissance Italy to follow the life of his ancestor Ezio Auditore. After seeing his home destroyed, Ezio travels to Rome in an effort to rebuild the Assassin Order and bring down the Borgia family, who rule the city with an iron fist. Along the way, the modern day assassins hope to discover the location of the Piece of Eden, or 'The Apple' before the Templars find out first."
+  },
+  {
+    "title": "Assassin's Creed: Revelations",
+    "imageUrl": "https://assets-prd.ignimgs.com/2021/12/30/assassins-creed-revelations-button-1640894449559.jpg",
+    "year": "2011",
+    "rating": "4.5",
+    "category": "Video Game",
+    "producer": "Ubisoft",
+    "description": "Ezio auditore da firenze travels to constantinople on his quest to find the five keys of masyaf to unlock a library left behind by Altaír Ibn La Ahad, to find an artifact known as the Apple of Eden. To prevent it being found by the Templars. Not knowing what they might do with It Ezio leaves the apple in the library for desmond to find. Ezio then goes away with Sofia Sartor to live out the rest of his life with Her."
   },
   {
     "title": "World of Warcraft",
@@ -216,6 +243,15 @@
     "description": "After a devastating war against a combat-ready team of intelligent machines known as Omnics, the former agents of the heroic team known as Overwatch must join forces once more to fight a new threat."
   },
   {
+    "title": "Fallout",
+    "imageUrl": "https://assets-prd.ignimgs.com/2022/01/27/fallout-1-button-edit-1643322142537.jpg",
+    "year": "1997",
+    "rating": "4.5",
+    "category": "Video Game",
+    "producer": "Interplay Productions",
+    "description": "Set 80 years after a massive nuclear war, the player/character sets out from 'The Vault' - a large, underground shelter, where survivors have lived since the war - to obtain parts of a water purification system. Wandering the ruins, the character stumbles across an even greater threat..."
+  },
+  {
     "title": "Fallout 4",
     "imageUrl": "https://assetsio.gnwcdn.com/-1447169751712.jpg",
     "year": "2015",
@@ -340,6 +376,15 @@
     "category": "Movie",
     "producer": "Disney",
     "description": "Tony Stark. Genius, billionaire, playboy, philanthropist. Son of legendary inventor and weapons contractor Howard Stark. When Tony Stark is assigned to give a weapons presentation to an Iraqi unit led by Lt. Col. James Rhodes, he's given a ride on enemy lines. That ride ends badly when Stark's Humvee that he's riding in is attacked by enemy combatants. He survives - barely - with a chest full of shrapnel and a car battery attached to his heart. In order to survive he comes up with a way to miniaturize the battery and figures out that the battery can power something else. Thus Iron Man is born. He uses the primitive device to escape from the cave in Iraq. Once back home, he then begins work on perfecting the Iron Man suit. But the man who was put in charge of Stark Industries has plans of his own to take over Tony's technology for other matters."
+  },
+  {
+    "title": "Iron Man 2",
+    "imageUrl": "https://discover.hubpages.com/.image/MTc0NDU5NzY5NTU2MzEzNDQ4/film-review-iron-man-2.jpg?profile=share1-1",
+    "year": "2010",
+    "rating": "4.0",
+    "category": "Movie",
+    "producer": "Disney",
+    "description": "Six months have passed since Tony Stark has defeated his former friend, Obidah Stane aka the Iron Monger and he has publicly revealed his identity to the world. Tony is facing many issues with his life, such as using palladium for his arc reactor which is causing serious problems towards his health and a rival inventor named Justin Hammer wants to put Stark Industries out of business so that he can become the top inventor. Tony's recklessness is reaching its breaking point for him when his friendship with Rhodey at risk and his love for Pepper in serious jeopardy. However, Tony is soon faced with another issue when Ivan Vanko aka Whiplash begins to seek revenge on him for getting his late father, Anton dismissed from Stark Industries by Howard many years ago. With the stakes held high for Tony, he must form new alliances with Natasha Romanoff and Nick Fury, who are both agents of S.H.I.E.L.D. in order to defeat Hammer and Vanko once and for all."
   },
   {
     "title": "The Avengers",

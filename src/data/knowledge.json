@@ -13564,5 +13564,355 @@
     "entertainment": ["Iron Man 2"],
     "description": "The little dance Justin Hammer does before showing off his drone army at the Expo wasn't scripted at all, it's something Sam Rockwell does off camera to get himself into character, and Favreau just let the cameras roll.",
     "source": "https://www.yardbarker.com/entertainment/articles/20_facts_you_might_not_know_about_iron_man_2/s1__37995704"
+  },
+  {
+    "title": "RuneScape's First World Record",
+    "type": "FACT",
+    "entertainment": ["RuneScape"],
+    "description": "Back in 2008 Jagex actually picked up a Guinness World Records certificate for RuneScape being the most popular free MMORPG on the planet — and it wasn't even their first time getting it, they'd already held the title the year before. The whole thing got handed over at the Leipzig Games Convention in Germany while they were showing off RuneScape HD.",
+    "source": "https://secure.runescape.com/m=news/runescape-in-guinness-world-records"
+  },
+  {
+    "title": "443 Billion Minutes and Counting",
+    "type": "FACT",
+    "entertainment": ["RuneScape"],
+    "description": "As of mid-2012, RuneScape players had collectively burned through 443 billion minutes playing the game. Guinness worked out that's an average of almost 37 hours per account — basically a full working week's worth of grinding for every single person who's ever made a login.",
+    "source": "https://www.guinnessworldrecords.com/world-records/most-popular-free-mmorpg"
+  },
+  {
+    "title": "The Day the Game Got Rebuilt From Scratch",
+    "type": "FACT",
+    "entertainment": ["RuneScape"],
+    "description": "RuneScape 2 dropped on the 29th of March 2004, and it wasn't just a patch — it was a total engine rebuild. The original game got quietly rebranded as 'RuneScape Classic' once the new version took over, and Classic actually stuck around as a legacy option for years after.",
+    "source": "https://www.tapatalk.com/groups/kingdomofthedivinefrostlords/1-000-runescape-fun-facts-t238.html"
+  },
+  {
+    "title": "Prayer Used to Have a Much Creepier Name",
+    "type": "FACT",
+    "entertainment": ["RuneScape"],
+    "description": "The Prayer skill wasn't always called Prayer. Early on in development it went by 'Necromancy,' which honestly sounds like a completely different skill tree than the one we ended up with, praying at altars and burying bones.",
+    "source": "https://www.tapatalk.com/groups/kingdomofthedivinefrostlords/1-000-runescape-fun-facts-t238.html"
+  },
+  {
+    "title": "Rune Was Almost a Different Colour Entirely",
+    "type": "FACT",
+    "entertainment": ["RuneScape"],
+    "description": "Before Rune armour got its iconic blue sheen, Jagex was reportedly planning to make it purple. Try picturing decades of players grinding for a full purple Rune set instead — it just doesn't hit the same.",
+    "source": "https://www.funtrivia.com/trivia-quiz/VideoGames/Do-You-Know-Your-Runescape-323538.html"
+  },
+  {
+    "title": "The Sci-Fi Sequel That Never Happened",
+    "type": "FACT",
+    "entertainment": ["RuneScape"],
+    "description": "For a while Jagex was quietly working on a follow-up project codenamed 'MechScape,' aimed at an older audience and built around a sci-fi setting rather than fantasy. It used the same engine tech that powered RuneScape, but the project eventually got shelved and never saw a proper release under that name.",
+    "source": "https://www.techradar.com/news/gaming/mmo-developer-jagex-outlines-mechscape-617551"
+  },
+  {
+    "title": "Old School Only Exists Because of a Combat Rework",
+    "type": "FACT",
+    "entertainment": ["RuneScape", "Old School RuneScape"],
+    "description": "Old School RuneScape wasn't part of some grand plan — it exists because players hated the Evolution of Combat update so much that Jagex dug up a backup of the game from 2007 and let people play that version instead. It was meant to be a nostalgia trip, and it ended up becoming its own massively supported game.",
+    "source": "https://www.funtrivia.com/trivia-quiz/VideoGames/Runescape-392633.html"
+  },
+  {
+    "title": "Classic Finally Got Switched Off",
+    "type": "FACT",
+    "entertainment": ["RuneScape"],
+    "description": "RuneScape Classic hung around for way longer than anyone probably expected, but Jagex finally pulled the plug on it for good in August 2018. The official reason was that the ancient codebase was riddled with bugs that were basically impossible to fix without a full rewrite.",
+    "source": "https://tvtropes.org/pmwiki/pmwiki.php/Trivia/Runescape"
+  },
+  {
+    "title": "The Peahat Prank That Upset Partyhat Owners",
+    "type": "FACT",
+    "entertainment": ["RuneScape"],
+    "description": "On April Fools' Day 2012, Jagex scattered green Peahats all over the game world for free. It sounds harmless, but a lot of long-time players were genuinely annoyed because the joke item looked close enough to a green partyhat, one of the rarest and most expensive cosmetics in the game, that it threatened to tank their value.",
+    "source": "https://www.funtrivia.com/trivia-quiz/VideoGames/Do-You-Know-Your-Runescape-323538.html"
+  },
+  {
+    "title": "The Glitch That Became History",
+    "type": "FACT",
+    "entertainment": ["RuneScape", "Old School RuneScape"],
+    "description": "The Falador Massacre is one of the most infamous bugs in MMO history. A player called Durial321 found a way to keep attacking people outside PvP zones after being kicked from a house party, and went on a rampage across Falador killing dozens of unarmed players before mods caught up and banned him. Jagex leaned into it years later, actually writing the event into the game's official lore.",
+    "source": "https://runescape.fandom.com/wiki/World_111_Glitch"
+  },
+  {
+    "title": "Durial321 Never Really Left",
+    "type": "EASTER EGG",
+    "entertainment": ["RuneScape"],
+    "description": "For the tenth anniversary of the Falador Massacre in 2016, Jagex added a little tribute nobody was expecting: log into Falador on the normal servers around that time and there's a chance Durial321's face flashes across your screen for a second before you're handed a green partyhat.",
+    "source": "https://oldschool.runescape.wiki/w/Falador_massacre"
+  },
+  {
+    "title": "Varrock's Library Is Full of Book Spoofs",
+    "type": "EASTER EGG",
+    "entertainment": ["RuneScape"],
+    "description": "Head to Varrock Palace's library and search the bookshelf in the far north-east corner. Every title on there turns out to be a joke spin on a real-world book, sitting there quietly for anyone who bothers to actually read the shelves instead of just walking past them.",
+    "source": "https://eeggs.com/tree/9370.html"
+  },
+  {
+    "title": "A Song With RuneScape Hidden Inside It",
+    "type": "EASTER EGG",
+    "entertainment": ["RuneScape"],
+    "description": "There's a track called 'Norse Code' in the game's soundtrack, and the flute intro isn't just a nice melody — the notes actually spell out the word 'RuneScape' in Morse code if you know what you're listening for.",
+    "source": "https://eeggs.com/tree/9370.html"
+  },
+  {
+    "title": "The War Tortoise Has a Shell-Shocking Secret",
+    "type": "EASTER EGG",
+    "entertainment": ["RuneScape"],
+    "description": "Examine your familiar War Tortoise closely and you'll spot a pretty blatant Teenage Mutant Ninja Turtles reference tucked into its design, which feels like a fun bit of cross-pollination for a summonable pet that's supposed to just be a tank on legs.",
+    "source": "https://eeggs.com/tree/9370.html"
+  },
+  {
+    "title": "The Rarest Bird Nest Got Broken by Accident",
+    "type": "FACT",
+    "entertainment": ["Old School RuneScape"],
+    "description": "There's a wonky-looking bird nest that's one of the rarest items in the game, and it can't even be obtained normally anymore since the trade route for it got discontinued back in 2016. Years later Jagex tried to give it a proper high alchemy value and instead accidentally updated its x-rotation, so now it just spins weirdly in your inventory.",
+    "source": "https://oldschool.runescape.wiki/w/RuneScape:Wiki_Fun_Facts"
+  },
+  {
+    "title": "The Bandits Have Opinions About Your Outfit",
+    "type": "EASTER EGG",
+    "entertainment": ["Old School RuneScape"],
+    "description": "There's a poll booth tucked away in the Bandit Camp, but you can't use it if you're wearing anything with Saradomin's colours on it. The bandits will straight up refuse, telling you they 'don't like your attire' before shooing you off.",
+    "source": "https://oldschool.runescape.wiki/w/RuneScape:Wiki_Fun_Facts"
+  },
+  {
+    "title": "A Shop Restock That Takes Nearly Five Years",
+    "type": "EASTER EGG",
+    "entertainment": ["Old School RuneScape"],
+    "description": "The crystal crown sold in the Prifddinas clothing shop is programmed to restock once every 250 million game ticks. Do the maths on that and it works out to roughly 4.8 real-world years between restocks, which is either dedication to detail or a very quiet joke, depending on how you look at it.",
+    "source": "https://oldschool.runescape.wiki/w/RuneScape:Wiki_Fun_Facts"
+  },
+  {
+    "title": "A Ring That Unlocks a Secret Conversation",
+    "type": "EASTER EGG",
+    "entertainment": ["Old School RuneScape"],
+    "description": "If you use the Ring of Endurance on the archpriest unicorn found in the Hallowed Sepulchre, it triggers hidden dialogue explaining exactly where the ring actually came from — something you'd never stumble on unless you were pairing two very specific things together for no obvious reason.",
+    "source": "https://oldschool.runescape.wiki/w/RuneScape:Wiki_Fun_Facts"
+  },
+  {
+    "title": "The Logo Font Moonlights as Restaurant Signage",
+    "type": "FACT",
+    "entertainment": ["RuneScape"],
+    "description": "The typeface used for the original RUNESCAPE logo apparently gets reused constantly outside of gaming — it turns up as the signage font for a huge chunk of Asian-themed restaurants across the US, which is a genuinely strange bit of overlap for a font most people associate with a fantasy MMO.",
+    "source": "https://oldschool.runescape.wiki/w/RuneScape:Wiki_Fun_Facts"
+  },
+  {
+    "title": "There's an Item in the Code You Can Never Get",
+    "type": "FACT",
+    "entertainment": ["RuneScape"],
+    "description": "Dig into the old game files and you'll find a 'Life Rune' sitting there in the code — fully defined, but with absolutely no way for players to ever actually get their hands on one. It's basically a ghost item that never made it into the live game.",
+    "source": "https://www.tapatalk.com/groups/kingdomofthedivinefrostlords/1-000-runescape-fun-facts-t238.html"
+  },
+  {
+    "title": "A Definition of 'Underground' That Never Updated",
+    "type": "FACT",
+    "entertainment": ["Old School RuneScape"],
+    "description": "Ever notice how some monsters drop nature talismans while others drop chaos ones for seemingly no reason? Monsters in areas the game classifies as 'underground' are supposed to drop chaos talismans, but that classification hasn't been touched since 2003, so it's broken in all sorts of inconsistent ways across the map.",
+    "source": "https://oldschool.runescape.wiki/w/RuneScape:Wiki_Fun_Facts"
+  },
+  {
+    "title": "Guthix Wasn't Always a God",
+    "type": "LORE",
+    "entertainment": ["RuneScape"],
+    "description": "For years the lore treated Guthix as one of the original gods, but it's since been revealed he actually started out mortal and only ascended to godhood by killing another deity, Skargaroth, using an Elder Artefact known as the Blade. Kind of recontextualises the whole 'oldest and most powerful god' reputation once you know he had to earn it the hard way.",
+    "source": "https://runescape.wiki/w/Guthix"
+  },
+  {
+    "title": "The Wilderness Used to Be Somebody's Empire",
+    "type": "LORE",
+    "entertainment": ["RuneScape", "Old School RuneScape"],
+    "description": "Long before it was the lawless PvP zone everyone avoids, the land now called the Wilderness was actually the heart of Zaros's empire, a stretch of Forinthry that spread across huge parts of the map. It only became the wasteland it is today after Zamorak overthrew him and tore the whole region apart in the fighting that followed.",
+    "source": "https://runescape.wiki/w/Lore_starter_guide"
+  },
+  {
+    "title": "The Rules That Kept the Gods Out",
+    "type": "LORE",
+    "entertainment": ["RuneScape", "Old School RuneScape"],
+    "description": "The Edicts of Guthix get mentioned constantly across quests, but they're not just an ancient law — they're a literal magical barrier Guthix put up after the God Wars to physically stop other gods from setting foot back on Gielinor. It's basically the only reason the world's had any peace at all since he went back to sleep.",
+    "source": "https://oldschool.runescape.wiki/w/Edicts_of_Guthix"
+  },
+  {
+    "title": "Where the Tears of Guthix Actually Came From",
+    "type": "LORE",
+    "entertainment": ["RuneScape", "Old School RuneScape"],
+    "description": "That minigame everyone does for easy experience isn't just a random cave with glowing rocks. According to the lore, Guthix wept over the devastation left behind by the God Wars in a cavern under southern Misthalin, and the surrounding rock supposedly wept with him — which is where the Tears of Guthix are said to actually come from.",
+    "source": "https://oldschool.runescape.wiki/w/Guthix"
+  },
+  {
+    "title": "Sardines Can Get You Out of a Fight",
+    "type": "EASTER EGG",
+    "entertainment": ["Old School RuneScape"],
+    "description": "During the Fremennik Trials, there's a way to dodge the combat challenge entirely — a bloke called Thorvald will let you skip it if you bring him five sardines. There's even dedicated dialogue for using the sardines on him directly, except it turns out he was just messing with you the whole time.",
+    "source": "https://oldschool.runescape.wiki/w/RuneScape:Wiki_Fun_Facts"
+  },
+  {
+    "title": "A Cat Broke the Weather Twenty Years Ago",
+    "type": "FACT",
+    "entertainment": ["RuneScape", "Old School RuneScape"],
+    "description": "Back in 2003, some messy code tied to the Gertrude's Cat quest managed to break the game's 'desert heat' visual effect. Nobody ever went back and fixed it, so as far as anyone can tell, it's just never worked since.",
+    "source": "https://oldschool.runescape.wiki/w/RuneScape:Wiki_Fun_Facts"
+  },
+  {
+    "title": "Jokes Nobody Will Ever See",
+    "type": "FACT",
+    "entertainment": ["Old School RuneScape"],
+    "description": "Scattered through the game's config files there's a bunch of scenery objects with genuinely funny, unique examine text written for them — the only problem is nobody ever actually gave those objects an 'Examine' option, so the jokes just sit there in the code forever, unseen.",
+    "source": "https://oldschool.runescape.wiki/w/RuneScape:Wiki_Fun_Facts"
+  },
+  {
+    "title": "Nobody's Heard These Villagers Talk Back",
+    "type": "EASTER EGG",
+    "entertainment": ["Old School RuneScape"],
+    "description": "The level-1 citizens of Miscellania actually have unique overhead dialogue for when they fight back against attackers, but almost nobody's ever seen it. They've only got 1 HP, and killing one costs you 6% of your Miscellania favour, so there's basically no reason anyone would bother provoking them.",
+    "source": "https://oldschool.runescape.wiki/w/RuneScape:Wiki_Fun_Facts"
+  },
+  {
+    "title": "The Steepest Hill in Gielinor",
+    "type": "FACT",
+    "entertainment": ["Old School RuneScape"],
+    "description": "The steepest bit of walkable ground in the entire game is the hill between the waterfall and the Grand Tree — the height value jumps from the absolute lowest possible number straight to the highest in the space of a single tile.",
+    "source": "https://oldschool.runescape.wiki/w/RuneScape:Wiki_Fun_Facts"
+  },
+  {
+    "title": "A Ladder to Nowhere, Courtesy of 'The Intern'",
+    "type": "EASTER EGG",
+    "entertainment": ["Old School RuneScape"],
+    "description": "There's a completely inaccessible ladder tucked two floors up in a dark corner of the Smoke Dungeon. The going theory among players is that it's a leftover from an earlier, scrapped version of the Desert Treasure quest, jokingly attributed to a mysterious 'intern' who supposedly worked on it.",
+    "source": "https://oldschool.runescape.wiki/w/RuneScape:Wiki_Fun_Facts"
+  },
+  {
+    "title": "One Goblin Never Got the Memo",
+    "type": "EASTER EGG",
+    "entertainment": ["Old School RuneScape"],
+    "description": "There's a single cave goblin miner in the Dorgeshuun mine still using the old, janky pre-2007 goblin chathead model that everyone else moved on from years ago. You have to do something slightly obscure to actually trigger it and see it for yourself.",
+    "source": "https://oldschool.runescape.wiki/w/RuneScape:Wiki_Fun_Facts"
+  },
+  {
+    "title": "The NPC Who Got Left Behind",
+    "type": "FACT",
+    "entertainment": ["RuneScape", "Old School RuneScape"],
+    "description": "There used to be an NPC called 'Docky' who ran a boat between Port Khazard and Brimhaven for a small fee. When RuneScape moved from Classic to RS2, Docky himself never made the transition — but strangely, his actual boat did, and it's still sitting there in the game to this day.",
+    "source": "https://oldschool.runescape.wiki/w/RuneScape:Wiki_Fun_Facts"
+  },
+  {
+    "title": "The 1-in-256 Dialogue Nobody Notices They're Missing",
+    "type": "EASTER EGG",
+    "entertainment": ["Old School RuneScape"],
+    "description": "The Fremennik NPC who ferries you to Waterbirth Island has a hidden line of dialogue that only fires if your character happens to share the exact same randomly generated Fremennik name as him. The odds of that happening are roughly 1 in 256, so most players will never once trigger it.",
+    "source": "https://oldschool.runescape.wiki/w/RuneScape:Wiki_Fun_Facts"
+  },
+  {
+    "title": "The Game's Very First Discontinued Item",
+    "type": "FACT",
+    "entertainment": ["RuneScape"],
+    "description": "Long before any of the tradeable rares people obsess over today, RuneScape's actual first discontinued item was a random key tied to the Shield of Arrav quest. It only came to light because of an obscure Hungarian RuneScape forum post from 2001 — there's still leftover code for it in OSRS, but a bug means it can never actually run.",
+    "source": "https://oldschool.runescape.wiki/w/RuneScape:Wiki_Fun_Facts"
+  },
+  {
+    "title": "One Skill Was Too Useless for a Cape Seller",
+    "type": "FACT",
+    "entertainment": ["RuneScape", "Old School RuneScape"],
+    "description": "When skillcapes launched in 2006, Jagex just needed to find an existing NPC in the right spot to sell each one. That worked fine for 21 of the 22 skills — but one skill was so underused that the devs couldn't find a single fitting character anywhere in the game, and had to invent a brand new NPC purely to sell that cape.",
+    "source": "https://oldschool.runescape.wiki/w/RuneScape:Wiki_Fun_Facts"
+  },
+  {
+    "title": "Mob Mentality Speeds Up Pyramid Plunder",
+    "type": "FACT",
+    "entertainment": ["Old School RuneScape"],
+    "description": "Every time someone starts a round of Pyramid Plunder, the game randomly assigns which tomb door is 'correct' for everyone on that world. Players eventually figured out that if you cram a huge crowd onto one world and get everyone spam-clicking a single door, you basically guarantee someone gets the right one almost instantly.",
+    "source": "https://oldschool.runescape.wiki/w/RuneScape:Wiki_Fun_Facts"
+  },
+  {
+    "title": "The Satchels That Were Almost Lunchboxes",
+    "type": "FACT",
+    "entertainment": ["Old School RuneScape"],
+    "description": "The colourful satchels used in Creature Creation weren't the original plan at all — early versions of the update had them as actual lunchboxes decorated with little animal stickers. For whatever reason, that idea got swapped out for satchels at the very last minute.",
+    "source": "https://oldschool.runescape.wiki/w/RuneScape:Wiki_Fun_Facts"
+  },
+  {
+    "title": "One Flag Survived a Whole City Rework",
+    "type": "EASTER EGG",
+    "entertainment": ["Old School RuneScape"],
+    "description": "When Varrock got its 2007 graphical overhaul, every green-and-yellow flag in the city was meant to be swapped for the new colour scheme. They missed exactly one, tucked away in a far corner, and eighteen years later it's still sitting there completely unchanged.",
+    "source": "https://oldschool.runescape.wiki/w/RuneScape:Wiki_Fun_Facts"
+  },
+  {
+    "title": "Jagex Got Spooked by Their Own Pentagrams",
+    "type": "FACT",
+    "entertainment": ["RuneScape"],
+    "description": "Back in 2006, Jagex quietly stripped out all the occult-looking pentagram scenery from the game. They replaced it first with a goofy-looking demon and later with a plain blue blob, and to this day nobody's ever given a clear reason why.",
+    "source": "https://oldschool.runescape.wiki/w/RuneScape:Wiki_Fun_Facts"
+  },
+  {
+    "title": "Every Monster Was Almost a Wall",
+    "type": "FACT",
+    "entertainment": ["Old School RuneScape"],
+    "description": "Those gorilla guards on Ape Atoll that physically block your path aren't a one-off quirk — Jagex originally wanted every single monster in the game to block movement like that, and had to be talked out of it by people pointing out how miserable it would be.",
+    "source": "https://oldschool.runescape.wiki/w/RuneScape:Wiki_Fun_Facts"
+  },
+  {
+    "title": "A Barrel That Unlocks a Door Miles Away",
+    "type": "EASTER EGG",
+    "entertainment": ["Old School RuneScape"],
+    "description": "For no clear reason, there's a barrel hidden in the Varrock Sewers that you can search to find a key — and that key opens a completely unrelated door all the way over in West Ardougne.",
+    "source": "https://oldschool.runescape.wiki/w/RuneScape:Wiki_Fun_Facts"
+  },
+  {
+    "title": "Goblins Who'd Pay Billions for a Potato",
+    "type": "FACT",
+    "entertainment": ["Old School RuneScape"],
+    "description": "There's a minigame in Dorgesh-Kaan where you sell exotic food to hungry goblins, and for a while after it launched in 2007 you could offer them something dirt cheap, like a single potato, for a price in the billions. An integer overflow bug meant they'd often just accept it.",
+    "source": "https://oldschool.runescape.wiki/w/RuneScape:Wiki_Fun_Facts"
+  },
+  {
+    "title": "Coconut Math Checks Out, At Least",
+    "type": "FACT",
+    "entertainment": ["Old School RuneScape"],
+    "description": "It's a tiny thing, but a Half Coconut is always priced at exactly half the value of a whole one. In a game full of pricing weirdness and broken drop tables, it's oddly satisfying that this one thing actually does what it says on the tin.",
+    "source": "https://oldschool.runescape.wiki/w/RuneScape:Wiki_Fun_Facts"
+  },
+  {
+    "title": "Even Your Cat Judges Your Gear Choices",
+    "type": "EASTER EGG",
+    "entertainment": ["Old School RuneScape"],
+    "description": "Your pet cat isn't just for show — if you wear a dragon chainbody around it, it'll actually talk back with some cheeky dialogue giving you grief about it.",
+    "source": "https://oldschool.runescape.wiki/w/RuneScape:Wiki_Fun_Facts"
+  },
+  {
+    "title": "The Rarest Weapon You'd Immediately Lose",
+    "type": "FACT",
+    "entertainment": ["RuneScape"],
+    "description": "The rune spear in RuneScape Classic might be one of the strangest weapons Jagex ever added. It had roughly a 1-in-a-million drop chance from mid-to-high level monsters, and despite that rarity it was a throwable ranged weapon — meaning you'd permanently lose it the moment you actually used it.",
+    "source": "https://oldschool.runescape.wiki/w/RuneScape:Wiki_Fun_Facts"
+  },
+  {
+    "title": "The Cheese Glitch Every Ironman Knows About",
+    "type": "FACT",
+    "entertainment": ["Old School RuneScape"],
+    "description": "Rat traps scattered around rat-infested areas can be baited with cheese, and other players (or rats) can come along and try to grab that cheese off the trap. Because of how the mechanic works, it's been used as a sneaky way to transfer effectively infinite cheese to an ironman account, which definitely wasn't the intended use.",
+    "source": "https://oldschool.runescape.wiki/w/RuneScape:Wiki_Fun_Facts"
+  },
+  {
+    "title": "A Wiki Typo That Cost Players a Fortune",
+    "type": "FACT",
+    "entertainment": ["Old School RuneScape"],
+    "description": "Thanks to an error on a wiki page, the black shield (h2) ended up trading on the Grand Exchange for roughly ten times its actual worth, and that mistaken price stuck around influencing trades for about three years before anyone properly corrected it.",
+    "source": "https://oldschool.runescape.wiki/w/RuneScape:Wiki_Fun_Facts"
+  },
+  {
+    "title": "The Runes That Never Made the Cut",
+    "type": "FACT",
+    "entertainment": ["RuneScape"],
+    "description": "Most people who've dug through old RuneScape lore know about the mythical Life Rune, but back in 2001 the code briefly also referenced Time, Reality, and Illusion runes. None of them were ever obtainable, and all four were stripped out of the game's code entirely by June of that same year, leaving everyone to wonder what Jagex was originally planning.",
+    "source": "https://oldschool.runescape.wiki/w/RuneScape:Wiki_Fun_Facts"
+  },
+  {
+    "title": "The Legends' Cape You Could Get on a Brand New Account",
+    "type": "EASTER EGG",
+    "entertainment": ["RuneScape"],
+    "description": "Back in 2004, there was a genuinely funny exploit where a freshly created account could obtain the Cape of Legends despite Legends' Quest being one of the hardest quests in the game at the time — a loophole players found almost immediately after the quest launched.",
+    "source": "https://oldschool.runescape.wiki/w/RuneScape:Wiki_Fun_Facts"
   }
 ]

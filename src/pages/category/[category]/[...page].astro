@@ -30,6 +30,15 @@ const { page, categoryName } = Astro.props;
 >
 	<Header />
 	<main class="category-page">
+		<div class="content">
+			<nav aria-label="Breadcrumb">
+				<ol>
+					<li><a href="../">Home</a></li>
+					<li><a href="../entertainment">Entertainment</a></li>
+					<li>{categoryName}s</li>
+				</ol>
+			</nav>
+		</div>
 		<div class="category-header">
 			<h1>{categoryName}s</h1>
 			<p>Page {page.currentPage} of {page.lastPage}</p>
@@ -112,5 +121,88 @@ const { page, categoryName } = Astro.props;
 	.page-numbers {
 		font-weight: 600;
 		font-size: 1.1rem;
+	}
+
+	/* Breadcrumb */
+	.content {
+ 		padding: 20px 32px;
+	}
+	
+	nav ol {
+	list-style: none;
+	display: flex;
+	align-items: center;
+	flex-wrap: wrap;
+	gap: 0;
+	margin: 0 0 1.5rem;
+	padding: 0;
+	}
+
+	nav li {
+	display: flex;
+	align-items: center;
+	font-size: .9rem;
+	}
+
+	/* The separator sits on every item that follows another one */
+	nav li + li::before {
+	content: "/";
+	color: #88888f;
+	margin: 0 .5rem;
+	}
+
+	nav li:last-child {
+	color: #000000;
+	font-weight: 500;
+	}
+
+	nav a {
+	color: #88888f;
+	text-decoration: none;
+	transition: color .15s;
+	}
+
+	nav a:hover {
+	color: #FFA500;
+	}
+
+	/* Arrow variant */
+	.bc-arrow li + li::before {
+	content: "›";
+	font-size: 1.1rem;
+	line-height: 1;
+	}
+
+	/* Chevron drawn from two borders instead of a character */
+	.bc-chevron li + li::before {
+	content: "";
+	display: inline-block;
+	width: 6px;
+	height: 6px;
+	border-top: 1.5px solid #88888f;
+	border-right: 1.5px solid #88888f;
+	transform: rotate(45deg);
+	margin: 0 .6rem;
+	}
+
+	/* Pill variant drops the separator and spaces the items instead */
+	.bc-pill li {
+	background: #1c1c1e;
+	padding: .25rem .75rem;
+	border-radius: 99px;
+	font-size: .8rem;
+	}
+
+	.bc-pill li + li::before {
+	display: none;
+	}
+
+	.bc-pill li + li {
+	margin-left: .35rem;
+	}
+
+	.bc-pill li:last-child {
+	background: rgba(184, 255, 87, .1);
+	color: #b8ff57;
 	}
 </style>

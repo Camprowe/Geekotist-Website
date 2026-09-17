@@ -13914,5 +13914,1010 @@
     "entertainment": ["RuneScape"],
     "description": "Back in 2004, there was a genuinely funny exploit where a freshly created account could obtain the Cape of Legends despite Legends' Quest being one of the hardest quests in the game at the time — a loophole players found almost immediately after the quest launched.",
     "source": "https://oldschool.runescape.wiki/w/RuneScape:Wiki_Fun_Facts"
+  },
+  {
+    "title": "Announced and Launched in Two Weeks Flat",
+    "type": "FACT",
+    "entertainment": [
+      "RuneScape: Dragonwilds"
+    ],
+    "description": "Jagex didn't exactly give players time to get hyped. Dragonwilds went from official announcement to a surprise Early Access launch in just 15 days, which is unusually fast for a spin-off carrying this much weight on its shoulders.",
+    "source": "https://gameinformer.com/2025/04/15/runescape-dragonwilds-surprise-launches-into-early-access-today"
+  },
+  {
+    "title": "It Used to Be Called Aqua Coyote",
+    "type": "FACT",
+    "entertainment": [
+      "RuneScape: Dragonwilds"
+    ],
+    "description": "Before anyone outside Jagex knew the name Dragonwilds, the project was running around internally under the placeholder codename 'Aqua Coyote' during its closed Alpha tests.",
+    "source": "https://dragonwilds.runescape.wiki/w/RuneScape:_Dragonwilds"
+  },
+  {
+    "title": "The Project Started Back in 2022",
+    "type": "FACT",
+    "entertainment": [
+      "RuneScape: Dragonwilds"
+    ],
+    "description": "Dragonwilds wasn't thrown together to chase the survival-crafting trend overnight. According to a Jagex developer answering community questions on Discord, work on the game actually began in 2022, years before players ever heard about it.",
+    "source": "https://dragonwilds.runescape.wiki/w/RuneScape:_Dragonwilds"
+  },
+  {
+    "title": "It Could Have All Taken Place in the Abyss",
+    "type": "LORE",
+    "entertainment": [
+      "RuneScape: Dragonwilds"
+    ],
+    "description": "One of the earliest pitches for the game had the entire adventure set inside the Abyss rather than on a brand new continent. Jagex's Mod Rook confirmed the idea in a community Q&A, though it was dropped so the team could focus the story on Ashenfall instead.",
+    "source": "https://dragonwilds.runescape.wiki/w/RuneScape:_Dragonwilds"
+  },
+  {
+    "title": "Combat Finally Happens in Real Time",
+    "type": "FACT",
+    "entertainment": [
+      "RuneScape: Dragonwilds",
+      "RuneScape"
+    ],
+    "description": "After decades of RuneScape's click-and-wait combat, Dragonwilds ditches the turn-based system entirely. Players, NPCs and monsters can all swing at the same time, with stamina governing how much attacking and blocking you can actually pull off.",
+    "source": "https://dragonwilds.runescape.wiki/w/RuneScape:_Dragonwilds"
+  },
+  {
+    "title": "The Soundtrack Winks at Old RuneScape",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "RuneScape: Dragonwilds",
+      "RuneScape",
+      "Old School RuneScape"
+    ],
+    "description": "Longtime players who keep their headphones on will catch it: Dragonwilds' track 'Harmony' is a direct musical nod to the original RuneScape song of the same name, and Jagex has said more callbacks to both RuneScape and Old School RuneScape's music are planned.",
+    "source": "https://runescape.wiki/w/RuneScape_-_Dragonwilds"
+  },
+  {
+    "title": "An Outside Studio Helped Build the UI",
+    "type": "FACT",
+    "entertainment": [
+      "RuneScape: Dragonwilds"
+    ],
+    "description": "Dragonwilds wasn't a solo Jagex effort. Co-development studio Virtuos worked alongside the team to build out the game's UI architecture, including the crafting menus, compass, health and stamina readouts, and the interactive map.",
+    "source": "https://www.virtuosgames.com/success-stories/runescape-dragonwilds/"
+  },
+  {
+    "title": "The First RuneScape on a Console, Ever",
+    "type": "FACT",
+    "entertainment": [
+      "RuneScape: Dragonwilds",
+      "RuneScape"
+    ],
+    "description": "In a franchise that's been running for 25 years, Dragonwilds is the very first RuneScape game to make it onto console hardware, landing on PlayStation 5, Xbox Series X|S, and Nintendo Switch 2.",
+    "source": "https://variety.com/2026/gaming/news/runescape-dragonwilds-update-changes-console-crossplay-1236803785/"
+  },
+  {
+    "title": "Straight Onto Game Pass and PS Plus",
+    "type": "FACT",
+    "entertainment": [
+      "RuneScape: Dragonwilds"
+    ],
+    "description": "When Dragonwilds hit consoles, it didn't make players pay full price to try it out. It arrived as a Day 1 title on Xbox Game Pass (Premium and Ultimate tiers) and on PlayStation Plus Extra and Premium.",
+    "source": "https://www.analyticsinsight.net/news/runescape-dragonwilds-crosses-15-million-sales-ahead-of-console-launch"
+  },
+  {
+    "title": "Over Half a Million Copies in Week One",
+    "type": "FACT",
+    "entertainment": [
+      "RuneScape: Dragonwilds"
+    ],
+    "description": "Jagex CEO Jon Bellamy revealed that Dragonwilds sold more than 600,000 copies in its very first week on Steam, a huge number for a spin-off gambling on a genre already crowded with survival-crafting games.",
+    "source": "https://www.forbes.com/sites/davidjagneaux/2025/04/24/runescape-dragonwilds-sells-over-600000-units-in-first-week/"
+  },
+  {
+    "title": "Number One on Steam, Top Three on Twitch",
+    "type": "FACT",
+    "entertainment": [
+      "RuneScape: Dragonwilds"
+    ],
+    "description": "During its launch week Dragonwilds climbed to the #1 global top-seller spot on all of Steam and the #3 most-watched game on Twitch, with players averaging more than two hours per play session.",
+    "source": "https://gamerant.com/runescape-dragonwilds-sales-success/"
+  },
+  {
+    "title": "A Million Copies Before Christmas",
+    "type": "FACT",
+    "entertainment": [
+      "RuneScape: Dragonwilds"
+    ],
+    "description": "By the end of 2025, less than a year after launch, Dragonwilds had crossed one million copies sold, a milestone Jagex used to reveal what was coming next for the game.",
+    "source": "https://cogconnected.com/2026/01/runescape-dragonwilds-charts-new-frontiers-after-passing-one-million-sales/"
+  },
+  {
+    "title": "1.5 Million Sales Before Leaving Early Access",
+    "type": "FACT",
+    "entertainment": [
+      "RuneScape: Dragonwilds"
+    ],
+    "description": "By the time Dragonwilds wrapped up its roughly 18-month stint in Steam Early Access and hit version 1.0 in September 2026, it had sold more than 1.5 million copies.",
+    "source": "https://www.kobaran.com/runescape-dragonwilds-hits-1-0-with-scorned-wilderness-and-console-launch/"
+  },
+  {
+    "title": "The Land Itself Is Warped by Magic",
+    "type": "LORE",
+    "entertainment": [
+      "RuneScape: Dragonwilds"
+    ],
+    "description": "Ashenfall isn't just a pretty backdrop. It's soaked in wild magical energy called anima, and the 'Anima Twist' effect this creates is why you'll find plants glowing in dragonfire colours across the Fractured Plains and other regions looking nothing like the RuneScape you remember.",
+    "source": "https://dragonwilds.runescape.wiki/w/RuneScape:_Dragonwilds"
+  },
+  {
+    "title": "You're Stranded With Some Very Familiar Faces",
+    "type": "LORE",
+    "entertainment": [
+      "RuneScape: Dragonwilds",
+      "RuneScape"
+    ],
+    "description": "The expedition team you're stuck with on Ashenfall isn't a cast of nobodies. Slayer Master Vannaka, cave goblin hero Zanik, the Wise Old Man, and dwarf craftsman Doric all show up, each dragging their own RuneScape history along with them.",
+    "source": "https://dragonwilds.runescape.wiki/w/RuneScape:_Dragonwilds"
+  },
+  {
+    "title": "These Goblins Ditched Bandos for a Dragon",
+    "type": "LORE",
+    "entertainment": [
+      "RuneScape: Dragonwilds",
+      "RuneScape"
+    ],
+    "description": "The goblins roaming Ashenfall used to follow the war god Bandos back in mainline RuneScape lore. On this continent, they've switched allegiance entirely and now serve the dragon general Velgar instead.",
+    "source": "https://dragonwilds.runescape.wiki/w/RuneScape:_Dragonwilds"
+  },
+  {
+    "title": "The Dragon Queen Has Another Name Waiting",
+    "type": "LORE",
+    "entertainment": [
+      "RuneScape: Dragonwilds"
+    ],
+    "description": "Kuldra, the Dragon Queen you're working toward all game, picks up a much darker title by the time the story wraps up: in the Scorned Wilderness finale, she's referred to as 'the God Eater'.",
+    "source": "https://www.kobaran.com/runescape-dragonwilds-hits-1-0-with-scorned-wilderness-and-console-launch/"
+  },
+  {
+    "title": "You Can Chop Trees Without Ever Touching an Axe",
+    "type": "FACT",
+    "entertainment": [
+      "RuneScape: Dragonwilds"
+    ],
+    "description": "The game's anima-based magic system lets players summon a spectral axe that fells trees instantly, turning what's normally a slow survival-game grind into a quick bit of casting instead.",
+    "source": "https://dragonwilds.runescape.wiki/w/RuneScape:_Dragonwilds"
+  },
+  {
+    "title": "A Puzzle Where the Password Is Hidden in a Rat's Den",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "RuneScape: Dragonwilds"
+    ],
+    "description": "During the Highlighting the Problem quest, a glowing blue statue demands a password before it'll do anything. That password, 'pthentorok', is tucked away in a completely different vault, sitting on an elevated ledge in a room full of giant rats, and you don't even need to clear the rest of the vault to grab it.",
+    "source": "https://dragonwilds.runescape.wiki/w/Highlighting_the_Problem"
+  },
+  {
+    "title": "Some Vault Entrances Are Hidden Behind Solid Rock",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "RuneScape: Dragonwilds"
+    ],
+    "description": "The Fractured Plains Vault won't even show itself until you've dealt with a pile of boulders blocking the way in, which can be cleared with either a pickaxe or the Rocksplosion spell, making it one of the more literal 'hidden entrance' moments in the game.",
+    "source": "https://www.thegamer.com/runescape-dragonwilds-fractured-plains-vault-guide/"
+  },
+  {
+    "title": "Nobody Wants to Admit Who Invented the Egg",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "RuneScape: Dragonwilds"
+    ],
+    "description": "Check the in-game description for a regular old Egg and you'll find a surprisingly philosophical bit of flavour text musing over whether chickens evolved or were made by the gods, noting that no god has ever claimed credit for the first chicken or egg, but none of them deny it either.",
+    "source": "https://dragonwilds.runescape.wiki/w/Egg"
+  },
+  {
+    "title": "Three New Regions Got Teased Off the Back of a Sales Milestone",
+    "type": "FACT",
+    "entertainment": [
+      "RuneScape: Dragonwilds"
+    ],
+    "description": "Right after crossing a million copies sold, Jagex used its community summit stream to reveal three upcoming regions for Ashenfall: Dowdun Reach, Umbral Sands, and Scorned Wilderness, mapping out the rest of the game's ongoing Kuldra Saga storyline.",
+    "source": "https://gamelevate.com/runescape-dragonwilds-surpasses-one-million-sales/"
+  },
+  {
+    "title": "A Chaos God's Fortress Is Full of Corrupted Knights",
+    "type": "LORE",
+    "entertainment": [
+      "RuneScape: Dragonwilds"
+    ],
+    "description": "The Dowdun Reach region is built around a long-abandoned mountain fortress under the influence of Zamorak, the God of Chaos, now crawling with corrupted Black Knights and hiding Blue Dragons deeper in its keep.",
+    "source": "https://cogconnected.com/2026/01/runescape-dragonwilds-charts-new-frontiers-after-passing-one-million-sales/"
+  },
+  {
+    "title": "The CEO Wanted It to Earn the RuneScape Name",
+    "type": "FACT",
+    "entertainment": [
+      "RuneScape: Dragonwilds",
+      "RuneScape"
+    ],
+    "description": "Jagex CEO Jon Bellamy didn't want Dragonwilds to just borrow the RuneScape brand for a quick cash-in. He described it as an entirely new RuneScape experience within Gielinor that had to prove itself 'worthy of wearing the RuneScape name.'",
+    "source": "https://dragonwilds.runescape.wiki/w/RuneScape:_Dragonwilds"
+  },
+  {
+    "title": "Claude's Name Is Never Actually Said Out Loud",
+    "type": "LORE",
+    "entertainment": ["Grand Theft Auto III", "Grand Theft Auto: San Andreas"],
+    "description": "You'd think the silent protagonist of GTA III would at least get named on screen somewhere, but nope. His name only gets confirmed years later, buried in a phone call you can overhear during San Andreas. Blink and you'll miss it.",
+    "source": "https://www.mobygames.com/game/5189/grand-theft-auto-iii/trivia/"
+  },
+  {
+    "title": "Banned Down Under",
+    "type": "FACT",
+    "entertainment": ["Grand Theft Auto III"],
+    "description": "Australia actually pulled GTA III from shelves shortly after launch over the violence, and a handful of unedited copies had already made it into people's hands before the ban kicked in. Rockstar had to strip out some sexual content just to get a revised version approved.",
+    "source": "https://www.mobygames.com/game/5189/grand-theft-auto-iii/trivia/"
+  },
+  {
+    "title": "The Series' First Proper 3D World",
+    "type": "FACT",
+    "entertainment": ["Grand Theft Auto III"],
+    "description": "Before GTA III, the whole series was top-down. This was the game that dragged Liberty City into full 3D, and honestly it's the reason the franchise still exists in the shape it does today.",
+    "source": "https://gamefaqs.gamespot.com/xbox/945870-grand-theft-auto-iii/trivia"
+  },
+  {
+    "title": "Shooting the Moon With a Sniper Rifle",
+    "type": "EASTER EGG",
+    "entertainment": ["Grand Theft Auto III"],
+    "description": "Line up a sniper rifle on the moon and take a shot, and it'll actually change size on screen. Nobody outside Rockstar really knew why this was in there for years, until an ex-developer finally explained it on Twitter.",
+    "source": "https://gamefaqs.gamespot.com/xbox/945870-grand-theft-auto-iii/trivia"
+  },
+  {
+    "title": "Flashback FM Is Basically the Scarface Soundtrack",
+    "type": "FACT",
+    "entertainment": ["Grand Theft Auto III", "Scarface"],
+    "description": "The playlist on Flashback FM isn't just inspired by Scarface, it's lifted straight from the film's actual soundtrack. When the station came back for Liberty City Stories they swapped it for Giorgio Moroder cuts instead, which makes sense once you remember he scored Scarface in the first place.",
+    "source": "https://gamefaqs.gamespot.com/xbox/945870-grand-theft-auto-iii/trivia"
+  },
+  {
+    "title": "Random Pedestrians Are Quoting the Village People",
+    "type": "EASTER EGG",
+    "entertainment": ["Grand Theft Auto III"],
+    "description": "Wander around long enough and you'll hear civilians drop lines like 'you can sail the seven seas' or 'there's no need to feel down.' They sound like throwaway barks, but they're actually nods to Village People lyrics.",
+    "source": "https://gamefaqs.gamespot.com/xbox/945870-grand-theft-auto-iii/trivia"
+  },
+  {
+    "title": "The Opening Cutscene Location Doesn't Exist In-Game",
+    "type": "EASTER EGG",
+    "entertainment": ["Grand Theft Auto III"],
+    "description": "The bank heist that opens the game takes place somewhere you can never actually walk to during normal play. The only way to even glimpse the area is by getting a Dodo airborne and flying over it.",
+    "source": "https://gamefaqs.gamespot.com/xbox/945870-grand-theft-auto-iii/trivia"
+  },
+  {
+    "title": "The Series' First Remote Control Car",
+    "type": "FACT",
+    "entertainment": ["Grand Theft Auto III"],
+    "description": "Before RC cars became a recurring bit in later games, GTA III was the one that introduced them to the franchise.",
+    "source": "https://gamefaqs.gamespot.com/xbox/945870-grand-theft-auto-iii/trivia"
+  },
+  {
+    "title": "The Dodo Was Deliberately Made Rubbish at Flying",
+    "type": "LORE",
+    "entertainment": ["Grand Theft Auto III"],
+    "description": "Rockstar wanted GTA III to be about driving and shooting, full stop, so the only plane in the game was intentionally hobbled. It barely gets off the ground and handles like a brick, because letting players properly fly around wasn't part of the plan.",
+    "source": "https://gamefaqs.gamespot.com/xbox/945870-grand-theft-auto-iii/trivia"
+  },
+  {
+    "title": "The Dodo Is Technically Coded as a Car",
+    "type": "FACT",
+    "entertainment": ["Grand Theft Auto III"],
+    "description": "Dig into the game's files and the Dodo is classed as a car, not a plane, which explains why it shrugs off crashes like a road vehicle and can even use a handbrake. It's the only aircraft in the whole series with brakes for that exact reason.",
+    "source": "https://www.vgfacts.com/game/grandtheftautoiii/"
+  },
+  {
+    "title": "8-Ball Almost Had a Totally Different Name",
+    "type": "LORE",
+    "entertainment": ["Grand Theft Auto III"],
+    "description": "Early concept art for 8-Ball labels him as 'Mullan' rather than the name that ended up in the finished game. That name never resurfaced in any later GTA title, so it's just a little fossil from development.",
+    "source": "https://www.vgfacts.com/game/grandtheftautoiii/"
+  },
+  {
+    "title": "A Dreamcast Version That Never Saw Daylight",
+    "type": "FACT",
+    "entertainment": ["Grand Theft Auto III"],
+    "description": "There was genuinely a Dreamcast port in the works at one point, but as the console's fortunes tanked Rockstar shelved it. Because of that, GTA2 remains the only mainline entry ever to reach a Sega system.",
+    "source": "https://gta.fandom.com/wiki/Grand_Theft_Auto_III"
+  },
+  {
+    "title": "First Game in the Series to Use Motion Blur",
+    "type": "FACT",
+    "entertainment": ["Grand Theft Auto III"],
+    "description": "Those streaky 'trail' effects you get when sprinting or driving fast made their series debut here, well before it became standard across later entries.",
+    "source": "https://gta.fandom.com/wiki/Grand_Theft_Auto_III"
+  },
+  {
+    "title": "Launched the Same Day as GTA2's PS2 Port",
+    "type": "FACT",
+    "entertainment": ["Grand Theft Auto III", "Grand Theft Auto 2"],
+    "description": "GTA III hit shelves on the exact same release date as the PlayStation 2 port of GTA2, two years after the original came out. Odd bit of scheduling that meant old and new GTA were sitting on shelves side by side.",
+    "source": "https://gta.fandom.com/wiki/Grand_Theft_Auto_III"
+  },
+  {
+    "title": "A Wall-Peeing Cheat That Was Advertised but Broken",
+    "type": "EASTER EGG",
+    "entertainment": ["Grand Theft Auto III"],
+    "description": "Some official cheat code books actually printed a code that was supposed to let you urinate on walls. Type it in and, as far as anyone's found, absolutely nothing happens. It just never worked.",
+    "source": "https://gta.fandom.com/wiki/Grand_Theft_Auto_III"
+  },
+  {
+    "title": "The Cartoony Art Style That Got Scrapped",
+    "type": "LORE",
+    "entertainment": ["Grand Theft Auto III"],
+    "description": "Liberty City wasn't always going for gritty realism. Early in development the characters moved in a much more exaggerated, childish way and the whole colour palette was way too bright for a gangster story, before the team pulled it back to the tone we ended up getting.",
+    "source": "https://gamerant.com/gta-3-development-facts-trivia/"
+  },
+  {
+    "title": "The 9/11 Rewrite Rumours Rockstar Always Pushed Back On",
+    "type": "FACT",
+    "entertainment": ["Grand Theft Auto III"],
+    "description": "For years fans insisted the September 11 attacks forced a big last-minute overhaul of GTA III before its October 2001 release. Rockstar has consistently said that's overblown and no major gameplay changes actually happened as a result.",
+    "source": "https://gamerant.com/gta-3-development-facts-trivia/"
+  },
+  {
+    "title": "Claude Stayed Silent Partly Because of Motion Capture Costs",
+    "type": "LORE",
+    "entertainment": ["Grand Theft Auto III", "Grand Theft Auto: Vice City"],
+    "description": "Giving Claude a voice would've meant motion-capturing dialogue at a scale that just wasn't practical back in 2001, so Rockstar kept him mute early on to save themselves the headache. It wasn't until Vice City came around that a talking protagonist was even considered.",
+    "source": "https://gamerant.com/gta-3-development-facts-trivia/"
+  },
+  {
+    "title": "Ghost Town Names Are a Tribute to the Dev Team",
+    "type": "EASTER EGG",
+    "entertainment": ["Grand Theft Auto III"],
+    "description": "Fly a Dodo far enough north past Shoreside Vale and your radar starts showing place names for towns that don't physically exist anywhere in the game. Turns out those names are all references to real Rockstar staff who worked on the title.",
+    "source": "https://gta-myths.fandom.com/wiki/Hidden_Game_Designers%27_Names"
+  },
+  {
+    "title": "'You Weren't Supposed to Be Able to Get Here'",
+    "type": "EASTER EGG",
+    "entertainment": ["Grand Theft Auto III"],
+    "description": "There's a wall in a Bedford Point alleyway you're not meant to reach without glitching over it or using a Dodo, and if you do get there, a sign is waiting to call you out for it directly.",
+    "source": "https://gta-myths.fandom.com/wiki/Signs_(GTA_III)"
+  },
+  {
+    "title": "A Billboard That Spoiled the Next Game",
+    "type": "EASTER EGG",
+    "entertainment": ["Grand Theft Auto III", "Grand Theft Auto: Vice City"],
+    "description": "Somewhere in Liberty City there's a billboard cheekily reading 'See you in Miami!' It's a straightforward tease for Vice City, dropped in well before anyone outside Rockstar knew where the next game was headed.",
+    "source": "https://gta-myths.fandom.com/wiki/Signs_(GTA_III)"
+  },
+  {
+    "title": "Darkel, the Cut Mission-Giver",
+    "type": "LORE",
+    "entertainment": ["Grand Theft Auto III"],
+    "description": "GTA III originally had a character called Darkel who'd hand you missions built around blowing up buildings with bombs. He got dropped before launch, likely for being a bit too close to real-world terrorism given the timing, but he's still listed in the manual with his voice actor credited and his model is sitting untouched in the game's files.",
+    "source": "https://www.thegamer.com/grand-theft-auto-23-hidden-details-liberty-city-vice-city-san-andreas-real-fans-know/?v=6&n=f"
+  },
+  {
+    "title": "K-JAH's Peaceful DJ Took Over From His Cousin",
+    "type": "LORE",
+    "entertainment": ["Grand Theft Auto III", "Grand Theft Auto: Liberty City Stories"],
+    "description": "Horace Walsh, better known on air as 'the Pacifist,' spends his K-JAH broadcasts begging Liberty City to put the guns down and lay off the SPANK. His backstory actually stretches back to Liberty City Stories, where his cousin Natalie was running the station before he eventually took her spot.",
+    "source": "https://gta.fandom.com/wiki/Horace_Walsh"
+  },
+  {
+    "title": "Game FM's Hosts Were Real Hip-Hop DJs Playing Themselves",
+    "type": "FACT",
+    "entertainment": ["Grand Theft Auto III"],
+    "description": "Game FM wasn't voiced by actors doing a bit, it was hosted by actual New York DJs Stretch Armstrong and Lord Sear playing versions of themselves, banter and all. It gave the station a completely different feel from the rest of Liberty City's more parody-heavy radio lineup.",
+    "source": "https://gta.fandom.com/wiki/Lord_Sear"
+  },
+  {
+    "title": "One of Game FM's Real DJs Passed Away in 2026",
+    "type": "FACT",
+    "entertainment": ["Grand Theft Auto III"],
+    "description": "Steve Watson, the New York DJ known as Lord Sear who co-hosted Game FM back in 2001, died in March 2026 at 53. For a lot of players his voice was inseparable from cruising round Liberty City, since Game FM leaned into genuine East Coast underground hip-hop rather than the parody stations elsewhere on the dial.",
+    "source": "https://www.gtaboom.com/lord-sear-gta-3-game-fm-passes-away-4864"
+  },
+  {
+    "title": "Every GTA III Radio Station Runs on One Repeating Loop",
+    "type": "FACT",
+    "entertainment": ["Grand Theft Auto III"],
+    "description": "None of the nine stations shuffle their playlists. Every song, ad break and DJ line plays in the exact same order every single time you tune in, which is part of why long-time players can still recite the ad breaks from memory.",
+    "source": "https://www.gtabase.com/gta-3/radio-stations/"
+  },
+  {
+    "title": "The Actual Easter Egg",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Grand Theft Auto: Vice City"
+    ],
+    "description": "Rockstar's sense of humour is very literal sometimes. Down near the VCN building in Downtown there's a window you can jump through, and inside is a proper brown chocolate easter egg, sat on its own little pedestal like it's the most important artefact in the game. It does nothing. It's just there because the joke was too good to pass up.",
+    "source": "https://www.igrandtheftauto.com/gtavc/guides/secrets-and-easter-eggs"
+  },
+  {
+    "title": "Reagan and Gorbachev on the Firing Range",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Grand Theft Auto: Vice City"
+    ],
+    "description": "There's a hidden poster you're not meant to see properly, tucked inside the Ammu-Nation in the northern part of the second island. Grab a rocket launcher, aim it at the right wall and the camera clips through, showing Ronald Reagan giving a thumbs up next to a bullet-riddled Mikhail Gorbachev. A weirdly specific bit of Cold War humour for a game about jet skis and mob bosses.",
+    "source": "https://www.thegamer.com/grand-theft-auto-gta-vice-city-easter-eggs-hidden-secrets-references/"
+  },
+  {
+    "title": "Cement Shoes, Vice City Style",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Grand Theft Auto: Vice City"
+    ],
+    "description": "Dotted around the coastline are a couple of unlucky souls sitting on the seabed with their feet set in concrete blocks, the classic mob way of making someone disappear for good. One's off the coast near Washington Street, the other near Skumole Shack. Nobody in Vice City is filing a missing persons report about either of them.",
+    "source": "https://www.grandtheftwiki.com/Secrets_in_GTA_Vice_City"
+  },
+  {
+    "title": "Apartment 3C",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Grand Theft Auto: Vice City",
+      "Scarface"
+    ],
+    "description": "Find the right building and you can climb up to a specific apartment that's just soaked in Scarface references, blood-stained bathroom, chainsaw and all. It's a straight nod to the film's infamous scene, and it's a little unsettling how much care went into recreating something so grim in a game that otherwise plays its violence for laughs.",
+    "source": "https://www.sportskeeda.com/gta/5-gta-vice-city-de-easter-eggs-players-check"
+  },
+  {
+    "title": "The Romero Family's Side Businesses",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Grand Theft Auto: Vice City"
+    ],
+    "description": "Wander through Little Haiti and you'll find the Romero Family Funeral Home sitting right next to Romero Family Butchers, which is exactly as morbid as it sounds once you look closer. There's a tombstone in the funeral parlour window naming a real level designer from the team, and round the back there's an unmarked grave and a skeleton. The butchers next door has a box labelled human organs and an arm resting among the cuts of meat. Subtle it is not.",
+    "source": "https://www.sportskeeda.com/gta/5-gta-vice-city-de-easter-eggs-players-check"
+  },
+  {
+    "title": "The Mansion With the Rude Pool",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Grand Theft Auto: Vice City"
+    ],
+    "description": "There's a mansion on Starfish Island with a swimming pool that looks completely normal from ground level. Get up high enough to look straight down on it though, and the pool's shape plus the rocks at the bottom form the unmistakable outline of a woman's torso in a bikini. Somebody on the art team clearly had fun with that one and knew most players would never bother checking from above.",
+    "source": "https://www.mobygames.com/game/7626/grand-theft-auto-vice-city/trivia/"
+  },
+  {
+    "title": "A Poster for an Old Friend",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Grand Theft Auto: Vice City",
+      "Grand Theft Auto III"
+    ],
+    "description": "Tommy's room at the Ocean View Hotel has a poster on the wall featuring Claude, the silent protagonist from GTA III, even though Claude himself didn't actually have a name yet at this point in the series and wouldn't be seen in Vice City itself since the story is set fifteen years earlier. A small tip of the hat from one game to the one that came after it.",
+    "source": "https://gamingbolt.com/grand-theft-auto-vice-city-13-amazing-facts-you-need-to-know"
+  },
+  {
+    "title": "Every Car Shares One Number Plate",
+    "type": "FACT",
+    "entertainment": [
+      "Grand Theft Auto: Vice City"
+    ],
+    "description": "Look closely at any vehicle you steal and you'll notice every single one is running the same plate, VC R29. It's a little detail that carried over the series' habit from GTA III, where every car in Liberty City read LC R29 instead. Nobody in Vice City seems bothered by the obvious paperwork fraud.",
+    "source": "https://gamingbolt.com/grand-theft-auto-vice-city-13-amazing-facts-you-need-to-know"
+  },
+  {
+    "title": "The Missing AK-47",
+    "type": "FACT",
+    "entertainment": [
+      "Grand Theft Auto: Vice City"
+    ],
+    "description": "Vice City is the odd one out in the whole 3D-era run of GTA games for not letting you carry an AK-47, a weapon that shows up in basically every other title including its own prequel, Vice City Stories. Digging through the game's files shows references to the gun that never made it into the final build, so it looks like it was planned and quietly dropped somewhere along the way.",
+    "source": "https://gamingbolt.com/grand-theft-auto-vice-city-13-amazing-facts-you-need-to-know"
+  },
+  {
+    "title": "It Started as a GTA III Add-On",
+    "type": "FACT",
+    "entertainment": [
+      "Grand Theft Auto: Vice City",
+      "Grand Theft Auto III"
+    ],
+    "description": "Vice City wasn't originally meant to be its own game at all. After porting GTA III to PC, Rockstar started kicking around the idea of a mission pack that would bolt some new weapons, vehicles and missions onto Liberty City. The concept just kept growing until it made more sense as a standalone release, and that's how we ended up with an entirely new city instead of a glorified expansion pack.",
+    "source": "https://en.softonic.com/articles/10-curious-facts-about-gta-vice-city"
+  },
+  {
+    "title": "It Was Almost Called GTA Miami",
+    "type": "FACT",
+    "entertainment": [
+      "Grand Theft Auto: Vice City"
+    ],
+    "description": "Early on, the plan was to set the sequel in the real city of Miami and call it exactly that, GTA Miami. Somewhere along the way Rockstar decided a fictional stand-in gave them more freedom, so they built Vice City instead and pushed the timeline back to 1986, well before the events of GTA III.",
+    "source": "https://gamingbolt.com/grand-theft-auto-vice-city-13-amazing-facts-you-need-to-know"
+  },
+  {
+    "title": "Built in Nine Months",
+    "type": "FACT",
+    "entertainment": [
+      "Grand Theft Auto: Vice City"
+    ],
+    "description": "Full production on Vice City reportedly only lasted around nine months, which is a genuinely wild timeline for a game of this scale even by today's standards, let alone 2002. The team leaned heavily on assets and tech already built for GTA III to hit that deadline, and it clearly paid off given how the game turned out.",
+    "source": "https://www.thegamer.com/things-you-never-knew-gta-vice-city-development/"
+  },
+  {
+    "title": "The First Fully Voiced GTA Protagonist",
+    "type": "FACT",
+    "entertainment": [
+      "Grand Theft Auto: Vice City"
+    ],
+    "description": "Tommy Vercetti was a proper turning point for the series since he was the first GTA protagonist to actually talk, voiced by Goodfellas star Ray Liotta. Before that, series heroes like Claude in GTA III were completely silent, so giving the lead a real personality and a Hollywood name attached to it was a big deal at the time.",
+    "source": "https://www.inverse.com/gaming/gta-vice-city-ps-plus-20th-anniversary"
+  },
+  {
+    "title": "Burt Reynolds Nearly Threw Hands in the Booth",
+    "type": "FACT",
+    "entertainment": [
+      "Grand Theft Auto: Vice City"
+    ],
+    "description": "Recording sessions weren't always smooth sailing. Burt Reynolds, who plays wealthy businessman Avery Carrington, reportedly got so irritated by Dan Houser hanging around during his session that things nearly turned physical between the two of them. Reynolds ended up delivering a great performance anyway, but it says something that Rockstar mostly moved away from big-name actors after GTA IV.",
+    "source": "https://www.thegamer.com/things-you-never-knew-gta-vice-city-development/"
+  },
+  {
+    "title": "Phil Cassidy Keeps Turning Up",
+    "type": "LORE",
+    "entertainment": [
+      "Grand Theft Auto: Vice City"
+    ],
+    "description": "Phil Cassidy, the one-armed gun nut voiced by Gary Busey, isn't just a one-off mission giver here, he's one of the more persistent faces across the whole 3D Universe, popping up again in later GTA titles set on the same timeline. For a guy who mostly just sells you weapons and blows things up, he's earned an oddly loyal following.",
+    "source": "https://www.maxlevelgg.com/news/all-gta-vice-city-easter-eggs-secrets-references-and-more/"
+  },
+  {
+    "title": "Sharks Swimming Beneath the Surface",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Grand Theft Auto: Vice City"
+    ],
+    "description": "Vice City's waters actually have sharks patrolling underneath, though most people never clock them because the water's murky enough to hide the detail. They're far more visible in the original PS2 release than on later remasters, where the clearer water almost works against the secret. They don't attack you, they're just quietly there.",
+    "source": "https://www.maxlevelgg.com/news/all-gta-vice-city-easter-eggs-secrets-references-and-more/"
+  },
+  {
+    "title": "The PC Version Leaked Onto Shelves Early",
+    "type": "FACT",
+    "entertainment": [
+      "Grand Theft Auto: Vice City"
+    ],
+    "description": "The Windows release accidentally ended up on shop shelves a full five days before its official street date, and once that got out plenty of other retailers just started selling their copies early too rather than sit on stock while customers next door were already playing. A logistics slip that basically fixed itself.",
+    "source": "https://www.mobygames.com/game/7626/grand-theft-auto-vice-city/trivia/"
+  },
+  {
+    "title": "Germany Got Extra Songs",
+    "type": "FACT",
+    "entertainment": [
+      "Grand Theft Auto: Vice City"
+    ],
+    "description": "Thanks to some licensing headaches in the US, the German release of the game actually shipped with more radio tracks on it than the American version got. It's a strange little quirk of music rights that meant not every player was hearing quite the same soundtrack, depending on where they bought the game.",
+    "source": "https://www.mobygames.com/game/7626/grand-theft-auto-vice-city/trivia/"
+  },
+  {
+    "title": "Why Tommy Never Learned to Swim",
+    "type": "FACT",
+    "entertainment": [
+      "Grand Theft Auto: Vice City"
+    ],
+    "description": "Fall in the water in Vice City and Tommy just sinks, no swimming animation, no rescue, just a quick death. Rockstar addressed it directly in an interview with PSM2 at the time, basically saying that programming proper swimming would have taken too long and that watching a hardened gangster paddle around wouldn't have looked especially cool anyway. Swimming didn't actually arrive in the series until San Andreas.",
+    "source": "https://tvtropes.org/pmwiki/pmwiki.php/Trivia/GrandTheftAutoViceCity"
+  },
+  {
+    "title": "Lance Vance Is Basically Tubbs on Vacation",
+    "type": "LORE",
+    "entertainment": [
+      "Grand Theft Auto: Vice City",
+      "Miami Vice"
+    ],
+    "description": "Lance Vance is voiced by Philip Michael Thomas, who spent the 80s playing Detective Ricardo Tubbs on Miami Vice, the exact show Vice City is riffing on wholesale. Thomas liked the role enough that he came back to voice Lance again years later in the prequel, Vice City Stories, so the connection clearly wasn't lost on him either.",
+    "source": "https://thegtaplace.com/news/6770/philip-michael-thomas-returning-to-vice-city/"
+  },
+  {
+    "title": "100 Packages, One Tank",
+    "type": "FACT",
+    "entertainment": [
+      "Grand Theft Auto: Vice City"
+    ],
+    "description": "Hunting down every one of the game's 100 hidden packages scattered across the map isn't just a completionist badge of honour, it actually unlocks a Rhino tank at Tommy's properties once you've found the lot. Considering how tucked away some of these packages are, that reward feels well and truly earned by the time you get there.",
+    "source": "https://www.maxlevelgg.com/news/all-gta-vice-city-easter-eggs-secrets-references-and-more/"
+  },
+  {
+    "title": "A City Named After Its Own Inspiration",
+    "type": "LORE",
+    "entertainment": [
+      "Grand Theft Auto: Vice City",
+      "Miami Vice"
+    ],
+    "description": "The name Vice City is doing double duty, it's obviously winking at Miami Vice, the neon cop show the whole aesthetic is lifted from, but it's also just a literal description of the place. A city built almost entirely on drugs, corruption and greed genuinely earns the word vice without needing the TV reference at all.",
+    "source": "https://en.softonic.com/articles/10-curious-facts-about-gta-vice-city"
+  },
+  {
+    "title": "Toni Cipriani's Radio Career Follows Her",
+    "type": "LORE",
+    "entertainment": [
+      "Grand Theft Auto: Vice City",
+      "Grand Theft Auto III"
+    ],
+    "description": "DJ Toni on Flash FM is the same Toni Cipriani who ran Flashback FM back in GTA III, just younger and considerably more naive this time round given Vice City's earlier timeline. A chunk of her on-air material even reuses jokes from her GTA III stint, including the bit about her having been on fire, which is a nice bit of continuity for anyone who remembers the earlier game.",
+    "source": "https://www.mobygames.com/game/7626/grand-theft-auto-vice-city/trivia/"
+  },
+  {
+    "title": "Fernando's Radio Days",
+    "type": "LORE",
+    "entertainment": [
+      "Grand Theft Auto: Vice City"
+    ],
+    "description": "Long before Fernando Martinez was running his euphemistically named prostitution ring, Fernando's New Beginnings, he actually got his start on the airwaves as a DJ on Emotion 98.3. He's already dropping hints of his future pimping ambitions between songs, which is a fun little breadcrumb for anyone who bothers listening closely to the in-game radio.",
+    "source": "https://www.mobygames.com/game/7626/grand-theft-auto-vice-city/trivia/"
+  },
+  {
+    "title": "The $10 Million Gamble",
+    "type": "FACT",
+    "entertainment": ["Grand Theft Auto: San Andreas"],
+    "description": "Back in 2004, San Andreas reportedly cost around $10 million to make, and that's before marketing was even factored in. Sounds tiny by today's standards, but for the time it was one of the most ambitious budgets in gaming.",
+    "source": "https://www.thegamer.com/gta-san-andreas-development-facts-trivia/"
+  },
+  {
+    "title": "A Sequel Built in Record Time",
+    "type": "FACT",
+    "entertainment": ["Grand Theft Auto: San Andreas", "Grand Theft Auto: Vice City"],
+    "description": "San Andreas launched just two years after Vice City, yet it packed in a map several times bigger, around 100 story missions, and a mountain of side content. For a Rockstar team working on that timeline, it's honestly kind of wild.",
+    "source": "https://www.thegamer.com/gta-san-andreas-development-facts-trivia/"
+  },
+  {
+    "title": "CJ's Actor Never Left the Family",
+    "type": "FACT",
+    "entertainment": ["Grand Theft Auto: San Andreas", "Grand Theft Auto V"],
+    "description": "Young Maylay, the rapper who voiced CJ, never played the character again, but he stuck around Rockstar's orbit. He went on to host the West Coast Classics radio station in GTA V and even popped up in the Contract DLC.",
+    "source": "https://www.thegamer.com/gta-san-andreas-development-facts-trivia/"
+  },
+  {
+    "title": "The Bonus Prequel Nobody Talks About",
+    "type": "FACT",
+    "entertainment": ["Grand Theft Auto: San Andreas"],
+    "description": "The special edition PS2 release and the official soundtrack CD came with a bonus DVD containing a short film called The Introduction, built in the game's own engine. It quietly sets up plot threads that pay off later in San Fierro and Las Venturas.",
+    "source": "https://www.thegamer.com/gta-san-andreas-development-facts-trivia/"
+  },
+  {
+    "title": "The Girlfriend Missions That Almost Went Further",
+    "type": "FACT",
+    "entertainment": ["Grand Theft Auto: San Andreas"],
+    "description": "During development, Rockstar apparently planned a flirtier mini-game for CJ's dates, something closer to a rhythm challenge where you'd tap keys to build up the mood. It got scaled back before release, though echoes of the idea stuck around in the finished dating system.",
+    "source": "https://www.mobygames.com/game/15393/grand-theft-auto-san-andreas/trivia/"
+  },
+  {
+    "title": "The Gant Bridge's Practical Joke",
+    "type": "EASTER EGG",
+    "entertainment": ["Grand Theft Auto: San Andreas"],
+    "description": "Wander to the area around the Gant Bridge and you'll find an in-game sign listing goofy 'bridge facts' about the crossing between San Fierro and Las Venturas. It's a tiny detail most players speed straight past without ever reading.",
+    "source": "https://www.mobygames.com/game/15393/grand-theft-auto-san-andreas/trivia/"
+  },
+  {
+    "title": "A Guinness-Certified Giant",
+    "type": "FACT",
+    "entertainment": ["Grand Theft Auto: San Andreas"],
+    "description": "As of 2008, Guinness World Records recognized San Andreas as having both the largest in-game soundtrack and the largest voice cast of any video game up to that point. It held the soundtrack crown until GTA IV came along with 218 licensed tracks to San Andreas's 156.",
+    "source": "https://kotaku.com/guinness-list-of-resident-evil-and-grand-theft-auto-rec-5167955"
+  },
+  {
+    "title": "Banned Down Under",
+    "type": "FACT",
+    "entertainment": ["Grand Theft Auto: San Andreas"],
+    "description": "When the Hot Coffee content came to light, Australia's Attorney-General opened an investigation, and on 29 July 2005 the game actually lost its rating entirely, meaning it couldn't legally be sold there. Rockstar had to submit a cleaned-up version a few months later to get it back on shelves.",
+    "source": "https://www.mobygames.com/game/15393/grand-theft-auto-san-andreas/trivia/"
+  },
+  {
+    "title": "The Search for Bigfoot",
+    "type": "LORE",
+    "entertainment": ["Grand Theft Auto: San Andreas"],
+    "description": "Almost as soon as the game launched, players convinced themselves Bigfoot was hiding somewhere in the countryside near Back o' Beyond, and the rumor refused to die for years. Rockstar's own co-founder eventually shot it down publicly, though that didn't stop people from combing the woods with in-game cameras looking for him.",
+    "source": "https://www.sportskeeda.com/gta/rumor-tracing-history-bigfoot-throughout-gta-series"
+  },
+  {
+    "title": "A German Comedy Sketch Took a Shot at It",
+    "type": "FACT",
+    "entertainment": ["Grand Theft Auto: San Andreas"],
+    "description": "San Andreas got spoofed in an episode of Die Redaktion, a monthly comedy segment made by the German gaming magazine GameStar, which shipped on the DVD bundled with one of their 2005 issues. A funny little reminder of how far the game's cultural footprint reached.",
+    "source": "https://www.mobygames.com/game/15393/grand-theft-auto-san-andreas/trivia/"
+  },
+  {
+    "title": "The Horse Race Roster Has Jokes",
+    "type": "EASTER EGG",
+    "entertainment": ["Grand Theft Auto: San Andreas"],
+    "description": "In the horse racing mini-game, one entrant is literally named 'Henrik's Jaw,' a nod to Celtic striker Henrik Larsson breaking his jaw around the time the game was in development. Sitting right next to it on the roster is a horse cheekily named after the Scotland national team's habit of crashing out of tournaments early, a joke that only really lands if you know Rockstar North is based in Scotland.",
+    "source": "https://www.imdb.com/title/tt0383385/trivia"
+  },
+  {
+    "title": "The Multiple Protagonist Idea That Came Too Soon",
+    "type": "FACT",
+    "entertainment": ["Grand Theft Auto: San Andreas", "Grand Theft Auto V"],
+    "description": "Rockstar toyed with letting players switch between multiple playable characters way back during San Andreas, but the hardware of the era just couldn't handle it. The idea got shelved for nearly a decade until GTA V finally pulled it off with Michael, Franklin, and Trevor.",
+    "source": "https://gamingbolt.com/gta-san-andreas-13-amazing-facts-you-need-to-know"
+  },
+  {
+    "title": "Real Streets Became Real Textures",
+    "type": "FACT",
+    "entertainment": ["Grand Theft Auto: San Andreas"],
+    "description": "The art team photographed real Los Angeles neighborhoods extensively during development, and a lot of those photos ended up baked directly into the game's textures. Halfway through production the New York studio even went back to double-check every reference to keep the recreation accurate.",
+    "source": "https://www.rollingstone.com/culture/rs-gaming/grand-theft-auto-san-andreas-20-year-retrospective-1235143587/"
+  },
+  {
+    "title": "DJ Pooh Was the Studio's Street Connection",
+    "type": "FACT",
+    "entertainment": ["Grand Theft Auto: San Andreas"],
+    "description": "Producer and writer DJ Pooh personally drove Rockstar's team around Los Angeles to soak up the culture that shaped the game's early-90s setting. One voice actor later described him as the crew's direct line to the people who actually lived that world.",
+    "source": "https://www.rollingstone.com/culture/rs-gaming/grand-theft-auto-san-andreas-20-year-retrospective-1235143587/"
+  },
+  {
+    "title": "Franklin's Actor Had a Cameo Years Before GTA V",
+    "type": "FACT",
+    "entertainment": ["Grand Theft Auto: San Andreas", "Grand Theft Auto V"],
+    "description": "Long before Shawn Fonteno became the voice and face of Franklin Clinton in GTA V, he already had a foot in the door on San Andreas, voicing a recruitable gang member called Fam1 and a handful of other background characters.",
+    "source": "https://www.rollingstone.com/culture/rs-gaming/grand-theft-auto-san-andreas-20-year-retrospective-1235143587/"
+  },
+  {
+    "title": "Not Every Bridge Is the Golden Gate",
+    "type": "FACT",
+    "entertainment": ["Grand Theft Auto: San Andreas"],
+    "description": "Everyone assumes the Gant Bridge is a Golden Gate clone, and it is, but the Garver Bridge over in the same area is actually modeled on the Forth Road Bridge near Edinburgh. Makes sense once you remember a big chunk of the dev team was working out of Scotland.",
+    "source": "https://en.softonic.com/articles/5-interesting-facts-about-grand-theft-auto-san-andreas"
+  },
+  {
+    "title": "The State's Name Is a Geology Joke",
+    "type": "LORE",
+    "entertainment": ["Grand Theft Auto: San Andreas"],
+    "description": "San Andreas takes its name straight from the real San Andreas Fault, the earthquake-prone line running through California that the game's fictional state sits on. Rockstar even wove it into the world itself, with San Fierro showing quake damage and in-game news reports referencing tremors.",
+    "source": "https://en.softonic.com/articles/5-interesting-facts-about-grand-theft-auto-san-andreas"
+  },
+  {
+    "title": "The Mod That Nearly Sank Rockstar",
+    "type": "FACT",
+    "entertainment": ["Grand Theft Auto: San Andreas"],
+    "description": "In June 2005, a Dutch modder found a disabled sex scene still sitting in the game's files and released a fix to switch it back on, calling it Hot Coffee. It spread fast, and within weeks Rockstar was staring down a full-blown industry crisis rather than just a modding curiosity.",
+    "source": "https://gtaintel.com/news/san-andreas-hot-coffee-mod-explained"
+  },
+  {
+    "title": "Hot Coffee Reached the US Senate",
+    "type": "FACT",
+    "entertainment": ["Grand Theft Auto: San Andreas"],
+    "description": "The fallout from Hot Coffee got so big that the ESRB stripped the game's rating, major retailers pulled it entirely, and Senator Hillary Clinton pushed legislation targeting the games industry off the back of it. Rockstar eventually patched the content out for good, a fix fans nicknamed 'Cold Coffee.'",
+    "source": "https://www.cbr.com/what-was-grand-theft-auto-san-andreas-hot-coffee-controversy/"
+  },
+  {
+    "title": "Samuel L. Jackson Played the Bad Cop",
+    "type": "FACT",
+    "entertainment": ["Grand Theft Auto: San Andreas"],
+    "description": "One of San Andreas's biggest casting coups was landing Samuel L. Jackson to voice Officer Frank Tenpenny, the corrupt cop who hounds CJ through most of the story. Oddly enough, Jackson has barely ever spoken publicly about taking the role.",
+    "source": "https://www.sportskeeda.com/gta/full-list-important-gta-san-andreas-voice-actors"
+  },
+  {
+    "title": "Tenpenny Was Ripped From the Headlines",
+    "type": "LORE",
+    "entertainment": ["Grand Theft Auto: San Andreas"],
+    "description": "Frank Tenpenny's character is widely believed to be modeled on Rafael Perez, the real LAPD officer at the center of the Rampart corruption scandal, right down to a passing resemblance to another officer implicated alongside him. It gives the story's villain an uncomfortable grounding in something that actually happened.",
+    "source": "https://sportskeeda.com/gta/top-5-reasons-frank-tenpenny-great-gta-villain"
+  },
+  {
+    "title": "Ryder's Voice Actor Was a West Coast Rap Legend",
+    "type": "FACT",
+    "entertainment": ["Grand Theft Auto: San Andreas"],
+    "description": "MC Eiht, frontman of Compton's Most Wanted, lent his voice to Ryder, the unpredictable Grove Street member who ends up betraying the crew. Fittingly, Ryder's look is widely thought to be inspired by the late Eazy-E.",
+    "source": "https://screenrant.com/gta-trilogy-cast-san-andreas-famous-voice-actors/"
+  },
+  {
+    "title": "Ice-T Played a Rapper on the Skids",
+    "type": "FACT",
+    "entertainment": ["Grand Theft Auto: San Andreas"],
+    "description": "Gangsta rap pioneer Ice-T voiced Madd Dogg, the fading rap star whose career CJ accidentally wrecks early on before eventually helping put back together. It's a nice bit of stunt casting, given Ice-T basically lived through the era the character is parodying.",
+    "source": "https://screenrant.com/gta-trilogy-cast-san-andreas-famous-voice-actors/"
+  },
+  {
+    "title": "The Game That Made CJ Get in Shape",
+    "type": "FACT",
+    "entertainment": ["Grand Theft Auto: San Andreas"],
+    "description": "San Andreas was the first game in the series to give its protagonist actual RPG-style body stats, letting CJ bulk up, slim down, or let himself go depending on how the player fed and exercised him. It's a system the series never fully brought back in later entries.",
+    "source": "https://progameguides.com/gta/how-to-work-out-in-grand-theft-auto-san-andreas-definitive-edition/"
+  },
+  {
+    "title": "Fifty Oysters for a Better Lung",
+    "type": "EASTER EGG",
+    "entertainment": ["Grand Theft Auto: San Andreas"],
+    "description": "Scattered across the map are fifty collectible oysters, and hunting down every single one doesn't just unlock an achievement-style reward, it also maxes out CJ's lung capacity and sex appeal stats in one go. A nice payoff for the kind of completionist who checks every rock along the coastline.",
+    "source": "https://gtaintel.com/news/san-andreas-cj-stats-explained"
+  },
+  {
+    "title": "Guns Get Better the More You Use Them",
+    "type": "FACT",
+    "entertainment": ["Grand Theft Auto: San Andreas"],
+    "description": "San Andreas quietly introduced a weapon proficiency system, where sticking with the same gun over time made CJ noticeably more accurate and stable with it. It's the kind of mechanic that later open-world games leaned on heavily, but San Andreas had it running back in 2004.",
+    "source": "https://www.sportskeeda.com/gta/5-roleplaying-elements-gta-san-andreas-gta-6"
+  },
+  {
+    "title": "A Map Four Times the Size",
+    "type": "FACT",
+    "entertainment": ["Grand Theft Auto: San Andreas"],
+    "description": "San Andreas's map dwarfed everything the series had done before, packing in three full cities and twelve smaller towns across roughly 17 square miles of countryside. It was, by a wide margin, the biggest playground GTA had ever built up to that point.",
+    "source": "https://kotaku.com/guinness-list-of-resident-evil-and-grand-theft-auto-rec-5167955"
+  },
+  {
+    "title": "DJ Pooh Discovered CJ's Voice",
+    "type": "FACT",
+    "entertainment": ["Grand Theft Auto: San Andreas"],
+    "description": "According to DJ Pooh himself, it was his encouragement that got his friend Young Maylay to audition for the role of CJ in the first place. He talked about it years later, crediting his own enthusiasm for the series as part of what pushed his friends toward Rockstar.",
+    "source": "https://gtanet.com/chatterbox-gtanet-interview-with-dj-pooh/"
+  },
+  {
+    "title": "The Name Nearly Wasn't Modern Warfare",
+    "type": "FACT",
+    "entertainment": ["Call of Duty 4: Modern Warfare"],
+    "description": "Before they landed on the name we all know, Infinity Ward reportedly went through well over a thousand potential titles for the game. Some of the rejected ones were properly daft too, including the frankly brilliant Call of Duty: Warnado.",
+    "source": "https://www.mobygames.com/game/31074/call-of-duty-4-modern-warfare/trivia/"
+  },
+  {
+    "title": "Shipment Was Never Meant to Ship",
+    "type": "FACT",
+    "entertainment": ["Call of Duty 4: Modern Warfare", "Call of Duty: Modern Warfare 2"],
+    "description": "One of the most beloved multiplayer maps in the whole franchise only exists because somebody forgot to delete it. Multiplayer design director Geoff Smith has said Shipment started life as an internal test map built for old-school split-screen play, and it got accidentally left in the launch playlist. Nobody ever pulled it back out.",
+    "source": "https://www.gamespot.com/articles/one-of-call-of-dutys-most-iconic-maps-was-an-accident-dev-forgot-to-remove-it/1100-6514168/"
+  },
+  {
+    "title": "A Rude Number Plate Hidden in Vacant",
+    "type": "EASTER EGG",
+    "entertainment": ["Call of Duty 4: Modern Warfare"],
+    "description": "Take a wander round the outside area on the multiplayer map Vacant and you'll spot a parked truck. Zoom in on its number plate and it reads 'Я3T4ЯD0', which if you squint is just a backwards spelling of a certain playground insult.",
+    "source": "https://www.mobygames.com/game/31074/call-of-duty-4-modern-warfare/trivia/"
+  },
+  {
+    "title": "An Airplane! Tribute Hidden in Mile High Club",
+    "type": "EASTER EGG",
+    "entertainment": ["Call of Duty 4: Modern Warfare", "Airplane!"],
+    "description": "The loading screen for the bonus mission Mile High Club quietly nods to the 1980 comedy Airplane!. Listen closely as it loads and you'll hear one voice ask 'Surely you can't be serious?', followed by the classic reply, 'I am serious, and don't call me Shirley.'",
+    "source": "https://www.mobygames.com/game/31074/call-of-duty-4-modern-warfare/trivia/"
+  },
+  {
+    "title": "Germany Got a Softer Cut",
+    "type": "FACT",
+    "entertainment": ["Call of Duty 4: Modern Warfare"],
+    "description": "The German release trimmed the blood out of the sniper mission One Shot, One Kill and dropped the arcade mode entirely. Even the on-screen word for headshot got swapped, changed from the English term to 'Volltreffer', which just means direct hit.",
+    "source": "https://www.mobygames.com/game/31074/call-of-duty-4-modern-warfare/trivia/"
+  },
+  {
+    "title": "The Nuke Was Built to Make You Feel Powerless",
+    "type": "LORE",
+    "entertainment": ["Call of Duty 4: Modern Warfare"],
+    "description": "That gut-punch of a scene where Sergeant Paul Jackson crawls out of a downed helicopter into a mushroom cloud wasn't just there for shock value. Critics have pointed out it deliberately strips away every bit of control the campaign spent hours building up, right before killing the character off outright, which is almost unheard of for a genre built on power fantasies.",
+    "source": "https://www.popmatters.com/94128-subverting-the-power-fantasy-call-of-duty-4modern-warfare-2496027274.html"
+  },
+  {
+    "title": "Soap Didn't Actually Speak in His Debut",
+    "type": "FACT",
+    "entertainment": ["Call of Duty 4: Modern Warfare", "Call of Duty: Modern Warfare 2"],
+    "description": "Sergeant 'Soap' MacTavish is one of the series' most recognisable faces now, but in his very first appearance he was a silent protagonist. He didn't get an actual voice actor until Modern Warfare 2 came along.",
+    "source": "https://www.imdb.com/title/tt1125798/trivia/"
+  },
+  {
+    "title": "A Chernobyl Timeline Clue Hidden in Dialogue",
+    "type": "LORE",
+    "entertainment": ["Call of Duty 4: Modern Warfare"],
+    "description": "During the flashback mission, Captain Price mentions the events are happening a decade after the Chernobyl disaster. Do the maths on that and it quietly places the whole flashback in 1996, years before the rest of the campaign takes place.",
+    "source": "https://www.imdb.com/title/tt1125798/trivia/"
+  },
+  {
+    "title": "Captain Price Was Played by a Soap Star",
+    "type": "FACT",
+    "entertainment": ["Call of Duty 4: Modern Warfare", "Call of Duty: Modern Warfare 2", "Call of Duty: Modern Warfare 3", "The Bill", "EastEnders"],
+    "description": "Long before he was barking orders in the SAS, Billy Murray, the voice behind Captain Price in the original trilogy, spent years playing Don Beech on The Bill and later Johnny Allen on EastEnders. He stuck with the role of Price all the way through the first three games.",
+    "source": "https://comicbook.com/gaming/news/call-of-duty-modern-warfare-captain-price/"
+  },
+  {
+    "title": "Price Got Recast Because of His Age",
+    "type": "FACT",
+    "entertainment": ["Call of Duty 4: Modern Warfare", "Call of Duty: Modern Warfare"],
+    "description": "When the series rebooted in 2019, Barry Sloane took over as Price instead of Billy Murray. Part of the reasoning reportedly came down to Murray being 77 at the time, which made the heavy motion capture work the newer games demand a much tougher ask.",
+    "source": "https://gamerant.com/call-of-duty-modern-warfare-captain-price-voice-actor/"
+  },
+  {
+    "title": "A Wink at Its Own Cut Content",
+    "type": "EASTER EGG",
+    "entertainment": ["Call of Duty 4: Modern Warfare"],
+    "description": "In the training mission F.N.G., if you retry the CQB test and start doing worse, Captain Price grumbles that maybe it was a mistake letting you skip the obstacle course. Funny thing is, there really was a much larger obstacle course planned for that mission before it got cut, so the line is basically a joke about content that never made it in.",
+    "source": "https://tvtropes.org/pmwiki/pmwiki.php/Trivia/CallOfDuty4ModernWarfare"
+  },
+  {
+    "title": "Some Cut Multiplayer Maps Turned Up Later Anyway",
+    "type": "FACT",
+    "entertainment": ["Call of Duty 4: Modern Warfare", "Call of Duty: Modern Warfare 2"],
+    "description": "Not every map made it to launch. A pair called Favela and Invasion were cut from Call of Duty 4's Variety Map Pack, but Infinity Ward clearly didn't want to waste the work, because both eventually resurfaced in Modern Warfare 2 instead.",
+    "source": "https://tvtropes.org/pmwiki/pmwiki.php/Trivia/CallOfDuty4ModernWarfare"
+  },
+  {
+    "title": "Night Versions of the Maps Almost Existed",
+    "type": "FACT",
+    "entertainment": ["Call of Duty 4: Modern Warfare"],
+    "description": "Digging through old build files shows Infinity Ward experimented with night-time versions of several multiplayer maps, including Ambush, Strike, District and Overgrown. They were basically identical to the day versions bar the lighting, and none of them made the final cut.",
+    "source": "https://tcrf.net/Proto:Call_of_Duty_4:_Modern_Warfare_(Windows)/Build_253/Maps/Multiplayer_Maps"
+  },
+  {
+    "title": "It Killed Off the WWII Shooter for a While",
+    "type": "FACT",
+    "entertainment": ["Call of Duty 4: Modern Warfare"],
+    "description": "Before 2007, 'generic shooter setting' basically meant World War II. Call of Duty 4 flipped that overnight, and the shift was so complete that even other long-running WWII franchises started scrambling to set their games in the modern day instead.",
+    "source": "https://tvtropes.org/pmwiki/pmwiki.php/Trivia/ModernWarfare"
+  },
+  {
+    "title": "It Set the Template Every Shooter Still Copies",
+    "type": "FACT",
+    "entertainment": ["Call of Duty 4: Modern Warfare"],
+    "description": "The perk system, killstreaks, and customisable loadouts that feel completely standard in shooters today all trace back to this game. It's been copied so thoroughly by other studios that it's now considered unusual for a modern shooter not to have some version of it.",
+    "source": "https://tvtropes.org/pmwiki/pmwiki.php/Trivia/ModernWarfare"
+  },
+  {
+    "title": "One Actor Voiced Two Different Soldiers",
+    "type": "FACT",
+    "entertainment": ["Call of Duty 4: Modern Warfare", "Call of Duty: Modern Warfare 2"],
+    "description": "Craig Fairbrass pulled double duty on this one, voicing both Gaz and a character called Wallcroft, before going on to become a very different fan favourite as Ghost in Modern Warfare 2.",
+    "source": "https://tvtropes.org/pmwiki/pmwiki.php/Trivia/ModernWarfare"
+  },
+  {
+    "title": "Banned Outright in Two Countries",
+    "type": "FACT",
+    "entertainment": ["Call of Duty 4: Modern Warfare"],
+    "description": "The game never made it onto shelves in Saudi Arabia or the United Arab Emirates, where it was banned over its depiction of violence against Islamic soldiers.",
+    "source": "https://callofduty.fandom.com/wiki/Call_of_Duty_4:_Modern_Warfare"
+  },
+  {
+    "title": "The Face on the Box Art Is a Real Developer",
+    "type": "FACT",
+    "entertainment": ["Call of Duty 4: Modern Warfare"],
+    "description": "That soldier staring out from the cover isn't a stock model or an actor. It's actually Mark Rubin, who worked at Infinity Ward at the time.",
+    "source": "https://callofduty.fandom.com/wiki/Call_of_Duty_4:_Modern_Warfare"
+  },
+  {
+    "title": "No Trophies at Launch on PS3",
+    "type": "FACT",
+    "entertainment": ["Call of Duty 4: Modern Warfare"],
+    "description": "PlayStation 3 owners picking this up at launch wouldn't have found a single trophy to earn. Sony's trophy system simply hadn't been built into the platform yet when the game shipped.",
+    "source": "https://callofduty.fandom.com/wiki/Call_of_Duty_4:_Modern_Warfare"
+  },
+  {
+    "title": "Grandma's House Made a Comeback in Warzone",
+    "type": "EASTER EGG",
+    "entertainment": ["Call of Duty 4: Modern Warfare", "Call of Duty: Warzone"],
+    "description": "Long-time players will remember the riverside house on Overgrown, the one with a climbable roof and a machine gun tucked in the attic, affectionately nicknamed 'grandma's house' by the community for reasons nobody can quite agree on. That same house was quietly rebuilt inside Verdansk when Warzone launched.",
+    "source": "https://www.gamesradar.com/call-of-duty-warzone-easter-eggs/"
+  },
+  {
+    "title": "Vacant Is Hiding Inside Verdansk",
+    "type": "EASTER EGG",
+    "entertainment": ["Call of Duty 4: Modern Warfare", "Call of Duty: Warzone"],
+    "description": "Vacant got its own full multiplayer remake eventually, but a chunk of the original map is also tucked away near Port on the Verdansk map in Warzone, for anyone who fancies a nostalgic detour.",
+    "source": "https://www.gamesradar.com/call-of-duty-warzone-easter-eggs/"
+  },
+  {
+    "title": "It Made the '1001 Video Games' List",
+    "type": "FACT",
+    "entertainment": ["Call of Duty 4: Modern Warfare"],
+    "description": "This one picked up a spot in the book 1001 Video Games You Must Play Before You Die, putting it alongside decades of games considered essential playing.",
+    "source": "https://www.mobygames.com/game/31074/call-of-duty-4-modern-warfare/trivia/"
+  },
+  {
+    "title": "It Got Name-Dropped in The Wrestler",
+    "type": "FACT",
+    "entertainment": ["Call of Duty 4: Modern Warfare", "The Wrestler"],
+    "description": "Darren Aronofsky's 2008 film The Wrestler has a scene where a kid explains the game to Randy 'The Ram' Robinson while they're playing a fictional title on an old console together, a nice little nod to how big it had become in pop culture by then.",
+    "source": "https://www.mobygames.com/game/31074/call-of-duty-4-modern-warfare/trivia/"
+  },
+  {
+    "title": "It Showed Up in Kick-Ass Too",
+    "type": "FACT",
+    "entertainment": ["Call of Duty 4: Modern Warfare", "Kick-Ass"],
+    "description": "The game gets a proper appearance in the 2010 film Kick-Ass, another sign of how quickly it became shorthand for gaming culture at the time.",
+    "source": "https://callofduty.fandom.com/wiki/Call_of_Duty_4:_Modern_Warfare"
+  },
+  {
+    "title": "It's the Reason We All Say 'Noob Tube'",
+    "type": "FACT",
+    "entertainment": ["Call of Duty 4: Modern Warfare"],
+    "description": "The phrase existed in smaller gaming circles before this game came out, tracing back to Halo 2 forums as far back as 2004. But it was Call of Duty 4's underslung grenade launcher that pushed the term into the mainstream and made it a permanent part of shooter slang.",
+    "source": "https://knowyourmeme.com/memes/noob-tube"
+  },
+  {
+    "title": "The Shipping Containers Sign Their Own Work",
+    "type": "EASTER EGG",
+    "entertainment": ["Call of Duty 4: Modern Warfare"],
+    "description": "Head to any multiplayer map with the big shipping containers, Shipment is the easiest spot, and take a proper look at the white lettering stencilled on the sides. Depending on the container, it reads out as 'INFINITY WRD' or 'COD MW', a sly little signature from the studio itself.",
+    "source": "https://eeggs.com/tree/11653.html"
   }
 ]

@@ -126,6 +126,33 @@
     "description": "The Empire of Tamriel is on the edge. The High King of Skyrim has been murdered. Alliances form as claims to the throne are made. In the midst of this conflict, a far more dangerous, ancient evil is awakened. Dragons, long lost to the passages of the Elder Scrolls, have returned to Tamriel. The future of Skyrim, even the Empire itself, hangs in the balance as they wait for the prophesized Dragonborn to come; a hero born with the power of The Voice, and the only one who can stand amongst the dragons."
   },
   {
+    "title": "Halo: Reach",
+    "imageUrl": "https://assets-prd.ignimgs.com/2022/01/04/haloreach-1641338856260.jpg",
+    "year": "2010",
+    "rating": "4.8",
+    "category": "Video Game",
+    "producer": "Bungie",
+    "description": "A highly-trained branch of the UNSC known as the Noble Team must defend the planet of Reach from a massive Covenant invasion."
+  },
+  {
+    "title": "Halo: Combat Evolved",
+    "imageUrl": "https://assets-prd.ignimgs.com/2025/10/24/halo-1761339042403.jpg",
+    "year": "2001",
+    "rating": "4.8",
+    "category": "Video Game",
+    "producer": "Bungie",
+    "description": "You Play the mysterious John, known as Spartan-117 and The Master Chief, a Master Cheif Petty Officer in the United Nations Space Corp of the 26th Century. You are the last of a genetically enhanced group of super-soldiers of the Spartan II project. As the last of these super soldiers you alone wear The Mjolnir enhanced suit that increases your physical prowess through motor assistance. You are hastily removed from a Cryogenic freezer one day to find that the ship you have been traveling through space on, the Pillar of Autumn, is under attack from the Covenant (A conglomerate of several species of extra-terrestrials who have declared war on the Human race after their first inter-galactic settlement was formed) and you have been summoned by the Captain. Upon reaching the office you accept a pistol and an AI program, and are tasked with the protection of the AI because it knows the location of Earth. After battling through the ship and leaving in an escape pod you land on a mysterious ring world. After many days on the ring world you find that the planet is infested with another species of alien and must set upon a mammoth task to destroy the planet to protect the galaxy."
+  },
+  {
+    "title": "Halo 2",
+    "imageUrl": "https://assets-prd.ignimgs.com/2021/12/06/halo2-1638834496220.jpg",
+    "year": "2004",
+    "rating": "4.8",
+    "category": "Video Game",
+    "producer": "Bungie",
+    "description": "After the events on the Forerunner ringworld Halo, Master Chief SPARTAN-117 returns home to Earth with the AI construct Cortana. The war with the Covenant forces is still not going well, despite the destruction of an entire fleet at Halo, but the Master Chief needs a refit. Armed with the Mjolnir Armor Mark VI, he is on his way to a decorations ceremony with the thought-to-be-dead Sergeant Johnson, when Covenant forces emerge from the Slipstream into Earth space. But something is wrong: the fleet is much smaller than the one used to destroy Reach, humanity's former frontline stronghold. The Master Chief and Cortana, along with Commander Miranda Keyes and the crew of In Amber Clad, must fight off the Covenant and protect Earth, a battle that will take them across the galaxy to a new planet, which is disturbingly familiar...Meanwhile, the Prophets, leaders of the Covenant, are not pleased with the Elite Commander that allowed the Master Chief to destroy Halo, and he is branded a heretic. But even Heretics have their uses. He is to become the new Arbiter, a warrior for the Prophets' will, destined to die in glorious battle like all the other Arbiters before him. But deep in the Covenant, rumors are spreading about a Jiralhanae take-over. Can the Arbiter uncover this treachery in time to save the Elites?"
+  },
+  {
     "title": "Halo 3",
     "imageUrl": "https://assetsio.gnwcdn.com/xbox-360-at-10-chasing-1000g-in-halo-3-1448540139573.jpg",
     "year": "2007",

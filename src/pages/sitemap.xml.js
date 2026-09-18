@@ -12,13 +12,13 @@ export async function GET() {
 
   // Get dynamic categories
   const categories = [...new Set(movies.map(m => m.category))];
-  const categoryUrls = categories.map(cat => `/category/${slugify(cat)}`);
+  const categoryUrls = categories.map(cat => `/category/${slugify(cat)}/`);
 
   // Get dynamic movie pages
-  const movieUrls = movies.map(movie => `/entertainment/${slugify(movie.title)}`);
+  const movieUrls = movies.map(movie => `/entertainment/${slugify(movie.title)}/`);
 
   //Get knowledge pages
-  const knowledgeUrls = movies.map(movie => `/entertainment/${slugify(movie.title)}/knowledge`)
+  const knowledgeUrls = movies.map(movie => `/entertainment/${slugify(movie.title)}/knowledge/`)
 
   const allUrls = [...staticPages, ...categoryUrls, ...movieUrls, ...knowledgeUrls];
 

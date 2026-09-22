@@ -16204,5 +16204,2168 @@
     ],
     "description": "Alongside Michael Dorn, Fallout 2's voice cast quietly pulled in Jeffrey Jones, Peter Jason, Kevin Michael Richardson, and Star Trek: The Next Generation's own Dwight Schultz. At the time, video game voice work was still seen as a bit of a novelty gig for actors, so landing this many recognisable names for a 1998 CRPG was a genuinely big deal.",
     "source": "https://www.gamebanshee.com/rhaw"
+  },
+  {
+    "title": "The Biggest Launch Day Entertainment Had Ever Seen",
+    "type": "FACT",
+    "entertainment": ["Halo 2"],
+    "description": "When Halo 2 dropped on 9th November 2004, it pulled in $125 million in a single day across the US and Canada alone, shifting roughly 2.38 million copies before the sun had even properly come up. At the time that beat the opening weekend of every blockbuster movie going, including Spider-Man 2, which is a wild thing for a game to do.",
+    "source": "https://money.cnn.com/2004/11/11/technology/halosales/"
+  },
+  {
+    "title": "The Strategy Guide Outsold Bill Clinton",
+    "type": "FACT",
+    "entertainment": ["Halo 2"],
+    "description": "It wasn't just the game flying off shelves. Prima's official Halo 2 strategy guide sold over 270,000 copies on launch day, which publisher Random House said was its best first-day book sales since Bill Clinton's autobiography came out. A game guide outselling a former president's memoir on day one is a pretty good measure of how big this thing was.",
+    "source": "https://money.cnn.com/2004/11/11/technology/halosales/"
+  },
+  {
+    "title": "GameStop Alone Sold Half a Million Copies",
+    "type": "FACT",
+    "entertainment": ["Halo 2"],
+    "description": "GameStop, on its own, moved more than 500,000 copies of Halo 2 in the first 24 hours, which the chain said was more than any other game had ever managed on its opening day at their stores. Fans had been queuing outside some 7,000 retailers for up to 15 hours beforehand just to get their copy at midnight.",
+    "source": "https://www.nbcnews.com/news/amp/wbna6456214"
+  },
+  {
+    "title": "An ARG Explained the Plot Before You'd Even Played It",
+    "type": "FACT",
+    "entertainment": ["Halo 2"],
+    "description": "During the theatrical trailer campaign for Halo 2, the usual xbox.com web address quietly swapped to ilovebees.com for a split second. Anyone who typed it in found a site that looked like it had been hijacked by an AI, and over the following months it unspooled an entire alternate reality game explaining how the Covenant actually managed to track Earth down, something the first game never answered.",
+    "source": "https://www.imdb.com/title/tt0357718/trivia/"
+  },
+  {
+    "title": "The Rank That Started as a Punishment",
+    "type": "LORE",
+    "entertainment": ["Halo 2", "Halo 3"],
+    "description": "The title of Arbiter wasn't always an honour. It was originally handed to Sangheili warriors as a way to atone for failing the Covenant, and the missions that came with it were basically expected to end in death. Thel 'Vadam only gets the rank in Halo 2 because he let humans destroy the first Halo ring, and for most of the game he's stripped of his own name entirely, only ever addressed as 'the Arbiter' as a mark of disgrace.",
+    "source": "https://www.halopedia.org/Arbiter"
+  },
+  {
+    "title": "He Doesn't Get His Name Back Until the Covenant Falls Apart",
+    "type": "LORE",
+    "entertainment": ["Halo 2"],
+    "description": "Following on from his shame, Thel 'Vadam spends almost the entire game being called nothing but 'the Arbiter' by everyone around him, his real name effectively erased as punishment. It isn't until the Great Schism kicks off and the Sangheili break away from the Prophets that he's finally referred to as Thel again, which the writers use as a neat little signal that he's reclaimed his honour on his own terms.",
+    "source": "https://halo.fandom.com/wiki/Thel_'Vadam"
+  },
+  {
+    "title": "The Civil War That Cracked the Covenant in Half",
+    "type": "LORE",
+    "entertainment": ["Halo 2", "Halo 3"],
+    "description": "The Great Schism kicks off properly in Halo 2 once the Prophet of Truth turns the Brutes against the Elites, trying to have the Sangheili wiped out and replaced as the Covenant's honour guard. It's the event that effectively breaks the Covenant from the inside, and without the Elites switching sides to fight alongside the UNSC afterwards, humanity's odds in the war look a lot grimmer.",
+    "source": "https://www.halopedia.org/Great_Schism"
+  },
+  {
+    "title": "The Hunters-Only Heretics That Never Happened",
+    "type": "FACT",
+    "entertainment": ["Halo 2"],
+    "description": "According to the developer commentary that shipped with Halo 3's Legendary Edition, the Heretic faction you fight in Halo 2's Sacred Icon and Quarantine Zone was originally going to be made up entirely of Hunters, no Grunts or Elites involved at all. It got changed during development, but it's a strange alternate version of that mission to imagine.",
+    "source": "https://tvtropes.org/pmwiki/pmwiki.php/Trivia/Halo2"
+  },
+  {
+    "title": "Sprinting Was Considered Years Before It Became Standard",
+    "type": "FACT",
+    "entertainment": ["Halo 2", "Halo: Reach"],
+    "description": "Long before sprinting became a genre-wide staple thanks to games like Call of Duty 4, and years before Bungie officially added it as an armour ability in Halo: Reach, the mechanic was actually prototyped for Halo 2. It got cut, but leftover animation files for it were still sitting in the game's code the whole time.",
+    "source": "https://tvtropes.org/pmwiki/pmwiki.php/Trivia/Halo2"
+  },
+  {
+    "title": "A Giant Tentacled Flood Boss That Just Freezes When You Kill It",
+    "type": "FACT",
+    "entertainment": ["Halo 2"],
+    "description": "High Charity was originally meant to throw a massive tentacled enemy called the Flood Juggernaut at players. It got cut before release, but the files never left the disc, and if you dig it up through modding tools it's technically still killable. There's just one catch: nobody ever built a death animation for it, so it simply freezes solid the moment it dies.",
+    "source": "https://tcrf.net/Halo_2"
+  },
+  {
+    "title": "The Massive Multiplayer Mode That Got Sacrificed to Save the Game",
+    "type": "FACT",
+    "entertainment": ["Halo 2"],
+    "description": "Halo 2 was originally supposed to bring back the large-scale vehicle warfare mode that had been cut from the first game, under the working name Warfare. As the single-player campaign ran into delay after delay, Warfare got shelved entirely, and it was really only down to multiplayer lead Max Hoberman pushing back that the smaller-scale multiplayer we actually got shipped at all.",
+    "source": "https://www.thegamer.com/halo-2-behind-scenes-trivia/"
+  },
+  {
+    "title": "A Betrayal Scene That Got Cut From the Story",
+    "type": "FACT",
+    "entertainment": ["Halo 2"],
+    "description": "Lead writer Joseph Staten had some far darker ideas for Halo 2's narrative than what made it to the final cut. One dropped scene reportedly had Miranda Keyes strapping a bomb to Master Chief's back and throwing him into a pit, a moment of betrayal that never made it past the drawing board once the deadline crunch really hit.",
+    "source": "https://www.thegamer.com/halo-2-behind-scenes-trivia/"
+  },
+  {
+    "title": "Developers Left Their Diary Entries Buried in the Code",
+    "type": "FACT",
+    "entertainment": ["Halo 2"],
+    "description": "When the Halo 2 Editing Kit finally got released to the public in 2021, modders found the level scripting for every campaign mission still packed with developer comments. Alongside crude jokes and frustrated notes about the AI misbehaving, one designer apparently left a line about looking forward to a vacation once the final boss was finally done and dusted.",
+    "source": "https://tcrf.net/Halo_2"
+  },
+  {
+    "title": "The Vehicles That Never Made It Off the Cutting Room Floor",
+    "type": "FACT",
+    "entertainment": ["Halo 2", "Halo 3", "Halo: Reach"],
+    "description": "Several Warthog variants, including an arctic camo version, a proper transport model, and a small ATV, were all built for Halo 2 and then dropped before launch. They didn't go to waste forever though. The ATV effectively resurfaced as the Mongoose in Halo 3, and the arctic Warthog eventually made it into a Halo 3 map pack years later.",
+    "source": "https://halo.fandom.com/wiki/Halo_2"
+  },
+  {
+    "title": "The Hidden Bungie Co-Founder Standing in a Crowd of Grunts",
+    "type": "EASTER EGG",
+    "entertainment": ["Halo 2"],
+    "description": "Start the campaign level Gravemind on Legendary difficulty and watch the opening cutscene closely. Once the camera pans across the crowd of Grunts inside High Charity, there's a barely visible 2D cutout of a man in gym shorts standing among them with his hands behind his head. It's actually Bungie co-founder Jason Jones, and fans nicknamed him the Half-Naked Guy long before anyone confirmed who he was.",
+    "source": "https://www.vgfacts.com/game/halo2/"
+  },
+  {
+    "title": "The Same Joke Got a Cardboard Sequel",
+    "type": "EASTER EGG",
+    "entertainment": ["Halo 2"],
+    "description": "That same Legendary-only cutscene in Gravemind hides a second gag if you know where to look. Among the Grunts confronting the Brutes, one of them is holding up a small cardboard cutout of Jason Jones's face, a callback to the Half-Naked Guy easter egg tucked into the exact same scene.",
+    "source": "https://www.343industries.org/forum/topic/7050-halo-2-easter-eggs/"
+  },
+  {
+    "title": "A Shark Petting Sign Appears Once a Year",
+    "type": "EASTER EGG",
+    "entertainment": ["Halo 2"],
+    "description": "In the multiplayer map Zanzibar, there's a sign that only changes on January 1st. Load the map on New Year's Day and it swaps to read 'Baby Shark Petting', complete with a little cartoon of a kid petting a grinning shark, then quietly reverts back for the rest of the year.",
+    "source": "https://halo.fandom.com/wiki/Zanzibar_Eggs"
+  },
+  {
+    "title": "Zanzibar Hides an Inside Joke About a Dog's Head in a Jar",
+    "type": "EASTER EGG",
+    "entertainment": ["Halo 2"],
+    "description": "On Bungie Day, the 'No Swimming' sign on Zanzibar gets replaced with a poster of a decapitated dog's head sporting rabbit ears, asking if you've found Ling Ling's head. It sounds bizarre out of context, but it's a nod to a running Bungie studio joke about a dog's head in a jar that a former roommate, a medical student, apparently left behind.",
+    "source": "https://halo.fandom.com/wiki/Zanzibar_Eggs"
+  },
+  {
+    "title": "The Skulls You Collect Started Life on the CD Case",
+    "type": "EASTER EGG",
+    "entertainment": ["Halo 2"],
+    "description": "Flip your original Halo 2 disc case over and look at the bottom right corner. There's a jumble of letters printed there that looks like nonsense at a glance, but it's actually a code representing the fifteen collectible Skulls hidden throughout the campaign, tucked away in plain sight before anyone even knew Skulls were a thing.",
+    "source": "https://eeggs.com/tree/9365.html"
+  },
+  {
+    "title": "Skulls Made Their Debut Right Here",
+    "type": "FACT",
+    "entertainment": ["Halo 2", "Halo 3"],
+    "description": "Every mainline Halo game since has included collectible Skulls scattered through its campaign levels, letting players toggle in modifiers that make runs harder or just plain stranger. That whole tradition, including fan favourites like the dialogue-altering IWHBYD Skull and the notoriously brutal Iron Skull, actually started right here in Halo 2.",
+    "source": "https://gamerant.com/halo-series-best-easter-eggs/"
+  },
+  {
+    "title": "Johnson's Callback to the First Game's Ending",
+    "type": "EASTER EGG",
+    "entertainment": ["Halo 2", "Halo: Combat Evolved"],
+    "description": "In the very first level of Halo 2, Lieutenant Gonzalez asks Sergeant Johnson how on earth he managed to survive Halo. Johnson brushes it off, saying it's classified, and it's a direct little wink back to the legendary ending of the original game, where Johnson is last seen sharing an unlikely hug with an Elite as the ring blows up around them.",
+    "source": "https://eeggs.com/tree/9365.html"
+  },
+  {
+    "title": "A Red vs. Blue Logo Hidden in the World",
+    "type": "EASTER EGG",
+    "entertainment": ["Halo 2"],
+    "description": "Long before Red vs. Blue became a household name in machinima circles, Bungie slipped a hidden nod to Rooster Teeth's logo into Halo 2 itself, tucked away as a little easter egg for anyone paying close enough attention while exploring the game's environments.",
+    "source": "https://eeggs.com/tree/9365.html"
+  },
+  {
+    "title": "An Awkward Moment That Got Carried Over on Purpose",
+    "type": "FACT",
+    "entertainment": ["Halo 2", "Halo: Combat Evolved"],
+    "description": "In the original Halo's ending cutscene, there's a moment where an Elite can be seen grabbing Sergeant Johnson's backside during their farewell hug. It seems 343 Industries noticed the same odd detail, because when Halo: Combat Evolved Anniversary rolled around, they made sure Johnson returned the favour in kind.",
+    "source": "https://gamerant.com/halo-series-best-easter-eggs/"
+  },
+  {
+    "title": "A Rock Legend Recorded the Game's Most Iconic Track",
+    "type": "FACT",
+    "entertainment": ["Halo 2", "Guitar Hero III"],
+    "description": "The Halo Theme MJOLNIR Mix, the electric guitar remix that opens Halo 2's soundtrack, was recorded with guitarist Steve Vai in the room, produced by Chic legend Nile Rodgers while composer Marty O'Donnell looked on. Rodgers has since called the session one of the standout moments of his career, right up there with producing some of his own biggest hits.",
+    "source": "https://www.gamesradar.com/how-an-all-star-musical-lineup-changed-video-game-soundtracks-forever/"
+  },
+  {
+    "title": "You Could Once Download the Halo Theme for Free in a Guitar Game",
+    "type": "FACT",
+    "entertainment": ["Halo 2", "Guitar Hero III"],
+    "description": "Three years after Halo 2 launched, the Halo Theme MJOLNIR Mix was made available as a totally free download for Guitar Hero III: Legends of Rock on Xbox 360, letting players actually strum along to Steve Vai's guitar work note for note instead of just hearing it in cutscenes.",
+    "source": "https://www.halopedia.org/Halo_Theme_MJOLNIR_Mix"
+  },
+  {
+    "title": "The Game Nearly Shipped Without a Polish Pass",
+    "type": "FACT",
+    "entertainment": ["Halo 2"],
+    "description": "In a 2007 interview with Edge magazine, Halo design lead Jaime Griesemer admitted that Halo 2's biggest shortcomings came down to a rushed final stretch of development that skipped the studio's usual polishing period entirely. It's part of why the campaign famously ends on a cliffhanger, with a chunk of the story quietly pushed into what became Halo 3.",
+    "source": "https://www.imdb.com/title/tt0357718/trivia/"
+  },
+  {
+    "title": "The Biggest Entertainment Launch Ever",
+    "type": "FACT",
+    "entertainment": [
+      "Call of Duty: Modern Warfare 3"
+    ],
+    "description": "When MW3 dropped at midnight on 8th November 2011, it didn't just sell well, it broke every record going. In North America and the UK alone it shifted 6.5 million copies and pulled in over $400 million in the first 24 hours, more than any film, album or game had ever managed in a single day.",
+    "source": "https://investor.activision.com/news-releases/news-release-details/call-dutyr-modern-warfarer-3-sets-all-time-record-biggest"
+  },
+  {
+    "title": "Three Quarters Of A Billion In Five Days",
+    "type": "FACT",
+    "entertainment": [
+      "Call of Duty: Modern Warfare 3"
+    ],
+    "description": "The launch-day numbers were only the start. Within five days MW3 had racked up $775 million worldwide, smashing the previous record of $650 million set by Black Ops the year before and putting it on a faster track to a billion dollars than any game before it.",
+    "source": "https://www.cbsnews.com/news/modern-warfare-3-breaks-5-day-record-with-775m"
+  },
+  {
+    "title": "A Hollywood Composer Steps In",
+    "type": "FACT",
+    "entertainment": [
+      "Call of Duty: Modern Warfare 3"
+    ],
+    "description": "For the previous two Modern Warfare games the score came from Hans Zimmer and Lorne Balfe, but for MW3 Activision brought in action-film regular Brian Tyler instead. His bombastic, orchestral style was such a good fit for the globe-trotting story that it's still considered one of the strongest scores in the whole series.",
+    "source": "https://www.movie-wave.net/call-of-duty-modern-warfare-3/"
+  },
+  {
+    "title": "Recorded With A Real Orchestra In Slovakia",
+    "type": "FACT",
+    "entertainment": [
+      "Call of Duty: Modern Warfare 3"
+    ],
+    "description": "Brian Tyler didn't just write the score on a laptop, he flew it out to Slovakia and recorded it live with the Slovak National Symphony Orchestra at Slovak Radio's concert hall, with a full team of orchestrators and arrangers helping shape the final sound.",
+    "source": "https://downloads.khinsider.com/game-soundtracks/album/call-of-duty-modern-warfare-3"
+  },
+  {
+    "title": "Four Studios, One Game",
+    "type": "FACT",
+    "entertainment": [
+      "Call of Duty: Modern Warfare 3"
+    ],
+    "description": "MW3 wasn't just an Infinity Ward game. Sledgehammer Games came on board to help finish the whole project after their own original title got shelved, Raven Software handled the UI and DLC as they usually did, and Treyarch pitched in on multiplayer design, built the Survival mode and even ported the whole thing to Wii.",
+    "source": "https://callofduty.fandom.com/wiki/Call_of_Duty:_Modern_Warfare_3"
+  },
+  {
+    "title": "Renamed Out Of Courtesy",
+    "type": "FACT",
+    "entertainment": [
+      "Call of Duty: Modern Warfare 3"
+    ],
+    "description": "Under the hood MW3 runs on an upgraded version of the same IW engine Infinity Ward had used since Call of Duty 4. Officially it should've been called IW 5.0, but the team called it the \"MW3 engine\" instead, a small nod to Sledgehammer Games given how much work they'd put into the project.",
+    "source": "https://callofduty.fandom.com/wiki/Call_of_Duty:_Modern_Warfare_3"
+  },
+  {
+    "title": "The Kotaku Leak Of Spring 2011",
+    "type": "FACT",
+    "entertainment": [
+      "Call of Duty: Modern Warfare 3"
+    ],
+    "description": "Months before Activision was ready to show anything off, gaming site Kotaku got hold of a huge leak that spilled concept art and most of the campaign's plot onto the internet. Marketing man Robert Bowling had to publicly ask fans to just wait for the real reveal instead of spoiling it for themselves.",
+    "source": "https://tvtropes.org/pmwiki/pmwiki.php/Trivia/CallOfDutyModernWarfare3"
+  },
+  {
+    "title": "Four Cities, Four Teasers",
+    "type": "FACT",
+    "entertainment": [
+      "Call of Duty: Modern Warfare 3"
+    ],
+    "description": "In the wake of the leak, Activision fired back with four separate teaser trailers on the same day, each one built around a different global hotspot from the campaign: New York, London, Paris and Berlin. It was a clever way of turning damage control into a marketing moment.",
+    "source": "https://callofduty.fandom.com/wiki/Call_of_Duty:_Modern_Warfare_3"
+  },
+  {
+    "title": "The Reveal Trailer Leaked Too",
+    "type": "FACT",
+    "entertainment": [
+      "Call of Duty: Modern Warfare 3"
+    ],
+    "description": "Even the big reveal trailer couldn't stay under wraps. It found its way online almost two hours before it was supposed to go live, forcing Activision to just push the official release forward rather than let the leaked copy have the last word.",
+    "source": "https://callofduty.fandom.com/wiki/Call_of_Duty:_Modern_Warfare_3"
+  },
+  {
+    "title": "A Bookshop Full Of Developers",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Call of Duty: Modern Warfare 3"
+    ],
+    "description": "Tucked into an alcove of the Trivo Buchhandlung bookstore during the Berlin mission \"Scorched Earth\" is a shelf display where every book cover is named after someone who worked on the game. One cover stands out from the rest, credited to Guy Beahm alongside a mustache and a pair of sunglasses in a red circle, which just so happens to be the real name and look of streamer Dr DisRespect.",
+    "source": "https://www.vgfacts.com/game/callofdutymodernwarfare3/"
+  },
+  {
+    "title": "The Kremlin Mission That Never Was",
+    "type": "FACT",
+    "entertainment": [
+      "Call of Duty: Modern Warfare 3"
+    ],
+    "description": "Early leaked builds of the campaign included a mission set inside the Kremlin and had series regular Sandman taking part in the final showdown with Makarov. Neither made it into the finished game, but they're a good reminder of how much the story shifted during development.",
+    "source": "https://tvtropes.org/pmwiki/pmwiki.php/Trivia/CallOfDutyModernWarfare3"
+  },
+  {
+    "title": "Frost Almost Made The Final Cut",
+    "type": "FACT",
+    "entertainment": [
+      "Call of Duty: Modern Warfare 3"
+    ],
+    "description": "In the version that shipped, Delta operative Frost is nowhere to be seen when the remnants of Task Force 141 team up for the penultimate mission. Dig through the game's audio files though and there's a leftover line of Price shouting his name, suggesting he was meant to be part of that rescue before the scene got reworked.",
+    "source": "https://tvtropes.org/pmwiki/pmwiki.php/Trivia/CallOfDutyModernWarfare3"
+  },
+  {
+    "title": "The Flashlight That Vanishes",
+    "type": "FACT",
+    "entertainment": [
+      "Call of Duty: Modern Warfare 3"
+    ],
+    "description": "Watch an enemy soldier carrying a tac-light weapon and the beam is right there. Pick that same gun up yourself, though, and the light disappears instantly. It's not a bug so much as a shortcut, the light is actually attached to the enemy character model rather than the weapon itself.",
+    "source": "https://www.vgfacts.com/game/callofdutymodernwarfare3/"
+  },
+  {
+    "title": "Two Spec Ops Missions Left On The Cutting Room Floor",
+    "type": "FACT",
+    "entertainment": [
+      "Call of Duty: Modern Warfare 3"
+    ],
+    "description": "Buried in MW3's game files are references to a pair of Spec Ops missions that never made it to the final roster. Nobody outside the studio ever got to play them, and Infinity Ward never said much about why they were dropped.",
+    "source": "https://www.vgfacts.com/game/callofdutymodernwarfare3/"
+  },
+  {
+    "title": "An Unexpectedly Starry Cast",
+    "type": "FACT",
+    "entertainment": [
+      "Call of Duty: Modern Warfare 3"
+    ],
+    "description": "Plenty of the Delta and SAS soldiers running around MW3's campaign barely get a close-up, but the actors behind them are surprisingly big names. William Fichtner, Idris Elba, Timothy Olyphant, Bruce Greenwood and Barry Pepper all lent their voices to characters who, in most cases, never even get a proper cutscene.",
+    "source": "https://tvtropes.org/pmwiki/pmwiki.php/Trivia/ModernWarfare"
+  },
+  {
+    "title": "Not As American As They Sound",
+    "type": "FACT",
+    "entertainment": [
+      "Call of Duty: Modern Warfare 3"
+    ],
+    "description": "Truck and Corporal Dunn both read as all-American soldiers, but the actors voicing them aren't American at all. Truck is played by British actor Idris Elba, and Dunn is voiced by Canadian actor Barry Pepper, both nailing the accent well enough that most players never clock it.",
+    "source": "https://tvtropes.org/pmwiki/pmwiki.php/Trivia/ModernWarfare"
+  },
+  {
+    "title": "One Actor, Two Characters",
+    "type": "FACT",
+    "entertainment": [
+      "Call of Duty: Modern Warfare 3"
+    ],
+    "description": "Scottish actor Tony Curran pulls double duty in MW3, voicing both Captain MacMillan and Yuri, the new playable character introduced for this game. It's a neat bit of trivia that most players wouldn't spot without checking the credits.",
+    "source": "https://tvtropes.org/pmwiki/pmwiki.php/Trivia/ModernWarfare"
+  },
+  {
+    "title": "Fichtner Plays A Familiar Role",
+    "type": "FACT",
+    "entertainment": [
+      "Call of Duty: Modern Warfare 3"
+    ],
+    "description": "William Fichtner voices Delta operator Sandman in MW3, and it's not the first time he's played this exact type of soldier. In the film Black Hawk Down he portrayed a Delta operator named Sanderson, so the casting almost feels like a knowing callback.",
+    "source": "https://www.imdb.com/title/tt1937113/trivia/"
+  },
+  {
+    "title": "An Oscar-Winning Screenwriter On The Team",
+    "type": "FACT",
+    "entertainment": [
+      "Call of Duty: Modern Warfare 3"
+    ],
+    "description": "MW3's story was co-written by Paul Haggis, the Canadian screenwriter behind Crash and Million Dollar Baby, and the only writer to date to pick up back-to-back Best Picture Oscars. This was his first time writing for a video game.",
+    "source": "https://wiki-origin.giantbomb.com/wiki/People/Paul_Haggis"
+  },
+  {
+    "title": "Jonah Hill And Sam Worthington Sold The Game",
+    "type": "FACT",
+    "entertainment": [
+      "Call of Duty: Modern Warfare 3"
+    ],
+    "description": "The TV advert that helped push MW3 to its record-breaking launch featured Jonah Hill and Sam Worthington blasting their way through a war-torn city rather than any of the game's own cast, leaning hard into star power to grab attention in a crowded holiday season.",
+    "source": "https://gulfnews.com/technology/media/hollywood-hue-visible-on-a-very-modern-warfare-1.955034"
+  },
+  {
+    "title": "Ridley And Tony Scott Got Involved Too",
+    "type": "FACT",
+    "entertainment": [
+      "Call of Duty: Modern Warfare 3"
+    ],
+    "description": "As part of the marketing push around launch, Activision teamed up with directors Tony and Ridley Scott to produce a TV programme called Friday Night Fights, built around highlights from MW3 gameplay rather than anything scripted.",
+    "source": "https://gulfnews.com/technology/media/hollywood-hue-visible-on-a-very-modern-warfare-1.955034"
+  },
+  {
+    "title": "A Chunk Of The Launch Went To Veterans",
+    "type": "FACT",
+    "entertainment": [
+      "Call of Duty: Modern Warfare 3"
+    ],
+    "description": "Alongside announcing the record-breaking sales figures, Activision confirmed it was donating $3 million to the Call of Duty Endowment, the charity it runs to help veterans find work after leaving the military.",
+    "source": "https://www.cbc.ca/news/science/call-of-duty-modern-warfare-3-blasts-sales-record-1.1086129"
+  },
+  {
+    "title": "Three Years Running",
+    "type": "FACT",
+    "entertainment": [
+      "Call of Duty: Modern Warfare 3"
+    ],
+    "description": "MW3 wasn't just breaking its own franchise's records, it marked the third year in a row that a Call of Duty game had set an entertainment industry day-one sales record, following Modern Warfare 2 and Black Ops before it.",
+    "source": "https://www.cbc.ca/news/science/call-of-duty-modern-warfare-3-blasts-sales-record-1.1086129"
+  },
+  {
+    "title": "Survival Mode Makes Its Debut",
+    "type": "FACT",
+    "entertainment": [
+      "Call of Duty: Modern Warfare 3"
+    ],
+    "description": "MW3 was the first Modern Warfare game to add a Survival mode to Spec Ops, letting one or two players hold out against endless waves of enemies rather than just working through set two-player missions.",
+    "source": "https://theboar.org/2011/12/call-duty-modern-warfare-3/"
+  },
+  {
+    "title": "A Very Well-Armed Teddy Bear",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Call of Duty: Modern Warfare 3"
+    ],
+    "description": "On the multiplayer map Lockdown there's a building just outside the normal play area with a window round the back that most players never fly past. Peek through it with a Recon Drone or in Spectator mode and you'll find an oversized teddy bear casually holding a pair of gold Desert Eagles.",
+    "source": "https://callofduty.fandom.com/wiki/Easter_Eggs"
+  },
+  {
+    "title": "Arkaden's Kitchen Has A Secret Too",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Call of Duty: Modern Warfare 3"
+    ],
+    "description": "The food court on the Arkaden map has a window looking into the kitchen, and if you look closely there's another giant teddy bear sitting in there, unarmed this time, clearly a cousin of the one hiding out on Lockdown.",
+    "source": "https://callofduty.fandom.com/wiki/Easter_Eggs"
+  },
+  {
+    "title": "Porter Wuz Here",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Call of Duty: Modern Warfare 3"
+    ],
+    "description": "Keep an eye out on the maps Mission and Downturn and you'll spot a running joke aimed at series artist Jon Porter. On Mission there's graffiti above a teddy bear reading \"Porter wuz here,\" while over on Downturn a subway station carries a movie poster for the fictional film \"Porter Justice 8: Final Justice.\"",
+    "source": "https://callofduty.fandom.com/wiki/Easter_Eggs"
+  },
+  {
+    "title": "The Secret Dance Club",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Halo: Reach"
+    ],
+    "description": "During Never Surrender, if you flip a switch on a far-off platform near the hospital and make your way back to Club Errera, the whole place transforms. Instead of gunfire you get grunts and a Brute DJ spinning 'Siege of Madrigal' like it's the end of the world (which, to be fair, it kind of is). That track's actually a callback to Bungie's old Myth games, so it's been quietly following the studio around for years.",
+    "source": "https://www.theastromech.com/2024/03/halo-reach-easter-eggs.html"
+  },
+  {
+    "title": "Chief's Cameo in the Cryo Pod",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Halo: Reach",
+      "Halo: Combat Evolved"
+    ],
+    "description": "There's a moment aboard the Pillar of Autumn near the end of the campaign where, if you play your cards right during the cutscene, you can spot Master Chief already tucked away in his cryo pod. It's a tiny blink-and-you-miss-it nod that ties Reach's ending directly into the opening of the very first Halo.",
+    "source": "https://gameranx.com/features/id/188166/article/halo-reach-all-the-easter-eggs-youll-want-to-revisit-halo-mcc-secrets-guide/"
+  },
+  {
+    "title": "The Ridge Racer Track",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Halo: Reach"
+    ],
+    "description": "One of the more fiddly secrets in the game unlocks a genuine little race track. You have to stand in two very specific spots and aim your reticule just right, and the payoff is a wink to Ridge Racer. It's the kind of thing that only exists because someone on the dev team clearly loved that series.",
+    "source": "https://gameranx.com/features/id/188166/article/halo-reach-all-the-easter-eggs-youll-want-to-revisit-halo-mcc-secrets-guide/"
+  },
+  {
+    "title": "Makeout Point and the Confused Callouts",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Halo: Reach"
+    ],
+    "description": "Down in the corner of your HUD, next to the minimap, the game names whatever bit of the map you're standing on. Most of these are useful callouts, but a few multiplayer maps hide joke locations tucked into odd corners, like a ledge on Boardwalk nicknamed 'Makeout Point.' Camp in one long enough and you'll pop the Confused Callouts achievement.",
+    "source": "https://gameranx.com/features/id/188166/article/halo-reach-all-the-easter-eggs-youll-want-to-revisit-halo-mcc-secrets-guide/"
+  },
+  {
+    "title": "The Legendary-Only Elite",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Halo: Reach"
+    ],
+    "description": "Crank the difficulty up to Legendary on Winter Contingency and there's a one-off Elite roaming the level that simply doesn't show up on any other setting. Most players never see it because, well, not many people finish the opening mission on the hardest difficulty just to poke around.",
+    "source": "https://gameranx.com/features/id/188166/article/halo-reach-all-the-easter-eggs-youll-want-to-revisit-halo-mcc-secrets-guide/"
+  },
+  {
+    "title": "A Nametag for the Composer",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Halo: Reach"
+    ],
+    "description": "Keep an eye on your fireteam roster in a few missions and you might spot a soldier tagged 'MRTY,' with 'O-Donnell' printed underneath. It's a little in-joke honouring Marty O'Donnell, the composer behind the game's score and pretty much the entire Halo sound.",
+    "source": "https://segmentnext.com/halo-reach-easter-eggs-guide/"
+  },
+  {
+    "title": "A Mountain Shaped Like a Skull",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Halo: Reach"
+    ],
+    "description": "Spawn in the coliseum area of Forge World and fly out toward the snow-capped peak in the distance. From the right angle, the whole mountain reads as a giant skull. It's not tied to any achievement or unlock, it's purely there for anyone curious enough to go look.",
+    "source": "https://segmentnext.com/halo-reach-easter-eggs-guide/"
+  },
+  {
+    "title": "Hidden Binary Reading 'Dave'",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Halo: Reach"
+    ],
+    "description": "Zoom in with any weapon that doesn't have a proper scope and look at the bottom-left of the screen. There's a scrap of binary code sitting there that, once decoded, just spells out the name 'Dave.' Nobody's ever nailed down who Dave actually is, which somehow makes it funnier.",
+    "source": "https://segmentnext.com/halo-reach-easter-eggs-guide/"
+  },
+  {
+    "title": "A Face on the Shotgun",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Halo: Reach"
+    ],
+    "description": "Look closely at the base of the shotgun's handle in first person and there's a tiny face moulded into the design. It's the kind of detail an artist slips in knowing full well most players are too busy shooting things to notice.",
+    "source": "https://segmentnext.com/halo-reach-easter-eggs-guide/"
+  },
+  {
+    "title": "Golden Bullets from the DMR",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Halo: Reach"
+    ],
+    "description": "Fire the DMR enough times in a row and every so often a shot will come out gold instead of the usual tracer colour. Whatever it hits lights up with a little glow for a moment afterward. It doesn't do anything extra damage-wise, it's purely a cosmetic surprise for anyone burning through a lot of ammo.",
+    "source": "https://segmentnext.com/halo-reach-easter-eggs-guide/"
+  },
+  {
+    "title": "Buck Makes a Cameo",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Halo: Reach",
+      "Halo 3: ODST"
+    ],
+    "description": "While guarding the Falcon during New Alexandria, keep listening and you'll catch Sergeant Buck's voice chiming in over the radio, on loan from ODST. He also shows up as one of the selectable Firefight voices, so his lines followed the game long after the campaign wrapped.",
+    "source": "https://segmentnext.com/halo-reach-easter-eggs-guide/"
+  },
+  {
+    "title": "The Miniature Skirmisher",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Halo: Reach"
+    ],
+    "description": "Tucked away in Winter Contingency is a tiny, scaled-down Skirmisher model that takes two players working together to actually reach. Once the civilians clear out of the building near your objective, a crouch-jump onto a ledge gets you close enough to spot it.",
+    "source": "https://segmentnext.com/halo-reach-easter-eggs-guide/"
+  },
+  {
+    "title": "Halsey's Hidden Laboratory",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Halo: Reach"
+    ],
+    "description": "The Package hides one of the campaign's most involved secrets: a whole sequence of steps that leads to a concealed lab belonging to Dr. Halsey. Find it and you're rewarded with seven terminals worth of extra story, which is a lot of effort for something most players will completely walk past.",
+    "source": "https://www.theastromech.com/2024/03/halo-reach-easter-eggs.html"
+  },
+  {
+    "title": "A Hornet Hidden in the Jet Pack",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Halo: Reach"
+    ],
+    "description": "Fire up your jet pack and hover in place, then flip over to Theater mode and take a look. There's a tiny painted Hornet graphic on the pack itself, a nod to the vehicle from earlier Halo games that never made it into Reach as a flyable ride.",
+    "source": "https://segmentnext.com/halo-reach-easter-eggs-guide/"
+  },
+  {
+    "title": "Secret Messages Written on the Bomb",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Halo: Reach",
+      "Halo 2",
+      "Halo 3"
+    ],
+    "description": "Pick up the bomb in Assault and there's a chance it'll have something scrawled on the casing. It rotates through a handful of lines, including 'Thus I Refute Thee' and 'Kiss It Goodbye,' a running gag that Bungie carried across three games rather than just the one.",
+    "source": "https://www.vgfacts.com/game/haloreach/"
+  },
+  {
+    "title": "Reach Almost Wasn't Made",
+    "type": "FACT",
+    "entertainment": [
+      "Halo: Reach"
+    ],
+    "description": "Bungie's original plan after Halo 3 was to wrap the trilogy up properly with a Halo 4. They scrapped that in favour of a prequel instead, mostly because it let them build something with a clean slate rather than being on the hook to tie up every loose thread left dangling from Halo 3's ending.",
+    "source": "https://tvtropes.org/pmwiki/pmwiki.php/Trivia/HaloReach"
+  },
+  {
+    "title": "The Scarab Ending That Never Was",
+    "type": "FACT",
+    "entertainment": [
+      "Halo: Reach"
+    ],
+    "description": "There was a point in development where New Alexandria was supposed to end with Noble Team hijacking a Covenant Scarab and driving it straight out of the burning city, with the player actually piloting the thing. It got cut, and honestly the final version of that mission is intense enough without it.",
+    "source": "https://tvtropes.org/pmwiki/pmwiki.php/Trivia/HaloReach"
+  },
+  {
+    "title": "A Speedboat That Got Left Behind",
+    "type": "FACT",
+    "entertainment": [
+      "Halo: Reach"
+    ],
+    "description": "Concept art and some leaked demo footage show off a vehicle nicknamed the 'Warthog of the Seas,' basically a Warthog reimagined as a speedboat with a turret bolted on. It never shipped, but it's a fun glimpse at how much got tried and thrown out before the game went gold.",
+    "source": "https://tvtropes.org/pmwiki/pmwiki.php/Trivia/HaloReach"
+  },
+  {
+    "title": "Noble Team Almost Had a Seventh Member",
+    "type": "FACT",
+    "entertainment": [
+      "Halo: Reach"
+    ],
+    "description": "Sara Sorvad, the orphaned civilian you meet in the opening level, was originally meant to stick around and travel with Noble Team as a science advisor for the rest of the campaign. That thread got dropped early, and she never appears again after Winter Contingency in the final game.",
+    "source": "https://tvtropes.org/pmwiki/pmwiki.php/Trivia/HaloReach"
+  },
+  {
+    "title": "A Nightclub Built From Old Bones",
+    "type": "FACT",
+    "entertainment": [
+      "Halo: Reach",
+      "Halo 3"
+    ],
+    "description": "Club Errera in New Alexandria isn't a brand new layout, it's actually built on top of the Tayari Plaza map from Halo 3, just redressed and repurposed. Reusing the geometry saved the team time while still giving the level a totally different mood.",
+    "source": "https://tvtropes.org/pmwiki/pmwiki.php/Trivia/HaloReach"
+  },
+  {
+    "title": "Achievements That Add Up to Seven",
+    "type": "FACT",
+    "entertainment": [
+      "Halo: Reach"
+    ],
+    "description": "Reach originally shipped with 49 achievements, and that number wasn't picked at random. Bungie has a long-running soft spot for the number seven across their games, and 7 times 7 landing on 49 achievements was very much on purpose rather than a coincidence.",
+    "source": "https://bungie.fandom.com/wiki/Halo:_Reach"
+  },
+  {
+    "title": "They're Standing in the Order They Die",
+    "type": "LORE",
+    "entertainment": [
+      "Halo: Reach"
+    ],
+    "description": "There's a well-known promotional shot of Noble Team lined up together, and once you've finished the campaign it's hard to unsee it: the order they're standing in from left to right matches the order each of them dies over the course of the story. Nobody's confirmed it was deliberate, but it's a grim little detail once you notice it.",
+    "source": "https://halo.fandom.com/wiki/Noble_Team"
+  },
+  {
+    "title": "Halsey's Journal Planted the First Clue",
+    "type": "LORE",
+    "entertainment": [
+      "Halo: Reach",
+      "Halo: The Fall of Reach"
+    ],
+    "description": "Long before it was ever spelled out in later books and games, Dr. Halsey's personal journal entries were the first real hint that fans picked up on suggesting she was Miranda Keyes' mother. It stayed as fan theory territory for a while before eventually being confirmed properly.",
+    "source": "https://tvtropes.org/pmwiki/pmwiki.php/Trivia/HaloReach"
+  },
+  {
+    "title": "Two Actors, One Spartan",
+    "type": "FACT",
+    "entertainment": [
+      "Halo: Reach"
+    ],
+    "description": "Noble Six doesn't have a single fixed voice. Pick the male version at the start of the game and you get Philip Anthony-Rodriguez, pick the female version and it's Amanda Philipson instead, both fully recorded so the choice actually changes every line of dialogue you hear.",
+    "source": "https://hero.fandom.com/wiki/Noble_Six"
+  },
+  {
+    "title": "The Man Behind Jorge",
+    "type": "FACT",
+    "entertainment": [
+      "Halo: Reach"
+    ],
+    "description": "Jorge-052, the big, gentle heavy weapons guy of Noble Team, was voiced by Hakeem Kae-Kazim. He went on to reprise the role for Jorge's later appearances outside Reach too, so it's the same voice carrying the character across more than one game.",
+    "source": "https://www.behindthevoiceactors.com/video-games/Halo-Reach/Chief-Warrant-Officer-Jorge-052-Noble-5/"
+  },
+  {
+    "title": "The Mac RTS That Never Was",
+    "type": "FACT",
+    "entertainment": ["Halo: Combat Evolved"],
+    "description": "Before it was ever an FPS, Halo was pitched as a real-time strategy title for the Mac, and it was actually shown off on stage by Steve Jobs at Macworld Expo back in 1999. Microsoft bought Bungie not long after and the whole project got rebuilt from the ground up as an Xbox launch title.",
+    "source": "https://www.imdb.com/title/tt0309654/trivia/"
+  },
+  {
+    "title": "Third Person to First Person",
+    "type": "FACT",
+    "entertainment": ["Halo: Combat Evolved"],
+    "description": "Halo didn't start as a shooter at all. It moved from real-time strategy to third-person, and it was only once Bungie couldn't get precise aiming working in third-person view that they switched the whole game to first-person, which ended up defining the series forever.",
+    "source": "https://tvtropes.org/pmwiki/pmwiki.php/Trivia/HaloCombatEvolved"
+  },
+  {
+    "title": "Master Chief Wasn't Always a Giant",
+    "type": "FACT",
+    "entertainment": ["Halo: Combat Evolved"],
+    "description": "Master Chief wasn't always the hulking Spartan super-soldier fans know now. In early builds he was just a regular cyborg exploring the ring, and it took a good chunk of development before he got scaled up into the icon on the box art.",
+    "source": "https://www.thegamer.com/things-you-never-knew-halo-combat-evolved/"
+  },
+  {
+    "title": "Why It's Not Just Called Halo",
+    "type": "FACT",
+    "entertainment": ["Halo: Combat Evolved"],
+    "description": "Ever wondered why the game isn't just called Halo? Microsoft got nervous that a single-word title referencing a religious symbol might raise eyebrows, so Combat Evolved got bolted on at the last minute to make it read a bit less like scripture and a bit more like an action game.",
+    "source": "https://tropedia.fandom.com/wiki/Halo:_Combat_Evolved/Trivia"
+  },
+  {
+    "title": "Five Months to Build a Campaign",
+    "type": "FACT",
+    "entertainment": ["Halo: Combat Evolved"],
+    "description": "The entire single-player campaign was built in roughly five months because of a hard deadline from Microsoft, and it shows if you pay attention — several of the later levels literally reuse earlier layouts run in reverse, because there simply wasn't time to build new spaces for the back half of the game.",
+    "source": "https://tvtropes.org/pmwiki/pmwiki.php/Trivia/HaloCombatEvolved"
+  },
+  {
+    "title": "The Script Was Barely There",
+    "type": "FACT",
+    "entertainment": ["Halo: Combat Evolved"],
+    "description": "As late as mid-2001, only months before launch, the vast majority of the game's script hadn't even been finished, which says a lot about how chaotic and last-minute the final stretch of Halo's development really was.",
+    "source": "https://tvtropes.org/pmwiki/pmwiki.php/Trivia/HaloCombatEvolved"
+  },
+  {
+    "title": "From Cult Studio to Household Name",
+    "type": "FACT",
+    "entertainment": ["Halo: Combat Evolved"],
+    "description": "Before Halo turned Bungie into a household name, they were a respected but fairly niche studio best known for the Marathon and Myth series. Halo was the game that catapulted them from cult favourite to mainstream giant almost overnight.",
+    "source": "https://tvtropes.org/pmwiki/pmwiki.php/Trivia/HaloCombatEvolved"
+  },
+  {
+    "title": "PC Ports Got a Secret Flamethrower",
+    "type": "FACT",
+    "entertainment": ["Halo: Combat Evolved"],
+    "description": "The PC and Mac ports snuck in a bit of bonus content for multiplayer that console players never got, including a flamethrower that had been cut from the main game at the last minute, plus the ability to use Banshees and a rocket-launcher-armed Warthog in matches.",
+    "source": "https://www.mobygames.com/game/5368/halo-combat-evolved/trivia/"
+  },
+  {
+    "title": "The Composer Voiced the Monsters",
+    "type": "FACT",
+    "entertainment": ["Halo: Combat Evolved"],
+    "description": "Composer Marty O'Donnell didn't just score the game — his own voice was recorded and processed to create the guttural sound effects used for Hunters, Jackals and the Flood, so in a strange way the monsters of Halo all share one vocal cord.",
+    "source": "https://tvtropes.org/pmwiki/pmwiki.php/Trivia/HaloCombatEvolved"
+  },
+  {
+    "title": "One Man, Every Grunt",
+    "type": "FACT",
+    "entertainment": ["Halo: Combat Evolved"],
+    "description": "Joseph Staten, who directed the game's cutscenes, also lent his voice to every single Grunt in Combat Evolved, a role he kept returning to across the series and only skipped once, for Halo 4.",
+    "source": "https://tvtropes.org/pmwiki/pmwiki.php/Trivia/HaloCombatEvolved"
+  },
+  {
+    "title": "Nobody Predicted the LAN Party",
+    "type": "FACT",
+    "entertainment": ["Halo: Combat Evolved"],
+    "description": "Bungie genuinely didn't expect anyone outside of college dorms with existing network setups to bother with System Link multiplayer, which is why the feature only supports linking four Xbox consoles together. Nobody predicted people would happily lug their TVs to a friend's house for it.",
+    "source": "https://www.imdb.com/title/tt0309654/trivia/"
+  },
+  {
+    "title": "8,000 Lines of Combat Chatter",
+    "type": "FACT",
+    "entertainment": ["Halo: Combat Evolved"],
+    "description": "There's an enormous amount of unscripted-sounding chatter buried in the game — north of 8,000 individual lines of dialogue that fire off randomly during firefights, which is a big part of why the marines and grunts feel so alive in combat.",
+    "source": "https://halo.fandom.com/wiki/Halo:_Combat_Evolved"
+  },
+  {
+    "title": "The Box Art Gets the Banshee Wrong",
+    "type": "FACT",
+    "entertainment": ["Halo: Combat Evolved"],
+    "description": "Look closely at the original box art and you'll spot a mistake — the Banshees are drawn hovering with nobody in the cockpit and firing narrow laser beams, when in the actual game they always need a pilot and fire chunky plasma orbs instead.",
+    "source": "https://halo.fandom.com/wiki/Halo:_Combat_Evolved"
+  },
+  {
+    "title": "The E3 Demo Had No AI",
+    "type": "FACT",
+    "entertainment": ["Halo: Combat Evolved"],
+    "description": "The flashy E3 demo that first showed off Halo to the world was smoke and mirrors in one big way — none of the enemies or allies on screen were actually running on AI, every bit of their movement was pre-scripted for the presentation.",
+    "source": "https://halo.fandom.com/wiki/Halo:_Combat_Evolved"
+  },
+  {
+    "title": "The Unused Pink Blob Enemy",
+    "type": "FACT",
+    "entertainment": ["Halo: Combat Evolved"],
+    "description": "Buried in the game's code is a scrapped enemy called the Engineer, a small, pink, blob-like creature that just floats around aimlessly. It was never meant to be seen by players and can only be summoned using a mod chip, but it matches a creature glimpsed in some of Halo's earliest pre-release footage.",
+    "source": "https://www.mobygames.com/game/5368/halo-combat-evolved/trivia/"
+  },
+  {
+    "title": "Buy One, Heck, Buy Two",
+    "type": "FACT",
+    "entertainment": ["Halo: Combat Evolved"],
+    "description": "If you played through the old PC demo to the very end, you'd get a 49-second faux-infomercial narrated in character by Sergeant Johnson, cheerfully hard-selling you on buying the full retail release, tongue firmly in cheek.",
+    "source": "https://www.mobygames.com/game/5368/halo-combat-evolved/trivia/"
+  },
+  {
+    "title": "A Must-Play, By the Book",
+    "type": "FACT",
+    "entertainment": ["Halo: Combat Evolved"],
+    "description": "Combat Evolved didn't just define a console generation, it earned a lasting spot in the book 1001 Video Games You Must Play Before You Die, sitting alongside decades of gaming history as one of the titles considered genuinely essential.",
+    "source": "https://www.mobygames.com/game/5368/halo-combat-evolved/trivia/"
+  },
+  {
+    "title": "A Love Letter in Bullet Holes",
+    "type": "EASTER EGG",
+    "entertainment": ["Halo: Combat Evolved"],
+    "description": "One of the developers snuck a personal touch into the very first level. Turn on your own marines on the bridge and a squad of elites gets sent in to deal with you. Survive them, push into the room they came from, and you'll find the letter M shot into the wall in bullet holes, a quiet nod to someone's girlfriend.",
+    "source": "https://www.thegamer.com/hidden-things-halo-series/"
+  },
+  {
+    "title": "REX Written in Blood",
+    "type": "EASTER EGG",
+    "entertainment": ["Halo: Combat Evolved"],
+    "description": "During the frantic final Warthog dash off the exploding Pillar of Autumn, if you're brave enough to ignore the countdown and take a detour instead, there's a hidden side room with the word REX scrawled across the walls in blood, one of the more unsettling little secrets in the game.",
+    "source": "https://strategywiki.org/wiki/Halo:_Combat_Evolved/Secrets"
+  },
+  {
+    "title": "A Missing Cat Called Jonesy",
+    "type": "EASTER EGG",
+    "entertainment": ["Halo: Combat Evolved"],
+    "description": "The bulletin board you pass early on the Pillar of Autumn is worth a proper read. Tucked among the notices is a callback to Bungie's old office address and a cheeky nod to Alien, complete with a missing cat poster for one Jonesy, the same name as the ship's cat in Ridley Scott's film.",
+    "source": "https://www.343industries.org/forum/topic/7036-halo-combat-evolved-easter-eggs/"
+  },
+  {
+    "title": "Stowing Away on the Dropship",
+    "type": "EASTER EGG",
+    "entertainment": ["Halo: Combat Evolved"],
+    "description": "In the level where you're hunting for Captain Keyes in the swamp, there's a spot where staying completely still and mashing the grenade button the moment Foe Hammer mentions the last transmission will let the dropship take off again with you still aboard, giving you a short bonus flight before it eventually crashes.",
+    "source": "https://strategywiki.org/wiki/Halo:_Combat_Evolved/Secrets"
+  },
+  {
+    "title": "The Rings Were Never About the War",
+    "type": "LORE",
+    "entertainment": ["Halo: Combat Evolved"],
+    "description": "The rings were never a weapon aimed at the Covenant or humanity specifically. They were the Forerunners' final, horrifying failsafe against the Flood, designed to starve the parasite out by erasing every sentient species in range that could act as a host, a scale of sacrifice the game only hints at until deep in the campaign.",
+    "source": "https://halopedia.org/343_Guilty_Spark"
+  },
+  {
+    "title": "A Hundred Thousand Years Alone",
+    "type": "LORE",
+    "entertainment": ["Halo: Combat Evolved"],
+    "description": "That chattering floating light that helps you through the second half of the campaign isn't some throwaway NPC. He's a Forerunner Monitor who has been alone, tending to Installation 04, for something like a hundred thousand years, which goes a long way toward explaining his slightly unhinged cheerfulness.",
+    "source": "https://halo.fandom.com/wiki/343_Guilty_Spark"
+  },
+  {
+    "title": "Guilty Spark's Great Escape",
+    "type": "LORE",
+    "entertainment": ["Halo: Combat Evolved", "Halo 2"],
+    "description": "The game's final post-credits shot isn't just a throwaway sting. It shows Guilty Spark surviving the ring's destruction and making his own way through space to the nearest Forerunner outpost, a gas mining facility that would go on to become a full location in Halo 2.",
+    "source": "https://halopedia.org/Special:MobileDiff/159823"
+  },
+  {
+    "title": "Pepe Started Out as a Doodle in a Notebook",
+    "type": "FACT",
+    "entertainment": [
+      "World of Warcraft"
+    ],
+    "description": "That little bird everyone begs to sit on their head wasn't planned content at all. Artist Jordan Powers had been sketching him as a personal doodle for years before he snuck a 3D version into a Warlords of Draenor garrison asset, and the team almost cut him during review. A developer spotted him at the last minute and decided to let players put him on their heads instead, and the rest is community history.",
+    "source": "https://gamesbeat.com/world-of-warcrafts-pepe-the-bird-goes-from-lark-to-phenomenon/"
+  },
+  {
+    "title": "The Goblin Beach Resort Nobody Asked For",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "World of Warcraft"
+    ],
+    "description": "Down in the Steam Pools of southern Feralas there's a fully staffed goblin holiday resort, complete with sunbathing NPCs and a self-styled celebrity adventurer called Johnny Awesome soaking up the atmosphere. None of them have quests to give, they just exist to grumble about how overpriced the drinks are if you strike up a conversation.",
+    "source": "https://www.gamespot.com/gallery/22-world-of-warcraft-easter-eggs-and-secrets/2900-375/"
+  },
+  {
+    "title": "The Ruins Hiding Under Old Darkshore",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "World of Warcraft"
+    ],
+    "description": "South of Lor'danel in pre-Cataclysm Darkshore sits an unremarkable whirlpool that most players swam straight past for years. Jump into it, though, and you get pulled down into a forgotten underground ruin full of Highborne spirits and the bones of a long-dead demon hunter, tucked away with no quest marker pointing you anywhere near it.",
+    "source": "https://mein-mmo.de/en/5-secret-places-in-world-of-warcraft-that-you-have-never-been-to,1204991/"
+  },
+  {
+    "title": "The Architect's Locked Hammer",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "World of Warcraft"
+    ],
+    "description": "In the heart of Blackrock Mountain stands a statue of Franclorn Forgewright, the dwarf who designed much of Blackrock Depths, holding an empty grip built to fit his hammer Ironfel. Slot the weapon in and it locks permanently into the monument, unlocking a hidden key compartment in the base, but the moment anyone tries to pry the hammer back out, both it and the statue shatter for good.",
+    "source": "https://warcraft.wiki.gg/wiki/Franclorn_Forgewright"
+  },
+  {
+    "title": "The Ashbringer Quest Was Fan Fiction First",
+    "type": "FACT",
+    "entertainment": [
+      "World of Warcraft"
+    ],
+    "description": "For years the Ashbringer sat in players' hands with no proper quest attached, which didn't stop an early forum post from inventing an entire made-up quest line to obtain it out of thin air. The story spread as if it were real, and it took roughly two decades before Blizzard finally gave the sword a genuine questline in Season of Discovery, quietly closing the loop on a myth their own community had written for them.",
+    "source": "https://mein-mmo.de/en/wow-after-20-years-the-ashbringer-finally-gets-a-quest,1240107/"
+  },
+  {
+    "title": "Thunderfury Was Forged From a Captured God",
+    "type": "LORE",
+    "entertainment": [
+      "World of Warcraft"
+    ],
+    "description": "Long before it became one of vanilla WoW's signature legendary swords, Thunderfury's power came from Thunderaan, Prince of Air, who was defeated by Ragnaros and his lieutenants and had his essence sealed into a talisman split in two. Ages later a devoted follower fused the halves back together and, unable to fully free his master, poured what remained of him into a blade instead.",
+    "source": "https://www.giantbomb.com/thunderfury-blessed-blade-of-the-windseeker/93-3464/"
+  },
+  {
+    "title": "Ironfoe Passed Down Through One Family for Generations",
+    "type": "LORE",
+    "entertainment": [
+      "World of Warcraft"
+    ],
+    "description": "The orc-slaying hammer Ironfoe was one of two twin weapons crafted by Franclorn Forgewright, who kept its sister hammer Ironfel for himself and gifted Ironfoe to an ancestor of Marshal Reginald Windsor. It stayed in that bloodline for generations until Windsor himself eventually took it up, giving one of vanilla's most sought-after weapons a genuine family history behind it.",
+    "source": "https://warcraft.wiki.gg/wiki/Notable_weapons"
+  },
+  {
+    "title": "How Mankrik's Wife Became a Meme",
+    "type": "FACT",
+    "entertainment": [
+      "World of Warcraft"
+    ],
+    "description": "A simple early Barrens quest asked Horde players to track down an orc named Mankrik's missing wife, but his directions were so vague that thousands of confused low-levels ended up asking for her location in general chat, over and over, for years. The joke outlived the actual quest, which was eventually removed, though her grave still sits near Grol'dom Farm for anyone curious enough to go looking.",
+    "source": "https://www.engadget.com/tag/bonestorm"
+  },
+  {
+    "title": "That Time Chuck Norris Got His Own WoW Commercial",
+    "type": "FACT",
+    "entertainment": [
+      "World of Warcraft"
+    ],
+    "description": "The 'Chuck Norris facts' craze had already taken over general chat in low-level zones for years by the time Blizzard decided to have some fun with it. In 2011 they cast the actual Chuck Norris in one of their celebrity-themed WoW commercials, leaning directly into the exaggerated meme format the community had been running with all along.",
+    "source": "https://knowyourmeme.com/memes/6349"
+  },
+  {
+    "title": "Becoming a Pirate Costs You Everywhere Else",
+    "type": "FACT",
+    "entertainment": [
+      "World of Warcraft"
+    ],
+    "description": "Earning reputation with the Bloodsail Buccaneers means grinding down your standing with every neutral goblin settlement in the game, since the fastest route is simply killing Booty Bay's guards over and over. Get in deep enough and you'll be attacked on sight in Booty Bay, Ratchet, and Gadgetzan, locked out of their auction houses and flight paths, all just to earn a pirate hat and matching parrot pet.",
+    "source": "https://www.warcrafttavern.com/wow-classic/guides/bloodsail-buccaneers-reputation-guide/"
+  },
+  {
+    "title": "The Subscriber Record Nobody Has Beaten Since",
+    "type": "FACT",
+    "entertainment": [
+      "World of Warcraft"
+    ],
+    "description": "In October 2010, right as Wrath of the Lich King launched in mainland China, Blizzard confirmed WoW's global subscriber base had crossed 12 million players, a figure that still stands as the Guinness World Record for the most popular subscription-based video game ever. The numbers have never come close to that peak since, but the record has never been beaten either.",
+    "source": "https://www.guinnessworldrecords.com/world-records/116965-most-popular-subscription-based-videogame-ever"
+  },
+  {
+    "title": "The Real Person Behind 'Ghostcrawler'",
+    "type": "FACT",
+    "entertainment": [
+      "World of Warcraft"
+    ],
+    "description": "For years, the WoW community's most argued-with developer wasn't known by his real name at all. Lead systems designer Greg Street posted under the handle Ghostcrawler on the official forums, fielding endless class-balance complaints, and only became widely known by his actual name after leaving Blizzard for Riot Games in 2013.",
+    "source": "https://www.mcvuk.com/development/world-of-warcraft-designer-ghostcrawler-to-depart-blizzard"
+  },
+  {
+    "title": "Illidan's Most Famous Line Wasn't Meant to Be a Joke",
+    "type": "FACT",
+    "entertainment": [
+      "World of Warcraft"
+    ],
+    "description": "When Illidan Stormrage bellowed 'You are not prepared!' in The Burning Crusade's cinematic trailer, it was supposed to be a menacing warning from one of Azeroth's most powerful villains. Instead the line got mocked so relentlessly by players who felt perfectly prepared, thank you, that it became one of the most quoted pieces of dialogue in the game's entire history.",
+    "source": "https://gamersdecide.com/articles/illidan-stormrage-best-quotes"
+  },
+  {
+    "title": "Classic Servers Only Happened Because Fans Wouldn't Let It Go",
+    "type": "FACT",
+    "entertainment": [
+      "World of Warcraft"
+    ],
+    "description": "A rogue private server called Nostalrius pulled in over 150,000 active players running an unofficial version of vanilla WoW before Blizzard shut it down and got hit with a genuinely furious backlash, including a petition that raced past 280,000 signatures. Rather than let the demand fade, Blizzard eventually built its own official version, and WoW Classic launched to massive queues in August 2019.",
+    "source": "https://massivelyop.com/2019/08/26/wow-classic-launch/"
+  },
+  {
+    "title": "Deathwing Physically Cracked the Map Open",
+    "type": "LORE",
+    "entertainment": [
+      "World of Warcraft"
+    ],
+    "description": "When the corrupted dragon aspect Deathwing tore his way back into Azeroth to kick off Cataclysm, he didn't just show up as a raid boss, he actually reshaped the overworld itself. Zones like the Barrens were split in half, coastlines were redrawn, and Azeroth's original launch-era map became permanently different from the one players had known for the game's first six years.",
+    "source": "https://warcraft.wiki.gg/wiki/Cataclysm"
+  },
+  {
+    "title": "The Warcraft Movie's Director Was Already a Diehard Player",
+    "type": "FACT",
+    "entertainment": [
+      "World of Warcraft",
+      "Warcraft (film)"
+    ],
+    "description": "Duncan Jones wasn't a hired gun who learned the lore for a paycheck, he'd been playing every Warcraft game since the original 1994 strategy title and rolled a human warrior as his first WoW character. He's also David Bowie's son, and by his own account he showed his father an early cut of the film's effects shots shortly before Bowie passed away in 2016, just months before the movie's release.",
+    "source": "https://twinfinite.net/2016/05/warcraft-director-showed-his-father-david-bowie-an-early-cut-of-the-film/"
+  },
+  {
+    "title": "Loque'nahak, the Pet Hunters Camped for Weeks",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "World of Warcraft"
+    ],
+    "description": "Wandering Sholazar Basin was a glowing, spectral snow leopard named Loque'nahak, the very first tamable spirit beast ever added to the game, and its rarity turned it into an instant obsession among hunters. Some players genuinely spent weeks circling the zone on repeat just for a shot at taming it, and even years later, showing up in Dalaran with one on your side was still enough to draw a crowd.",
+    "source": "https://blizzardwatch.com/2015/05/29/locked-loaded-rare-pets-thing-past/"
+  },
+  {
+    "title": "Franclorn Forgewright Built the City He Now Haunts",
+    "type": "LORE",
+    "entertainment": [
+      "World of Warcraft"
+    ],
+    "description": "Before he was a ghost handing out quests in Blackrock Mountain, Franclorn Forgewright was the celebrated Dark Iron architect responsible for the Stonewrought Dam and much of Blackrock Depths itself. He watched Ragnaros's corruption spread through his own people and, believing he had no other choice, stood by as the very city he'd designed became a prison for his kind.",
+    "source": "https://warcraft.wiki.gg/wiki/Franclorn_Forgewright"
+  },
+  {
+    "title": "Deathwing's Reveal Trailer Set Stormwind on Fire",
+    "type": "LORE",
+    "entertainment": [
+      "World of Warcraft"
+    ],
+    "description": "Deathwing had technically existed in Warcraft lore for years, but Cataclysm was the expansion that finally let him take centre stage, bursting up through Stormwind's streets and setting the world on fire in the announcement cinematic. It marked one of the few times an expansion's central villain had already been a fully established character rather than a brand-new threat introduced from scratch.",
+    "source": "https://warcraft.wiki.gg/wiki/Deathwing"
+  },
+  {
+    "title": "Turning the Barrens Into a Running Joke",
+    "type": "FACT",
+    "entertainment": [
+      "World of Warcraft"
+    ],
+    "description": "Because nearly every Horde player levelled through the Barrens between roughly level 10 and 20, general chat in that one zone became infamous for repetitive spam, bad jokes, and trolling, to the point where 'Barrens chat' turned into shorthand across the whole community for exactly that kind of chaos. It's calmed down a lot since dungeon finders stopped funnelling everyone through the same zone, but Classic servers brought the old chaos right back.",
+    "source": "https://warcraft.wiki.gg/wiki/Barrens_chat"
+  },
+  {
+    "title": "FDR's D-Day Prayer Opens the Game",
+    "type": "FACT",
+    "entertainment": ["Call of Duty: World at War"],
+    "description": "The D-Day mission actually opens with a real excerpt from Franklin D. Roosevelt's famous D-Day Prayer speech playing over black-and-white footage before the fighting even starts. It's a proper gut-punch of an intro for a game that gets a lot bleaker before the credits roll.",
+    "source": "https://callofduty.fandom.com/wiki/D-Day_(mission)/Transcript"
+  },
+  {
+    "title": "Truman Closes Out the Whole War",
+    "type": "FACT",
+    "entertainment": ["Call of Duty: World at War"],
+    "description": "The final mission ends with a recording of President Truman's actual voice talking about Germany's surrender and the bombing of Hiroshima, right before the screen just states plainly that 60 million people died in the war. No triumphant music, no victory lap - just a gut-check ending.",
+    "source": "https://callofduty.fandom.com/wiki/Downfall_(campaign)"
+  },
+  {
+    "title": "Der Riese Was Group 935's Real HQ",
+    "type": "LORE",
+    "entertainment": ["Call of Duty: World at War"],
+    "description": "Der Riese isn't just a random zombie map - lore-wise it's the actual main base of operations for Group 935, the shady organisation behind the whole 115/zombie experiment storyline. The name translates to 'The Giant,' and it's set near Breslau in what's now Poland.",
+    "source": "https://callofduty.fandom.com/wiki/Der_Riese"
+  },
+  {
+    "title": "Embrace the Trinity",
+    "type": "EASTER EGG",
+    "entertainment": ["Call of Duty: World at War"],
+    "description": "Scrawled on the wall near the Mainframe platform in Der Riese is the line 'Embrace the trinity and true power will be yours' - a not-so-subtle hint that linking all three teleporters is what unlocks the Pack-a-Punch machine behind it.",
+    "source": "https://callofduty.fandom.com/wiki/Der_Riese/Trivia"
+  },
+  {
+    "title": "Fluffy the Dog Started the Hellhound Program",
+    "type": "LORE",
+    "entertainment": ["Call of Duty: World at War"],
+    "description": "According to the in-game lore, Hellhounds exist because Samantha's dog Fluffy got shoved into a teleporter during 'Test 6' instead of a human subject, and came out the other side as a zombie dog. Dark stuff for a mode that started as a joke minigame.",
+    "source": "https://call-of-duty-nazi-zombies.fandom.com/wiki/Der_Riese"
+  },
+  {
+    "title": "Play Hide and Seek With a Ghost",
+    "type": "EASTER EGG",
+    "entertainment": ["Call of Duty: World at War"],
+    "description": "Shoot a control panel on one of the pillars in Der Riese with a Pack-a-Punched weapon and objects around the map start floating away, kicking off a proper little hide-and-seek game where you have to track down and shoot two teddy bears and a Monkey Bomb hidden around the level.",
+    "source": "https://nazizombies.fandom.com/wiki/Der_Riese"
+  },
+  {
+    "title": "The FRA, ENG, GER Planks",
+    "type": "EASTER EGG",
+    "entertainment": ["Call of Duty: World at War"],
+    "description": "Dotted around Der Riese are three wooden planks marked FRA, ENG and GER - widely believed to be a hint that Group 935 set up teleporters in France, England and Germany too, well beyond the one map you're actually playing.",
+    "source": "https://nazizombies.fandom.com/wiki/Der_Riese"
+  },
+  {
+    "title": "Free Perks for a Well-Thrown Monkey",
+    "type": "EASTER EGG",
+    "entertainment": ["Call of Duty: World at War"],
+    "description": "If you throw a Monkey Bomb into one of Der Riese's teleporters and activate it immediately, it unlocks a hidden launch control panel. Hit the green button on it and you get all four perks in the map for free - a proper reward for a trick almost nobody stumbles onto by accident.",
+    "source": "https://www.funtrivia.com/trivia-quiz/VideoGames/Call-of-Duty-Zombies-Der-Riese-for-Beginners-395118.html"
+  },
+  {
+    "title": "Der Riese's Own Spelling Mistake",
+    "type": "FACT",
+    "entertainment": ["Call of Duty: World at War"],
+    "description": "On the poster included with the later Rezurrection map pack, Der Riese is actually misspelled as 'Der Reise' - which translates to 'The Travel' instead of 'The Giant.' The same typo somehow made its way into Black Ops III's Zombies Chronicles years later, so somebody clearly never noticed.",
+    "source": "https://callofduty.fandom.com/wiki/Der_Riese/Trivia"
+  },
+  {
+    "title": "The Asylum Was Once Wittenau Sanatorium",
+    "type": "LORE",
+    "entertainment": ["Call of Duty: World at War"],
+    "description": "Verrückt is set in Wittenau Sanatorium, a former German asylum that the Nazis apparently repurposed - which explains the straitjackets, restraints, and unsettling gurneys scattered around what's otherwise a fairly cramped little zombie map.",
+    "source": "https://nazizombies.fandom.com/wiki/Verr%C3%BCckt"
+  },
+  {
+    "title": "Verrückt's Sprinting Zombies",
+    "type": "FACT",
+    "entertainment": ["Call of Duty: World at War"],
+    "description": "The original World at War version of Verrückt had a unique breed of zombie that outright sprinted faster than the player, nicknamed 'Verrückt sprinters' by the community. They were quietly removed in later re-releases to bring the difficulty down a notch.",
+    "source": "https://nazizombies.fandom.com/wiki/Verr%C3%BCckt"
+  },
+  {
+    "title": "Unattended Children Sold to the Circus",
+    "type": "EASTER EGG",
+    "entertainment": ["Call of Duty: World at War"],
+    "description": "There's a genuinely funny poster on one of the balconies in Verrückt written in German that translates to 'Unattended children will be immediately sold to the circus.' Bit of dark comic relief hidden in an otherwise pretty grim map.",
+    "source": "https://callofduty.fandom.com/wiki/Verr%C3%BCckt/Trivia"
+  },
+  {
+    "title": "Sobbing Behind the Power Room Door",
+    "type": "EASTER EGG",
+    "entertainment": ["Call of Duty: World at War"],
+    "description": "Open the door left of the Power Room in Verrückt and you can hear the sound of a young boy quietly sobbing on the other side. It's one of a handful of unsettling ambient audio cues scattered around the asylum that most players just assume is a zombie growl and move on.",
+    "source": "https://callofduty.fandom.com/wiki/Verr%C3%BCckt/Trivia"
+  },
+  {
+    "title": "A Sneaky Waltz Playing Through the Speakers",
+    "type": "EASTER EGG",
+    "entertainment": ["Call of Duty: World at War"],
+    "description": "Turn the power on in Verrückt and sprint up to one of the balconies and you'll catch a warped, distorted version of a stock track called 'Valse' drifting out of the wall speakers. It's easy to mistake for a glitch rather than an actual hidden bit of sound design.",
+    "source": "https://callofduty.fandom.com/wiki/Verr%C3%BCckt/Trivia"
+  },
+  {
+    "title": "Ghosts Haunt the Reichstag Too",
+    "type": "EASTER EGG",
+    "entertainment": ["Call of Duty: World at War"],
+    "description": "During the Downfall mission inside the Reichstag, you can hear the exact same eerie shrieks, roars and ghostly laughter that show up on the Verrückt zombies map. It's a strange, spooky bit of audio overlap between the grounded campaign and the far more supernatural side mode.",
+    "source": "https://callofduty.fandom.com/wiki/Downfall_(campaign)"
+  },
+  {
+    "title": "You Can Shoot Down the Reichstag Eagle",
+    "type": "EASTER EGG",
+    "entertainment": ["Call of Duty: World at War"],
+    "description": "There's a huge Nazi eagle hanging above the chairman's seats inside the Reichstag during Downfall, and if you blast it down with a Panzerschreck, Reznov will actually notice and comment on it. Small touch, but it shows the level of detail Treyarch put into reactive dialogue.",
+    "source": "https://callofduty.fandom.com/wiki/Downfall_(campaign)"
+  },
+  {
+    "title": "Chernov's Secret Diary",
+    "type": "LORE",
+    "entertainment": ["Call of Duty: World at War"],
+    "description": "Pvt. Chernov, one of the Soviet squadmates, secretly keeps a diary throughout the campaign. Reznov actually catches him writing in it at one point, snatches it away, and tells him to 'fight like a man' instead - a small character beat that a lot of players miss entirely.",
+    "source": "https://www.funtrivia.com/quizzes/video_games/call_of_duty_games/call_of_duty_world_at_war.html"
+  },
+  {
+    "title": "You Play as Two Very Different Soldiers",
+    "type": "FACT",
+    "entertainment": ["Call of Duty: World at War"],
+    "description": "The campaign splits between Pvt. C. Miller of the US Marines in the Pacific and Dimitri Petrenko of the Red Army on the Eastern Front. One of them survives to the credits, and one very much doesn't - a bleaker structure than the earlier games in the series went for.",
+    "source": "https://www.funtrivia.com/trivia-quiz/VideoGames/Call-of-Duty-World-at-War-316360.html"
+  },
+  {
+    "title": "The M1 Garand's Sniper Scope Quirk",
+    "type": "FACT",
+    "entertainment": ["Call of Duty: World at War"],
+    "description": "In multiplayer, the M1 Garand is oddly the only rifle in its weapon class that can be fitted with a sniper scope attachment, unlocked after the flash hider, bayonet and rifle grenade. A neat little outlier buried in the game's weapon progression.",
+    "source": "https://www.funtrivia.com/quizzes/video_games/call_of_duty_games/call_of_duty_world_at_war.html"
+  },
+  {
+    "title": "Verrückt Started Life on iPhone Too",
+    "type": "FACT",
+    "entertainment": ["Call of Duty: World at War"],
+    "description": "Verrückt wasn't just console and PC DLC - it also launched as a $4.99 standalone add-on for the Call of Duty: World at War: Zombies app on iPhone, complete with nine new weapons and its own set of 13 achievements bolted on for mobile players.",
+    "source": "https://kotaku.com/call-of-duty-world-at-war-zombies-verruckt-micro-revi-5480026"
+  },
+  {
+    "title": "The Hats That Started It All",
+    "type": "FACT",
+    "entertainment": ["RuneScape"],
+    "description": "Party hats go all the way back to 24th December 2001, when Jagex dropped Christmas crackers across the world and let players pull them together for a random coloured hat. They don't give a single stat bonus — they're purely cosmetic — which makes it even funnier that they've since become the ultimate symbol of old-school wealth in the game.",
+    "source": "https://runescape.wiki/w/Partyhats"
+  },
+  {
+    "title": "A Hat Drawn by the Man Himself",
+    "type": "FACT",
+    "entertainment": ["RuneScape"],
+    "description": "The original party hat sprites were drawn by Ian Gower, one of the founding artists behind the game, and he's said in interviews that he considers them the most coveted thing he's ever drawn — which is a pretty wild legacy for a doodle that started as a one-day Christmas freebie.",
+    "source": "https://classic.runescape.wiki/w/Party_Hat"
+  },
+  {
+    "title": "Pink Grew Up and Became Purple",
+    "type": "FACT",
+    "entertainment": ["RuneScape"],
+    "description": "In the original RuneScape Classic, what we now call the purple partyhat was actually called the pink party hat, and it genuinely looked more magenta than purple. When RuneScape 2 launched, Jagex nudged the colour slightly and renamed it, and the pink version just quietly stopped existing.",
+    "source": "https://runescape.wiki/w/Purple_partyhat"
+  },
+  {
+    "title": "The Dupe That Devalued the Rarest Hat",
+    "type": "FACT",
+    "entertainment": ["RuneScape"],
+    "description": "The purple partyhat used to be the single rarest and most valuable of the original six, but a duplication exploit known as the Great Party Hat Dupe flooded the market with extra copies, and it's been the cheapest of the bunch ever since.",
+    "source": "https://classic.runescape.wiki/w/Party_Hat"
+  },
+  {
+    "title": "There's an Even Older Discontinued Item",
+    "type": "FACT",
+    "entertainment": ["RuneScape"],
+    "description": "As legendary as party hats are, they're not actually the oldest discontinued item in RuneScape's history — that title belongs to the pumpkin, which narrowly beats them to the punch on the game's timeline.",
+    "source": "https://runescape.wiki/w/Red_partyhat"
+  },
+  {
+    "title": "The Mahjarrat Weren't Always Zaros's People",
+    "type": "LORE",
+    "entertainment": ["RuneScape", "Old School RuneScape"],
+    "description": "Before they became Zaros's most feared soldiers, the Mahjarrat actually served the Menaphite death-god Icthlarin, who's the one who brought them to Gielinor in the first place. They eventually abandoned him entirely and threw their loyalty behind Zaros instead, which is honestly a pretty brutal way to repay the guy who gave you a home.",
+    "source": "https://runescape.wiki/w/Mahjarrat"
+  },
+  {
+    "title": "Zamorak Started Out as Somebody's General",
+    "type": "LORE",
+    "entertainment": ["RuneScape", "Old School RuneScape"],
+    "description": "Zamorak wasn't born a god of chaos — he was originally just a Mahjarrat who worked his way up through the ranks of Zaros's empire to become its top general, before turning on his own master and usurping him to seize godhood for himself. That betrayal is literally what ended the Second Age and kicked off the God Wars.",
+    "source": "https://oldschool.runescape.wiki/w/Zamorak"
+  },
+  {
+    "title": "A Ritual That Runs on an Honesty System",
+    "type": "LORE",
+    "entertainment": ["RuneScape"],
+    "description": "The Mahjarrat's Ritual of Rejuvenation is said to happen roughly every 500 years when certain celestial bodies align, but here's the twist — that 500-year gap isn't some cosmic law, it's just an agreement the Mahjarrat made among themselves. Which raises the question of whether the timing even matters, or if they just like a round number.",
+    "source": "https://runescape.fandom.com/wiki/Ritual_of_Rejuvenation"
+  },
+  {
+    "title": "A Homeworld Nobody Really Understands",
+    "type": "LORE",
+    "entertainment": ["RuneScape", "Old School RuneScape"],
+    "description": "The Mahjarrat originally hail from a plane called Freneskae, and according to the Wise Old Man himself, almost nothing concrete is actually known about it beyond its nickname: the realm of perpetual warfare. Even the spelling of the name is described in-game as only an approximation.",
+    "source": "https://oldschool.runescape.wiki/w/Freneskae"
+  },
+  {
+    "title": "The Tribe Got Very Small, Very Fast",
+    "type": "LORE",
+    "entertainment": ["RuneScape"],
+    "description": "After everything that's happened across the God Wars and beyond, there are only nine known living Mahjarrat left on Gielinor following the Battle of the Monolith, not even counting Zamorak, Moia, or Azzanadra separately. For a race that once shaped the fate of an empire, that's a pretty thin remaining roster.",
+    "source": "https://runescape.wiki/w/Mahjarrat"
+  },
+  {
+    "title": "The Barrows Brothers Used to Just Be Farmers",
+    "type": "LORE",
+    "entertainment": ["RuneScape", "Old School RuneScape"],
+    "description": "Long before they were undead bosses guarding treasure in Morytania, the Barrows Brothers were six ordinary farmer siblings from a small village. It's a genuinely dark backstory too, tangled up in a love triangle, a jealous murder, and a drunken bar fight, before a mysterious stranger swooped in and offered them power in exchange for their loyalty.",
+    "source": "https://oldschool.runescape.wiki/w/Barrows"
+  },
+  {
+    "title": "The 'Mysterious Stranger' Had a Name All Along",
+    "type": "LORE",
+    "entertainment": ["RuneScape", "Old School RuneScape"],
+    "description": "That shadowy figure who granted the Barrows Brothers their power and armour and then quietly followed their army into Morytania was Sliske the whole time. He let them believe they were serving Saradomin right up until they'd worn themselves out fighting Lord Drakan's forces, at which point he revealed his true colours and claimed them as his own.",
+    "source": "https://runescape.fandom.com/wiki/Barrows_brothers"
+  },
+  {
+    "title": "The Six Aren't Always Just Six",
+    "type": "LORE",
+    "entertainment": ["RuneScape"],
+    "description": "The classic six Barrows Brothers eventually got two extra members bolted onto the group — Akrisae the Doomed, converted after intercepting a spell meant for a player, and Linza the Disgraced, added following a later quest. Neither of them shows up in every version of the fight though, so plenty of players have no idea the six were ever an eight.",
+    "source": "https://runescape.wiki/w/Barrows_brothers"
+  },
+  {
+    "title": "Naming Order Isn't Random",
+    "type": "FACT",
+    "entertainment": ["RuneScape", "Old School RuneScape"],
+    "description": "If you've ever wondered why the Barrows Brothers list runs Ahrim, Dharok, Guthan, Karil, Torag, Verac — it's not alphabetical by coincidence and it's not random either, it actually tracks their ages from the oldest brother down to the youngest.",
+    "source": "https://oldschool.runescape.wiki/w/Barrows_brothers"
+  },
+  {
+    "title": "Half a Set Isn't Good Enough",
+    "type": "FACT",
+    "entertainment": ["Old School RuneScape"],
+    "description": "Each Barrows equipment set comes with its own unique special effect, but here's the catch: you only get it if you're wearing every single piece of that brother's full four-item set at once. Mix and match with other gear and the bonus just doesn't trigger.",
+    "source": "https://oldschool.runescape.wiki/w/Barrows"
+  },
+  {
+    "title": "Jad Punishes You for Blinking",
+    "type": "FACT",
+    "entertainment": ["Old School RuneScape"],
+    "description": "TzTok-Jad, the final boss of the Fight Caves, only telegraphs which attack it's about to use through its animation — there's no health bar warning or obvious tell beyond that. You've got to watch closely and switch your protection prayer in real time, and getting it wrong even once against Jad can be enough to end your entire run.",
+    "source": "https://alk12.runehq.com/monster/tokhaar-jad"
+  },
+  {
+    "title": "Beating Seven Jads at Once Has a Trick",
+    "type": "FACT",
+    "entertainment": ["Old School RuneScape"],
+    "description": "The Fight Kiln throws multiple TokHaar-Jads at you across its later waves, which sounds like an absolute nightmare, but there's a known positioning trick where standing at a specific corner of the central rock stops the second Jad from ever being able to reach you, letting you fight them essentially one at a time.",
+    "source": "https://alk12.runehq.com/monster/tokhaar-jad"
+  },
+  {
+    "title": "Guthan's Grief Started a Holy War",
+    "type": "LORE",
+    "entertainment": ["RuneScape", "Old School RuneScape"],
+    "description": "The whole reason the Barrows Brothers ended up on their doomed crusade traces back to one very bad night — Guthan, convinced his love Isolde had abandoned him, got drunk and killed a Saradominist commander in a bar brawl. Terrified of the consequences, he talked his brothers into joining a holy war as a way of escaping his own guilt.",
+    "source": "https://informer.rsbandb.com/?p=11971"
+  },
+  {
+    "title": "Their Weapons Were Never Really a Gift",
+    "type": "LORE",
+    "entertainment": ["RuneScape", "Old School RuneScape"],
+    "description": "The Barrows equipment that made the six brothers seem practically unbeatable in battle wasn't blessed by Saradomin at all — it was handed to them by Sliske, and it came with strings attached that none of them realised until it was far too late to back out.",
+    "source": "https://oldschool.runescape.wiki/w/Barrows"
+  },
+  {
+    "title": "Death Wasn't the End of Their Service",
+    "type": "LORE",
+    "entertainment": ["RuneScape", "Old School RuneScape"],
+    "description": "When the Barrows Brothers finally died of their wounds after the Morytania Campaign, that wasn't actually the end of the story — an ancient spell tied to Sliske's bargain kept their wights bound to their burial mounds, forcing them to guard their own treasure for what's effectively been eternity ever since.",
+    "source": "https://oldschool.runescape.wiki/w/Barrows"
+  },
+  {
+    "title": "Built, Not CGI'd",
+    "type": "FACT",
+    "entertainment": [
+      "One Piece Live Action"
+    ],
+    "description": "Almost every ship you see in the show is a real, physical build rather than a green-screen job. Showrunner Matt Owens has said the Going Merry and the other vessels were constructed at roughly three-quarter scale, which still made them genuinely enormous to work with on set.",
+    "source": "https://remezcla.com/?p=356264"
+  },
+  {
+    "title": "Cape Town Doubles as the Grand Line",
+    "type": "FACT",
+    "entertainment": [
+      "One Piece Live Action"
+    ],
+    "description": "The bulk of Season 1 was shot at Cape Town Film Studios in South Africa. The location wasn't random either, the crew there had already worked on pirate-heavy productions before and had ships and rigging expertise ready to go.",
+    "source": "https://sg.news.yahoo.com/where-netflixs-one-piece-filmed-121400645.html"
+  },
+  {
+    "title": "Recycled from Black Sails",
+    "type": "FACT",
+    "entertainment": [
+      "One Piece Live Action"
+    ],
+    "description": "A chunk of the show's nautical hardware isn't new at all. Director Steven Maeda has talked about repurposing ships and set pieces left behind from the Starz pirate drama Black Sails, which had also filmed in the same Cape Town facilities years earlier.",
+    "source": "https://www.screenglobalproduction.com/news/2023/09/05/netflix-one-piece-adaptation-filming-locations-south-africa"
+  },
+  {
+    "title": "Oda's Own Costume Designs",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "One Piece Live Action"
+    ],
+    "description": "The Straw Hats aren't just wearing generic pirate gear. Several of their outfits, including looks for Luffy, Nami, Zoro, Usopp and Sanji, were pulled straight from color spread artwork that creator Eiichiro Oda drew for the manga's cover pages.",
+    "source": "https://beebom.com/one-piece-live-action-easter-eggs/"
+  },
+  {
+    "title": "A Crowd of Cameos at Roger's Execution",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "One Piece Live Action"
+    ],
+    "description": "The opening execution scene in Loguetown is stacked with blink-and-you'll-miss-them appearances. Younger versions of Mihawk, Shanks, Buggy, Smoker and even Monkey D. Dragon are all tucked into the crowd if you know where to look.",
+    "source": "https://screenrant.com/one-piece-netflix-easter-eggs-anime/"
+  },
+  {
+    "title": "Binks' Sake, Years Early",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "One Piece Live Action"
+    ],
+    "description": "During young Luffy's flashback, while Shanks stitches up his cheek, there's a quiet instrumental of the pirate shanty Binks' Sake playing in the background. In the source material that song doesn't properly show up until way later, so hearing it here is a neat little nod that rewards long-time readers.",
+    "source": "https://beebom.com/one-piece-live-action-easter-eggs/"
+  },
+  {
+    "title": "Mihawk's Boat Sneaks In Anyway",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "One Piece Live Action"
+    ],
+    "description": "Fans were bummed the show skipped Mihawk's famous solo arrival at the Baratie, but his little ship, the Hitsugibune, actually does appear. It's docked quietly among other boats in Loguetown during the very first minutes of the pilot.",
+    "source": "https://beebom.com/one-piece-live-action-easter-eggs/"
+  },
+  {
+    "title": "Nami's Battle-Axe Alter Ego",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "One Piece Live Action"
+    ],
+    "description": "Nami's first outfit in the live-action isn't a fresh design, it's based on one of Oda's earliest concepts for the character, back when he'd toyed with the idea of her being a cyborg who fought with a battle-axe.",
+    "source": "https://beebom.com/one-piece-live-action-easter-eggs/"
+  },
+  {
+    "title": "A Wanted Poster for a Future Pirate Prince",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "One Piece Live Action"
+    ],
+    "description": "Keep an eye on the background wanted posters and you'll spot a torn one reading '...endish' with a familiar face. That's Cavendish of the White Horse, a character who won't actually show up in the story proper until much later arcs.",
+    "source": "https://beebom.com/one-piece-live-action-easter-eggs/"
+  },
+  {
+    "title": "Nami's Notebook Has Wano In It",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "One Piece Live Action"
+    ],
+    "description": "While Nami flips through her cartography notes after swiping a ship from the Buggy Pirates, one page briefly shows a sketch of Wano, complete with a mountain resembling Fuji and a town resembling Ebisu, arcs that were, at the time, still years away from being adapted.",
+    "source": "https://beebom.com/one-piece-live-action-easter-eggs/"
+  },
+  {
+    "title": "Bellamy and Foxy Get an Early Tease",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "One Piece Live Action"
+    ],
+    "description": "Two future antagonists, Bellamy the Hyena and Foxy the Silver Fox, both get foreshadowed through wanted posters glimpsed in the background, bounty amounts and all, long before either of them actually appears as a villain.",
+    "source": "https://beebom.com/one-piece-live-action-easter-eggs/"
+  },
+  {
+    "title": "Mr. 7 Finally Gets a Face",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "One Piece Live Action"
+    ],
+    "description": "In the manga, the Baroque Works agent Mr. 7 is only ever mentioned as someone Zoro killed before the story even started, and readers only saw what he looked like thanks to a sketch Oda included in an SBS column years later. The live-action actually brings that obscure design to the screen.",
+    "source": "https://beebom.com/one-piece-live-action-easter-eggs/"
+  },
+  {
+    "title": "Fleet Admiral Kong's Credits Cameo",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "One Piece Live Action"
+    ],
+    "description": "Commander in Chief Kong, a Marine leader who barely got screen time even in the original anime, shows up as a name and logo tucked into the end credits, a small hat-tip that most casual viewers would sail right past.",
+    "source": "https://beebom.com/one-piece-live-action-easter-eggs/"
+  },
+  {
+    "title": "The Revolutionary Army, Hiding in a Newspaper",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "One Piece Live Action"
+    ],
+    "description": "When Kaya reads a newspaper about Luffy's first bounty, sharp-eyed viewers can spot the Revolutionary Army's logo printed in the corner, and if you zoom in further, the name Monkey D. Dragon is legible too.",
+    "source": "https://beebom.com/one-piece-live-action-easter-eggs/"
+  },
+  {
+    "title": "The Baratie's Walls Tell Their Own Stories",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "One Piece Live Action"
+    ],
+    "description": "The restaurant set is covered in paintings that reference real locations and events from later in the story, including the island of rare animals where Gaimon lives and a giant squid connected to the whale Laboon, all hanging there long before those places matter to the plot.",
+    "source": "https://beebom.com/one-piece-live-action-easter-eggs/"
+  },
+  {
+    "title": "The Shimotsuki Crest Behind Zoro's Duel",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "One Piece Live Action"
+    ],
+    "description": "During the flashback to Zoro's childhood duel with Kuina, there's a flag in the background bearing the Shimotsuki family crest, a detail that only pays off once you know how deeply that family ties into Zoro's history in Wano.",
+    "source": "https://beebom.com/one-piece-live-action-easter-eggs/"
+  },
+  {
+    "title": "Every Title Card Is a Jolly Roger",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "One Piece Live Action"
+    ],
+    "description": "Each episode opens with its own distinct title card built around the personal Jolly Roger of whichever crew is central to that episode, whether that's the Straw Hats or one of the various pirate gangs they run into.",
+    "source": "https://beebom.com/one-piece-live-action-easter-eggs/"
+  },
+  {
+    "title": "Zoro's Piercings Are the Real Deal",
+    "type": "FACT",
+    "entertainment": [
+      "One Piece Live Action"
+    ],
+    "description": "Mackenyu didn't wear fake piercings to match Zoro's look, he actually went and got his ears pierced for the role, positioning them to line up exactly with the swordsman's design from the manga and anime.",
+    "source": "https://www.ranker.com/list/one-piece-live-action-bts-facts/krysta-pae"
+  },
+  {
+    "title": "A Sword Built for Biting",
+    "type": "FACT",
+    "entertainment": [
+      "One Piece Live Action"
+    ],
+    "description": "Zoro's signature Three Sword Style meant Mackenyu needed to convincingly hold a blade in his mouth, so the production had a special sword made just to fit safely between his teeth for those shots.",
+    "source": "https://www.ranker.com/list/one-piece-live-action-bts-facts/krysta-pae"
+  },
+  {
+    "title": "Taz Skylar Threw Every One of Sanji's Kicks Himself",
+    "type": "FACT",
+    "entertainment": [
+      "One Piece Live Action"
+    ],
+    "description": "Taz Skylar has said he came into the show with zero martial arts background, so he put himself through roughly eight hours of training a day to get there. By his own account, every single kick Sanji throws on screen is genuinely his, with no CGI leg work involved.",
+    "source": "https://mein-mmo.de/sanji-training-fuer-die-netflix-serie-zu-one-piece/"
+  },
+  {
+    "title": "Sanji Trained Like a Chef Too",
+    "type": "FACT",
+    "entertainment": [
+      "One Piece Live Action"
+    ],
+    "description": "Because so much of Sanji's identity is tied to food, Taz Skylar didn't just train in taekwondo and MMA before filming, he also spent time training with an actual chef so his cooking scenes would feel authentic rather than staged.",
+    "source": "https://www.thewrap.com/one-piece-cast-character-guide-netflix"
+  },
+  {
+    "title": "Oda Watched the Audition Tapes Himself",
+    "type": "FACT",
+    "entertainment": [
+      "One Piece Live Action"
+    ],
+    "description": "Eiichiro Oda reportedly reviewed Iñaki Godoy's Zoom audition tape personally, and told the actor later that the moment he saw it he started laughing because Godoy looked exactly like the Luffy he'd drawn, and he couldn't picture anyone else in the role.",
+    "source": "https://www.adn40.mx/pop/one-piece-quien-es-inaki-godoy-el-mexicano-que-da-vida-a-luffy"
+  },
+  {
+    "title": "'The Blonde at Table 8' Became a Convention Costume",
+    "type": "FACT",
+    "entertainment": [
+      "One Piece Live Action"
+    ],
+    "description": "Taz Skylar has talked about being genuinely surprised that a throwaway pre-fight line about 'the blonde at table 8' turned into a running joke among fans, some of whom now dress up as the line itself at conventions and quote it back to him.",
+    "source": "https://web.de/magazine/unterhaltung/filme-serien-kino/one-piece-star-taz-skylar-raeumt-filmset-papa-41988874"
+  },
+  {
+    "title": "A Full-Scale Fleet for Season 1",
+    "type": "FACT",
+    "entertainment": [
+      "One Piece Live Action"
+    ],
+    "description": "For the first season the production didn't stop at one hero ship, they built life-size versions of the Going Merry, Shanks' Red Force, and Alvida's duck-shaped Miss Love Duck, all constructed on the same lot in Cape Town.",
+    "source": "https://www.oneesports.gg/anime/one-piece-live-action-ships-going-merry/"
+  },
+  {
+    "title": "A Record-Breaking Budget, According to Its Producer",
+    "type": "FACT",
+    "entertainment": [
+      "One Piece Live Action"
+    ],
+    "description": "Tomorrow Studios producer Marty Adelstein suggested during production that the show's spending could end up making it one of the most expensive television dramas ever made, largely thanks to the scale of the practical ships and sets.",
+    "source": "https://www.oneesports.gg/anime/one-piece-live-action-ships-going-merry/"
+  },
+  {
+    "title": "170-Plus VFX Shots Just for the Ships",
+    "type": "FACT",
+    "entertainment": [
+      "One Piece Live Action"
+    ],
+    "description": "Visual effects studio Rising Sun Pictures handled over 170 shots for Season 1, and a lot of that work went into scanning the real, on-set Going Merry through photogrammetry so they could build a matching digital version for wider shots and stunts.",
+    "source": "https://awn.com/news/rising-sun-sets-sail-one-piece-vfx"
+  },
+  {
+    "title": "A 2,000-Frame Opening Built From Scratch",
+    "type": "FACT",
+    "entertainment": [
+      "One Piece Live Action"
+    ],
+    "description": "The show's title sequence, which sweeps over a pirate map before settling on Loguetown harbour, was an entirely digital build running roughly 2,000 frames, populated with more than 20 individual ships crafted by the visual effects team.",
+    "source": "https://awn.com/news/rising-sun-sets-sail-one-piece-vfx"
+  },
+  {
+    "title": "Season 2 Sets Sail for the Grand Line",
+    "type": "LORE",
+    "entertainment": [
+      "One Piece Live Action"
+    ],
+    "description": "Season 2, subtitled Into the Grand Line, moves the Straw Hats past Reverse Mountain and into locations like Whiskey Peak, Little Garden and Loguetown itself, taking the story from the East Blue into the far more dangerous waters beyond.",
+    "source": "https://us.oricon-group.com/news/6243/"
+  },
+  {
+    "title": "Laboon Bookends the Season 2 Trailer",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "One Piece Live Action"
+    ],
+    "description": "The teaser for the second season opens and closes with the mournful cry of Laboon, the giant whale who guards the entrance to the Grand Line, a nod fans of the manga picked up on immediately given how central that whale becomes to the crew's journey.",
+    "source": "https://nerdist.com/article/every-manga-anime-easter-egg-one-piece-season-2-teaser-trailer/"
+  },
+  {
+    "title": "Loguetown's Nickname Gets a Visual Nod",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "One Piece Live Action"
+    ],
+    "description": "One shot in the Season 2 trailer echoes Loguetown's nickname from the manga, the Town of Beginnings and Endings, referencing the fact that it's both the birthplace and execution site of the legendary pirate king Gol D. Roger.",
+    "source": "https://nerdist.com/article/every-manga-anime-easter-egg-one-piece-season-2-teaser-trailer/"
+  },
+  {
+    "title": "Pandaman Sneaks Aboard Again",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "One Piece Live Action"
+    ],
+    "description": "Oda has hidden his self-insert character Pandaman in nearly every chapter of the manga for decades, and the live-action keeps the tradition alive, slipping him into the background more than once, including as a teddy bear a background character is seen carrying in Loguetown.",
+    "source": "https://beebom.com/netflixs-one-piece-season-2-easter-eggs/"
+  },
+  {
+    "title": "Doskoi Panda Turns Up on Sanji's Apron",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "One Piece Live Action"
+    ],
+    "description": "Sanji is spotted wearing an apron featuring Doskoi Panda, another one of Oda's recurring in-universe mascots, while cooking aboard the Going Merry, a small but deliberate touch for readers who know to look for it.",
+    "source": "https://beebom.com/netflixs-one-piece-season-2-easter-eggs/"
+  },
+  {
+    "title": "Celestial Dragon Families Get Name-Checked Early",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "One Piece Live Action"
+    ],
+    "description": "Season 2's first episode quietly teases property belonging to the Manmayer and Figarland families in Loguetown, two of the powerful Celestial Dragon bloodlines, with Figarland notably being the family Shanks himself comes from.",
+    "source": "https://beebom.com/netflixs-one-piece-season-2-easter-eggs/"
+  },
+  {
+    "title": "Oda's Pirate Obsession Started With a Viking",
+    "type": "FACT",
+    "entertainment": ["One Piece"],
+    "description": "Before Luffy ever set sail, Eiichiro Oda was just a kid glued to a completely different show — a European cartoon called Vicky the Viking. That early fascination with seafaring adventure, mixed with childhood trips to a pirate-themed amusement park near his hometown, planted the seed for what would eventually become One Piece.",
+    "source": "https://vocal.media/gamers/21-fascinating-facts-about-the-record-breaking-manga-one-piece"
+  },
+  {
+    "title": "One Piece Was Only Supposed to Last Five Years",
+    "type": "FACT",
+    "entertainment": ["One Piece"],
+    "description": "When One Piece first launched in Weekly Shonen Jump on 22 July 1997, Oda actually pitched it as a five-year story. Nearly three decades and well over a thousand anime episodes later, the Straw Hats still haven't found the treasure, and the 'quick pirate story' has turned into one of the longest-running sagas in television history.",
+    "source": "https://www.complex.com/pop-culture/a/jacob-kramer/10-facts-about-one-piece-for-newcomers"
+  },
+  {
+    "title": "Japan's Workers Voted One Piece Their Favourite Manga",
+    "type": "FACT",
+    "entertainment": ["One Piece"],
+    "description": "TV Asahi once surveyed 150,000 working adults in Japan to find the nation's 100 favourite manga series. One Piece didn't just make the list — it topped it, pulling in over 33,600 votes and beating out every other title people grew up reading.",
+    "source": "https://vocal.media/gamers/21-fascinating-facts-about-the-record-breaking-manga-one-piece"
+  },
+  {
+    "title": "The 4Kids Dub Turned Cigarettes Into Lollipops",
+    "type": "FACT",
+    "entertainment": ["One Piece"],
+    "description": "When 4Kids Entertainment picked up One Piece for English broadcast between 2004 and 2006, they didn't just trim it for kids, they rewrote it. Cigarettes became lollipops, guns turned into water pistols, alcohol was swapped for juice, and entire scenes involving blood were quietly cut rather than edited, changes so drastic that 4Kids eventually dropped the license.",
+    "source": "https://vocal.media/gamers/21-fascinating-facts-about-the-record-breaking-manga-one-piece"
+  },
+  {
+    "title": "4Kids Swapped the Opening Song for a Rap",
+    "type": "FACT",
+    "entertainment": ["One Piece"],
+    "description": "As part of their heavily localised English version, 4Kids replaced the original Japanese opening 'We Are' by Hiroshi Kitadani with an entirely new track called 'Pirate Rap.' It's one of the more infamous relics of that early dub era and a big reason fans steer newcomers toward later, more faithful releases instead.",
+    "source": "https://vocal.media/gamers/21-fascinating-facts-about-the-record-breaking-manga-one-piece"
+  },
+  {
+    "title": "One Piece Holds a Guinness World Record",
+    "type": "FACT",
+    "entertainment": ["One Piece"],
+    "description": "By the end of 2014, One Piece had officially become the best-selling manga series of all time in print, according to Guinness World Records, with close to 321 million copies sold. It didn't stop there either — within a few more years the franchise blew past its own record, crossing the 500 million mark worldwide.",
+    "source": "https://vocal.media/gamers/21-fascinating-facts-about-the-record-breaking-manga-one-piece"
+  },
+  {
+    "title": "Luffy's Voice Actor Is a Woman Who Also Voices Krillin",
+    "type": "FACT",
+    "entertainment": ["One Piece"],
+    "description": "The rubbery, loudmouthed captain of the Straw Hats has been voiced since day one by Mayumi Tanaka, a woman. If her voice work sounds strangely familiar to Dragon Ball fans too, that's because she's also the voice behind Krillin, giving her a rare foot in two of anime's biggest long-running franchises at once.",
+    "source": "https://www.funtrivia.com/en/Television/One-Piece-20178.html"
+  },
+  {
+    "title": "There's a Real One Piece Gym in Tokyo",
+    "type": "FACT",
+    "entertainment": ["One Piece"],
+    "description": "Tucked away in Shibuya is BragMen, a gym built to look like it's straight out of the Grand Line, complete with rope, crates, heavy chains and compass patterns worked into the floor. Even the dumbbells get in on the theme, shaped like the giant meat legs Luffy is constantly dreaming about eating.",
+    "source": "https://vocal.media/gamers/21-fascinating-facts-about-the-record-breaking-manga-one-piece"
+  },
+  {
+    "title": "You Can Book a One Piece Themed Wedding in Japan",
+    "type": "FACT",
+    "entertainment": ["One Piece"],
+    "description": "In 2021, a Japanese wedding planning company called ESCRIT launched a package built entirely around the series. Guests get greeted with a wanted-poster style welcome sign, a life-size cutout of the crew, and a menu inspired by Sanji's cooking, so devoted fans really can tie the knot pirate-style.",
+    "source": "https://vocal.media/gamers/21-fascinating-facts-about-the-record-breaking-manga-one-piece"
+  },
+  {
+    "title": "Real Cities Hide Inside the World of One Piece",
+    "type": "FACT",
+    "entertainment": ["One Piece"],
+    "description": "A lot of the islands the Straw Hats visit aren't purely fantasy. The Rommel Kingdom echoes London's cityscape, the Kuja's mountaintop castle draws from China's Hanging Temple, and Water Seven's canals and architecture are basically a love letter to Venice, right down to the boats replacing cars.",
+    "source": "https://vocal.media/gamers/21-fascinating-facts-about-the-record-breaking-manga-one-piece"
+  },
+  {
+    "title": "Olympic Athletes Have Cosplayed One Piece Moves",
+    "type": "FACT",
+    "entertainment": ["One Piece"],
+    "description": "During the Tokyo 2020 Olympics, the fandom showed up in an unexpected place. Greek long jumper Miltiadis Tentoglou greeted crowds by striking Luffy's Gear Second pose, while American shot putter Payton Otterdahl channelled Franky, shouting 'Super!' before launching into his throw.",
+    "source": "https://vocal.media/gamers/21-fascinating-facts-about-the-record-breaking-manga-one-piece"
+  },
+  {
+    "title": "Gear 5 Was Inspired by Tom and Jerry",
+    "type": "FACT",
+    "entertainment": ["One Piece"],
+    "description": "Oda has said the slapstick, cartoon-logic battle between Luffy and Kaido drew directly from watching Tom and Jerry. He initially worried that kind of pure physical comedy wouldn't fit a story where Kaido is meant to be deadly serious, but he found a way to let Luffy's newfound goofiness collide with Kaido's menace without undercutting either.",
+    "source": "https://vocal.media/gamers/21-fascinating-facts-about-the-record-breaking-manga-one-piece"
+  },
+  {
+    "title": "One Piece and Dragon Ball Once Shared a Comic",
+    "type": "FACT",
+    "entertainment": ["One Piece", "Dragon Ball"]
+    ,
+    "description": "Oda's friendship with Dragon Ball creator Akira Toriyama went beyond mutual respect. In 2006 the two collaborated on Cross Epoch, a one-off short story that threw characters from both series into the same world, a genuine crossover between two of Shonen Jump's biggest names rather than just a fan mash-up.",
+    "source": "https://vocal.media/gamers/21-fascinating-facts-about-the-record-breaking-manga-one-piece"
+  },
+  {
+    "title": "Luffy, Goku and Toriko Shared a TV Special",
+    "type": "FACT",
+    "entertainment": ["One Piece", "Dragon Ball", "Toriko"],
+    "description": "The crossover love between these Jump heavyweights didn't stop at print. In 2013, Fuji TV aired 'Dream 9 Toriko & One Piece & Dragon Ball Z Super Collaboration Special,' putting Luffy, Goku and Toriko together on screen in a way that felt like a genuine event for fans who'd grown up with all three.",
+    "source": "https://vocal.media/gamers/21-fascinating-facts-about-the-record-breaking-manga-one-piece"
+  },
+  {
+    "title": "Armani Designed Costumes for a One Piece Film",
+    "type": "FACT",
+    "entertainment": ["One Piece"],
+    "description": "For One Piece Film: Z in 2012, the fashion label A/X Armani Exchange teamed up with Oda to design outfits for the Straw Hat crew. It's an unusual pairing on paper, high fashion meeting a pirate cartoon, but it shows just how far the franchise's reach extended even over a decade ago.",
+    "source": "https://vocal.media/gamers/21-fascinating-facts-about-the-record-breaking-manga-one-piece"
+  },
+  {
+    "title": "Oda Met His Wife Because She Was Cosplaying Nami",
+    "type": "FACT",
+    "entertainment": ["One Piece"],
+    "description": "At Shonen Jump Fiesta 2002, Oda crossed paths with Chiaki Inaba, who happened to be dressed as Nami for the event. The two hit it off and eventually married, which means one of the series' most iconic characters is tied, in a roundabout way, to how its creator met his own wife.",
+    "source": "https://vocal.media/gamers/21-fascinating-facts-about-the-record-breaking-manga-one-piece"
+  },
+  {
+    "title": "The First English Dub Wasn't From 4Kids",
+    "type": "FACT",
+    "entertainment": ["One Piece"],
+    "description": "Most Western fans associate One Piece's early English localisation with 4Kids, but they weren't first. Singapore-based Odex actually secured the earliest official English dub of the anime back in 2003, a year before 4Kids' more widely remembered (and more heavily edited) version hit the air.",
+    "source": "https://onepiece.fandom.com/wiki/One_Piece_(Anime)"
+  },
+  {
+    "title": "One Piece Has Bounced Around Its Own TV Schedule",
+    "type": "FACT",
+    "entertainment": ["One Piece"],
+    "description": "One Piece has aired on Fuji Television in Japan since it premiered, but it hasn't sat still on the schedule. Over the decades the show's timeslot has been shifted four separate times, a small but telling sign of how a network keeps adjusting around a series that simply refuses to end.",
+    "source": "https://onepiece.fandom.com/wiki/One_Piece_(Anime)"
+  },
+  {
+    "title": "Filler Episodes Have Dropped Off Massively",
+    "type": "FACT",
+    "entertainment": ["One Piece"],
+    "description": "Before the story's big timeskip, Toei padded the anime with 58 filler episodes to keep pace with the manga. After the timeskip, that number dropped to just 18, and none of the newer filler arcs run longer than four episodes, a clear sign the studio leaned much harder into staying close to Oda's source material as the story matured.",
+    "source": "https://onepiece.fandom.com/wiki/One_Piece_(Anime)"
+  },
+  {
+    "title": "One Piece Ditched Its Year-Round Schedule in 2026",
+    "type": "FACT",
+    "entertainment": ["One Piece"],
+    "description": "For over two decades, new One Piece episodes aired continuously, week after week, all year long. That changed heading into the Elbaph Arc, when producer Ryuta Koike announced the show would move to two shorter broadcast blocks a year, capping new episodes at around 26 annually so the anime could better match the manga's own pacing instead of racing to fill a weekly slot.",
+    "source": "https://www.awn.com/news/toei-animation-reveals-one-piece-anime-series-production-changes"
+  },
+  {
+    "title": "The Studio Behind One Piece Also Shaped Miyazaki",
+    "type": "FACT",
+    "entertainment": ["One Piece"],
+    "description": "Toei Animation, the studio bringing One Piece to screens since 1999, has been around since 1956. Long before the Straw Hats ever set sail, legends like Hayao Miyazaki and Isao Takahata cut their teeth working there, which makes One Piece just one entry, albeit a huge one, in a studio history stretching back to the earliest days of Japanese TV animation.",
+    "source": "https://onepiece.fandom.com/wiki/Toei_Animation"
+  },
+  {
+    "title": "Oda Had Veto Power Over the Netflix Live-Action Show",
+    "type": "FACT",
+    "entertainment": ["One Piece"],
+    "description": "Live-action anime adaptations have a rough track record, and fans were braced for the worst when Netflix announced its One Piece series. What changed the conversation was Oda's involvement as executive producer with actual veto power, letting him block anything that strayed too far from the spirit of the source material, which is a big part of why the show landed as well as it did with longtime fans.",
+    "source": "https://zentara.blog/2026/03/12/10-essential-one-piece-facts-to-help-you-understand-the-series/"
+  },
+  {
+    "title": "Oda Plants Story Seeds Hundreds of Chapters Early",
+    "type": "FACT",
+    "entertainment": ["One Piece"],
+    "description": "Long before Brook ever joined the crew, the Straw Hats crossed paths with a giant whale named Laboon in one of the earliest arcs of the series. It takes hundreds of chapters, and just as many anime episodes, before the connection between that whale and Brook's own backstory pays off, a level of long-game plotting that's become one of the show's defining traits.",
+    "source": "https://zentara.blog/2026/03/12/10-essential-one-piece-facts-to-help-you-understand-the-series/"
+  },
+   {
+    "title": "Birmingham Almost Never Sees Birmingham",
+    "type": "FACT",
+    "entertainment": ["Peaky Blinders"],
+    "description": "Despite being set entirely in Birmingham, most of the show was actually shot up in Liverpool and Manchester. The production team scouted the real city and decided modern Birmingham just doesn't look like 1920s Birmingham anymore, so they went hunting for grittier, more industrial backdrops in the North West instead.",
+    "source": "https://screenrant.com/peaky-blinders-behind-scenes-making-of-hidden-trivia/"
+  },
+  {
+    "title": "Cillian Murphy's 3,000-a-Season Habit",
+    "type": "FACT",
+    "entertainment": ["Peaky Blinders"],
+    "description": "Tommy Shelby is rarely seen without a cigarette hanging out of his mouth, and it turns out that adds up. Cillian Murphy had the props team count how many herbal, rose-scented smokes he got through in a single season, and the tally landed around 3,000. He doesn't actually smoke in real life; they're just mint and lemongrass rolled up to look the part.",
+    "source": "https://screenrant.com/peaky-blinders-behind-scenes-making-of-hidden-trivia/"
+  },
+  {
+    "title": "Tommy's Haircut Went Viral, and Cillian Hates It",
+    "type": "FACT",
+    "entertainment": ["Peaky Blinders"],
+    "description": "The short-back-and-sides look that basically launched a thousand barbershop requests wasn't something Cillian Murphy ever warmed to. He's said he finds the whole Tommy Shelby cut a bit horrifying, even as fans keep turning up to meet him sporting the exact same style.",
+    "source": "https://www.kxtickets.com/news-blog/4-behind-the-scenes-facts-you-didn-t-know-about-peaky-blinders"
+  },
+  {
+    "title": "The Real Gang Couldn't Afford Their Own Signature Weapon",
+    "type": "LORE",
+    "entertainment": ["Peaky Blinders"],
+    "description": "The razor-blades-in-the-cap-peak trick that gives the show its name is probably a myth. Razor blades were a genuine luxury item for working-class Birmingham lads in that era, and the idea seems to trace back to a novel called A Walk Down Summer Lane rather than anything the actual gang did.",
+    "source": "https://screenrant.com/peaky-blinders-behind-scenes-making-of-hidden-trivia/"
+  },
+  {
+    "title": "The Real Peaky Blinders Had Already Faded by the 1920s",
+    "type": "LORE",
+    "entertainment": ["Peaky Blinders"],
+    "description": "In the show, the Shelbys run Birmingham unchallenged through the 1920s. In reality, the actual Peaky Blinders gang peaked back in the 1890s, and by the time the series is set, a much bigger outfit called the Birmingham Gang had taken over the streets instead.",
+    "source": "https://screenrant.com/peaky-blinders-behind-scenes-making-of-hidden-trivia/"
+  },
+  {
+    "title": "Alfie and May Are Married in Real Life",
+    "type": "FACT",
+    "entertainment": ["Peaky Blinders"],
+    "description": "Tom Hardy's Alfie Solomons and Charlotte Riley's May Carleton never actually share a romance on screen, but off screen the two actors are husband and wife. They met filming a BBC adaptation of Wuthering Heights back in 2009 and married in 2014, years before both turned up in Small Heath.",
+    "source": "https://screenrant.com/peaky-blinders-behind-scenes-making-of-hidden-trivia/"
+  },
+  {
+    "title": "John and Michael Are Cousins on Screen, Brothers Off It",
+    "type": "FACT",
+    "entertainment": ["Peaky Blinders"],
+    "description": "Joe Cole and Finn Cole play cousins John Shelby and Michael Gray, but they're actually real-life brothers cast into the same sprawling family. It's the kind of casting quirk that only really clicks once someone points it out.",
+    "source": "https://screenrant.com/peaky-blinders-behind-scenes-making-of-hidden-trivia/"
+  },
+  {
+    "title": "Sam Neill Got Coaching from Two Famous Irishmen",
+    "type": "FACT",
+    "entertainment": ["Peaky Blinders"],
+    "description": "Sam Neill was born in Northern Ireland but grew up in New Zealand, so nailing a convincing 1920s Irish accent for Inspector Campbell didn't come naturally. He leaned on fellow actors James Nesbitt and Liam Neeson to help him get it right, only for the accent to later be dialled back so the show would land better with American audiences.",
+    "source": "https://screenrant.com/peaky-blinders-behind-scenes-making-of-hidden-trivia/"
+  },
+  {
+    "title": "Polly's Voice Is Basically Ozzy Osbourne",
+    "type": "FACT",
+    "entertainment": ["Peaky Blinders"],
+    "description": "Helen McCrory needed a rock-solid Birmingham accent to carry Aunt Polly, so she went straight to the source and studied hours of interview footage of Ozzy Osbourne to get the cadence right. Considering how iconic her performance became, it clearly worked.",
+    "source": "https://screenrant.com/peaky-blinders-behind-scenes-making-of-hidden-trivia/"
+  },
+  {
+    "title": "The Weinstein Logo Got Cut After the Scandal Broke",
+    "type": "FACT",
+    "entertainment": ["Peaky Blinders"],
+    "description": "The Weinstein Company had handled the show's American distribution for years, but once the allegations against Harvey Weinstein went public, the production pulled the company's logo from the credits almost immediately, one of the earliest concrete industry reactions once the #MeToo story broke.",
+    "source": "https://screenrant.com/peaky-blinders-behind-scenes-making-of-hidden-trivia/"
+  },
+  {
+    "title": "David Bowie Sent Cillian Murphy a Photo of Himself in a Peaky Cap",
+    "type": "FACT",
+    "entertainment": ["Peaky Blinders"],
+    "description": "Bowie was apparently a genuine fan of the show and once sent Cillian Murphy a picture of himself wearing a cap with razor blades sewn into the peak. He also agreed to let a track from what turned out to be his final album feature in the series, but sadly passed away before he ever got to see it air.",
+    "source": "https://screenrant.com/peaky-blinders-behind-scenes-making-of-hidden-trivia/"
+  },
+  {
+    "title": "The Theme Song Has Been Everywhere Except the 1920s",
+    "type": "FACT",
+    "entertainment": ["Peaky Blinders", "Dumb and Dumber", "Scream", "Hellboy", "The X-Files"],
+    "description": "Nick Cave and the Bad Seeds' Red Right Hand is so tied to Peaky Blinders now that it's easy to forget it's been knocking around since 1994 and has turned up in a pile of other things, including The X-Files, Scream, Hellboy, and even the comedy Dumb and Dumber.",
+    "source": "https://screenrant.com/peaky-blinders-behind-scenes-making-of-hidden-trivia/"
+  },
+  {
+    "title": "Jason Statham Nearly Joined the Shelby Family",
+    "type": "FACT",
+    "entertainment": ["Peaky Blinders"],
+    "description": "Steven Knight wrote Peaky Blinders not long after directing Jason Statham in the film Redemption, and reportedly wanted him for the show. Statham's schedule wouldn't allow it, which might have been for the best given how central a convincing Brummie accent is to the whole thing.",
+    "source": "https://screenrant.com/peaky-blinders-behind-scenes-making-of-hidden-trivia/"
+  },
+  {
+    "title": "Two Nolan Villains Ended Up in the Same Gang Show",
+    "type": "FACT",
+    "entertainment": ["Peaky Blinders", "Batman Begins", "The Dark Knight Rises"],
+    "description": "Cillian Murphy played Scarecrow and Tom Hardy played Bane in Christopher Nolan's Batman trilogy, and both ended up leading rival factions in Peaky Blinders. Murphy even popped up briefly in The Dark Knight Rises alongside Hardy, so the overlap runs deeper than just the casting choice.",
+    "source": "https://screenrant.com/peaky-blinders-behind-scenes-making-of-hidden-trivia/"
+  },
+  {
+    "title": "All That Fire Is a Deliberate Nod to Hell",
+    "type": "LORE",
+    "entertainment": ["Peaky Blinders"],
+    "description": "The recurring flames that seem to follow Tommy Shelby around aren't just moody set dressing. Season two director Colm McCarthy has confirmed it's meant to draw a straight line between Tommy's criminal path and where it's ultimately taking him, spiritually speaking.",
+    "source": "https://screenrant.com/peaky-blinders-behind-scenes-making-of-hidden-trivia/"
+  },
+  {
+    "title": "The Show Started With a Story From Steven Knight's Dad",
+    "type": "LORE",
+    "entertainment": ["Peaky Blinders"],
+    "description": "Creator Steven Knight has said the whole idea grew out of something his father told him as a kid, about being handed a note as a nine-year-old and sent to deliver it to his uncles, the Sheldons, who eventually became the Shelbys of the show.",
+    "source": "https://screenrant.com/peaky-blinders-behind-scenes-making-of-hidden-trivia/"
+  },
+  {
+    "title": "Peaky Blinders Was Built to Be the Opposite of Downton Abbey",
+    "type": "LORE",
+    "entertainment": ["Peaky Blinders"],
+    "description": "Producer Laurie Borg has been pretty blunt about the show's positioning, saying the goal was to be the total opposite of Downton Abbey, which he's called about as dull as television gets. Where Downton kept things clean and genteel, Peaky Blinders leaned hard into grit and violence instead.",
+    "source": "https://screenrant.com/peaky-blinders-behind-scenes-making-of-hidden-trivia/"
+  },
+  {
+    "title": "Steven Knight Won't Watch Other Crime Dramas",
+    "type": "FACT",
+    "entertainment": ["Peaky Blinders"],
+    "description": "To keep his own vision for the show intact, creator Steven Knight has said he deliberately avoids watching other prestige crime dramas like The Wire or Boardwalk Empire, worried that their storytelling choices might bleed into his own writing without him noticing.",
+    "source": "https://screenrant.com/peaky-blinders-behind-scenes-making-of-hidden-trivia/"
+  },
+  {
+    "title": "Snoop Dogg Once Talked Steven Knight's Ear Off About the Show",
+    "type": "FACT",
+    "entertainment": ["Peaky Blinders"],
+    "description": "Among the show's more unexpected famous fans is Snoop Dogg, who reportedly invited Steven Knight over for a three-hour conversation about how Peaky Blinders' portrayal of gang life reminded him of what first drew him to gang culture growing up in Long Beach.",
+    "source": "https://screenrant.com/peaky-blinders-behind-scenes-making-of-hidden-trivia/"
+  },
+  {
+    "title": "The Finale Is Planned to End With an Air Raid Siren",
+    "type": "LORE",
+    "entertainment": ["Peaky Blinders"],
+    "description": "Steven Knight has described Peaky Blinders as the story of a family caught between two wars, and he's said the whole saga is meant to close on Birmingham's first air raid siren of the Second World War, putting the intended end date at around June 1940.",
+    "source": "https://screenrant.com/peaky-blinders-behind-scenes-making-of-hidden-trivia/"
+  },
+  {
+    "title": "Adrien Brody Arrived With a Grudge in Season 4",
+    "type": "FACT",
+    "entertainment": ["Peaky Blinders"],
+    "description": "Season four brought in Adrien Brody as Luca Changretta, an Italian-American mobster gunning for revenge against the Shelby family, one of the show's more Hollywood-heavy casting additions.",
+    "source": "https://facts.net/lifestyle/entertainment/40-facts-about-peaky-blinders/"
+  },
+  {
+    "title": "Winston Churchill Shows Up in the Show",
+    "type": "LORE",
+    "entertainment": ["Peaky Blinders"],
+    "description": "A handful of characters woven into the series are based on real historical figures, and Winston Churchill is one of them, appearing across several episodes as Tommy's dealings pull him into the orbit of actual establishment power.",
+    "source": "https://facts.net/lifestyle/entertainment/40-facts-about-peaky-blinders/"
+  },
+  {
+    "title": "The Eden Club's Ceiling Took 30 Gallons of Gold Paint",
+    "type": "FACT",
+    "entertainment": ["Peaky Blinders"],
+    "description": "For the glitzy Eden Club set, the production team painted a huge, low white ceiling in a real Liverpool venue with a specially mixed shade that took roughly 30 gallons to finish. The colour became known on set simply as \"Peaky gold.\"",
+    "source": "https://peakyblinders.tv/exclusive/the-secrets-behind-the-set/"
+  },
+  {
+    "title": "Tommy's Office Has a Hidden Godfather Tribute",
+    "type": "EASTER EGG",
+    "entertainment": ["Peaky Blinders", "The Godfather"],
+    "description": "The production designer built Tommy's office in season two around The Godfather's influence on purpose, right down to dressing a few oranges into the set. In Coppola's film oranges quietly signal that doom is coming, and the Peaky Blinders team snuck the same trick in as a little wink for anyone paying close attention.",
+    "source": "https://peakyblinders.tv/exclusive/the-secrets-behind-the-set/"
+  },
+  {
+    "title": "London Scenes Were Never Filmed in London",
+    "type": "FACT",
+    "entertainment": ["Peaky Blinders"],
+    "description": "Despite Tommy's storylines regularly taking him down to the capital, the production never actually shot any of the London scenes there. Every bit of \"London\" you see on screen was built or found somewhere else entirely.",
+    "source": "https://peakyblinders.tv/exclusive/the-secrets-behind-the-set/"
+  },
+  {
+    "title": "Wednesday Choreographed Her Own Dance",
+    "type": "FACT",
+    "entertainment": [
+      "Wednesday"
+    ],
+    "description": "That whole viral dance to 'Goo Goo Muck' wasn't handed to Jenna Ortega by a choreographer, she made it up herself. She pulled moves from Bob Fosse, Siouxsie Sioux and the goth kids she used to watch at 80s clubs, then stitched it all together into something that somehow feels exactly like Wednesday Addams.",
+    "source": "https://www.watchmojo.com/articles/top-20-behind-the-scenes-facts-about-netflixs-wednesday"
+  },
+  {
+    "title": "A Nod to the Original Wednesday's Signature Move",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Wednesday",
+      "The Addams Family"
+    ],
+    "description": "Buried inside Jenna Ortega's dance routine is a quick tribute to Lisa Loring, the actress who played Wednesday back in the 1964 series. If you know Loring's little arm flick from the original show, you'll spot it snuck into the choreography.",
+    "source": "https://www.watchmojo.com/articles/top-10-behind-the-scenes-facts-about-netflix-s-wednesday"
+  },
+  {
+    "title": "That Dance Was Filmed Right After COVID",
+    "type": "FACT",
+    "entertainment": [
+      "Wednesday"
+    ],
+    "description": "Jenna Ortega has said she'd only just come down with COVID before she had to shoot the now-iconic dance sequence, so every one of those sharp, controlled movements was performed while she was still feeling pretty rough.",
+    "source": "https://www.buzzfeed.com/jessg/wednesday-behind-the-scenes-facts"
+  },
+  {
+    "title": "Tim Burton Almost Directed the 1991 Movie",
+    "type": "LORE",
+    "entertainment": [
+      "Wednesday",
+      "The Addams Family"
+    ],
+    "description": "Before he ever touched Nevermore Academy, Tim Burton was actually approached to direct the 1991 Addams Family film. He turned it down because he was busy finishing Batman Returns, so the gig went to Barry Sonnenfeld instead, and Burton's Addams moment had to wait another three decades.",
+    "source": "https://www.watchmojo.com/articles/top-10-behind-the-scenes-facts-about-netflix-s-wednesday"
+  },
+  {
+    "title": "Jenna Ortega's Audition Was Covered in Fake Blood",
+    "type": "FACT",
+    "entertainment": [
+      "Wednesday"
+    ],
+    "description": "Jenna Ortega jumped onto her Zoom meeting with Tim Burton straight after wrapping a gory scene on another project, so she was still splattered head to toe in fake blood. Burton, being Burton, thought it was hilarious rather than off-putting, and has said since that he can't picture anyone else playing the role.",
+    "source": "https://www.watchmojo.com/articles/top-10-behind-the-scenes-facts-about-netflix-s-wednesday"
+  },
+  {
+    "title": "The Double Finger Snap",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Wednesday",
+      "The Addams Family"
+    ],
+    "description": "To open the hidden passage into the Nightshades' meeting room, Wednesday snaps her fingers twice in rhythm. That's a direct lift from Vic Mizzy's theme tune for the original 1964 series, where the finger snaps were basically the show's whole percussion section.",
+    "source": "https://www.gamesradar.com/wednesday-netflix-easter-eggs-addams-family/"
+  },
+  {
+    "title": "Where the Name Wednesday Actually Comes From",
+    "type": "LORE",
+    "entertainment": [
+      "Wednesday",
+      "The Addams Family"
+    ],
+    "description": "Wednesday's name is pulled from the old 'Monday's Child' nursery rhyme, the one that says 'Wednesday's child is full of woe.' Given how the character carries herself, it's hard to think of a more fitting line to have named her after.",
+    "source": "https://www.capitalfm.com/news/tv-film/wednesday-netflix-easter-eggs/"
+  },
+  {
+    "title": "Christina Ricci Used to Be Wednesday Herself",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Wednesday",
+      "The Addams Family"
+    ],
+    "description": "Casting Christina Ricci as Miss Thornhill is a lovely bit of stunt casting when you remember she actually played Wednesday Addams in the 90s films. Watching the old Wednesday teach the new one is one of those details that only lands if you grew up on the movies.",
+    "source": "https://collider.com/wednesday-easter-eggs/"
+  },
+  {
+    "title": "Cousin Itt's Portrait Hides a Secret",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Wednesday",
+      "The Addams Family"
+    ],
+    "description": "Down in the Nightshades' basement hangout there's a portrait of Cousin Ignatius Itt, and it's not just decoration, there's a safe hidden behind it holding a document that ends up being a key clue in the mystery.",
+    "source": "https://screenrant.com/wednesday-netflix-addams-family-easter-eggs-references/"
+  },
+  {
+    "title": "Wednesday's Pet Scorpion Nero",
+    "type": "LORE",
+    "entertainment": [
+      "Wednesday",
+      "The Addams Family"
+    ],
+    "description": "In the original 1964 series Wednesday kept a pet spider called Homer. The Netflix version swaps that for a story about a childhood pet scorpion named Nero, who Wednesday says was killed by bullies when she was six, a much darker spin on the same idea.",
+    "source": "https://screenrant.com/wednesday-netflix-addams-family-easter-eggs-references/"
+  },
+  {
+    "title": "Pugsley Tied Up With an Apple, Again",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Wednesday",
+      "The Addams Family"
+    ],
+    "description": "Right in episode one, Wednesday finds Pugsley stuffed in a locker, tied up with an apple jammed in his mouth. That exact image shows up in the 1991 Addams Family movie too, just with the roles reversed since this time it's Wednesday who did the tying.",
+    "source": "https://movieweb.com/wednesday-season-1-all-addams-family-easter-eggs-and-references/"
+  },
+  {
+    "title": "Archery Was Always the Addams Way",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Wednesday",
+      "The Addams Family"
+    ],
+    "description": "When Wednesday signs up for archery as her Nevermore extracurricular, it's a callback to Addams Family Values, where Wednesday and Pugsley treat bow and arrow practice as a pretty normal sibling bonding activity.",
+    "source": "https://movieweb.com/wednesday-season-1-all-addams-family-easter-eggs-and-references/"
+  },
+  {
+    "title": "Uncle Fester's Ridiculous Paper Trail",
+    "type": "FACT",
+    "entertainment": [
+      "Wednesday"
+    ],
+    "description": "According to the Season 2 easter egg breakdown, Uncle Fester is carrying 33 driver's licenses and 18 passports, and Fred Armisen actually sat for every single one of those photos so the prop department had real faces to print.",
+    "source": "https://www.netflix.com/tudum/videos/wednesday-season-2-easter-eggs-references-hidden-details"
+  },
+  {
+    "title": "Nevermore's Gargoyles Are Basically a Seating Chart",
+    "type": "FACT",
+    "entertainment": [
+      "Wednesday"
+    ],
+    "description": "Production designer Mark Scruton has explained that the gargoyles carved into Nevermore Academy aren't random, each one was designed to represent a specific outcast group at the school, so you can spot vampires, gorgons and sirens if you look closely at the stonework.",
+    "source": "https://www.netflix.com/tudum/articles/wednesday-nevermore-easter-eggs"
+  },
+  {
+    "title": "The Weathervane Café's Tim Burton Tribute Wall",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Wednesday"
+    ],
+    "description": "The back wall of the Weathervane Café in Jericho is covered in weathervanes that are easy to miss, but a couple of them are shaped like props from Tim Burton's other films, including one topped with Willy Wonka's hat and another with scissors nodding to Edward Scissorhands.",
+    "source": "https://screenrant.com/wednesday-tim-burton-movie-easter-eggs-references/"
+  },
+  {
+    "title": "Nevermore's Exterior Is a Real Romanian Castle",
+    "type": "FACT",
+    "entertainment": [
+      "Wednesday"
+    ],
+    "description": "For Season 1, the outside of Nevermore Academy was Cantacuzino Castle in Bușteni, Romania. It was actually built in 1911 as a summer home for a former Romanian Prime Minister, long before it got a second life as a boarding school for outcasts.",
+    "source": "https://www.marieclaire.com/culture/tv-shows/wednesday-filming-locations-netflix/"
+  },
+  {
+    "title": "Nevermore Packed Up and Moved to Ireland",
+    "type": "FACT",
+    "entertainment": [
+      "Wednesday"
+    ],
+    "description": "Season 2 swapped Romania for Ireland, with Charleville Castle in County Offaly taking over as the new Nevermore Academy interiors and courtyards, giving the school a slightly different but equally gothic feel.",
+    "source": "https://screenrant.com/wednesday-season-2-filming-locations/"
+  },
+  {
+    "title": "Charleville Castle's Actual Ghost Story",
+    "type": "LORE",
+    "entertainment": [
+      "Wednesday"
+    ],
+    "description": "The real Charleville Castle used for Season 2's Nevermore is reportedly haunted by the ghost of a young girl named Harriet, who is said to have died in a fall on the property around 160 years ago, which honestly feels almost too on brand for this show.",
+    "source": "https://screenrant.com/wednesday-season-2-filming-locations/"
+  },
+  {
+    "title": "Wednesday Beat Stranger Things' Netflix Record",
+    "type": "FACT",
+    "entertainment": [
+      "Wednesday"
+    ],
+    "description": "Wednesday's first season racked up 341.2 million hours viewed in a single week, which knocked Stranger Things Season 4 off the top spot for the biggest week ever for an English-language Netflix series.",
+    "source": "https://www.buzzfeed.com/jessg/wednesday-behind-the-scenes-facts"
+  },
+  {
+    "title": "Enid's New Look Was a Cyberpunk Makeover",
+    "type": "FACT",
+    "entertainment": [
+      "Wednesday"
+    ],
+    "description": "Enid Sinclair's hair gets an update for Season 2, shorter and more intensely coloured than before, and the team behind it has said the new style was deliberately inspired by cyberpunk aesthetics rather than just being a random refresh.",
+    "source": "https://www.netflixjunkie.com/netflix-news-wednesday-season-two-six-eerie-behind-the-scenes-moments-you-will-obsess-over/"
+  },
+  {
+    "title": "70 Sets, Six Sound Stages, One Season",
+    "type": "FACT",
+    "entertainment": [
+      "Wednesday"
+    ],
+    "description": "Just to give a sense of the scale involved, Season 1 was built across roughly 70 different sets spread over six sound stages in Bucharest, on top of all the real castles and buildings used for exteriors.",
+    "source": "https://www.marieclaire.com/culture/tv-shows/wednesday-filming-locations-netflix/"
+  },
+  {
+    "title": "Wednesday and Her Principal Are Real-Life Friends",
+    "type": "FACT",
+    "entertainment": [
+      "Wednesday"
+    ],
+    "description": "Gwendoline Christie, who plays Principal Weems, is a genuine off-screen friend of Jenna Ortega's, which makes their on-screen dynamic even funnier once you know it, especially with Christie towering at 6'3\" over Ortega's 5'1\".",
+    "source": "https://www.biography.com/actors/a44575411/jenna-ortega"
+  },
+  {
+    "title": "Morticia's Cottage Was Built in an Irish Forest",
+    "type": "FACT",
+    "entertainment": [
+      "Wednesday"
+    ],
+    "description": "Rotwood Cottage, the place Morticia gets to renovate while acting as Nevermore's gala chair in Season 2, was actually filmed out in the Cloragh Woods of County Wicklow, Ireland.",
+    "source": "https://screenrant.com/wednesday-season-2-filming-locations/"
+  },
+  {
+    "title": "The Psychiatric Facility Was a College",
+    "type": "FACT",
+    "entertainment": [
+      "Wednesday"
+    ],
+    "description": "Willow Hill, the psychiatric facility holding Tyler in Season 2, was filmed at Clonliffe College in Dublin. The location team picked it specifically because its gothic architecture already looked like it belonged in Wednesday's world without much extra work.",
+    "source": "https://screenrant.com/wednesday-season-2-filming-locations/"
+  },
+  {
+    "title": "Jenna Ortega Got a Seat at the Table for Season 2",
+    "type": "FACT",
+    "entertainment": [
+      "Wednesday"
+    ],
+    "description": "The Wednesday set has apparently always been a collaborative place, but for Season 2, Jenna Ortega made that official by taking on a producer credit, giving her an actual say in decisions rather than just being the lead actor.",
+    "source": "https://www.watchmojo.com/articles/top-20-behind-the-scenes-facts-about-netflixs-wednesday"
+  },
+  {
+    "title": "Morticia's Cottage Is Full of 60s Show Nods",
+    "type": "EASTER EGG",
+    "entertainment": [
+      "Wednesday",
+      "The Addams Family"
+    ],
+    "description": "Keep half an eye on the background of Morticia's cottage in Season 2 and you'll catch a stuffed bear, an iron maiden and a taxidermied tortoise, all quiet little references scattered in from the 1964 Addams Family TV series.",
+    "source": "https://www.netflix.com/tudum/videos/wednesday-season-2-easter-eggs-references-hidden-details"
   }
 ]

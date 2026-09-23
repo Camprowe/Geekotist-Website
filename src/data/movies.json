@@ -99,6 +99,15 @@
     "description": "Los Santos, San Andreas: a sprawling sun-soaked metropolis full of self-help gurus, starlets, and fading celebrities, once the envy of the Western world, now struggling to stay afloat in an era of economic uncertainty and cheap reality TV. Amidst the turmoil, three very different criminals plot their own chances of survival and success: Franklin Clinton, a former street gangster, now looking for real opportunities and serious money; Michael De Santa, a professional ex-con whose retirement is a lot less rosy than he hoped it would be; and Trevor Philips, a violent maniac driven by the chance of a cheap high and the next big score. Running out of options, the crew risks everything in a series of daring and dangerous heists that could set them up for life."
   },
   {
+    "title": "Grand Theft Auto Online",
+    "imageUrl": "https://image.api.playstation.com/cdn/EP1004/CUSA00411_00/XYrMCKzoltXYW7C2Jt1Skrwb2fmYq2gF.png",
+    "year": "2013",
+    "rating": "4.9",
+    "category": "Video Game",
+    "producer": "Rockstar Games",
+    "description": "Return to Los Santos in the long-awaited standalone release of Grand Theft Auto Online and engage in heists, races, and adversary mode. With more than 40 updates included, you can experience everything the world of GTA Online has to offer. The new Career Builder feature allows you to start your criminal careers as either an Executive, Gunrunner, Nightclub Owner or Biker."
+  },
+  {
     "title": "Grand Theft Auto IV",
     "imageUrl": "https://assets-prd.ignimgs.com/2022/01/07/gta-4-button-char-v2-1641587906428.jpg",
     "year": "2008",
@@ -835,5 +844,14 @@
     "category": "TV Show",
     "producer": "Netflix",
     "description": "Based on Caroline Kepnes' best-selling novel of the same name, YOU is a 21st century love story that asks, 'What would you do for love?' When a brilliant bookstore manager crosses paths with an aspiring writer, his answer becomes clear: anything. Using the internet and social media as his tools to gather the most intimate of details and get close to her, a charming and awkward crush quickly becomes obsession as he quietly and strategically removes every obstacle - and person - in his way."
+  },
+  {
+    "title": "Gossip Girl",
+    "imageUrl": "https://i.pinimg.com/736x/16/1b/79/161b793cfc9ab70dfa003acae82de6ca.jpg",
+    "year": "2007",
+    "rating": "3.5",
+    "category": "TV Show",
+    "producer": "Warner Bros",
+    "description": "Welcome to New York's Upper East Side, where the wealthy and connected mingle at benefits and try to deal with their always-dramatic love lives, not to mention picking colleges. Blair Waldorf is the so-called toast of adolescence in her world; she and her friends, Kati Farkas and Isabel Coates, go to a prep school and fancy parties with their rich parents. Blair is envied by her adversaries because she is thought to have the perfect life, not just because of her gorgeous boyfriend, Nate Archibald, but because she's also planning on getting into her dream college, Yale. With everyone worried about college(or procrastinating on worrying, which everyone seems to be doing), and junior year dragging along, her seemingly perfect life is interrupted by her ex-best friend, the beautiful Serena van der Woodsen, coming back into town after getting kicked out of boarding school. Serena comes back into her life, and into the eyes of Blair's boy friend. When everything Blair knows starts to fall apart, everyone will realize that her life is far from perfect. Will life in the the Upper East Side redeem itself of what it's really supposed to be? Or will the false facade reveal that the rich have the same problems as the not so rich (Jenny and Dan Humphrey), if not more. And just maybe Jenny and Dan are all the more happy with their simple, not-so-expectant lives."
   }
 ]

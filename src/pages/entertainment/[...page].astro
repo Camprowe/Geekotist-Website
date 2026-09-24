@@ -10,7 +10,7 @@ import { slugify } from '../../utils/slugify.js';
 export function getStaticPaths({ paginate }: GetStaticPathsOptions) {
 	
 
-		const shuffledMovies = [...movies].sort(() => Math.random() - 0.5);
+		const shuffledMovies = [...movies].sort((a, b) => a.title.localeCompare(b.title));
 		return paginate(shuffledMovies, {
 			pageSize: 12 // Show 8 movies per page
 		});

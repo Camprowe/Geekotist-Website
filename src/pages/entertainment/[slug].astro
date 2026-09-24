@@ -25,7 +25,9 @@ const { movie } = Astro.props;
 
   let relatedEntertainment = [...unshuffledEntertainment].sort(() => Math.random() - 0.5).slice(0,4);
 
-  let unshuffledKnowledge = knowledge.filter(k => k.entertainment.includes(movie.title)).slice(0,2);
+  let unshuffledKnowledge = knowledge.filter(k => k.entertainment.includes(movie.title));
+
+  let finalKnowledge = [...unshuffledKnowledge].sort(() => Math.random() - 0.5).slice(0,4);
 
   let unshuffledShorts = knowledge.filter(k => k.entertainment.includes(movie.title)).slice(0,4);
 
@@ -52,9 +54,9 @@ const { movie } = Astro.props;
 
 		<EntertainmentDetail entertainment={movie} />
 
-		{unshuffledKnowledge.length > 0 && (
+		{finalKnowledge.length > 0 && (
 			<div class="related-section">
-				<KnowledgeGrid title={"Knowledge"} knowledge={unshuffledKnowledge} knowledgeLink={`/entertainment/${slugify(movie.title)}/knowledge`}  />
+				<KnowledgeGrid title={"Knowledge"} knowledge={finalKnowledge} knowledgeLink={`/entertainment/${slugify(movie.title)}/knowledge`}  />
 			</div>
 		)}
 

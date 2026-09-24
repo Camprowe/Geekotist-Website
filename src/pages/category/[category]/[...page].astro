@@ -12,7 +12,7 @@ export function getStaticPaths({ paginate }: GetStaticPathsOptions) {
 	
 	return uniqueCategories.flatMap(category => {
 		const categoryMovies = movies.filter(m => m.category === category);
-		const shuffledMovies = [...categoryMovies].sort(() => Math.random() - 0.5);
+		const shuffledMovies = [...categoryMovies].sort((a, b) => a.title.localeCompare(b.title));
 		return paginate(shuffledMovies, {
 			params: { category: slugify(category) },
 			props: { categoryName: category },

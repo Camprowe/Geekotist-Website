@@ -585,6 +585,15 @@
     "description": "Following Thanos' devastating snap that annihilates half of all life, the remaining Avengers-grieving and fractured-strive to restore the universe. They devise a risky time-travel mission to retrieve the Infinity Stones from the past. As they confront past versions of themselves and grapple with personal sacrifice, each hero faces profound choices that test their courage and resolve. Ultimately, they unite in a climactic battle against Thanos and his forces, confronting mortality, destiny, and the weight of heroism. The universe is restored, but not without tremendous loss, leaving a lasting legacy of sacrifice, resilience, and triumph."
   },
   {
+    "title": "Batman Begins",
+    "imageUrl": "https://assets-prd.ignimgs.com/2022/04/29/batman-begins-button-crop-1651272983995.jpg",
+    "year": "2005",
+    "rating": "5.0",
+    "category": "Movie",
+    "producer": "Warner Bros",
+    "description": "As a child, a young Bruce Wayne witnesses the death of his parents at the hands of a crazed criminal. As an adult, Bruce travels the world seeking the means to fight injustice. He lives amongst the boroughs of criminals and thieves in central Asia. Eventually, he meets a mysterious figure named Ra's Al Guhl and joins his gang called the League of Shadows. Using his training, he is able to defeat his trainer. Finally meeting up with his estate caretaker Alfred Pennyworth, Bruce Wayne returns to Gotham. There, he becomes the new head of Wayne Enterprises. Together, with the help of the C.E.O. of the Wayne Enterprises Applied Sciences division, a man name Lucius Fox, he dons a new persona: Batman. As Batman takes on the criminals and organized crime underworld of Gotham, a sinister new underbelly of the city is exposed, and a new class of criminal is born. Will Batman be the one to stop them all, or does Gotham need a hero with a face?"
+  },
+  {
     "title": "The Dark Knight",
     "imageUrl": "https://i0.wp.com/letsoverthinkthat.com/wp-content/uploads/2018/10/the-dark-knight-batman.jpg",
     "year": "2008",
@@ -592,6 +601,24 @@
     "category": "Movie",
     "producer": "Warner Bros",
     "description": "Set within a year after the events of Batman Begins (2005), Batman, Lieutenant James Gordon, and new District Attorney Harvey Dent successfully begin to round up the criminals that plague Gotham City, until a mysterious and sadistic criminal mastermind known only as 'The Joker' appears in Gotham, creating a new wave of chaos. Batman's struggle against The Joker becomes deeply personal, forcing him to 'confront everything he believes' and improve his technology to stop him. A love triangle develops between Bruce Wayne, Dent, and Rachel Dawes."
+  },
+  {
+    "title": "The Dark Knight Rises",
+    "imageUrl": "https://media.ign.com/games/image/object/961/961205/dark-knight-rises_Poster-2012ver.jpg",
+    "year": "2012",
+    "rating": "5.0",
+    "category": "Movie",
+    "producer": "Warner Bros",
+    "description": "Eight years after the events of The Dark Knight (2008) find Gotham at a time of peace. This is due to Batman taking the fall for Harvey Dent's murder. However, a new evil force named Bane has arrived in Gotham and aims to take over the city and expose the truth behind who Harvey Dent really was. Now that Wayne Manor has been completely rebuilt, Bruce Wayne has become almost reclusive, rarely leaving the estate. And with Bane taking over the city by force, it forces Batman to come out of retirement. But his allies are few and far between. An elusive jewel thief by the name of Selina Kyle could be the key to stopping Bane, but whose side is she on?"
+  },
+  {
+    "title": "The Batman",
+    "imageUrl": "https://sm.ign.com/ign_nordic/cover/t/the-batman/the-batman_jxa9.jpg",
+    "year": "2022",
+    "rating": "5.0",
+    "category": "Movie",
+    "producer": "Warner Bros",
+    "description": "Two years into the never-ending mission to rid Gotham City of violence and municipal corruption, reclusive billionaire and masked vigilante Bruce Wayne realises that the vast metropolis still oozes with crime. With the mayor killed at the hands of the Riddler, a psychotic terrorist hitting corrupt high-profile targets, Bruce joins forces with Commissioner Gordon to piece clues together and take down the elusive killer obsessed with the Wayne family and Bruce himself. As Gotham's self-appointed dark knight tries to find his feet, a white-knuckle, cat-and-mouse game attracts cryptic allies and dangerous adversaries, and no one is safe from harm. But is The Batman a blessing or a curse? A friend or a foe?"
   },
   {
     "title": "The Super Mario Bros. Movie",
@@ -605,11 +632,29 @@
   {
     "title": "Spider-Man: Into the Spider-Verse",
     "imageUrl": "https://images.squarespace-cdn.com/content/v1/52c9d908e4b0e87887310693/1570977177233-3MLE72XBCVKG0S2Y8DS5/spiderman-into-spider-verse-5k-7b-2048x2048-1020x1020.jpg",
-    "year": "2024",
+    "year": "2018",
     "rating": "4.5",
     "category": "Movie",
     "producer": "Sony",
     "description": "Teen Miles Morales becomes the Spider-Man of his universe and must join with five spider-powered individuals from other dimensions to stop a threat for all realities."
+  },
+  {
+    "title": "Spider-Man: Across the Spider-Verse",
+    "imageUrl": "https://sm.ign.com/ign_nordic/cover/s/spider-man/spider-man-across-the-spider-verse_d3b1.jpg",
+    "year": "2023",
+    "rating": "4.5",
+    "category": "Movie",
+    "producer": "Sony",
+    "description": "Teenager Miles Morales struggles to adjust to life in a new school while discovering his own unique Spider-Man abilities. When a mysterious collider opens portals to alternate dimensions, he encounters multiple versions of Spider-Man from other universes, each with their own style and experience. Together, they must work to stop a threat that could destroy all their realities. The film explores themes of identity, responsibility, and courage, blending action, humor, and innovative animation to tell a story about finding one's place in a vast multiverse."
+  },
+  {
+    "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "imageUrl": "https://mento.gr/wp-content/uploads/2026/09/Carib-720x720.jpg",
+    "year": "2003",
+    "rating": "4.0",
+    "category": "Movie",
+    "producer": "Disney",
+    "description": "William Turner, a resourceful young blacksmith, teams up with the eccentric pirate 'Captain' Jack Sparrow to save his love, the Governor's daughter, Elizabeth Swann, who has been mistakenly captured by the clever and treacherous Barbossa, a former ally of Jack, to make a blood sacrifice so as to end the curse that has been casted upon him and his crew. Will and Jack steal a ship from the Royal Navy and arrive at Tortuga, a pirate port. There Jack meets his friend Joshamee Gibbs and with a buccaneer and 'able bodied' crew, set sail to save Elizabeth and take back the Black Pearl. Meanwhile, Barbossa discovers that not Elizabeth's but someone else's blood was required for the sacrifice. Whose blood is it?"
   },
   {
     "title": "Pirates of the Caribbean: Dead Man's Chest",
@@ -619,6 +664,15 @@
     "category": "Movie",
     "producer": "Disney",
     "description": "Once again we're plunged into the world of sword fights and 'savvy' pirates. Captain Jack Sparrow is reminded he owes a debt to Davy Jones, who captains the flying Dutchman, a ghostly ship, with a crew from hell. Facing the 'locker' Jack must find the heart of Davy Jones but to save himself he must get the help of quick-witted Will Turner and Elizabeth Swann. If that's not complicated enough, Will and Elizabeth are sentenced to hang, unless Will can get Lord Cutler Beckett Jack's compass. Will is forced to join another crazy adventure with Jack."
+  },
+  {
+    "title": "Pirates of the Caribbean: At World's End",
+    "imageUrl": "https://assets-prd.ignimgs.com/2023/01/09/pirateswii-1673285315721.jpg",
+    "year": "2007",
+    "rating": "4.0",
+    "category": "Movie",
+    "producer": "Disney",
+    "description": "With the East India Trading Company trying to eliminate all the pirates, Barbossa, Will and Elizabeth race to bring back Jack from Davy Jones' Locker so as to bring together all the members of The Brethren Court and launch an attack on the East India Trading Company and Lord Cutler Beckett, who is in possession of the heart of Davy Jones. With everyone having his or her own agenda, who will be the one to stab the heart and live forever to be the captain of the Flying Dutchman?"
   },
   {
     "title": "The Lord of the Rings: The Fellowship of the Ring",

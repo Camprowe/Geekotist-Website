@@ -19345,5 +19345,488 @@
     "entertainment": ["Call of Duty 4: Modern Warfare"],
     "description": "Land a single 105mm round in just the right spot during Death From Above and take out five enemies at once, and you'll pick up the achievement Straight Flush, a small but satisfying nod to how brutal that cannon can be when it lines up right.",
     "source": "https://www.gamerevolution.com/?p=38694"
+  },
+  {
+    "title": "The Spidey-Sense That Foreshadows a Different Fate",
+    "type": "EASTER EGG",
+    "entertainment": ["Spider-Man: Across the Spider-Verse"],
+    "description": "Pay attention to the colours around Miles' head the very first time his spidey-sense kicks in - they're purple and green. Once Peter B. Parker finishes training him, that shifts to the usual red and blue. Purple and green just happen to be Prowler's colours, which lines up nicely with the Earth-42 ending where an un-bitten Miles becomes the Prowler instead of Spider-Man.",
+    "source": "https://www.goldderby.com/film/2023/spider-man-across-the-spider-verse-easter-eggs/"
+  },
+  {
+    "title": "A Stamp of Approval From a Long-Dead Censor",
+    "type": "FACT",
+    "entertainment": ["Spider-Man: Across the Spider-Verse"],
+    "description": "Right after the studio logos, the film flashes the old Comics Code Authority seal, a real stamp that used to appear on comics to reassure parents the content was tame. It was officially retired back in 2011, so bringing it back here is a sly little wink, especially since Spider-Man 2099 spends the movie acting like a one-man censorship board trying to keep Miles in line.",
+    "source": "https://www.watchmojo.com/articles/spider-man-across-the-spider-verse-part-one-every-easter-egg-you-missed"
+  },
+  {
+    "title": "Donald Glover's Full-Circle Prowler Cameo",
+    "type": "EASTER EGG",
+    "entertainment": ["Spider-Man: Across the Spider-Verse", "Spider-Man: Homecoming", "Community"],
+    "description": "Donald Glover pops up voicing a captured Prowler, and it's a genuinely lovely bit of history repeating itself. Glover played Aaron Davis (Miles' uncle) in Homecoming, and years before that he famously campaigned to play Spider-Man himself, even wearing Spidey pyjamas in an episode of Community. Miles Morales was partly inspired by that campaign, so seeing Glover finally show up in a spider-suit, even a villainous one, feels like the story closing a loop.",
+    "source": "https://theweek.com/marvel/1023995/spider-man-across-the-spider-verse-the-best-easter-eggs-references-and-cameos-you"
+  },
+  {
+    "title": "The Bag-Headed Spider-Man Cameo",
+    "type": "EASTER EGG",
+    "entertainment": ["Spider-Man: Across the Spider-Verse"],
+    "description": "Among the sea of Spider-People wandering around headquarters is one wearing a paper bag over his head with a Fantastic Four costume underneath. That's a direct pull from an old comic run where Peter lost his suit and had to improvise, earning him the nickname Bombastic Bag-Man. Blink and you'll miss him, but it's exactly the kind of deep-cut reference the movie is stuffed with.",
+    "source": "https://theweek.com/marvel/1023995/spider-man-across-the-spider-verse-the-best-easter-eggs-references-and-cameos-you"
+  },
+  {
+    "title": "A News Report That Teases the Next Villain Team",
+    "type": "LORE",
+    "entertainment": ["Spider-Man: Across the Spider-Verse"],
+    "description": "During the Earth-42 sequence, a background newscast mentions something called the Sinister Six Cartel running the city, and the signage around suggests Electro, Vulture, Sandman, Scorpion, Doc Ock and Rhino are all in on it. It's a throwaway detail on first watch, but it strongly hints at what a version of Miles might have to deal with down the line on that alternate earth.",
+    "source": "https://theweek.com/marvel/1023995/spider-man-across-the-spider-verse-the-best-easter-eggs-references-and-cameos-you"
+  },
+  {
+    "title": "Miguel Name-Drops the MCU's Messiest Spell",
+    "type": "EASTER EGG",
+    "entertainment": ["Spider-Man: Across the Spider-Verse", "Spider-Man: No Way Home"],
+    "description": "Miguel O'Hara grumbles about the chaos he's had to clean up thanks to Doctor Strange messing around on Earth-199999, a direct callback to the multiverse-cracking spell from No Way Home. It's a small line, but it confirms the events of that film are part of the Spider-Verse's shared canon, at least from Miguel's exhausted point of view.",
+    "source": "https://theweek.com/marvel/1023995/spider-man-across-the-spider-verse-the-best-easter-eggs-references-and-cameos-you"
+  },
+  {
+    "title": "Six Universes, Six Completely Different Art Styles",
+    "type": "FACT",
+    "entertainment": ["Spider-Man: Across the Spider-Verse"],
+    "description": "Producer Phil Lord told Empire that where the first film leaned on one dominant animation style, this sequel juggles six of them. The idea was to make every new universe feel like it was hand-drawn by a completely different artist, so the visuals actually carry the emotion of wherever Miles has landed rather than just looking impressive for its own sake.",
+    "source": "https://www.awn.com/print/news/spider-man-across-spider-verse-feature-six-different-art-styles"
+  },
+  {
+    "title": "Mumbattan Is Built From Indian Comic Book Art",
+    "type": "LORE",
+    "entertainment": ["Spider-Man: Across the Spider-Verse"],
+    "description": "The Earth-50101 setting, nicknamed Mumbattan, was deliberately designed to echo the look of Indian comic art, and it's the home turf of Pavitr Prabhakar, the Indian Spider-Man who first appeared in a mini-series back in 2004 before being folded into the wider Spider-Verse comics.",
+    "source": "https://screencrush.com/across-the-spider-verse-animation-styles/"
+  },
+  {
+    "title": "Nueva York Borrows From Retro-Future Concept Art",
+    "type": "LORE",
+    "entertainment": ["Spider-Man: Across the Spider-Verse"],
+    "description": "Spider-Man 2099's home turf, Nueva York, was styled after Syd Mead's illustrations, the same kind of sleek, glassy futurism Mead brought to films like Blade Runner. It gives Miguel's world a cold, almost sterile beauty that fits his buttoned-up, rules-first personality.",
+    "source": "https://www.awn.com/print/news/spider-man-across-spider-verse-feature-six-different-art-styles"
+  },
+  {
+    "title": "Gwen's World Is Painted, Not Drawn",
+    "type": "LORE",
+    "entertainment": ["Spider-Man: Across the Spider-Verse"],
+    "description": "Earth-65, Gwen Stacy's dimension, uses a watercolour-wash technique meant to mirror the covers of her own comic run, and the colours in her world visibly shift depending on her mood, which is a detail a lot of people don't clock until a rewatch.",
+    "source": "https://www.awn.com/print/news/spider-man-across-spider-verse-feature-six-different-art-styles"
+  },
+  {
+    "title": "Miguel's Backhanded Compliment to Lego Peter",
+    "type": "EASTER EGG",
+    "entertainment": ["Spider-Man: Across the Spider-Verse"],
+    "description": "Somewhere in the Spider-Society crowd is a Lego minifigure version of Spider-Man, and Miguel actually pauses to tell him he's one of the best, brick pun very much intended. It's a throwaway gag, but the animators clearly had fun giving the Lego universe its own little moment in the spotlight.",
+    "source": "https://movieweb.com/spider-man-across-the-spiderverse-easter-eggs/"
+  },
+  {
+    "title": "Roughly 280 Spider-People Show Up on Screen",
+    "type": "FACT",
+    "entertainment": ["Spider-Man: Across the Spider-Verse"],
+    "description": "The Spider-Society scenes are absolutely rammed with alternate Spider-heroes, somewhere around 280 of them by most counts, though only about a third actually get a name and a line of dialogue. The rest are just background gags for eagle-eyed fans to freeze-frame and argue about online.",
+    "source": "https://movieweb.com/spider-man-across-the-spiderverse-easter-eggs/"
+  },
+  {
+    "title": "A Sneaky Nod to Spider-Ham's Pocket Dimension",
+    "type": "EASTER EGG",
+    "entertainment": ["Spider-Man: Across the Spider-Verse", "Spider-Man: Into the Spider-Verse"],
+    "description": "When the Renaissance-Vulture loses a wing mid-fight, she simply pulls a fresh one out of thin air, and Spider-Man 2099 dryly calls it hammerspace. That's a cartoon-logic term, and it's also a cheeky reference to Spider-Ham's whole running gag from the first film of yanking props out of nowhere.",
+    "source": "https://screenrant.com/spider-man-across-the-spider-verse-easter-eggs/"
+  },
+  {
+    "title": "A Vulture Straight Out of the Italian Renaissance",
+    "type": "LORE",
+    "entertainment": ["Spider-Man: Across the Spider-Verse"],
+    "description": "The Vulture that ambushes Gwen isn't Michael Keaton's version, it's an alternate Adrian Toomes from a dimension stuck in Renaissance-era Italy, complete with Da Vinci-inspired flying contraptions instead of tech-suit wings. It's a fun way to show how differently the same villain can turn out depending on the world he grew up in.",
+    "source": "https://collider.com/spider-man-across-the-spider-verse-easter-eggs/"
+  },
+  {
+    "title": "One Actor, a Dozen Different Jonahs",
+    "type": "FACT",
+    "entertainment": ["Spider-Man: Across the Spider-Verse"],
+    "description": "J.K. Simmons comes back as J. Jonah Jameson, and true to the multiverse setup, we hear versions of him pop up across several different realities. It's a nice bit of continuity fan-service, treating him as the one constant no matter which universe Miles happens to swing through.",
+    "source": "https://collider.com/spider-man-across-the-spider-verse-easter-eggs/"
+  },
+  {
+    "title": "Cameos From Spider-Man's Cartoon History",
+    "type": "EASTER EGG",
+    "entertainment": ["Spider-Man: Across the Spider-Verse"],
+    "description": "Keep an eye out during the Spider-Society crowd scenes and you'll spot the lead from the Spectacular Spider-Man animated series delivering a line of encouragement to Miles, along with a version of the 1967 cartoon Spider-Man who swings in, takes a swing, and immediately complains about pulling a muscle.",
+    "source": "https://theweek.com/marvel/1023995/spider-man-across-the-spider-verse-the-best-easter-eggs-references-and-cameos-you"
+  },
+  {
+    "title": "One of the Longest Western Animated Films Ever Made",
+    "type": "FACT",
+    "entertainment": ["Spider-Man: Across the Spider-Verse"],
+    "description": "At around two hours and twenty minutes, this is genuinely one of the lengthiest animated films to come out of a major Western studio. Producer Amy Pascal has said the goal was never to just make things bigger for the sake of it, the extra runtime was there to actually earn the audience's investment in the characters.",
+    "source": "https://www.boxofficemojo.com/title/tt9362722/rankings"
+  },
+  {
+    "title": "A Modest Budget for a Visually Massive Film",
+    "type": "FACT",
+    "entertainment": ["Spider-Man: Across the Spider-Verse"],
+    "description": "For a film with six different animation styles running simultaneously, the reported production budget of around $100 million is surprisingly restrained compared to what major studios usually spend on animated blockbusters. It ended up pulling in close to $691 million worldwide, making it one of the most profitable films of its year.",
+    "source": "https://www.imdb.com/title/tt9362722/"
+  },
+  {
+    "title": "A Record-Setting Opening Weekend",
+    "type": "FACT",
+    "entertainment": ["Spider-Man: Across the Spider-Verse"],
+    "description": "The film opened to roughly $120.5 million domestically, more than tripling the opening of the first Into the Spider-Verse. At the time, it stood as one of the biggest debuts of the year for any animated sequel, comfortably outpacing plenty of live-action blockbusters released that same summer.",
+    "source": "https://www.tbsnews.net/node/644190"
+  },
+  {
+    "title": "A Blink-and-Miss-It Raimi Trilogy Tribute",
+    "type": "EASTER EGG",
+    "entertainment": ["Spider-Man: Across the Spider-Verse", "Spider-Man"],
+    "description": "During a moment about loss shaping the different Spider-heroes, a still frame from Sam Raimi's 2002 film flashes by, including the iconic upside-down kiss between Tobey Maguire and Kirsten Dunst. Over twenty years on, it's still instantly recognisable even hidden in a busy background montage.",
+    "source": "https://www.watchmojo.com/articles/spider-man-across-the-spider-verse-part-one-every-easter-egg-you-missed"
+  },
+  {
+    "title": "Alfred Molina's Doc Ock Voice Makes a Return",
+    "type": "EASTER EGG",
+    "entertainment": ["Spider-Man: Across the Spider-Verse", "Spider-Man: No Way Home"],
+    "description": "Tucked into the Spider-Society's endless background noise is a voice line lifted from Alfred Molina's Doc Ock in No Way Home, reused here as just another piece of multiverse chatter. It's the kind of thing you'd only catch with subtitles on or a very good pair of headphones.",
+    "source": "https://screenrant.com/spider-man-across-spiderverse-details-didnt-notice/"
+  },
+  {
+    "title": "An Into the Spider-Verse Soundbite Gets Reused",
+    "type": "EASTER EGG",
+    "entertainment": ["Spider-Man: Across the Spider-Verse", "Spider-Man: Into the Spider-Verse"],
+    "description": "After the museum fight, listen closely and you'll catch a snippet of Post Malone's voice being replayed, the same audio clip that featured on the soundtrack of the first film. It's a subtle audio callback rather than a visual one, easy to miss if you're not paying attention to the sound design.",
+    "source": "https://movieweb.com/spider-man-across-the-spiderverse-easter-eggs/"
+  },
+  {
+    "title": "Difficult Production Conditions Behind the Scenes",
+    "type": "FACT",
+    "entertainment": ["Spider-Man: Across the Spider-Verse"],
+    "description": "Reports emerged that the demanding schedule and working conditions on the film led to a wave of animators leaving the production, over a hundred by some accounts. It's a sobering counterpoint to the film's celebrated visuals, and it fed into wider industry conversations about crunch culture in animation.",
+    "source": "https://movieplayer.it/film/spider-man-across-the-spider-verse_50552/notizie/?pagina=2"
+  },
+  {
+    "title": "Spielberg Nearly Took the Helm",
+    "type": "FACT",
+    "entertainment": ["Pirates of the Caribbean: The Curse of the Black Pearl"],
+    "description": "Long before Gore Verbinski signed on, the script did the rounds in the early 90s and actually landed on Steven Spielberg's desk. His take on it wasn't quite what Disney wanted, but he'd apparently floated Bill Murray, Steve Martin, or even Robin Williams to play a version of Jack Sparrow. Wild to think how different the whole franchise could've looked.",
+    "source": "https://www.cinemablend.com/movies/pirates-of-the-caribbean-the-curse-of-the-black-pearl-behind-the-scenes-facts"
+  },
+  {
+    "title": "Verbinski Wanted It Scary AND Funny",
+    "type": "FACT",
+    "entertainment": ["Pirates of the Caribbean: The Curse of the Black Pearl"],
+    "description": "Gore Verbinski has said the reason he took the job was down to childhood memories of the Disneyland ride, which somehow managed to spook him and make him laugh at the same time. He deliberately chased that exact same tone for the movie, which is why you get walking skeletons in the same film as a permanently sloshed lead character.",
+    "source": "https://www.cinemablend.com/movies/pirates-of-the-caribbean-the-curse-of-the-black-pearl-behind-the-scenes-facts"
+  },
+  {
+    "title": "De Niro Turned Down Jack Sparrow",
+    "type": "FACT",
+    "entertainment": ["Pirates of the Caribbean: The Curse of the Black Pearl"],
+    "description": "Robert De Niro was reportedly offered the role of Jack Sparrow ahead of Jim Carrey, but passed because he was convinced pirate movies were box office poison. When the film went on to make hundreds of millions, he took a role in Stardust instead, chasing that same swashbuckling fantasy lightning. It didn't strike twice.",
+    "source": "https://www.cinemablend.com/movies/pirates-of-the-caribbean-the-curse-of-the-black-pearl-behind-the-scenes-facts"
+  },
+  {
+    "title": "Jack Sparrow Was Built From a Rock Star and a Skunk",
+    "type": "FACT",
+    "entertainment": ["Pirates of the Caribbean: The Curse of the Black Pearl"],
+    "description": "Depp has explained that his whole approach to Jack came from treating pirates like the rock stars of their era, so he leaned hard on Keith Richards for the swagger, then mixed in the flouncy, lovestruck energy of Pepe Le Pew for good measure. It's a genuinely bizarre combo on paper that somehow just works on screen.",
+    "source": "https://www.cinemablend.com/movies/pirates-of-the-caribbean-the-curse-of-the-black-pearl-behind-the-scenes-facts"
+  },
+  {
+    "title": "Barbossa's Whole Personality Was in the Hat",
+    "type": "FACT",
+    "entertainment": ["Pirates of the Caribbean: The Curse of the Black Pearl"],
+    "description": "Geoffrey Rush has said he didn't need to do much soul-searching to find Barbossa's character — the moment he put the hat on, the arrogance and theatrical flourish just came naturally. He's joked the feather alone told him everything about the man's ego.",
+    "source": "https://www.cinemablend.com/movies/pirates-of-the-caribbean-the-curse-of-the-black-pearl-behind-the-scenes-facts"
+  },
+  {
+    "title": "The Rubber Hat Problem",
+    "type": "FACT",
+    "entertainment": ["Pirates of the Caribbean: The Curse of the Black Pearl"],
+    "description": "Depp's leather hat kept getting knocked or thrown into the ocean during shoots, and after they'd lost around ten of them, costume designer Penny Rose gave up and had a rubber version made instead, purely because it would actually float. Practical problem solving, pirate-movie style.",
+    "source": "https://nerdinitiative.com/2023/07/07/did-you-know-facts-about-pirates-of-the-caribbean-the-curse-of-the-black-pearl/"
+  },
+  {
+    "title": "Elizabeth's Cleavage Wasn't Real",
+    "type": "FACT",
+    "entertainment": ["Pirates of the Caribbean: The Curse of the Black Pearl"],
+    "description": "Keira Knightley was only 17 when she made this and has said her bust looks noticeably bigger in the film than in real life because it was, in her words, literally painted on with makeup. She's talked about it since as just one of those strange, slightly uncomfortable things that used to be considered normal on a big studio shoot.",
+    "source": "https://www.cinemablend.com/movies/pirates-of-the-caribbean-the-curse-of-the-black-pearl-behind-the-scenes-facts"
+  },
+  {
+    "title": "Knightley Was Convinced It Would Bomb",
+    "type": "FACT",
+    "entertainment": ["Pirates of the Caribbean: The Curse of the Black Pearl"],
+    "description": "According to director Richard Curtis, while Keira Knightley was filming her small role in Love Actually she mentioned she'd just signed on to a pirate movie and flatly said she didn't think it would work, because pirate films always flop. She wasn't exactly wrong about the genre's track record up to that point — just wrong about this particular film.",
+    "source": "https://www.cinemablend.com/movies/pirates-of-the-caribbean-the-curse-of-the-black-pearl-behind-the-scenes-facts"
+  },
+  {
+    "title": "Jack Davenport Had to Be Talked Into It",
+    "type": "FACT",
+    "entertainment": ["Pirates of the Caribbean: The Curse of the Black Pearl"],
+    "description": "Jack Davenport, who played Commodore Norrington, has admitted he was never a fan of pirate movies growing up and didn't rate the recent ones much either. It was reportedly Verbinski's pitch that this could be the first genuinely good pirate film in fifty years that finally won him over.",
+    "source": "https://www.cinemablend.com/movies/pirates-of-the-caribbean-the-curse-of-the-black-pearl-behind-the-scenes-facts"
+  },
+  {
+    "title": "Zoe Saldana Struggled on Set",
+    "type": "FACT",
+    "entertainment": ["Pirates of the Caribbean: The Curse of the Black Pearl"],
+    "description": "Long before Avatar and Guardians of the Galaxy, Zoe Saldana played crew member Anamaria in this film, and she's since said the experience wasn't a good one. She's described feeling completely overwhelmed by the scale of a major studio production, the shifting locations, and the pace, and has said she walked away not having enjoyed it much at all — which probably explains why her character never returned for the sequels.",
+    "source": "https://www.cinemablend.com/movies/pirates-of-the-caribbean-the-curse-of-the-black-pearl-behind-the-scenes-facts"
+  },
+  {
+    "title": "The Studio Boss Nearly Killed the Movie",
+    "type": "FACT",
+    "entertainment": ["Pirates of the Caribbean: The Curse of the Black Pearl"],
+    "description": "Then-Disney CEO Michael Eisner was reportedly never sold on this project. He worried the PG-13 rating would scare off Disney's usual family audience and thought teenagers would see a movie based on a theme park ride as embarrassingly uncool. At more than one point during production he was ready to pull the plug entirely.",
+    "source": "https://collider.com/pirates-of-the-caribbean-curse-of-the-black-pearl-production/"
+  },
+  {
+    "title": "It Was Almost a Straight-to-DVD Movie",
+    "type": "FACT",
+    "entertainment": ["Pirates of the Caribbean: The Curse of the Black Pearl"],
+    "description": "Before it became one of the biggest films of 2003, this was originally planned as a direct-to-DVD release, the kind of treatment Disney usually reserved for cheap animated sequels. That's how little confidence the studio initially had in the whole idea.",
+    "source": "https://collider.com/pirates-of-the-caribbean-curse-of-the-black-pearl-production/"
+  },
+  {
+    "title": "Jack Sparrow Almost Played It Straight",
+    "type": "FACT",
+    "entertainment": ["Pirates of the Caribbean: The Curse of the Black Pearl"],
+    "description": "The earliest concept for the character was a much more standard swashbuckling hero, with Hugh Jackman apparently in the mix at one stage. It was Depp who pushed the performance into stranger, funnier territory, and while the studio was reportedly baffled by his choices at first, they let him run with it.",
+    "source": "https://collider.com/pirates-of-the-caribbean-curse-of-the-black-pearl-production/"
+  },
+  {
+    "title": "A Set Fire Nearly Derailed Everything",
+    "type": "FACT",
+    "entertainment": ["Pirates of the Caribbean: The Curse of the Black Pearl"],
+    "description": "Before principal photography even started, a fire tore through one of the sets in September 2002, racking up hundreds of thousands of dollars in damage. Thankfully nobody was hurt, but it was a rocky start to an already nervous production.",
+    "source": "https://collider.com/pirates-of-the-caribbean-curse-of-the-black-pearl-production/"
+  },
+  {
+    "title": "Keira Knightley Got Stranded on a Reef",
+    "type": "FACT",
+    "entertainment": ["Pirates of the Caribbean: The Curse of the Black Pearl"],
+    "description": "During a night shoot, Keira Knightley and her mother, who had to be on set with her since she was a minor, ended up marooned on a reef for close to an hour before anyone could get them off it. Locals had apparently warned the crew that night shoots out there were a bad idea.",
+    "source": "https://collider.com/pirates-of-the-caribbean-curse-of-the-black-pearl-production/"
+  },
+  {
+    "title": "The Whole Crew Got Seasick",
+    "type": "FACT",
+    "entertainment": ["Pirates of the Caribbean: The Curse of the Black Pearl"],
+    "description": "Shooting for weeks on the open water off St. Vincent left a huge chunk of the cast and crew seasick, and the medication they took to cope came with its own price: it knocked people out with drowsiness, which slowed filming down even further on an already tight schedule.",
+    "source": "https://collider.com/pirates-of-the-caribbean-curse-of-the-black-pearl-production/"
+  },
+  {
+    "title": "Verbinski Was Still Editing Months Before Release",
+    "type": "FACT",
+    "entertainment": ["Pirates of the Caribbean: The Curse of the Black Pearl"],
+    "description": "The finished cut only came together around four months before the premiere, with Gore Verbinski reportedly putting in 18-hour days in the edit suite to get it done in time. Given the chaos on set, it's a small miracle the film even made its release date.",
+    "source": "https://collider.com/pirates-of-the-caribbean-curse-of-the-black-pearl-production/"
+  },
+  {
+    "title": "Geoffrey Rush's Left-Side Theory",
+    "type": "FACT",
+    "entertainment": ["Pirates of the Caribbean: The Curse of the Black Pearl"],
+    "description": "Geoffrey Rush apparently has a theory that most people's eyes are naturally drawn to the left side of a screen first, so as Barbossa he tried to position himself there in shots whenever he could. Whether or not the theory holds up, it's a nice bit of insight into how deliberately he built the performance.",
+    "source": "https://nerdinitiative.com/2023/07/07/did-you-know-facts-about-pirates-of-the-caribbean-the-curse-of-the-black-pearl/"
+  },
+  {
+    "title": "Will Turner Nearly Went to Heath Ledger",
+    "type": "FACT",
+    "entertainment": ["Pirates of the Caribbean: The Curse of the Black Pearl"],
+    "description": "The role of Will Turner came down to a straight choice between Orlando Bloom and Heath Ledger. Bloom's stock had just shot up thanks to Lord of the Rings, and that timing is generally credited with tipping the casting in his favour.",
+    "source": "https://screenrant.com/behind-scenes-pirates-caribbean-curse-of-black-pearl/"
+  },
+  {
+    "title": "The Black Pearl Was a Real, Working Ship",
+    "type": "FACT",
+    "entertainment": ["Pirates of the Caribbean: The Curse of the Black Pearl"],
+    "description": "Rather than relying purely on effects, the production built a full-size, genuinely seaworthy replica of the Black Pearl for filming. That physical ship went on to become just as much a symbol of the franchise as any of the actors.",
+    "source": "https://facts.net/movie/46-facts-about-the-movie-pirates-of-the-caribbean-the-curse-of-the-black-pearl/"
+  },
+  {
+    "title": "Hans Zimmer Was Behind the Score",
+    "type": "FACT",
+    "entertainment": ["Pirates of the Caribbean: The Curse of the Black Pearl"],
+    "description": "The soundtrack is officially credited to Klaus Badelt, but it was produced under Hans Zimmer, whose fingerprints are all over that big, driving adventure sound the franchise became known for.",
+    "source": "https://facts.net/movie/46-facts-about-the-movie-pirates-of-the-caribbean-the-curse-of-the-black-pearl/"
+  },
+  {
+    "title": "Disney's First PG-13 Film",
+    "type": "FACT",
+    "entertainment": ["Pirates of the Caribbean: The Curse of the Black Pearl"],
+    "description": "Every Walt Disney Pictures release up to this point had been rated G or PG, so putting out a PG-13 pirate movie was a genuine departure for the studio, and one that plenty of people internally, including Eisner himself, were nervous about.",
+    "source": "https://pirates.fandom.com/wiki/Pirates_of_the_Caribbean:_The_Curse_of_the_Black_Pearl"
+  },
+  {
+    "title": "It Was Almost Called Vengeance",
+    "type": "FACT",
+    "entertainment": ["The Batman"],
+    "description": "Before it settled on the simple, blunt title we all know, Matt Reeves' film was going by the working title 'Vengeance' during production. Given how much the movie leans into Bruce's obsession with payback (and that improvised line he screams at the train station), it's honestly a fitting alternate name.",
+    "source": "https://cinemorgue.fandom.com/wiki/The_Batman_(2022)"
+  },
+  {
+    "title": "Kurt Cobain Was the Blueprint",
+    "type": "FACT",
+    "entertainment": ["The Batman"],
+    "description": "Reeves has said he had Nirvana's 'Something In The Way' on repeat while writing the first act, and that's what led him away from the classic playboy Bruce Wayne. Instead he pictured a grieving recluse holed up in a decaying mansion, basically a fictionalised Kurt Cobain in a cape.",
+    "source": "https://www.highonfilms.com/the-batman-2022-facts/"
+  },
+  {
+    "title": "The First Batman to Actually Wear Eyeliner",
+    "type": "FACT",
+    "entertainment": ["The Batman"],
+    "description": "Every other live-action Batman has taken the cowl off and the black eye makeup just magically vanishes. This is the first version to actually address it, with Bruce's smudged, running eye makeup treated as part of the character rather than a continuity error nobody talks about.",
+    "source": "https://www.imdb.com/title/tt1877830/trivia/"
+  },
+  {
+    "title": "Pattinson Lied to Christopher Nolan to Audition",
+    "type": "FACT",
+    "entertainment": ["The Batman", "Tenet"],
+    "description": "Pattinson's screen test for the role happened in May 2019 while he was mid-rehearsal for Tenet in LA. He told Nolan he had a family emergency to slip away, and Nolan immediately clocked what was actually going on and called him out on it.",
+    "source": "https://www.imdb.com/title/tt1877830/trivia/"
+  },
+  {
+    "title": "Penguin's Whole Vibe Is Fredo Corleone",
+    "type": "FACT",
+    "entertainment": ["The Batman", "The Godfather"],
+    "description": "Reeves has pointed to Fredo from The Godfather as a direct inspiration for Colin Farrell's Oswald Cobblepot, the idea being a guy everyone underestimates and writes off, but who's actually got real ambition and menace bubbling under the surface.",
+    "source": "https://www.imdb.com/title/tt1877830/trivia/"
+  },
+  {
+    "title": "Barry Keoghan's Joker Nearly Got Cut Entirely",
+    "type": "EASTER EGG",
+    "entertainment": ["The Batman"],
+    "description": "That brief, unsettling Arkham scene where Keoghan's scarred prisoner chats with Riddler almost didn't make the final cut of the movie. It's easy to miss on a first watch, but it's the character's first live-action appearance in this new universe.",
+    "source": "https://www.highonfilms.com/the-batman-2022-facts/"
+  },
+  {
+    "title": "Zoë Kravitz Voiced Catwoman Years Before Playing Her",
+    "type": "FACT",
+    "entertainment": ["The Batman", "The Lego Batman Movie"],
+    "description": "Kravitz's history with Selina Kyle didn't start on this film's set. She actually voiced Catwoman for a cameo appearance back in 2017's The Lego Batman Movie, years before Reeves cast her in the live-action role.",
+    "source": "https://www.cinemablend.com/superheroes/batman/the-batman-behind-the-scenes-facts-about-matt-reeves-dc-movie"
+  },
+  {
+    "title": "She Also Auditioned for Catwoman a Decade Earlier",
+    "type": "FACT",
+    "entertainment": ["The Batman", "The Dark Knight Rises"],
+    "description": "Kravitz tried out for a small, unnamed role in 2012's The Dark Knight Rises and was reportedly told the studio wasn't going 'urban' for that part. A story she's told a couple of times since, long before Selina Kyle ever ended up being hers.",
+    "source": "https://www.cinemablend.com/superheroes/batman/the-batman-behind-the-scenes-facts-about-matt-reeves-dc-movie"
+  },
+  {
+    "title": "The Toughest Lighting Job of the DP's Career",
+    "type": "FACT",
+    "entertainment": ["The Batman"],
+    "description": "Cinematographer Greig Fraser called this the most complicated lighting job he'd ever tackled, saying the real challenge was finding the right balance of darkness and light specifically for how Batman himself needed to look on screen.",
+    "source": "https://www.buzzfeed.com/natashajokic1/the-batman-behind-the-scenes"
+  },
+  {
+    "title": "Every Batman Costume Comes With the Same Warning",
+    "type": "FACT",
+    "entertainment": ["The Batman", "Batman Returns", "Batman Begins"],
+    "description": "There's apparently a tradition of Batman actors passing down survival tips. Pattinson got advice from Christian Bale, and Kravitz got hers from Michelle Pfeiffer, and it all boiled down to the same practical thing: figure out how you're going to use the toilet while wearing that suit.",
+    "source": "https://cinemorgue.fandom.com/wiki/The_Batman_(2022)"
+  },
+  {
+    "title": "The Batmobile Is Basically a 1970s Comic Come to Life",
+    "type": "FACT",
+    "entertainment": ["The Batman"],
+    "description": "Instead of the usual sleek, gadget-laden tank, this Batmobile is a stripped-down muscle car, and that's a deliberate nod to the Neal Adams comics from the 70s, where the car was meant to look ordinary enough for stealth rather than intimidation.",
+    "source": "https://cinemorgue.fandom.com/wiki/The_Batman_(2022)"
+  },
+  {
+    "title": "Penguin's Face Was Built From Six Separate Pieces",
+    "type": "FACT",
+    "entertainment": ["The Batman"],
+    "description": "Colin Farrell's prosthetics were made up of six distinct pieces glued together for every shooting day, and the crew would shine harsh flashlights directly at his face before he was allowed on set, just to make sure none of the seams were visible on camera.",
+    "source": "https://cinemorgue.fandom.com/wiki/The_Batman_(2022)"
+  },
+  {
+    "title": "Reeves Wrote the Script to a Taxi Driver Needle Drop",
+    "type": "FACT",
+    "entertainment": ["The Batman", "Taxi Driver"],
+    "description": "While hammering out the screenplay, Reeves reportedly kept 'Thank God for the Rain' from the Taxi Driver soundtrack on loop, which tracks given how much of that film's lonely, paranoid energy bleeds into this version of Gotham.",
+    "source": "https://cinemorgue.fandom.com/wiki/The_Batman_(2022)"
+  },
+  {
+    "title": "The Comic Book Homework Behind the Script",
+    "type": "LORE",
+    "entertainment": ["The Batman"],
+    "description": "Reeves has named three specific comics as his main touchstones for the film: Batman: Ego, Batman: The Long Halloween, and Batman: Year One, alongside 70s films Chinatown and Klute for the general mood and detective-noir feel he was chasing.",
+    "source": "https://cinemorgue.fandom.com/wiki/The_Batman_(2022)"
+  },
+  {
+    "title": "Paul Dano Got Handed a Riddler Comic Series Afterwards",
+    "type": "FACT",
+    "entertainment": ["The Batman"],
+    "description": "His take on the Riddler impressed DC enough that they brought him on to actually write a six-issue comic series, Riddler: Year One, exploring his own version of the character's backstory for their Black Label imprint.",
+    "source": "https://fanlore.org/wiki/The_Batman_(2022_film)"
+  },
+  {
+    "title": "The Opening Robbery Is a Sneaky Robert Pattinson Callback",
+    "type": "EASTER EGG",
+    "entertainment": ["The Batman", "Good Time"],
+    "description": "Keep an eye on the convenience store that gets robbed early on, it's called 'Good Times Groceries'. That's a wink to Good Time, the 2017 Safdie Brothers film starring Pattinson, which Reeves watched and reportedly started writing this script with Pattinson already in mind for Batman.",
+    "source": "https://www.highonfilms.com/?p=94836"
+  },
+  {
+    "title": "The Iceberg Lounge Finally Makes Its Movie Debut",
+    "type": "FACT",
+    "entertainment": ["The Batman"],
+    "description": "Penguin's posh nightclub has been a staple of the comics since 1995, but this is genuinely the first time it's ever shown up on the big screen, serving as his base of operations and the movie's seediest hub of Gotham corruption.",
+    "source": "https://slashfilm.com/785870/the-10-coolest-easter-eggs-in-the-batman"
+  },
+  {
+    "title": "That Cowl Owes a Debt to Adam West",
+    "type": "EASTER EGG",
+    "entertainment": ["The Batman", "Batman"],
+    "description": "Every big-screen Batman before this had a pointy, beak-like nose on the cowl. Pattinson's version swaps that out for a rounder nose piece, which looks a lot closer to what Adam West wore in the 1966 series, right down to the visible stitching if you look closely enough.",
+    "source": "https://slashfilm.com/785870/the-10-coolest-easter-eggs-in-the-batman"
+  },
+  {
+    "title": "Commissioner Savage's Name Is a Deep Cut",
+    "type": "EASTER EGG",
+    "entertainment": ["The Batman", "Batman"],
+    "description": "Alex Ferns' doomed Commissioner Pete Savage shares his surname with a character from a 1966 Batman TV series episode called 'An Egg Grows in Gotham', where Pete Savage is a descendant of one of Gotham's founding families. The characters aren't connected, but it's hard to believe Reeves picked that name by accident given his soft spot for the old show.",
+    "source": "https://slashfilm.com/785870/the-10-coolest-easter-eggs-in-the-batman"
+  },
+  {
+    "title": "'I'm Vengeance' Wasn't in the Script",
+    "type": "FACT",
+    "entertainment": ["The Batman"],
+    "description": "That now-iconic growl at the end of the train station beatdown was completely improvised by Pattinson on the day. He's said he wanted to say it right as the guy was losing consciousness, so it would burrow into his dreams and properly mess him up.",
+    "source": "https://www.highonfilms.com/the-batman-2022-facts/"
+  },
+  {
+    "title": "Pattinson Auditioned Wearing Two Old Batsuits",
+    "type": "FACT",
+    "entertainment": ["The Batman", "Batman Forever", "Batman & Robin"],
+    "description": "For his audition, Pattinson didn't get a custom suit, he was put in Val Kilmer's actual Batman Forever costume. The cowl was way too big and made him look like a bobblehead, so the crew swapped it for George Clooney's cowl from Batman & Robin instead. Funnily enough, Christian Bale went through basically the same setup for his own Dark Knight screen test years earlier.",
+    "source": "https://www.highonfilms.com/the-batman-2022-facts/"
+  },
+  {
+    "title": "Riddler's Apartment Was Watching the Iceberg Lounge the Whole Time",
+    "type": "EASTER EGG",
+    "entertainment": ["The Batman"],
+    "description": "Eagle-eyed viewers on HBO Max spotted that Riddler's rundown apartment sits directly across from the Iceberg Lounge, the exact spot where most of his incriminating evidence photos would've been taken. Reeves personally confirmed the detail was intentional once fans clocked it.",
+    "source": "https://reactormag.com/matt-reeves-confirms-this-riddler-specific-easter-egg-in-the-batman/"
+  },
+  {
+    "title": "A Throwaway Line Name-Drops Dick Grayson's Future City",
+    "type": "EASTER EGG",
+    "entertainment": ["The Batman"],
+    "description": "There's a mention of Blüdhaven tucked into the film, the neighbouring city that first showed up in 1996's Nightwing #1 comic. In the wider DC mythology it's where Dick Grayson eventually sets up shop as Nightwing, so it's a nice bit of world-building for anyone who clocked it.",
+    "source": "https://www.dc.com/blog/2022/03/04/rounding-up-the-easter-eggs-in-matt-reeves-the-batman"
+  },
+  {
+    "title": "The Film's Whole Arc Comes From One Comic's Big Idea",
+    "type": "LORE",
+    "entertainment": ["The Batman"],
+    "description": "By the end of the movie Bruce consciously shifts his mission away from vengeance and toward hope for Gotham. That exact turn is lifted straight from the graphic novel Batman: Ego, which Reeves has repeatedly cited as one of the single biggest influences on the whole film.",
+    "source": "https://www.dc.com/blog/2022/03/04/rounding-up-the-easter-eggs-in-matt-reeves-the-batman"
   }
 ]
